@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Conway CLAWS Community Calendar</title>
+<style>
+  :root { --navy: #1b2a4a; --accent: #2b5cb0; --ink: #21242a; --paper: #fafbfd; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--paper); color: var(--ink);
+         font: 17px/1.55 Georgia, "Times New Roman", serif; }
+  main { max-width: 42rem; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
+  h1 { font-size: 1.9rem; line-height: 1.2; color: var(--navy); margin: 0 0 .25rem; }
+  .sub { color: #5a6172; margin: 0 0 2rem; }
+  h2 { font-size: 1.15rem; color: var(--navy); margin: 2.2rem 0 .6rem;
+       border-bottom: 2px solid var(--navy); padding-bottom: .3rem; }
+  table { width: 100%; border-collapse: collapse; }
+  td { padding: .5rem .4rem; border-bottom: 1px solid #e3e6ec; vertical-align: top; }
+  td:first-child { white-space: nowrap; font-weight: bold; }
+  a { color: var(--accent); }
+  code { font: .85em/1.4 ui-monospace, Menlo, monospace; background: #eef1f6;
+         padding: .1em .35em; border-radius: 3px; word-break: break-all; }
+  ol { padding-left: 1.3rem; }
+  li { margin: .35rem 0; }
+  footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #e3e6ec;
+           font-size: .9rem; color: #5a6172; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Conway CLAWS Community Calendar</h1>
+  <p class="sub">Conway High School events in one calendar: district dates, athletics,
+  arts, and CLAWS announcements. Rebuilt every morning.</p>
+
+  <p>Subscribe once and events appear in the calendar app you already use, and stay
+  current on their own. Take everything, or just the categories you want.</p>
+
+  <h2>Calendars</h2>
+  <table>
+    <tr><td>Everything</td>
+        <td><code>https://calendar.conwaypto.org/claws.ics</code></td></tr>
+    <tr><td>Athletics</td>
+        <td><code>https://calendar.conwaypto.org/claws-athletics.ics</code></td></tr>
+    <tr><td>Arts</td>
+        <td><code>https://calendar.conwaypto.org/claws-arts.ics</code></td></tr>
+    <tr><td>Academics</td>
+        <td><code>https://calendar.conwaypto.org/claws-academics.ics</code>
+        <br>Testing, report cards, no-school days, deadlines.</td></tr>
+    <tr><td>Community</td>
+        <td><code>https://calendar.conwaypto.org/claws-community.ics</code>
+        <br>PTO meetings, spirit nights, dances, everything else.</td></tr>
+  </table>
+
+  <h2>Google Calendar</h2>
+  <ol>
+    <li>Open <a href="https://calendar.google.com">calendar.google.com</a> on a computer.</li>
+    <li>Next to <b>Other calendars</b> click <b>+</b>, then <b>From URL</b>.</li>
+    <li>Paste a calendar address from the table above and click <b>Add calendar</b>.</li>
+  </ol>
+  <p>It then shows up in the Google Calendar app on your phone under Settings &rarr;
+  your account, where you can toggle it on.</p>
+
+  <h2>iPhone and iPad</h2>
+  <ol>
+    <li>Open <b>Settings &rarr; Apps &rarr; Calendar &rarr; Calendar Accounts &rarr; Add Account &rarr;
+        Other &rarr; Add Subscribed Calendar</b>.</li>
+    <li>Paste a calendar address from the table above and tap <b>Next</b>, then <b>Save</b>.</li>
+  </ol>
+
+  <h2>Outlook</h2>
+  <ol>
+    <li>In Outlook on the web, open the calendar and choose <b>Add calendar &rarr;
+        Subscribe from web</b>.</li>
+    <li>Paste a calendar address, name it, and add.</li>
+  </ol>
+
+  <footer>
+    <p>Maintained by <a href="https://conwaypto.org">Conway CLAWS</a>, the Conway High
+    School PTO. Events come from Conway Public Schools' published feeds and CLAWS
+    announcements; see something wrong or missing, email
+    <a href="mailto:info@conwaypto.org">info@conwaypto.org</a>.</p>
+    <p>How it works, and the change history for every event, lives in the
+    <a href="https://github.com/conway-claws/calendar-sync">calendar-sync repository</a>.
+    Support CLAWS: <a href="https://cash.app/$conwaypto">Cash App</a> or
+    <a href="https://account.venmo.com/u/conwaypto">Venmo</a>.</p>
+  </footer>
+</main>
+</body>
+</html>

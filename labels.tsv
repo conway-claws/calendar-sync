@@ -1,0 +1,7 @@
+# label<TAB>pattern (case-insensitive regex, matched against the event title)
+# First match wins; order matters. Unmatched titles fall back to the LLM's
+# label if one came with the event, else COMMUNITY.
+ARTS	\b(band|choir|chorus|orchestra|theatre|theater|drama|musical|concert|jazz|percussion|color guard|show choir|recital|art show|gallery|fine arts)\b
+ATHLETICS	\bvs\.?\b|\b(game|scrimmage|tournament|football|volleyball|basketball|baseball|softball|soccer|golf|tennis|track|cross country|swim|swimming|wrestling|cheer|dance team|athletic|athletics|senior night|playoff|playoffs|meet|bowling|esports)\b
+COMMUNITY	\b(pto|claws|spirit night|fundraiser|volunteer|blood drive|food drive|booster|open house|homecoming dance|prom|pep rally|school board)\b
+ACADEMICS	\b(exam|exams|test|testing|atlas|act|sat|psat|report card|report cards|interim|grading|no students|no school|professional development|teacher work|conference|conferences|graduation|registration|schedule pickup|quarter|semester|9 weeks|holiday|break|dismissed|labor day|mlk|martin luther king|memorial day|juneteenth|early release|early dismissal|scholarship|fafsa|first day|last day|deadline)\b
