@@ -23,18 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-3966b7d0b189@calendar-sync.conwaypto.org
-DTSTAMP:20260809T000000Z
-DTSTART;TZID=America/Chicago:20260809T080000
-DTEND;TZID=America/Chicago:20260809T130000
-SUMMARY:CHS Tennis Stoby's Pancake Breakfast Fundraiser
-CATEGORIES:ATHLETICS
-LOCATION:Stoby's
-DESCRIPTION:Annual CHS Tennis fundraiser at Stoby's featuring an all-you-c
- an-eat pancake breakfast. Tickets are $8.00 each and support CHS Athletics
- .
-END:VEVENT
-BEGIN:VEVENT
 UID:ical-37abd5ce011e@calendar-sync.conwaypto.org
 DTSTAMP:20260810T000000Z
 DTSTART;VALUE=DATE:20260810
@@ -50,9 +38,9 @@ DTEND;TZID=America/Chicago:20260810T100000
 SUMMARY:Wampus Cat Invitational Golf Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway Country Club
-DESCRIPTION:Conway Wampus Cats host the Wampus Cat Invitational with a 9:0
- 0 AM shotgun start. Boys & girls tournament. Spectator carts $20. Live sco
- ring available online.
+DESCRIPTION:Conway Wampus Cats host the Wampus Cat Invitational boys & gir
+ ls golf tournament with a 9:00 AM shotgun start. Spectator carts $20. Live
+  scoring available online.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-641a72a21bc6@calendar-sync.conwaypto.org
