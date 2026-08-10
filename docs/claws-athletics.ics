@@ -23,15 +23,15 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:rss-a56d323abe67@calendar-sync.conwaypto.org
+UID:rss-4c8f05a0bf9b@calendar-sync.conwaypto.org
 DTSTAMP:20260810T000000Z
 DTSTART;TZID=America/Chicago:20260810T090000
 DTEND;TZID=America/Chicago:20260810T100000
-SUMMARY:Wampus Cat Invitational Golf Tournament
+SUMMARY:Wampus Cat Invitational 2026 (Boys & Girls Golf)
 CATEGORIES:ATHLETICS
 LOCATION:Conway Country Club
-DESCRIPTION:Conway Wampus Cats host the Wampus Cat Invitational boys & gir
- ls golf tournament with a 9:00 AM shotgun start. Spectator carts $20. Live
-  scoring available online.
+DESCRIPTION:Conway Wampus Cats host the Wampus Cat Invitational golf tourn
+ ament with a 9:00 AM shotgun start. Boys and girls tournament. Spectator c
+ arts $20. Live scoring available online.
 END:VEVENT
 END:VCALENDAR
