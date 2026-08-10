@@ -60,7 +60,7 @@ DTSTAMP:20260811T000000Z
 DTSTART;TZID=America/Chicago:20260811T180000
 DTEND;TZID=America/Chicago:20260811T200000
 SUMMARY:School Board Meeting
-CATEGORIES:COMMUNITY
+CATEGORIES:ACTIVITIES
 LOCATION:2220 Prince St\, Conway\, AR 72034\, USA
 DESCRIPTION:<p>School Board Information:Â <a rel="noopener noreferrer no
  follow" href="https://www.google.com/url?q=https://www.conwayschools.org/p
@@ -79,7 +79,7 @@ DTSTAMP:20260812T000000Z
 DTSTART;TZID=America/Chicago:20260812T160000
 DTEND;TZID=America/Chicago:20260812T190000
 SUMMARY:Open House
-CATEGORIES:COMMUNITY
+CATEGORIES:ACTIVITIES
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-bcc006ccdb35@calendar-sync.conwaypto.org
@@ -111,7 +111,7 @@ DTSTAMP:20260908T000000Z
 DTSTART;TZID=America/Chicago:20260908T180000
 DTEND;TZID=America/Chicago:20260908T200000
 SUMMARY:School Board Meeting
-CATEGORIES:COMMUNITY
+CATEGORIES:ACTIVITIES
 LOCATION:2220 Prince St\, Conway\, AR 72034\, USA
 DESCRIPTION:<p>School Board Information:Â <a rel="noopener noreferrer no
  follow" href="https://www.google.com/url?q=https://www.conwayschools.org/p
@@ -146,7 +146,7 @@ DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Chicago:20261013T180000
 DTEND;TZID=America/Chicago:20261013T200000
 SUMMARY:School Board Meeting
-CATEGORIES:COMMUNITY
+CATEGORIES:ACTIVITIES
 LOCATION:2220 Prince St\, Conway\, AR 72034\, USA
 DESCRIPTION:<p>School Board Information:Â <a rel="noopener noreferrer no
  follow" href="https://www.google.com/url?q=https://www.conwayschools.org/p

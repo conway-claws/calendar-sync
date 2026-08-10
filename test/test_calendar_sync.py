@@ -48,7 +48,7 @@ class RoundTripTests(unittest.TestCase):
     def test_parse_serialize_parse(self):
         first = ical.parse_ics((FIXTURES / "ical.ics").read_text())
         for e in first:
-            e["label"] = "COMMUNITY"
+            e["label"] = "ACTIVITIES"
         second = ical.parse_ics(ical.serialize(first))
         self.assertEqual(len(first), len(second))
         for a, b in zip(sorted(first, key=build.event_day),
@@ -90,10 +90,10 @@ class ClassifyTests(unittest.TestCase):
         "Fall Break - No School": "ACADEMICS",
         "Parent/Teacher Conferences": "ACADEMICS",
         "Deadline: Yearbook photo": "ACADEMICS",
-        "PTO General Meeting": "COMMUNITY",
-        "Spirit Night at Larry's Pizza": "COMMUNITY",
-        "Homecoming Dance": "COMMUNITY",
-        "School Board Meeting": "COMMUNITY",
+        "PTO General Meeting": "ACTIVITIES",
+        "Spirit Night at Larry's Pizza": "ACTIVITIES",
+        "Homecoming Dance": "ACTIVITIES",
+        "School Board Meeting": "ACTIVITIES",
     }
 
     def test_rules(self):
@@ -102,7 +102,7 @@ class ClassifyTests(unittest.TestCase):
 
     def test_llm_fallback_only_when_no_rule_matches(self):
         self.assertEqual(classify.label_for("Something Unusual", "ARTS"), "ARTS")
-        self.assertEqual(classify.label_for("Something Unusual", "bogus"), "COMMUNITY")
+        self.assertEqual(classify.label_for("Something Unusual", "bogus"), "ACTIVITIES")
         self.assertEqual(classify.label_for("Choir Concert", "ATHLETICS"), "ARTS")
 
 
@@ -111,16 +111,16 @@ class ExtractPayloadTests(unittest.TestCase):
         payload = {"events": [
             {"title": "PTO general meeting", "date": "2026-08-18",
              "start_time": "18:30", "end_time": None, "location": "CHS library",
-             "description": "", "label": "COMMUNITY", "is_deadline": False},
+             "description": "", "label": "ACTIVITIES", "is_deadline": False},
             {"title": "Yearbook photo", "date": "2026-09-04", "start_time": "08:00",
              "end_time": None, "location": None, "description": "",
              "label": "ACADEMICS", "is_deadline": True},
             {"title": "Stale", "date": "2026-01-01", "start_time": None,
              "end_time": None, "location": None, "description": "",
-             "label": "COMMUNITY", "is_deadline": False},
+             "label": "ACTIVITIES", "is_deadline": False},
             {"title": "Bad date", "date": "not-a-date", "start_time": None,
              "end_time": None, "location": None, "description": "",
-             "label": "COMMUNITY", "is_deadline": False},
+             "label": "ACTIVITIES", "is_deadline": False},
         ]}
         events = extract.events_from_payload(payload, "doc", today=date(2026, 8, 9))
         self.assertEqual(len(events), 2)
@@ -134,7 +134,7 @@ class ExtractPayloadTests(unittest.TestCase):
         payload = {"events": [
             {"title": f"E{i}", "date": "2026-08-20", "start_time": None,
              "end_time": None, "location": None, "description": "",
-             "label": "COMMUNITY", "is_deadline": False}
+             "label": "ACTIVITIES", "is_deadline": False}
             for i in range(200)
         ]}
         events = extract.events_from_payload(payload, "feed", today=date(2026, 8, 9))

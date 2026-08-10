@@ -4,33 +4,43 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Conway CLAWS Community Calendar</title>
+<link rel="icon" href="https://lh3.googleusercontent.com/sitesv/AG8ngQV0HcUdH0Rk3Amn6oqHPx27k7_wyymjDax4ESiQtXfw7IKbE3gSx8w_yIA4putdd=w48-h48">
 <style>
-  :root { --navy: #1b2a4a; --accent: #2b5cb0; --ink: #21242a; --paper: #fafbfd; }
+  :root { --blue: #3158A7; --blue-dark: #274686; --blue-tint: rgba(49,88,167,.1);
+          --ink: #212121; --line: #eeeeee; }
   * { box-sizing: border-box; }
-  body { margin: 0; background: var(--paper); color: var(--ink);
-         font: 17px/1.55 Georgia, "Times New Roman", serif; }
+  body { margin: 0; background: #ffffff; color: var(--ink);
+         font: 16px/1.6 Lato, "Helvetica Neue", Arial, sans-serif; }
   main { max-width: 42rem; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
-  h1 { font-size: 1.9rem; line-height: 1.2; color: var(--navy); margin: 0 0 .25rem; }
-  .sub { color: #5a6172; margin: 0 0 2rem; }
-  h2 { font-size: 1.15rem; color: var(--navy); margin: 2.2rem 0 .6rem;
-       border-bottom: 2px solid var(--navy); padding-bottom: .3rem; }
+  .site { display: flex; align-items: center; gap: .6rem; font-size: .95rem;
+          margin: 0 0 2rem; }
+  .site img { height: 28px; width: 28px; }
+  .site a { color: var(--blue); text-decoration: none; font-weight: 700; }
+  h1 { font-size: 2rem; line-height: 1.2; font-weight: 700; margin: 0 0 .25rem; }
+  .sub { color: rgba(0,0,0,.64); margin: 0 0 2rem; }
+  h2 { font-size: 1.2rem; font-weight: 700; color: var(--blue);
+       margin: 2.2rem 0 .6rem; }
   table { width: 100%; border-collapse: collapse; }
-  td { padding: .5rem .4rem; border-bottom: 1px solid #e3e6ec; vertical-align: top; }
-  td:first-child { white-space: nowrap; font-weight: bold; }
-  a { color: var(--accent); }
-  code { font: .85em/1.4 ui-monospace, Menlo, monospace; background: #eef1f6;
+  td { padding: .55rem .4rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+  td:first-child { white-space: nowrap; font-weight: 700; }
+  a { color: var(--blue); }
+  a:hover { color: var(--blue-dark); }
+  code { font: .85em/1.4 ui-monospace, Menlo, monospace; background: var(--blue-tint);
          padding: .1em .35em; border-radius: 3px; word-break: break-all; }
   ol { padding-left: 1.3rem; }
   li { margin: .35rem 0; }
-  footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #e3e6ec;
-           font-size: .9rem; color: #5a6172; }
+  footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--line);
+           font-size: .9rem; color: rgba(0,0,0,.64); }
 </style>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
 <main>
+  <p class="site"><img src="https://lh3.googleusercontent.com/sitesv/AG8ngQV0HcUdH0Rk3Amn6oqHPx27k7_wyymjDax4ESiQtXfw7IKbE3gSx8w_yIA4putdd=w96-h96" alt="Conway CLAWS logo"><a href="https://conwaypto.org">Conway CLAWS</a></p>
   <h1>Conway CLAWS Community Calendar</h1>
   <p class="sub">Conway High School events in one calendar: district dates, athletics,
-  arts, and CLAWS announcements. Rebuilt every morning.</p>
+  arts, and the CHS morning announcements. Rebuilt every morning.</p>
 
   <p>Subscribe once and events appear in the calendar app you already use, and stay
   current on their own. Take everything, or just the categories you want.</p>
@@ -46,8 +56,8 @@
     <tr><td>Academics</td>
         <td><code>https://calendar.conwaypto.org/claws-academics.ics</code>
         <br>Testing, report cards, no-school days, deadlines.</td></tr>
-    <tr><td>Community</td>
-        <td><code>https://calendar.conwaypto.org/claws-community.ics</code>
+    <tr><td>Activities</td>
+        <td><code>https://calendar.conwaypto.org/claws-activities.ics</code>
         <br>PTO meetings, spirit nights, dances, everything else.</td></tr>
   </table>
 
@@ -76,8 +86,8 @@
 
   <footer>
     <p>Maintained by <a href="https://conwaypto.org">Conway CLAWS</a>, the Conway High
-    School PTO. Events come from Conway Public Schools' published feeds and CLAWS
-    announcements; see something wrong or missing, email
+    School PTO. Events come from Conway Public Schools' published feeds and the CHS
+    morning announcements; see something wrong or missing, email
     <a href="mailto:info@conwaypto.org">info@conwaypto.org</a>.</p>
     <p>How it works, and the change history for every event, lives in the
     <a href="https://github.com/conway-claws/calendar-sync">calendar-sync repository</a>.
