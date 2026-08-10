@@ -12,6 +12,26 @@ FEED_URL = (
     f"/api/v4/o/{ORG_ID}/cms/live_feeds"
     f"?section_ids={LIVE_FEED_SECTION_ID}&page_no=1&per_page=25"
 )
+# CHS athletics composite schedule (Mascot Media DigitalSuite).
+ATHLETICS_ICS_URL = (
+    "https://mmboltapi.azurewebsites.net/api/v2/events/calendar/2482279/0/calendar.ics"
+)
+
+# The Conway Orchestras program calendar (Google Calendar); this is the
+# public iCal address conwayorchestras.weebly.com/calendar.html publishes.
+ORCHESTRA_ICS_URL = (
+    "https://calendar.google.com/calendar/ical"
+    "/conwayorchestras%40gmail.com/public/basic.ics"
+)
+
+# Direct-iCal sources: (source name, URL, label fallback for events whose
+# CATEGORIES is missing or not a CLAWS label). Priority lives in build.PRIORITY.
+ICS_SOURCES = (
+    ("ical", ICAL_URL, None),
+    ("athletics", ATHLETICS_ICS_URL, "ATHLETICS"),
+    ("orchestra", ORCHESTRA_ICS_URL, "ARTS"),
+)
+
 # CLAWS-curated RSS roundup of CHS-adjacent feeds (sports, boosters).
 RSS_URL = "https://rss.app/feeds/_AeJmcGomMid09LzK.xml"
 

@@ -1,6 +1,6 @@
 import sys
 import unittest
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -165,6 +165,14 @@ class DedupTests(unittest.TestCase):
         self.assertEqual(len(kept), 1)
         self.assertEqual(kept[0]["source"], "ical")
 
+    def test_program_feed_wins_over_district(self):
+        kept = build.dedup([
+            self._ev("Volleyball vs Cabot", "ical"),
+            self._ev("Girls Varsity Volleyball vs Cabot", "athletics"),
+        ])
+        self.assertEqual(len(kept), 1)
+        self.assertEqual(kept[0]["source"], "athletics")
+
     def test_same_source_similar_titles_survive(self):
         kept = build.dedup([
             self._ev("Volleyball vs Cabot", "ical"),
@@ -193,6 +201,81 @@ class DedupTests(unittest.TestCase):
         self.assertTrue(a["uid"].startswith("doc-"))
         # already-final uids (carried forward) are left alone
         self.assertEqual(build.assign_uid(dict(a))["uid"], a["uid"])
+
+
+class OrchestraParseTests(unittest.TestCase):
+    def setUp(self):
+        self.events = ical.parse_ics((FIXTURES / "orchestra.ics").read_text())
+
+    def test_valarm_props_do_not_leak_into_event(self):
+        concert = self.events[0]
+        self.assertEqual(concert["title"], "Fall Concert")
+        self.assertEqual(concert["description"], "")  # alarm's DESCRIPTION dropped
+        self.assertEqual(concert["uid"], "11111111-1111-1111-1111-111111111111")
+
+    def test_rrule_and_exdate_captured(self):
+        self.assertEqual(self.events[1]["rrule"],
+                         "FREQ=YEARLY;INTERVAL=1;BYDAY=-1SA;BYMONTH=8")
+        self.assertEqual(self.events[2]["exdates"], {date(2012, 12, 10)})
+
+
+class ExpandRecurrenceTests(unittest.TestCase):
+    def setUp(self):
+        self.events = ical.parse_ics((FIXTURES / "orchestra.ics").read_text())
+
+    def test_yearly_byday_projects_into_window(self):
+        out = ical.expand_recurrences(self.events, date(2026, 8, 9), date(2026, 11, 8))
+        titles = [e["title"] for e in out]
+        self.assertIn("Fall Concert", titles)  # non-recurring passes through
+        self.assertNotIn("After-School Rehearsal", titles)  # rule ended in 2012
+        porch = [e for e in out if e["title"] == "Play Music on the Porch Day"]
+        self.assertEqual([e["start"] for e in porch], [date(2026, 8, 29)])
+        self.assertIsNone(porch[0]["rrule"])  # occurrences carry no rule
+
+    def test_weekly_until_and_exdate(self):
+        out = ical.expand_recurrences(self.events, date(2012, 12, 1), date(2012, 12, 31))
+        rehearsals = sorted(
+            (e for e in out if e["title"] == "After-School Rehearsal"),
+            key=lambda e: e["start"],
+        )
+        self.assertEqual([e["start"].date() for e in rehearsals],
+                         [date(2012, 12, 3), date(2012, 12, 17)])  # 12-10 EXDATEd
+        first = rehearsals[0]
+        self.assertEqual(first["start"].hour, 16)  # local wall time preserved
+        self.assertEqual(first["end"] - first["start"], timedelta(minutes=90))
+
+    def test_recurrence_id_override_replaces_occurrence(self):
+        out = ical.expand_recurrences(self.events, date(2026, 8, 9), date(2026, 11, 8))
+        sales = [e for e in out if e["title"] == "Ad Sales begin"]
+        # the moved 2026 occurrence appears once, on its new date only
+        self.assertEqual([e["start"] for e in sales], [date(2026, 8, 31)])
+
+    def test_unsupported_rule_keeps_base_occurrence(self):
+        ev = dict(self.events[1], rrule="FREQ=MONTHLY;BYDAY=2TU")
+        out = ical.expand_recurrences([ev], date(2026, 8, 9), date(2026, 11, 8))
+        self.assertEqual(len(out), 1)
+        self.assertEqual(out[0]["start"], date(2020, 8, 29))
+
+
+class IcsSourceTests(unittest.TestCase):
+    TODAY = date(2026, 8, 10)
+
+    def test_athletics_events_carry_hint_label(self):
+        text = (FIXTURES / "athletics.ics").read_text()
+        evs = build.ics_events("athletics", text, "ATHLETICS", self.TODAY)
+        self.assertEqual(len(evs), 3)
+        self.assertTrue(all(e["source"] == "athletics" for e in evs))
+        self.assertTrue(all(e["label"] == "ATHLETICS" for e in evs))
+
+    def test_orchestra_window_and_hint(self):
+        text = (FIXTURES / "orchestra.ics").read_text()
+        evs = build.ics_events("orchestra", text, "ARTS", self.TODAY)
+        self.assertEqual({e["title"] for e in evs},
+                         {"Fall Concert", "Play Music on the Porch Day",
+                          "Ad Sales begin"})
+        # the hint survives final classification when no labels.tsv rule matches
+        porch = next(e for e in evs if e["title"] == "Play Music on the Porch Day")
+        self.assertEqual(classify.label_for(porch["title"], porch["label"]), "ARTS")
 
 
 if __name__ == "__main__":

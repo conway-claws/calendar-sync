@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Mascot Media//DigitalSuite Composite Schedule//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:4384443@mmboltapi.azurewebsites.net
+DTSTAMP:20260810T135350Z
+DTSTART:20260825T203000Z
+DTEND:20260825T233000Z
+SUMMARY:Girls Varsity Cross Country at Perryville Mustang Invitational
+DESCRIPTION:Girls Varsity Cross Country at Perryville Mustang Invitational
+LOCATION:Perryville High School
+URL:https://mmboltapi.azurewebsites.net/api/v2/events/androiddownload/2482279/0
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:4384445@mmboltapi.azurewebsites.net
+DTSTAMP:20260810T135350Z
+DTSTART:20260912T130000Z
+DTEND:20260912T160000Z
+SUMMARY:Girls Varsity Cross Country at Bob Gravette Invitational
+DESCRIPTION:Girls Varsity Cross Country at Bob Gravette Invitational
+LOCATION:OBU
+URL:https://mmboltapi.azurewebsites.net/api/v2/events/androiddownload/2482279/0
+PRIORITY:3
+END:VEVENT
+BEGIN:VEVENT
+UID:4384500@mmboltapi.azurewebsites.net
+DTSTAMP:20260810T135350Z
+DTSTART:20260813T000000Z
+DTEND:20260813T020000Z
+SUMMARY:Girls Varsity Volleyball vs Cabot
+DESCRIPTION:Girls Varsity Volleyball vs Cabot
+LOCATION:Buzz Bolding Arena
+URL:https://mmboltapi.azurewebsites.net/api/v2/events/androiddownload/2482279/0
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR

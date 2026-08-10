@@ -2,7 +2,7 @@
 
 **One labeled calendar for Conway High School events.**
 
-A daily GitHub Action merges four public feeds into `docs/claws.ics` and one
+A daily GitHub Action merges six public feeds into `docs/claws.ics` and one
 sub-feed per label, served by GitHub Pages. Calendar apps subscribe to the
 published URLs.
 
@@ -11,21 +11,28 @@ Maintained by [Conway CLAWS](https://conwaypto.org).
 ## How it works
 
 ```
-district event feed (iCal)  ──┐
-district live feed (JSON)   ──┼─► extract ─► label ─► dedup ─► docs/*.ics
-CLAWS social roundup (RSS)  ──┤   (Claude)   (rules)
-CHS morning announcements   ──┘
+CHS athletics schedule (iCal)   ──┐
+Conway Orchestras cal (iCal)    ──┤
+district event feed (iCal)      ──┼─► extract ─► label ─► dedup ─► docs/*.ics
+district live feed (JSON)       ──┤   (Claude)   (rules)
+CLAWS social roundup (RSS)      ──┤
+CHS morning announcements       ──┘
 ```
 
-1. **Sources.** The district's Thrillshare event feed is fetched as iCal and
-   parsed directly. The CHS live feed, the CLAWS RSS roundup of CHS-adjacent
-   feeds (sports, boosters), and the CHS morning announcements Doc are free text;
-   Claude extracts dated events from them under a fixed JSON schema. All four
-   fetches are anonymous. Cross-source duplicates resolve in priority order:
-   district feed, Doc, live feed, RSS.
+1. **Sources.** Three feeds arrive as iCal and are parsed directly: the CHS
+   athletics composite schedule (Mascot Media), the Conway Orchestras program
+   calendar (Google Calendar), and the district's Thrillshare event feed.
+   The CHS live feed, the CLAWS RSS roundup of CHS-adjacent feeds (sports,
+   boosters), and the CHS morning announcements Doc are free text; Claude
+   extracts dated events from them under a fixed JSON schema. All fetches are
+   anonymous. Cross-source duplicates resolve in priority order: athletics
+   schedule, orchestra calendar, district feed, Doc, live feed, RSS - a
+   program's own calendar carries fuller titles, times, and locations than
+   the district's generic entry for the same event, so it wins.
 2. **Labels.** Every event carries one of **ATHLETICS**, **ARTS**,
    **ACADEMICS**, **ACTIVITIES**. Rules in `labels.tsv` decide first, the
-   extractor's suggestion is the fallback, ACTIVITIES is the default. Each label
+   extractor's suggestion (or a per-feed fallback: ATHLETICS for the athletics
+   schedule, ARTS for the orchestra calendar) is next, ACTIVITIES is the default. Each label
    also ships as its own sub-feed (`claws-athletics.ics`, …). The 4-way split is
    CLAWS-defined; the district publishes no event taxonomy.
 3. **Build.** `bin/build.py` merges the sources, drops cross-source duplicates,
@@ -69,4 +76,7 @@ alone.
 - The CHS morning announcements Doc is link-shared for anonymous export; its ID is in
   `bin/config.py`. `doc: fetch FAILED` in the build notes means the share or
   the ID changed.
-- The district's Apptegy org and section IDs are in `bin/config.py`.
+- The district's Apptegy org and section IDs, the athletics schedule URL, and
+  the orchestra calendar URL are in `bin/config.py`. An iCal source whose URL
+  is set to None is disabled: the build notes `no URL configured` and runs
+  without it.

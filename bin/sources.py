@@ -1,4 +1,4 @@
-"""Credential-less fetchers for the three sources.
+"""Credential-less fetchers for the build's sources.
 
 Each returns raw material for the build; None means the fetch failed (as
 distinct from succeeding with nothing in it), so the build can carry the
@@ -11,7 +11,7 @@ import time
 import urllib.request
 import xml.etree.ElementTree as ET
 
-from config import DOC_URL, FEED_URL, ICAL_URL, RSS_URL, UA
+from config import DOC_URL, FEED_URL, RSS_URL, UA
 
 
 def _get(url, timeout=30):
@@ -26,8 +26,8 @@ def _get(url, timeout=30):
             time.sleep(5 * attempt)
 
 
-def fetch_ical():
-    text = _get(ICAL_URL)
+def fetch_ical(url):
+    text = _get(url)
     if text is None or "BEGIN:VCALENDAR" not in text:
         return None
     return text
