@@ -32,6 +32,30 @@ ICS_SOURCES = (
     ("orchestra", ORCHESTRA_ICS_URL, "ARTS"),
 )
 
+# CLAWS covers Conway High School, grades 10-12; both program feeds carry
+# more. The athletics composite lists every secondary school's teams and the
+# orchestra calendar spans the whole 6-12 program, so an iCal event whose
+# title names a feeder-school team or grade is dropped. (The text-source
+# extractor already enforces this boundary in its prompt.) MS is matched
+# case-sensitively so a "Ms. Smith" title never trips it.
+NON_CHS_TITLE = (
+    r"\bMS\b"
+    r"|(?i:\bmiddle schools?\b|\bjunior high\b|\bcjhs\b|\b[5-9]th grade\b)"
+)
+
+# Per-source drops beyond the CHS boundary. The orchestra calendar mirrors
+# district calendar dates under its own titles ("First Day of School!",
+# "End 1st Quarter"); the district feed is canonical for those. A retitled
+# mirror dodges the fuzzy dedup and doubles up, and a close-enough one
+# outranks and replaces the district's title, so both are dropped here.
+ICS_EXCLUDE = {
+    "orchestra": (
+        r"(?i)\bopen house\b|\b(?:first|last) day of school\b|\bno school\b"
+        r"|\bteacher work ?day\b|\blabor day\b|\b(?:fall|spring|winter) break\b"
+        r"|\bquarters?\b|\bsemesters?\b|\bparent[- ]teacher\b"
+    ),
+}
+
 # CLAWS-curated RSS roundup of CHS-adjacent feeds (sports, boosters).
 RSS_URL = "https://rss.app/feeds/_AeJmcGomMid09LzK.xml"
 

@@ -28,7 +28,11 @@ CHS morning announcements       ──┘
    anonymous. Cross-source duplicates resolve in priority order: athletics
    schedule, orchestra calendar, district feed, Doc, live feed, RSS - a
    program's own calendar carries fuller titles, times, and locations than
-   the district's generic entry for the same event, so it wins.
+   the district's generic entry for the same event, so it wins. Both program
+   feeds cover more than CHS (the athletics composite lists every secondary
+   school's teams; the orchestra calendar spans the whole 6-12 program and
+   restates district calendar dates), so title rules in `bin/config.py` drop
+   feeder-school events and the orchestra feed's district-date copies.
 2. **Labels.** Every event carries one of **ATHLETICS**, **ARTS**,
    **ACADEMICS**, **ACTIVITIES**. Rules in `labels.tsv` decide first, the
    extractor's suggestion (or a per-feed fallback: ATHLETICS for the athletics

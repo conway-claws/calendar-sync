@@ -277,6 +277,30 @@ class IcsSourceTests(unittest.TestCase):
         porch = next(e for e in evs if e["title"] == "Play Music on the Porch Day")
         self.assertEqual(classify.label_for(porch["title"], porch["label"]), "ARTS")
 
+    def test_feeder_school_teams_dropped(self):
+        # the composite schedule lists every secondary school; CLAWS is CHS-only
+        text = (FIXTURES / "athletics.ics").read_text()
+        titles = {e["title"] for e in
+                  build.ics_events("athletics", text, "ATHLETICS", self.TODAY)}
+        self.assertNotIn("Girls Ruth Doyle MS Volleyball at Benton", titles)
+        self.assertNotIn("Boys 8th Grade Football vs Cabot South", titles)
+        self.assertIn("Girls Varsity Volleyball vs Cabot", titles)
+
+    def test_orchestra_district_mirrors_dropped(self):
+        # district-calendar dates retitled by the orchestra calendar would
+        # double up (or outrank the district's canonical title); dropped
+        text = (FIXTURES / "orchestra.ics").read_text()
+        titles = {e["title"] for e in
+                  build.ics_events("orchestra", text, "ARTS", self.TODAY)}
+        self.assertNotIn("First Day of School!", titles)
+        self.assertNotIn("CJHS Open House", titles)
+
+    def test_ms_marker_is_case_sensitive(self):
+        self.assertIsNone(build.NON_CHS_RE.search("Coffee with Ms. Smith"))
+        self.assertTrue(build.NON_CHS_RE.search("Girls Simon MS Volleyball"))
+        self.assertTrue(build.NON_CHS_RE.search("Boys 9th Grade Football"))
+        self.assertIsNone(build.NON_CHS_RE.search("8th Annual Wampus Cat Classic"))
+
 
 if __name__ == "__main__":
     unittest.main()

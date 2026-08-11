@@ -13,6 +13,7 @@ Exit codes: 0 built (or clean dry run), 2 aborted on the removal cap.
 import argparse
 import hashlib
 import json
+import re
 import sys
 from datetime import date, datetime, timedelta
 from difflib import SequenceMatcher
@@ -23,8 +24,12 @@ import extract
 import ical
 import sources
 from config import (
-    CALNAME, ICS_SOURCES, LABELS, REMOVAL_CAP, UID_DOMAIN, WINDOW_DAYS,
+    CALNAME, ICS_EXCLUDE, ICS_SOURCES, LABELS, NON_CHS_TITLE, REMOVAL_CAP,
+    UID_DOMAIN, WINDOW_DAYS,
 )
+
+NON_CHS_RE = re.compile(NON_CHS_TITLE)
+EXCLUDE_RES = {name: re.compile(pattern) for name, pattern in ICS_EXCLUDE.items()}
 
 DOCS = Path(__file__).resolve().parent.parent / "docs"
 # Program-run calendars outrank the district's generic feed for their own
@@ -82,7 +87,13 @@ def ics_events(name, text, label_hint, today):
         ical.parse_ics(text),
         today - timedelta(days=1), today + timedelta(days=WINDOW_DAYS),
     )
-    evs = [e for e in evs if in_window(e, today)]
+    extra = EXCLUDE_RES.get(name)
+    evs = [
+        e for e in evs
+        if in_window(e, today)
+        and not NON_CHS_RE.search(e["title"])
+        and not (extra and extra.search(e["title"]))
+    ]
     for e in evs:
         e["source"] = name
         if e["label"] not in LABELS:
