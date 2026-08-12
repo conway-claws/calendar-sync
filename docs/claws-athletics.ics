@@ -819,9 +819,10 @@ DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Conway Cheer & Dance Mini Clinic 2026
 CATEGORIES:ATHLETICS
+LOCATION:Conway High School
 DESCRIPTION:Conway Cheer & Dance host their 2026 Mini Clinic for future Wa
- mpus Cats — learn to dance\, cheer\, and stunt. Registration available t
- hrough GoFan.
+ mpus Cats to learn\, dance\, cheer\, and stunt. Registration available thr
+ ough GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-25f4e08eecef@calendar-sync.conwaypto.org
@@ -980,8 +981,9 @@ DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Cheer & Dance Mini Clinic Game Performance
 CATEGORIES:ATHLETICS
+LOCATION:Conway High School
 DESCRIPTION:Mini Clinic participants perform at the game following the Sep
- tember 26 clinic.
+ tember 26 Conway Cheer & Dance Mini Clinic.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-afda75f6614f@calendar-sync.conwaypto.org

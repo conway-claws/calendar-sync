@@ -23,12 +23,17 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ical-37abd5ce011e@calendar-sync.conwaypto.org
-DTSTAMP:20260810T000000Z
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260814
-SUMMARY:Professional Development - No Students
+UID:feed-c4703ad3982e@calendar-sync.conwaypto.org
+DTSTAMP:20260812T000000Z
+DTSTART;TZID=America/Chicago:20260812T180000
+DTEND;TZID=America/Chicago:20260812T190000
+SUMMARY:Dual Enrollment Informational Meeting
 CATEGORIES:ACADEMICS
+LOCATION:CHS Cafeteria
+DESCRIPTION:Students and families interested in Dual Enrollment or earning
+  an Associate Degree while in high school can meet with representatives fr
+ om UACCM and Conway High School to discuss eligibility\, coursework\, sche
+ duling\, tuition savings\, and credit transfer.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-bcc006ccdb35@calendar-sync.conwaypto.org

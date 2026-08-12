@@ -23,31 +23,17 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ical-37abd5ce011e@calendar-sync.conwaypto.org
-DTSTAMP:20260810T000000Z
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260814
-SUMMARY:Professional Development - No Students
+UID:feed-c4703ad3982e@calendar-sync.conwaypto.org
+DTSTAMP:20260812T000000Z
+DTSTART;TZID=America/Chicago:20260812T180000
+DTEND;TZID=America/Chicago:20260812T190000
+SUMMARY:Dual Enrollment Informational Meeting
 CATEGORIES:ACADEMICS
-END:VEVENT
-BEGIN:VEVENT
-UID:ical-641a72a21bc6@calendar-sync.conwaypto.org
-DTSTAMP:20260811T000000Z
-DTSTART;TZID=America/Chicago:20260811T180000
-DTEND;TZID=America/Chicago:20260811T200000
-SUMMARY:School Board Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:2220 Prince St\, Conway\, AR 72034\, USA
-DESCRIPTION:<p>School Board Information:Â <a rel="noopener noreferrer no
- follow" href="https://www.google.com/url?q=https://www.conwayschools.org/p
- age/schoolboard&amp\;sa=D&amp\;source=calendar&amp\;ust=1780949450386070&a
- mp\;usg=AOvVaw3_lUeEOMxgfAYb5CAk26Q-" target="_blank">https://www.conwaysc
- hools.org/page/schoolboard</a></p><p>View School Board meetings live at:Â
-  <a rel="noopener noreferrer nofollow" href="https://www.google.com/url?q
- =https://www.youtube.com/@conwaypublicschoolssocialm3021/featured&amp\;sa=
- D&amp\;source=calendar&amp\;ust=1780949450386070&amp\;usg=AOvVaw0PId0LiRwL
- ERYOWBUtZtLD" target="_blank">https://www.youtube.com/@conwaypublicschools
- socialm3021/featured</a></p>
+LOCATION:CHS Cafeteria
+DESCRIPTION:Students and families interested in Dual Enrollment or earning
+  an Associate Degree while in high school can meet with representatives fr
+ om UACCM and Conway High School to discuss eligibility\, coursework\, sche
+ duling\, tuition savings\, and credit transfer.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-7a30ff6131a0@calendar-sync.conwaypto.org
@@ -956,9 +942,10 @@ DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Conway Cheer & Dance Mini Clinic 2026
 CATEGORIES:ATHLETICS
+LOCATION:Conway High School
 DESCRIPTION:Conway Cheer & Dance host their 2026 Mini Clinic for future Wa
- mpus Cats — learn to dance\, cheer\, and stunt. Registration available t
- hrough GoFan.
+ mpus Cats to learn\, dance\, cheer\, and stunt. Registration available thr
+ ough GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-25f4e08eecef@calendar-sync.conwaypto.org
@@ -1125,8 +1112,9 @@ DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Cheer & Dance Mini Clinic Game Performance
 CATEGORIES:ATHLETICS
+LOCATION:Conway High School
 DESCRIPTION:Mini Clinic participants perform at the game following the Sep
- tember 26 clinic.
+ tember 26 Conway Cheer & Dance Mini Clinic.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-afda75f6614f@calendar-sync.conwaypto.org
@@ -1661,5 +1649,33 @@ SUMMARY:Girls Varsity Cheer at Brooklyn
 CATEGORIES:ATHLETICS
 LOCATION:Brooklyn
 DESCRIPTION:Girls Varsity Cheer at Brooklyn
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-577d178b8308@calendar-sync.conwaypto.org
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=America/Chicago:20261110T180000
+DTEND;TZID=America/Chicago:20261110T200000
+SUMMARY:School Board Meeting
+CATEGORIES:ACTIVITIES
+LOCATION:2220 Prince St\, Conway\, AR 72034\, USA
+DESCRIPTION:<p>School Board Information:Â <a rel="noopener noreferrer no
+ follow" href="https://www.google.com/url?q=https://www.conwayschools.org/p
+ age/schoolboard&amp\;sa=D&amp\;source=calendar&amp\;ust=1780949614691010&a
+ mp\;usg=AOvVaw2qo5jbf0iZqZ0yIQ9JHJkD" target="_blank">https://www.conwaysc
+ hools.org/page/schoolboard</a></p><p>View School Board meetings live at:Â
+  <a rel="noopener noreferrer nofollow" href="https://www.google.com/url?q
+ =https://www.youtube.com/@conwaypublicschoolssocialm3021/featured&amp\;sa=
+ D&amp\;source=calendar&amp\;ust=1780949614691010&amp\;usg=AOvVaw1onNZnrixR
+ bJzp6gqqXNjg" target="_blank">https://www.youtube.com/@conwaypublicschools
+ socialm3021/featured</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-b0e9f95a8488@calendar-sync.conwaypto.org
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=America/Chicago:20261110T133000
+DTEND;TZID=America/Chicago:20261110T150000
+SUMMARY:"La Fiesta Orquesta" Taco Supper ticket and donation count
+CATEGORIES:ARTS
+LOCATION:Conway HS Music Complex
 END:VEVENT
 END:VCALENDAR

@@ -23,25 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ical-641a72a21bc6@calendar-sync.conwaypto.org
-DTSTAMP:20260811T000000Z
-DTSTART;TZID=America/Chicago:20260811T180000
-DTEND;TZID=America/Chicago:20260811T200000
-SUMMARY:School Board Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:2220 Prince St\, Conway\, AR 72034\, USA
-DESCRIPTION:<p>School Board Information:Â <a rel="noopener noreferrer no
- follow" href="https://www.google.com/url?q=https://www.conwayschools.org/p
- age/schoolboard&amp\;sa=D&amp\;source=calendar&amp\;ust=1780949450386070&a
- mp\;usg=AOvVaw3_lUeEOMxgfAYb5CAk26Q-" target="_blank">https://www.conwaysc
- hools.org/page/schoolboard</a></p><p>View School Board meetings live at:Â
-  <a rel="noopener noreferrer nofollow" href="https://www.google.com/url?q
- =https://www.youtube.com/@conwaypublicschoolssocialm3021/featured&amp\;sa=
- D&amp\;source=calendar&amp\;ust=1780949450386070&amp\;usg=AOvVaw0PId0LiRwL
- ERYOWBUtZtLD" target="_blank">https://www.youtube.com/@conwaypublicschools
- socialm3021/featured</a></p>
-END:VEVENT
-BEGIN:VEVENT
 UID:ical-7a30ff6131a0@calendar-sync.conwaypto.org
 DTSTAMP:20260812T000000Z
 DTSTART;TZID=America/Chicago:20260812T160000
@@ -85,6 +66,25 @@ DESCRIPTION:<p>School Board Information:Â <a rel="noopener noreferrer no
  =https://www.youtube.com/@conwaypublicschoolssocialm3021/featured&amp\;sa=
  D&amp\;source=calendar&amp\;ust=1780949568991644&amp\;usg=AOvVaw2ua-Ikn5nS
  caC-hLECNmeX" target="_blank">https://www.youtube.com/@conwaypublicschools
+ socialm3021/featured</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-577d178b8308@calendar-sync.conwaypto.org
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=America/Chicago:20261110T180000
+DTEND;TZID=America/Chicago:20261110T200000
+SUMMARY:School Board Meeting
+CATEGORIES:ACTIVITIES
+LOCATION:2220 Prince St\, Conway\, AR 72034\, USA
+DESCRIPTION:<p>School Board Information:Â <a rel="noopener noreferrer no
+ follow" href="https://www.google.com/url?q=https://www.conwayschools.org/p
+ age/schoolboard&amp\;sa=D&amp\;source=calendar&amp\;ust=1780949614691010&a
+ mp\;usg=AOvVaw2qo5jbf0iZqZ0yIQ9JHJkD" target="_blank">https://www.conwaysc
+ hools.org/page/schoolboard</a></p><p>View School Board meetings live at:Â
+  <a rel="noopener noreferrer nofollow" href="https://www.google.com/url?q
+ =https://www.youtube.com/@conwaypublicschoolssocialm3021/featured&amp\;sa=
+ D&amp\;source=calendar&amp\;ust=1780949614691010&amp\;usg=AOvVaw1onNZnrixR
+ bJzp6gqqXNjg" target="_blank">https://www.youtube.com/@conwaypublicschools
  socialm3021/featured</a></p>
 END:VEVENT
 END:VCALENDAR
