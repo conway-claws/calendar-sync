@@ -23,27 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-c4703ad3982e@calendar-sync.conwaypto.org
-DTSTAMP:20260812T000000Z
-DTSTART;TZID=America/Chicago:20260812T180000
-DTEND;TZID=America/Chicago:20260812T190000
-SUMMARY:Dual Enrollment Informational Meeting
-CATEGORIES:ACADEMICS
-LOCATION:CHS Cafeteria
-DESCRIPTION:Students and families interested in Dual Enrollment or earning
-  an Associate Degree while in high school can meet with representatives fr
- om UACCM and Conway High School to discuss eligibility\, coursework\, sche
- duling\, tuition savings\, and credit transfer.
-END:VEVENT
-BEGIN:VEVENT
-UID:ical-7a30ff6131a0@calendar-sync.conwaypto.org
-DTSTAMP:20260812T000000Z
-DTSTART;TZID=America/Chicago:20260812T160000
-DTEND;TZID=America/Chicago:20260812T190000
-SUMMARY:Open House
-CATEGORIES:ACTIVITIES
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-96fa3ee67a5a@calendar-sync.conwaypto.org
 DTSTAMP:20260814T000000Z
 DTSTART;TZID=America/Chicago:20260814T000000
@@ -60,6 +39,16 @@ DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
 SUMMARY:Floating Teacher Work Day - No Students
 CATEGORIES:ACADEMICS
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-d37e4855d8f5@calendar-sync.conwaypto.org
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Annual Booster Club Fundraiser
+CATEGORIES:ACTIVITIES
+DESCRIPTION:Annual Booster Club Fundraiser supporting Conway High School f
+ all athletes. Employee badges and passes do NOT work for admission.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-2ad4c7d49f2c@calendar-sync.conwaypto.org
@@ -942,10 +931,9 @@ DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Conway Cheer & Dance Mini Clinic 2026
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Conway Cheer & Dance host their 2026 Mini Clinic for future Wa
- mpus Cats to learn\, dance\, cheer\, and stunt. Registration available thr
- ough GoFan.
+DESCRIPTION:Conway Cheer & Dance host their 2026 Mini Clinic with dancing\
+ , cheering\, and stunting for future Wampus Cats. Registration through GoF
+ an.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-25f4e08eecef@calendar-sync.conwaypto.org
@@ -1112,9 +1100,8 @@ DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Cheer & Dance Mini Clinic Game Performance
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School
 DESCRIPTION:Mini Clinic participants perform at the game following the Sep
- tember 26 Conway Cheer & Dance Mini Clinic.
+ tember 26 clinic.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-afda75f6614f@calendar-sync.conwaypto.org
@@ -1677,5 +1664,13 @@ DTEND;TZID=America/Chicago:20261110T150000
 SUMMARY:"La Fiesta Orquesta" Taco Supper ticket and donation count
 CATEGORIES:ARTS
 LOCATION:Conway HS Music Complex
+END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-2bde72c254a0@calendar-sync.conwaypto.org
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:"La Fiesta Orquesta" tickets go home
+CATEGORIES:ARTS
 END:VEVENT
 END:VCALENDAR

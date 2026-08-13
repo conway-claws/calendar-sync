@@ -143,4 +143,12 @@ SUMMARY:"La Fiesta Orquesta" Taco Supper ticket and donation count
 CATEGORIES:ARTS
 LOCATION:Conway HS Music Complex
 END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-2bde72c254a0@calendar-sync.conwaypto.org
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:"La Fiesta Orquesta" tickets go home
+CATEGORIES:ARTS
+END:VEVENT
 END:VCALENDAR
