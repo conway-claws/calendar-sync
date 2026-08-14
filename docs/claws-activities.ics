@@ -23,14 +23,15 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:rss-d37e4855d8f5@calendar-sync.conwaypto.org
+UID:feed-cfe31e2bde46@calendar-sync.conwaypto.org
 DTSTAMP:20260814T000000Z
 DTSTART;VALUE=DATE:20260814
 DTEND;VALUE=DATE:20260815
-SUMMARY:Annual Booster Club Fundraiser
+SUMMARY:Booster Club Fundraiser
 CATEGORIES:ACTIVITIES
-DESCRIPTION:Annual Booster Club Fundraiser supporting Conway High School f
- all athletes. Employee badges and passes do NOT work for admission.
+LOCATION:Conway High School
+DESCRIPTION:Annual Booster Club Fundraiser supporting fall athletes. Emplo
+ yee badges and passes do NOT work for admission.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-087bc6a182cb@calendar-sync.conwaypto.org
