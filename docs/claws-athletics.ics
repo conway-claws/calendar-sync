@@ -23,16 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:athletics-96fa3ee67a5a@calendar-sync.conwaypto.org
-DTSTAMP:20260814T000000Z
-DTSTART;TZID=America/Chicago:20260814T000000
-DTEND;TZID=America/Chicago:20260814T030000
-SUMMARY:Boys Varsity Football vs Meet the Cats
-CATEGORIES:ATHLETICS
-LOCATION:John McConnell Stadium
-DESCRIPTION:Boys Varsity Football vs Meet the Cats
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-2ad4c7d49f2c@calendar-sync.conwaypto.org
 DTSTAMP:20260815T000000Z
 DTSTART;TZID=America/Chicago:20260815T153000
@@ -811,17 +801,6 @@ SUMMARY:Girls Varsity Cross Country at Cyclone Invitational
 CATEGORIES:ATHLETICS
 LOCATION:Arkansas Tech
 DESCRIPTION:Girls Varsity Cross Country at Cyclone Invitational
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-4d60c4496da2@calendar-sync.conwaypto.org
-DTSTAMP:20260926T000000Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:Conway Cheer & Dance Mini Clinic 2026
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Learn\, dance\, cheer\, and stunt with the Conway cheer and da
- nce teams. Tickets/sign-up available through GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-25f4e08eecef@calendar-sync.conwaypto.org
