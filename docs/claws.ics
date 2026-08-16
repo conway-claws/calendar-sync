@@ -23,16 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:athletics-2ad4c7d49f2c@calendar-sync.conwaypto.org
-DTSTAMP:20260815T000000Z
-DTSTART;TZID=America/Chicago:20260815T153000
-DTEND;TZID=America/Chicago:20260815T183000
-SUMMARY:Boys Varsity Golf at NLR-JV
-CATEGORIES:ATHLETICS
-LOCATION:Burns Park
-DESCRIPTION:Boys Varsity Golf at NLR-JV
-END:VEVENT
-BEGIN:VEVENT
 UID:ical-9846cae9c3a2@calendar-sync.conwaypto.org
 DTSTAMP:20260817T000000Z
 DTSTART;VALUE=DATE:20260817
@@ -87,8 +77,8 @@ DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
 SUMMARY:Booster Club Fundraiser
 CATEGORIES:ACTIVITIES
-DESCRIPTION:Annual Wampus Cat Booster Club Fundraiser supporting fall athl
- etes. Employee badges and passes do NOT work for admission.
+DESCRIPTION:Annual Booster Club Fundraiser supporting fall athletes. Emplo
+ yee badges and passes do NOT work for admission.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-97b7c5c1b274@calendar-sync.conwaypto.org
@@ -1643,5 +1633,25 @@ SUMMARY:Girls Varsity Basketball vs TBA MC Invitational
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls Varsity Basketball vs TBA MC Invitational
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-87458867308d@calendar-sync.conwaypto.org
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=America/Chicago:20261114T000000
+DTEND;TZID=America/Chicago:20261114T030000
+SUMMARY:Girls Varsity Competitive Dance at State
+CATEGORIES:ATHLETICS
+LOCATION:Alma
+DESCRIPTION:Girls Varsity Competitive Dance at State
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-eaf65a7d3ebf@calendar-sync.conwaypto.org
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=America/Chicago:20261114T000000
+DTEND;TZID=America/Chicago:20261114T030000
+SUMMARY:Girls Varsity Cheer at Hot Springs
+CATEGORIES:ATHLETICS
+LOCATION:Hot Springs
+DESCRIPTION:Girls Varsity Cheer at Hot Springs
 END:VEVENT
 END:VCALENDAR
