@@ -71,16 +71,6 @@ LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls Varsity Volleyball vs Jamboree
 END:VEVENT
 BEGIN:VEVENT
-UID:feed-c6cd8586cbee@calendar-sync.conwaypto.org
-DTSTAMP:20260821T000000Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:Booster Club Fundraiser
-CATEGORIES:ACTIVITIES
-DESCRIPTION:Annual Booster Club Fundraiser supporting fall athletes. Emplo
- yee badges and passes do NOT work for admission.
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-97b7c5c1b274@calendar-sync.conwaypto.org
 DTSTAMP:20260822T000000Z
 DTSTART;TZID=America/Chicago:20260822T153000
