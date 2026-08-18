@@ -33,16 +33,6 @@ LOCATION:John McConnell Stadium
 DESCRIPTION:Boys Varsity Football vs Morrilton  Benefit Game
 END:VEVENT
 BEGIN:VEVENT
-UID:athletics-9bfeaa07e080@calendar-sync.conwaypto.org
-DTSTAMP:20260818T000000Z
-DTSTART;TZID=America/Chicago:20260818T153000
-DTEND;TZID=America/Chicago:20260818T183000
-SUMMARY:Boys Varsity Tennis vs Ft. Smith Northside
-CATEGORIES:ATHLETICS
-LOCATION:Conway Tennis Center
-DESCRIPTION:Boys Varsity Tennis vs Ft. Smith Northside
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-001df001dbb9@calendar-sync.conwaypto.org
 DTSTAMP:20260820T000000Z
 DTSTART;TZID=America/Chicago:20260820T090000
@@ -61,16 +51,6 @@ SUMMARY:Girls Varsity Volleyball vs Jamboree
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls Varsity Volleyball vs Jamboree
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-97b7c5c1b274@calendar-sync.conwaypto.org
-DTSTAMP:20260822T000000Z
-DTSTART;TZID=America/Chicago:20260822T153000
-DTEND;TZID=America/Chicago:20260822T183000
-SUMMARY:Girls Varsity Tennis vs Ft. Smith Northside
-CATEGORIES:ATHLETICS
-LOCATION:Conway Tennis Center
-DESCRIPTION:Girls Varsity Tennis vs Ft. Smith Northside
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-1dc64b9d1ed7@calendar-sync.conwaypto.org
@@ -551,6 +531,26 @@ SUMMARY:Girls Varsity Volleyball vs Van Buren
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls Varsity Volleyball vs Van Buren
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-3c8f256b1b7b@calendar-sync.conwaypto.org
+DTSTAMP:20260916T000000Z
+DTSTART;TZID=America/Chicago:20260916T153000
+DTEND;TZID=America/Chicago:20260916T183000
+SUMMARY:Girls Varsity Tennis vs Ft. Smith Northside
+CATEGORIES:ATHLETICS
+LOCATION:Conway Tennis Center
+DESCRIPTION:Girls Varsity Tennis vs Ft. Smith Northside
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-720cb97a7e08@calendar-sync.conwaypto.org
+DTSTAMP:20260916T000000Z
+DTSTART;TZID=America/Chicago:20260916T153000
+DTEND;TZID=America/Chicago:20260916T183000
+SUMMARY:Boys Varsity Tennis vs Ft. Smith Northside
+CATEGORIES:ATHLETICS
+LOCATION:Conway Tennis Center
+DESCRIPTION:Boys Varsity Tennis vs Ft. Smith Northside
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-04e21bf78f1a@calendar-sync.conwaypto.org
