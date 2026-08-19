@@ -23,16 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:athletics-424a97344c02@calendar-sync.conwaypto.org
-DTSTAMP:20260818T000000Z
-DTSTART;TZID=America/Chicago:20260818T180000
-DTEND;TZID=America/Chicago:20260818T210000
-SUMMARY:Boys Varsity Football vs Morrilton  Benefit Game
-CATEGORIES:ATHLETICS
-LOCATION:John McConnell Stadium
-DESCRIPTION:Boys Varsity Football vs Morrilton  Benefit Game
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-001df001dbb9@calendar-sync.conwaypto.org
 DTSTAMP:20260820T000000Z
 DTSTART;TZID=America/Chicago:20260820T090000
@@ -51,6 +41,15 @@ SUMMARY:Girls Varsity Volleyball vs Jamboree
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls Varsity Volleyball vs Jamboree
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-d3b3be059ee5@calendar-sync.conwaypto.org
+DTSTAMP:20260821T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Athletic Passes On Sale
+CATEGORIES:ATHLETICS
+DESCRIPTION:All passes will be available for purchase beginning 8/21/26.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-1dc64b9d1ed7@calendar-sync.conwaypto.org
@@ -1635,5 +1634,15 @@ SUMMARY:Girls Varsity Cheer at Hot Springs
 CATEGORIES:ATHLETICS
 LOCATION:Hot Springs
 DESCRIPTION:Girls Varsity Cheer at Hot Springs
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-ebf0a3a7ec92@calendar-sync.conwaypto.org
+DTSTAMP:20261117T000000Z
+DTSTART;TZID=America/Chicago:20261117T163000
+DTEND;TZID=America/Chicago:20261117T193000
+SUMMARY:Girls Varsity Basketball at Springdale
+CATEGORIES:ATHLETICS
+LOCATION:Springdale High School
+DESCRIPTION:Girls Varsity Basketball at Springdale
 END:VEVENT
 END:VCALENDAR
