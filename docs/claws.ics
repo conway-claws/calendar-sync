@@ -43,11 +43,11 @@ LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls Varsity Volleyball vs Jamboree
 END:VEVENT
 BEGIN:VEVENT
-UID:rss-d3b3be059ee5@calendar-sync.conwaypto.org
+UID:rss-c194f7931541@calendar-sync.conwaypto.org
 DTSTAMP:20260821T000000Z
 DTSTART;VALUE=DATE:20260821
 DTEND;VALUE=DATE:20260822
-SUMMARY:Athletic Passes On Sale
+SUMMARY:Athletic Passes Go On Sale
 CATEGORIES:ATHLETICS
 DESCRIPTION:All passes will be available for purchase beginning 8/21/26.
 END:VEVENT
@@ -286,6 +286,18 @@ LOCATION:Conway Tennis Center
 DESCRIPTION:Girls Varsity Tennis vs Maumelle (JV Only)
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-fa8d3b94e0e4@calendar-sync.conwaypto.org
+DTSTAMP:20260902T000000Z
+DTSTART;TZID=America/Chicago:20260902T160000
+DTEND;TZID=America/Chicago:20260902T170000
+SUMMARY:Lady Cat Softball Skills & Drills
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School Softball Field
+DESCRIPTION:Fall skills session with Lady Cat coaching staff and players f
+ or current Conway 6th-8th grade softball players. $10 per player\, per ses
+ sion. Bring glove\, bat\, helmet\, and water. Sign up online.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-0cf566a06cf0@calendar-sync.conwaypto.org
 DTSTAMP:20260903T000000Z
 DTSTART;TZID=America/Chicago:20260903T180000
@@ -451,6 +463,18 @@ DESCRIPTION:<p>School Board Information:Â <a rel="noopener noreferrer no
  D&amp\;source=calendar&amp\;ust=1780949543598993&amp\;usg=AOvVaw0HWWGJaY0G
  FWpLsH11AiS0" target="_blank">https://www.youtube.com/@conwaypublicschools
  socialm3021/featured</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-ffc554841930@calendar-sync.conwaypto.org
+DTSTAMP:20260909T000000Z
+DTSTART;TZID=America/Chicago:20260909T160000
+DTEND;TZID=America/Chicago:20260909T170000
+SUMMARY:Lady Cat Softball Skills & Drills
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School Softball Field
+DESCRIPTION:Fall skills session with Lady Cat coaching staff and players f
+ or current Conway 6th-8th grade softball players. $10 per player\, per ses
+ sion.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-60b427829982@calendar-sync.conwaypto.org
@@ -628,6 +652,18 @@ SUMMARY:Boys Varsity Tennis vs Ft. Smith Northside
 CATEGORIES:ATHLETICS
 LOCATION:Conway Tennis Center
 DESCRIPTION:Boys Varsity Tennis vs Ft. Smith Northside
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-78da7fadee96@calendar-sync.conwaypto.org
+DTSTAMP:20260916T000000Z
+DTSTART;TZID=America/Chicago:20260916T160000
+DTEND;TZID=America/Chicago:20260916T170000
+SUMMARY:Lady Cat Softball Skills & Drills
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School Softball Field
+DESCRIPTION:Fall skills session with Lady Cat coaching staff and players f
+ or current Conway 6th-8th grade softball players. $10 per player\, per ses
+ sion.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-04e21bf78f1a@calendar-sync.conwaypto.org
@@ -808,6 +844,18 @@ LOCATION:Longhills CC
 DESCRIPTION:Girls Varsity Golf at Benton- JV
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-8e2474942840@calendar-sync.conwaypto.org
+DTSTAMP:20260923T000000Z
+DTSTART;TZID=America/Chicago:20260923T160000
+DTEND;TZID=America/Chicago:20260923T170000
+SUMMARY:Lady Cat Softball Skills & Drills
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School Softball Field
+DESCRIPTION:Fall skills session with Lady Cat coaching staff and players f
+ or current Conway 6th-8th grade softball players. $10 per player\, per ses
+ sion.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-8e67bff22488@calendar-sync.conwaypto.org
 DTSTAMP:20260924T000000Z
 DTSTART;TZID=America/Chicago:20260924T170000
@@ -978,6 +1026,18 @@ LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls Varsity Volleyball vs Little Rock Southwest
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-3e661e15024e@calendar-sync.conwaypto.org
+DTSTAMP:20260930T000000Z
+DTSTART;TZID=America/Chicago:20260930T160000
+DTEND;TZID=America/Chicago:20260930T170000
+SUMMARY:Lady Cat Softball Skills & Drills
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School Softball Field
+DESCRIPTION:Fall skills session with Lady Cat coaching staff and players f
+ or current Conway 6th-8th grade softball players. $10 per player\, per ses
+ sion.
+END:VEVENT
+BEGIN:VEVENT
 UID:orchestra-f0a066344aae@calendar-sync.conwaypto.org
 DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
@@ -1034,6 +1094,17 @@ SUMMARY:Boys Varsity Football vs North Little Rock
 CATEGORIES:ATHLETICS
 LOCATION:John McConnell Stadium
 DESCRIPTION:Boys Varsity Football vs North Little Rock
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-95bea8785e0d@calendar-sync.conwaypto.org
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Deadline: Senior Yearbook Ad Early Order Deadline (Save $25)
+CATEGORIES:ACADEMICS
+DESCRIPTION:Order a personalized senior ad for the 2027 Conway High School
+  Yearbook by October 2 to save $25. Create your ad online or upload one yo
+ u've already designed.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-afda75f6614f@calendar-sync.conwaypto.org
@@ -1134,6 +1205,17 @@ SUMMARY:Boys Varsity Football at Cabot
 CATEGORIES:ATHLETICS
 LOCATION:Cabot Field
 DESCRIPTION:Boys Varsity Football at Cabot
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-427ef42c46b6@calendar-sync.conwaypto.org
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Deadline: Senior Yearbook Ad Extended Deadline
+CATEGORIES:ACADEMICS
+DESCRIPTION:Extended deadline to purchase a senior ad in the 2027 Conway H
+ igh School Yearbook. Check your email or the graphic for ad sizes\, pricin
+ g\, and ordering information.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-2753988abe96@calendar-sync.conwaypto.org
@@ -1644,5 +1726,14 @@ SUMMARY:Girls Varsity Basketball at Springdale
 CATEGORIES:ATHLETICS
 LOCATION:Springdale High School
 DESCRIPTION:Girls Varsity Basketball at Springdale
+END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-29a56778bfc8@calendar-sync.conwaypto.org
+DTSTAMP:20261118T000000Z
+DTSTART;TZID=America/Chicago:20261118T154500
+DTEND;TZID=America/Chicago:20261118T173000
+SUMMARY:CHS Symphonic Orchestra Rehearsal - WBP Only
+CATEGORIES:ARTS
+LOCATION:CHS Large Ensemble Room
 END:VEVENT
 END:VCALENDAR

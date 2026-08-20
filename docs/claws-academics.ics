@@ -31,6 +31,17 @@ SUMMARY:Labor Day (Students & Staff Dismissed)
 CATEGORIES:ACADEMICS
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-95bea8785e0d@calendar-sync.conwaypto.org
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Deadline: Senior Yearbook Ad Early Order Deadline (Save $25)
+CATEGORIES:ACADEMICS
+DESCRIPTION:Order a personalized senior ad for the 2027 Conway High School
+  Yearbook by October 2 to save $25. Create your ad online or upload one yo
+ u've already designed.
+END:VEVENT
+BEGIN:VEVENT
 UID:ical-86b2418c1596@calendar-sync.conwaypto.org
 DTSTAMP:20261006T000000Z
 DTSTART;TZID=America/Chicago:20261006T080000
@@ -59,6 +70,17 @@ DTSTART;TZID=America/Chicago:20261008T080000
 DTEND;TZID=America/Chicago:20261008T153500
 SUMMARY:Makeup  ATLAS  Interim  #1
 CATEGORIES:ACADEMICS
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-427ef42c46b6@calendar-sync.conwaypto.org
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Deadline: Senior Yearbook Ad Extended Deadline
+CATEGORIES:ACADEMICS
+DESCRIPTION:Extended deadline to purchase a senior ad in the 2027 Conway H
+ igh School Yearbook. Check your email or the graphic for ad sizes\, pricin
+ g\, and ordering information.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-2753988abe96@calendar-sync.conwaypto.org
