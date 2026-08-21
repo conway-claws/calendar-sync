@@ -34,7 +34,8 @@ EXCLUDE_RES = {name: re.compile(pattern) for name, pattern in ICS_EXCLUDE.items(
 DOCS = Path(__file__).resolve().parent.parent / "docs"
 # Program-run calendars outrank the district's generic feed for their own
 # events: the programs maintain fuller titles, times, and locations.
-PRIORITY = {"athletics": 5, "orchestra": 4, "ical": 3, "doc": 2, "feed": 1, "rss": 0}
+PRIORITY = {"athletics": 6, "orchestra": 5, "ical": 4, "newsletter": 3, "doc": 2,
+            "feed": 1, "rss": 0}
 
 
 def event_day(ev):
@@ -120,6 +121,10 @@ def gather(offline_dir, today):
             if (d / "rss.xml").exists() else None
         )
         doc_text = (d / "doc.txt").read_text() if (d / "doc.txt").exists() else None
+        newsletter_text = (
+            sources.parse_newsletter((d / "newsletter.html").read_text())
+            if (d / "newsletter.html").exists() else None
+        )
     else:
         ics_texts = {
             name: sources.fetch_ical(url) if url else ""
@@ -128,6 +133,7 @@ def gather(offline_dir, today):
         feed_posts = sources.fetch_feed_posts()
         rss_posts = sources.fetch_rss_posts()
         doc_text = sources.fetch_doc()
+        newsletter_text = sources.fetch_newsletter()
 
     for name, _, label_hint in ICS_SOURCES:
         text = ics_texts[name]
@@ -142,6 +148,7 @@ def gather(offline_dir, today):
         per_source[name] = ics_events(name, text, label_hint, today)
 
     text_sources = (
+        ("newsletter", newsletter_text),
         ("doc", doc_text),
         ("feed", "\n---\n".join(feed_posts or []) or None),
         ("rss", "\n---\n".join(rss_posts or []) or None),

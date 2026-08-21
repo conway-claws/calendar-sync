@@ -151,6 +151,17 @@ class RssParseTests(unittest.TestCase):
         self.assertIsNone(sources.parse_rss("not xml at all"))
 
 
+class NewsletterParseTests(unittest.TestCase):
+    def test_latest_issue_stripped(self):
+        import sources
+        text = sources.parse_newsletter((FIXTURES / "newsletter.html").read_text())
+        self.assertIn("Beta Club", text)
+        self.assertIn("Coach Moon", text)
+        self.assertNotIn("<td", text)          # tags stripped
+        self.assertNotIn("margin:0", text)     # style blocks stripped
+        self.assertIsNone(sources.parse_newsletter("<html>no payload</html>"))
+
+
 class DedupTests(unittest.TestCase):
     def _ev(self, title, source, day=date(2026, 8, 10)):
         return {"uid": "u" if source == "ical" else "", "title": title,

@@ -2,7 +2,7 @@
 
 **One labeled calendar for Conway High School events.**
 
-A daily GitHub Action merges six public feeds into `docs/claws.ics` and one
+A daily GitHub Action merges seven public feeds into `docs/claws.ics` and one
 sub-feed per label, served by GitHub Pages. Calendar apps subscribe to the
 published URLs.
 
@@ -16,17 +16,19 @@ Conway Orchestras cal (iCal)    ──┤
 district event feed (iCal)      ──┼─► extract ─► label ─► dedup ─► docs/*.ics
 district live feed (JSON)       ──┤   (Claude)   (rules)
 CLAWS social roundup (RSS)      ──┤
-CHS morning announcements       ──┘
+CHS morning announcements (Doc) ──┤
+CHS Announcements newsletter    ──┘
 ```
 
 1. **Sources.** Three feeds arrive as iCal and are parsed directly: the CHS
    athletics composite schedule (Mascot Media), the Conway Orchestras program
    calendar (Google Calendar), and the district's Thrillshare event feed.
    The CHS live feed, the CLAWS RSS roundup of CHS-adjacent feeds (sports,
-   boosters), and the CHS morning announcements Doc are free text; Claude
+   boosters), the CHS morning announcements Doc, and the CHS Announcements
+   newsletter on the district's edurooms site are free text; Claude
    extracts dated events from them under a fixed JSON schema. All fetches are
    anonymous. Cross-source duplicates resolve in priority order: athletics
-   schedule, orchestra calendar, district feed, Doc, live feed, RSS - a
+   schedule, orchestra calendar, district feed, newsletter, Doc, live feed, RSS - a
    program's own calendar carries fuller titles, times, and locations than
    the district's generic entry for the same event, so it wins. Both program
    feeds cover more than CHS (the athletics composite lists every secondary
@@ -47,7 +49,7 @@ CHS morning announcements       ──┘
 
 1. The published ICS is the source of truth; subscribed calendars are read-only
    copies. Nothing here writes to any calendar account.
-2. Live-feed, RSS, and Doc text is untrusted data: extraction runs under a
+2. Live-feed, RSS, newsletter, and Doc text is untrusted data: extraction runs under a
    fixed schema, a 50-event cap, and re-validation of every field.
 3. A failed source carries its previous events forward. A build that would
    remove more than 15 events aborts and opens an issue.
@@ -80,6 +82,9 @@ alone.
 - The CHS morning announcements Doc is link-shared for anonymous export; its ID is in
   `bin/config.py`. `doc: fetch FAILED` in the build notes means the share or
   the ID changed.
+- The CHS Announcements newsletter URL is in `bin/config.py`; the latest issue
+  is read from the HTML embedded in the page's Nuxt data payload. `newsletter:
+  fetch FAILED` means the page moved or the payload format changed.
 - The district's Apptegy org and section IDs, the athletics schedule URL, and
   the orchestra calendar URL are in `bin/config.py`. An iCal source whose URL
   is set to None is disabled: the build notes `no URL configured` and runs

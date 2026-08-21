@@ -63,6 +63,15 @@ RSS_URL = "https://rss.app/feeds/_AeJmcGomMid09LzK.xml"
 DOC_ID = "1K0tvF2RzP2OpdSyqiv2PR2IntSX0oO0-SBVSmR5jkng"
 DOC_URL = f"https://docs.google.com/document/d/{DOC_ID}/export?format=txt"
 
+# The CHS Announcements newsletter on the district's edurooms site (Apptegy).
+# The page server-renders the latest issue's email HTML into its Nuxt data
+# payload, so the anonymous page fetch is enough; the engage API behind it
+# requires auth.
+NEWSLETTER_URL = (
+    "https://conwaypublicschools.edurooms.com"
+    "/newsletters/conway-high-school/newsletters/chs-announcements"
+)
+
 UA = "conway-claws-calendar-sync/0.1 (+https://github.com/conway-claws/calendar-sync)"
 TZID = "America/Chicago"
 

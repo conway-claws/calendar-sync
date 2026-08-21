@@ -5,13 +5,14 @@ distinct from succeeding with nothing in it), so the build can carry the
 source's previous events forward instead of deleting them.
 """
 
+import html
 import json
 import re
 import time
 import urllib.request
 import xml.etree.ElementTree as ET
 
-from config import DOC_URL, FEED_URL, RSS_URL, UA
+from config import DOC_URL, FEED_URL, NEWSLETTER_URL, RSS_URL, UA
 
 
 def _get(url, timeout=30):
@@ -75,3 +76,29 @@ def fetch_doc():
     if text is None or text.lstrip().startswith("<"):
         return None  # an HTML login/error page, not the doc export
     return text
+
+
+def parse_newsletter(page):
+    """Latest issue's text from the page's Nuxt data payload, HTML stripped."""
+    m = re.search(r'<script[^>]*id="__NUXT_DATA__"[^>]*>(.*?)</script>', page, re.S)
+    if not m:
+        return None
+    try:
+        payload = json.loads(m.group(1))
+    except ValueError:
+        return None
+    # The payload is a flat array; the issue is its only full HTML document.
+    issues = [s for s in payload if isinstance(s, str) and "<body" in s]
+    if not issues:
+        return None
+    text = re.sub(r"<(script|style)[^>]*>.*?</\1>", " ", max(issues, key=len),
+                  flags=re.S | re.I)
+    text = re.sub(r"<[^>]+>", " ", text)
+    return re.sub(r"\s+", " ", html.unescape(text)).strip()
+
+
+def fetch_newsletter():
+    page = _get(NEWSLETTER_URL)
+    if page is None:
+        return None
+    return parse_newsletter(page)

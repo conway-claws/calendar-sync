@@ -1,4 +1,4 @@
-"""Claude extraction of events from untrusted free text (Doc, live feed).
+"""Claude extraction of events from untrusted free text (Doc, live feed, newsletter).
 
 The text is data, not instructions: the schema constrains output shape, the
 event count is capped, and every field is re-validated before use. Runs only
