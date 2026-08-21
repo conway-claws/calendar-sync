@@ -23,6 +23,17 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:newsletter-db419196963c@calendar-sync.conwaypto.org
+DTSTAMP:20260821T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Library Closed Friday Afternoon
+CATEGORIES:ACADEMICS
+LOCATION:CHS Library
+DESCRIPTION:The library will be closed Friday afternoon. Students will not
+  be able to bring Chromebook issues to the library during 6th period.
+END:VEVENT
+BEGIN:VEVENT
 UID:ical-a52a69d6d0ae@calendar-sync.conwaypto.org
 DTSTAMP:20260907T000000Z
 DTSTART;VALUE=DATE:20260907
@@ -39,7 +50,8 @@ SUMMARY:Deadline: Senior Yearbook Ad Early Order Deadline (Save $25)
 CATEGORIES:ACADEMICS
 DESCRIPTION:Order a personalized senior ad for the 2027 Conway High School
   Yearbook by October 2 to save $25. Create your ad online or upload one yo
- u've already designed.
+ u've already designed. See the graphic or your email for ad sizes\, pricin
+ g\, and ordering steps.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-86b2418c1596@calendar-sync.conwaypto.org
@@ -79,8 +91,7 @@ DTEND;VALUE=DATE:20261010
 SUMMARY:Deadline: Senior Yearbook Ad Extended Deadline
 CATEGORIES:ACADEMICS
 DESCRIPTION:Extended deadline to purchase a senior ad in the 2027 Conway H
- igh School Yearbook. Check your email or the graphic for ad sizes\, pricin
- g\, and ordering information.
+ igh School Yearbook honoring your CHS senior.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-2753988abe96@calendar-sync.conwaypto.org

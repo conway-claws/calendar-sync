@@ -160,4 +160,13 @@ SUMMARY:CHS Symphonic Orchestra Rehearsal - WBP Only
 CATEGORIES:ARTS
 LOCATION:CHS Large Ensemble Room
 END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-76e63c618431@calendar-sync.conwaypto.org
+DTSTAMP:20261119T000000Z
+DTSTART;TZID=America/Chicago:20261119T170000
+DTEND;TZID=America/Chicago:20261119T210000
+SUMMARY:"La Fiesta Orquesta" Taco Supper and Concerts
+CATEGORIES:ARTS
+LOCATION:Conway HS Cafeteria and James H. Clark Auditorium
+END:VEVENT
 END:VCALENDAR
