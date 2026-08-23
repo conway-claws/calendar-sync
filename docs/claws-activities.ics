@@ -25,11 +25,11 @@ END:VTIMEZONE
 BEGIN:VEVENT
 UID:newsletter-9b432a4ef560@calendar-sync.conwaypto.org
 DTSTAMP:20260827T000000Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
+DTSTART;TZID=America/Chicago:20260827T112000
+DTEND;TZID=America/Chicago:20260827T124500
 SUMMARY:Kona Ice on Campus
 CATEGORIES:ACTIVITIES
-LOCATION:Conway High School campus
+LOCATION:Conway High School
 DESCRIPTION:Kona Ice will be on campus during both lunches.
 END:VEVENT
 BEGIN:VEVENT
@@ -39,9 +39,9 @@ DTSTART;TZID=America/Chicago:20260827T153500
 DTEND;TZID=America/Chicago:20260827T163500
 SUMMARY:Model UN Club Interest Meeting
 CATEGORIES:ACTIVITIES
-LOCATION:Room 263 (2nd floor - Mr. Richardson's room)
-DESCRIPTION:Students interested in Model United Nations can meet current m
- embers to discuss the club and competitions.
+LOCATION:Room 263 (2nd floor\, Mr. Richardson's room)
+DESCRIPTION:Students interested in joining the Model United Nations club c
+ an meet current members to discuss the club and competitions.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-087bc6a182cb@calendar-sync.conwaypto.org
@@ -74,16 +74,16 @@ DESCRIPTION:First Beta Club meeting of the year during WIN Period for exis
  ting members and anyone interested in joining.
 END:VEVENT
 BEGIN:VEVENT
-UID:newsletter-36a3fade9733@calendar-sync.conwaypto.org
+UID:newsletter-b507f8ff9b12@calendar-sync.conwaypto.org
 DTSTAMP:20260921T000000Z
 DTSTART;TZID=America/Chicago:20260921T180000
 DTEND;TZID=America/Chicago:20260921T190000
-SUMMARY:Student Travel Informational Meeting
+SUMMARY:Student Travel Abroad Informational Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Room 165
 DESCRIPTION:Informational meeting for students and families about upcoming
-  travel opportunities to Japan\, Australia & New Zealand\, or London\, Par
- is & Rome\, including what is included and costs.
+  trips to Japan\, Australia & New Zealand\, and London\, Paris & Rome\, in
+ cluding what is included and costs.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-c41729aaba69@calendar-sync.conwaypto.org

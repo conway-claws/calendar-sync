@@ -23,35 +23,35 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-88a508d4b12d@calendar-sync.conwaypto.org
+UID:newsletter-4cec5f6520c4@calendar-sync.conwaypto.org
 DTSTAMP:20260825T000000Z
 DTSTART;VALUE=DATE:20260825
 DTEND;VALUE=DATE:20260826
-SUMMARY:Chromebook Checks - Sophomores
+SUMMARY:Chromebook Checks – Sophomores
 CATEGORIES:ACADEMICS
-LOCATION:ELA Classes
+LOCATION:Conway High School (ELA Classes)
 DESCRIPTION:Beginning of the year Chromebook checks for sophomores during 
  ELA classes.
 END:VEVENT
 BEGIN:VEVENT
-UID:newsletter-7736eb51a3d5@calendar-sync.conwaypto.org
+UID:newsletter-25baa3faf0b2@calendar-sync.conwaypto.org
 DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
-SUMMARY:Chromebook Checks - Juniors
+SUMMARY:Chromebook Checks – Juniors
 CATEGORIES:ACADEMICS
-LOCATION:ELA Classes
+LOCATION:Conway High School (ELA Classes)
 DESCRIPTION:Beginning of the year Chromebook checks for juniors during ELA
   classes.
 END:VEVENT
 BEGIN:VEVENT
-UID:newsletter-5575bc37d607@calendar-sync.conwaypto.org
+UID:newsletter-2b2fad016939@calendar-sync.conwaypto.org
 DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
-SUMMARY:Chromebook Checks - Seniors
+SUMMARY:Chromebook Checks – Seniors
 CATEGORIES:ACADEMICS
-LOCATION:ELA Classes
+LOCATION:Conway High School (ELA Classes)
 DESCRIPTION:Beginning of the year Chromebook checks for seniors during ELA
   classes.
 END:VEVENT
@@ -64,15 +64,15 @@ SUMMARY:Labor Day (Students & Staff Dismissed)
 CATEGORIES:ACADEMICS
 END:VEVENT
 BEGIN:VEVENT
-UID:feed-0f9c36952092@calendar-sync.conwaypto.org
+UID:feed-95bea8785e0d@calendar-sync.conwaypto.org
 DTSTAMP:20261002T000000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:Deadline: Senior Yearbook Ad Early Order Deadline
+SUMMARY:Deadline: Senior Yearbook Ad Early Order Deadline (Save $25)
 CATEGORIES:ACADEMICS
-DESCRIPTION:Order a personalized senior ad for the 2027 Conway High School
-  Yearbook by October 2 to save $25. Create an ad online or upload one you'
- ve already designed.
+DESCRIPTION:Order a personalized senior ad in the 2027 Conway High School 
+ Yearbook by October 2 to save $25. Create your ad online or upload one you
+ 've already designed.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-86b2418c1596@calendar-sync.conwaypto.org
@@ -112,8 +112,8 @@ DTEND;VALUE=DATE:20261010
 SUMMARY:Deadline: Senior Yearbook Ad Extended Deadline
 CATEGORIES:ACADEMICS
 DESCRIPTION:Extended deadline to purchase a senior ad in the 2027 Conway H
- igh School Yearbook. Check your email or the graphic for ad sizes\, pricin
- g\, and ordering information.
+ igh School Yearbook. See the graphic or your email for ad sizes\, pricing\
+ , and ordering information.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-2753988abe96@calendar-sync.conwaypto.org

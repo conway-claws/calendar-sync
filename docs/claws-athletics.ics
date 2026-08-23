@@ -230,9 +230,9 @@ DTEND;TZID=America/Chicago:20260902T170000
 SUMMARY:Lady Cat Softball Skills & Drills
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School Softball Field
-DESCRIPTION:Skills and drills session with the Lady Cat coaching staff and
-  players for current Conway 6th-8th grade softball players. $10 per player
- \, per session. Bring glove\, bat\, helmet\, and water. Sign up online.
+DESCRIPTION:Fall skills session with the Lady Cat coaching staff and playe
+ rs covering hitting\, fielding\, and throwing. $10 per player\, per sessio
+ n. Bring glove\, bat\, helmet\, and water. Sign up online.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-27f4b247c71e@calendar-sync.conwaypto.org
@@ -394,9 +394,9 @@ DTEND;TZID=America/Chicago:20260909T170000
 SUMMARY:Lady Cat Softball Skills & Drills
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School Softball Field
-DESCRIPTION:Skills and drills session with the Lady Cat coaching staff and
-  players for current Conway 6th-8th grade softball players. $10 per player
- \, per session.
+DESCRIPTION:Fall skills session with the Lady Cat coaching staff and playe
+ rs covering hitting\, fielding\, and throwing. $10 per player\, per sessio
+ n. Bring glove\, bat\, helmet\, and water. Sign up online.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-60b427829982@calendar-sync.conwaypto.org
@@ -566,9 +566,9 @@ DTEND;TZID=America/Chicago:20260916T170000
 SUMMARY:Lady Cat Softball Skills & Drills
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School Softball Field
-DESCRIPTION:Skills and drills session with the Lady Cat coaching staff and
-  players for current Conway 6th-8th grade softball players. $10 per player
- \, per session.
+DESCRIPTION:Fall skills session with the Lady Cat coaching staff and playe
+ rs covering hitting\, fielding\, and throwing. $10 per player\, per sessio
+ n. Bring glove\, bat\, helmet\, and water. Sign up online.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-04e21bf78f1a@calendar-sync.conwaypto.org
@@ -748,9 +748,9 @@ DTEND;TZID=America/Chicago:20260923T170000
 SUMMARY:Lady Cat Softball Skills & Drills
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School Softball Field
-DESCRIPTION:Skills and drills session with the Lady Cat coaching staff and
-  players for current Conway 6th-8th grade softball players. $10 per player
- \, per session.
+DESCRIPTION:Fall skills session with the Lady Cat coaching staff and playe
+ rs covering hitting\, fielding\, and throwing. $10 per player\, per sessio
+ n. Bring glove\, bat\, helmet\, and water. Sign up online.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8e67bff22488@calendar-sync.conwaypto.org
@@ -930,9 +930,9 @@ DTEND;TZID=America/Chicago:20260930T170000
 SUMMARY:Lady Cat Softball Skills & Drills
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School Softball Field
-DESCRIPTION:Skills and drills session with the Lady Cat coaching staff and
-  players for current Conway 6th-8th grade softball players. $10 per player
- \, per session.
+DESCRIPTION:Fall skills session with the Lady Cat coaching staff and playe
+ rs covering hitting\, fielding\, and throwing. $10 per player\, per sessio
+ n. Bring glove\, bat\, helmet\, and water. Sign up online.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-447773de35c9@calendar-sync.conwaypto.org
@@ -1413,6 +1413,17 @@ SUMMARY:Girls Varsity Basketball at Joe T. Robinson DA Matchup Showcase
 CATEGORIES:ATHLETICS
 LOCATION:LR Christian High School
 DESCRIPTION:Girls Varsity Basketball at Joe T. Robinson DA Matchup Showcas
+ e
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-c728df77282b@calendar-sync.conwaypto.org
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=America/Chicago:20261121T150000
+DTEND;TZID=America/Chicago:20261121T180000
+SUMMARY:Girls Varsity Basketball at Pulaski Academy DA Matchup Showcase
+CATEGORIES:ATHLETICS
+LOCATION:LR Christian High School
+DESCRIPTION:Girls Varsity Basketball at Pulaski Academy DA Matchup Showcas
  e
 END:VEVENT
 END:VCALENDAR
