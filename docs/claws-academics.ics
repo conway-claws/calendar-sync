@@ -23,39 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-4cec5f6520c4@calendar-sync.conwaypto.org
-DTSTAMP:20260825T000000Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:Chromebook Checks – Sophomores
-CATEGORIES:ACADEMICS
-LOCATION:Conway High School (ELA Classes)
-DESCRIPTION:Beginning of the year Chromebook checks for sophomores during 
- ELA classes.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-25baa3faf0b2@calendar-sync.conwaypto.org
-DTSTAMP:20260826T000000Z
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-SUMMARY:Chromebook Checks – Juniors
-CATEGORIES:ACADEMICS
-LOCATION:Conway High School (ELA Classes)
-DESCRIPTION:Beginning of the year Chromebook checks for juniors during ELA
-  classes.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-2b2fad016939@calendar-sync.conwaypto.org
-DTSTAMP:20260827T000000Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:Chromebook Checks – Seniors
-CATEGORIES:ACADEMICS
-LOCATION:Conway High School (ELA Classes)
-DESCRIPTION:Beginning of the year Chromebook checks for seniors during ELA
-  classes.
-END:VEVENT
-BEGIN:VEVENT
 UID:ical-a52a69d6d0ae@calendar-sync.conwaypto.org
 DTSTAMP:20260907T000000Z
 DTSTART;VALUE=DATE:20260907
@@ -64,15 +31,49 @@ SUMMARY:Labor Day (Students & Staff Dismissed)
 CATEGORIES:ACADEMICS
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-de048a9a8a69@calendar-sync.conwaypto.org
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Chromebook Checks - Sophomores
+CATEGORIES:ACADEMICS
+LOCATION:ELA Classes
+DESCRIPTION:Beginning of the year Chromebook checks for sophomores in ELA 
+ classes.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-91e508c5beb1@calendar-sync.conwaypto.org
+DTSTAMP:20260926T000000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:Chromebook Checks - Juniors
+CATEGORIES:ACADEMICS
+LOCATION:ELA Classes
+DESCRIPTION:Beginning of the year Chromebook checks for juniors in ELA cla
+ sses.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-c13b79dfbe08@calendar-sync.conwaypto.org
+DTSTAMP:20260927T000000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Chromebook Checks - Seniors
+CATEGORIES:ACADEMICS
+LOCATION:ELA Classes
+DESCRIPTION:Beginning of the year Chromebook checks for seniors in ELA cla
+ sses.
+END:VEVENT
+BEGIN:VEVENT
 UID:feed-95bea8785e0d@calendar-sync.conwaypto.org
 DTSTAMP:20261002T000000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Deadline: Senior Yearbook Ad Early Order Deadline (Save $25)
 CATEGORIES:ACADEMICS
-DESCRIPTION:Order a personalized senior ad in the 2027 Conway High School 
- Yearbook by October 2 to save $25. Create your ad online or upload one you
- 've already designed.
+DESCRIPTION:Order a personalized senior ad for the 2027 Conway High School
+  Yearbook by October 2 to save $25. Create your ad online or upload one yo
+ u've designed. See the graphic or your email for ad sizes\, pricing\, and 
+ ordering instructions.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-86b2418c1596@calendar-sync.conwaypto.org
@@ -112,8 +113,7 @@ DTEND;VALUE=DATE:20261010
 SUMMARY:Deadline: Senior Yearbook Ad Extended Deadline
 CATEGORIES:ACADEMICS
 DESCRIPTION:Extended deadline to purchase a senior ad in the 2027 Conway H
- igh School Yearbook. See the graphic or your email for ad sizes\, pricing\
- , and ordering information.
+ igh School Yearbook honoring your CHS senior.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-2753988abe96@calendar-sync.conwaypto.org

@@ -223,25 +223,13 @@ LOCATION:Conway Tennis Center
 DESCRIPTION:Girls Varsity Tennis vs Maumelle (JV Only)
 END:VEVENT
 BEGIN:VEVENT
-UID:feed-fa8d3b94e0e4@calendar-sync.conwaypto.org
-DTSTAMP:20260902T000000Z
-DTSTART;TZID=America/Chicago:20260902T160000
-DTEND;TZID=America/Chicago:20260902T170000
-SUMMARY:Lady Cat Softball Skills & Drills
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School Softball Field
-DESCRIPTION:Fall skills session with the Lady Cat coaching staff and playe
- rs covering hitting\, fielding\, and throwing. $10 per player\, per sessio
- n. Bring glove\, bat\, helmet\, and water. Sign up online.
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-27f4b247c71e@calendar-sync.conwaypto.org
 DTSTAMP:20260902T000000Z
 DTSTART;TZID=America/Chicago:20260902T154500
 DTEND;TZID=America/Chicago:20260902T171500
 SUMMARY:Boys Basketball Newcomer Tryout
 CATEGORIES:ATHLETICS
-LOCATION:Old CHS Gym
+LOCATION:Old CHS gym
 DESCRIPTION:Wampus Cat Boys Basketball newcomer tryout. Participants must 
  have a current physical in DragonFly or present one at the tryout. See Coa
  ch Moon for more information.
@@ -385,18 +373,6 @@ SUMMARY:Boys Varsity Golf at North Little Rock
 CATEGORIES:ATHLETICS
 LOCATION:Burns Park CC
 DESCRIPTION:Boys Varsity Golf at North Little Rock
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-ffc554841930@calendar-sync.conwaypto.org
-DTSTAMP:20260909T000000Z
-DTSTART;TZID=America/Chicago:20260909T160000
-DTEND;TZID=America/Chicago:20260909T170000
-SUMMARY:Lady Cat Softball Skills & Drills
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School Softball Field
-DESCRIPTION:Fall skills session with the Lady Cat coaching staff and playe
- rs covering hitting\, fielding\, and throwing. $10 per player\, per sessio
- n. Bring glove\, bat\, helmet\, and water. Sign up online.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-60b427829982@calendar-sync.conwaypto.org
@@ -557,18 +533,6 @@ SUMMARY:Boys Varsity Tennis vs Ft. Smith Northside
 CATEGORIES:ATHLETICS
 LOCATION:Conway Tennis Center
 DESCRIPTION:Boys Varsity Tennis vs Ft. Smith Northside
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-78da7fadee96@calendar-sync.conwaypto.org
-DTSTAMP:20260916T000000Z
-DTSTART;TZID=America/Chicago:20260916T160000
-DTEND;TZID=America/Chicago:20260916T170000
-SUMMARY:Lady Cat Softball Skills & Drills
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School Softball Field
-DESCRIPTION:Fall skills session with the Lady Cat coaching staff and playe
- rs covering hitting\, fielding\, and throwing. $10 per player\, per sessio
- n. Bring glove\, bat\, helmet\, and water. Sign up online.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-04e21bf78f1a@calendar-sync.conwaypto.org
@@ -741,18 +705,6 @@ LOCATION:Longhills CC
 DESCRIPTION:Girls Varsity Golf at Benton- JV
 END:VEVENT
 BEGIN:VEVENT
-UID:feed-8e2474942840@calendar-sync.conwaypto.org
-DTSTAMP:20260923T000000Z
-DTSTART;TZID=America/Chicago:20260923T160000
-DTEND;TZID=America/Chicago:20260923T170000
-SUMMARY:Lady Cat Softball Skills & Drills
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School Softball Field
-DESCRIPTION:Fall skills session with the Lady Cat coaching staff and playe
- rs covering hitting\, fielding\, and throwing. $10 per player\, per sessio
- n. Bring glove\, bat\, helmet\, and water. Sign up online.
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-8e67bff22488@calendar-sync.conwaypto.org
 DTSTAMP:20260924T000000Z
 DTSTART;TZID=America/Chicago:20260924T170000
@@ -921,18 +873,6 @@ SUMMARY:Girls Varsity Volleyball vs Little Rock Southwest
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls Varsity Volleyball vs Little Rock Southwest
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-3e661e15024e@calendar-sync.conwaypto.org
-DTSTAMP:20260930T000000Z
-DTSTART;TZID=America/Chicago:20260930T160000
-DTEND;TZID=America/Chicago:20260930T170000
-SUMMARY:Lady Cat Softball Skills & Drills
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School Softball Field
-DESCRIPTION:Fall skills session with the Lady Cat coaching staff and playe
- rs covering hitting\, fielding\, and throwing. $10 per player\, per sessio
- n. Bring glove\, bat\, helmet\, and water. Sign up online.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-447773de35c9@calendar-sync.conwaypto.org
