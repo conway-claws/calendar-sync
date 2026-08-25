@@ -23,56 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:athletics-1dc64b9d1ed7@calendar-sync.conwaypto.org
-DTSTAMP:20260824T000000Z
-DTSTART;TZID=America/Chicago:20260824T180000
-DTEND;TZID=America/Chicago:20260824T210000
-SUMMARY:Boys JV Football at Little Rock Central
-CATEGORIES:ATHLETICS
-LOCATION:Quigley Field
-DESCRIPTION:Boys JV Football at Little Rock Central
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-9355084f482e@calendar-sync.conwaypto.org
-DTSTAMP:20260824T000000Z
-DTSTART;TZID=America/Chicago:20260824T170000
-DTEND;TZID=America/Chicago:20260824T200000
-SUMMARY:Girls JV Volleyball vs Benton
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls JV Volleyball vs Benton
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-c4e6a1b18525@calendar-sync.conwaypto.org
-DTSTAMP:20260824T000000Z
-DTSTART;TZID=America/Chicago:20260824T090000
-DTEND;TZID=America/Chicago:20260824T120000
-SUMMARY:Girls Varsity Golf at Bryant
-CATEGORIES:ATHLETICS
-LOCATION:Hurricane CC
-DESCRIPTION:Girls Varsity Golf at Bryant
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-f543752a4aba@calendar-sync.conwaypto.org
-DTSTAMP:20260824T000000Z
-DTSTART;TZID=America/Chicago:20260824T180000
-DTEND;TZID=America/Chicago:20260824T210000
-SUMMARY:Girls Varsity Volleyball vs Benton
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls Varsity Volleyball vs Benton
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-fd448a55a289@calendar-sync.conwaypto.org
-DTSTAMP:20260824T000000Z
-DTSTART;TZID=America/Chicago:20260824T090000
-DTEND;TZID=America/Chicago:20260824T120000
-SUMMARY:Boys Varsity Golf at Bryant
-CATEGORIES:ATHLETICS
-LOCATION:Hurricane CC
-DESCRIPTION:Boys Varsity Golf at Bryant
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-1bf471d58aa6@calendar-sync.conwaypto.org
 DTSTAMP:20260825T000000Z
 DTSTART;TZID=America/Chicago:20260825T153000
@@ -163,14 +113,46 @@ LOCATION:John McConnell Stadium
 DESCRIPTION:Boys Varsity Football vs Capital High School (MO)
 END:VEVENT
 BEGIN:VEVENT
-UID:athletics-1879f3d0debf@calendar-sync.conwaypto.org
+UID:newsletter-c31ecaa88666@calendar-sync.conwaypto.org
+DTSTAMP:20260828T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Football Game Day - USA Theme
+CATEGORIES:ATHLETICS
+LOCATION:Home
+DESCRIPTION:Home game day theme: USA.
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-14e6cce86260@calendar-sync.conwaypto.org
 DTSTAMP:20260829T000000Z
-DTSTART;TZID=America/Chicago:20260829T000000
-DTEND;TZID=America/Chicago:20260829T030000
-SUMMARY:Girls Varsity Volleyball at Early Bird Invitational
+DTSTART;TZID=America/Chicago:20260829T110000
+DTEND;TZID=America/Chicago:20260829T140000
+SUMMARY:Girls Varsity Volleyball at Greenwood  Early Bird Invitational
 CATEGORIES:ATHLETICS
 LOCATION:Bentonville HS Gym
-DESCRIPTION:Girls Varsity Volleyball at Early Bird Invitational
+DESCRIPTION:Girls Varsity Volleyball at Greenwood  Early Bird Invitational
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-19f7d75e4704@calendar-sync.conwaypto.org
+DTSTAMP:20260829T000000Z
+DTSTART;TZID=America/Chicago:20260829T130000
+DTEND;TZID=America/Chicago:20260829T160000
+SUMMARY:Girls Varsity Volleyball at Har-Ber Early Bird Invitational
+CATEGORIES:ATHLETICS
+LOCATION:Bentonville HS Gym
+DESCRIPTION:Girls Varsity Volleyball at Har-Ber Early Bird Invitational
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-bc8e32ba15a6@calendar-sync.conwaypto.org
+DTSTAMP:20260829T000000Z
+DTSTART;TZID=America/Chicago:20260829T090000
+DTEND;TZID=America/Chicago:20260829T120000
+SUMMARY:Girls Varsity Volleyball at Little Rock Christian  Early Bird Invi
+ tational
+CATEGORIES:ATHLETICS
+LOCATION:Bentonville HS Gym
+DESCRIPTION:Girls Varsity Volleyball at Little Rock Christian  Early Bird 
+ Invitational
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-31897f51fd0b@calendar-sync.conwaypto.org
@@ -229,7 +211,7 @@ DTSTART;TZID=America/Chicago:20260902T154500
 DTEND;TZID=America/Chicago:20260902T171500
 SUMMARY:Boys Basketball Newcomer Tryout
 CATEGORIES:ATHLETICS
-LOCATION:Old CHS gym
+LOCATION:Old CHS Gym
 DESCRIPTION:Wampus Cat Boys Basketball newcomer tryout. Participants must 
  have a current physical in DragonFly or present one at the tryout. See Coa
  ch Moon for more information.
@@ -303,6 +285,16 @@ SUMMARY:Boys Varsity Football vs Bentonville
 CATEGORIES:ATHLETICS
 LOCATION:John McConnell Stadium
 DESCRIPTION:Boys Varsity Football vs Bentonville
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-6f224d1273b2@calendar-sync.conwaypto.org
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Football Game Day - Welcome to the Jungle Theme
+CATEGORIES:ATHLETICS
+LOCATION:Home
+DESCRIPTION:Home game day theme: Welcome to the Jungle.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-5877bccc9d20@calendar-sync.conwaypto.org
@@ -413,6 +405,16 @@ SUMMARY:Boys Varsity Football at Marion
 CATEGORIES:ATHLETICS
 LOCATION:Marion Field
 DESCRIPTION:Boys Varsity Football at Marion
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-f68ca7226a7c@calendar-sync.conwaypto.org
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Football Game Day - Construction Theme
+CATEGORIES:ATHLETICS
+LOCATION:Away
+DESCRIPTION:Away game day theme: Construction.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-a3a2ae01d47e@calendar-sync.conwaypto.org
@@ -595,6 +597,46 @@ LOCATION:Longhills CC
 DESCRIPTION:Girls Varsity Golf at Benton
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-262a0cce08d7@calendar-sync.conwaypto.org
+DTSTAMP:20260919T000000Z
+DTSTART;TZID=America/Chicago:20260919T090000
+DTEND;TZID=America/Chicago:20260919T120000
+SUMMARY:Girls Varsity Volleyball at Ozark  Springfield Classic
+CATEGORIES:ATHLETICS
+LOCATION:The Fieldhouse
+DESCRIPTION:Girls Varsity Volleyball at Ozark  Springfield Classic
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-4b266b4451fc@calendar-sync.conwaypto.org
+DTSTAMP:20260919T000000Z
+DTSTART;TZID=America/Chicago:20260919T100000
+DTEND;TZID=America/Chicago:20260919T130000
+SUMMARY:Girls Varsity Volleyball at Nixa Springfield Classic
+CATEGORIES:ATHLETICS
+LOCATION:The Fieldhouse
+DESCRIPTION:Girls Varsity Volleyball at Nixa Springfield Classic
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-b14103353296@calendar-sync.conwaypto.org
+DTSTAMP:20260919T000000Z
+DTSTART;TZID=America/Chicago:20260919T123000
+DTEND;TZID=America/Chicago:20260919T153000
+SUMMARY:Girls Varsity Volleyball at Kickapoo Springfield Classic
+CATEGORIES:ATHLETICS
+LOCATION:The Fieldhouse
+DESCRIPTION:Girls Varsity Volleyball at Kickapoo Springfield Classic
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-ca31e03a7043@calendar-sync.conwaypto.org
+DTSTAMP:20260919T000000Z
+DTSTART;TZID=America/Chicago:20260919T143000
+DTEND;TZID=America/Chicago:20260919T173000
+SUMMARY:Girls Varsity Volleyball at Republic  Springfield Classic
+CATEGORIES:ATHLETICS
+LOCATION:The Fieldhouse
+DESCRIPTION:Girls Varsity Volleyball at Republic  Springfield Classic
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-e24103f1051c@calendar-sync.conwaypto.org
 DTSTAMP:20260919T000000Z
 DTSTART;TZID=America/Chicago:20260919T000000
@@ -753,6 +795,16 @@ SUMMARY:Boys Varsity Football at Northside
 CATEGORIES:ATHLETICS
 LOCATION:Northside Field
 DESCRIPTION:Boys Varsity Football at Northside
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-b00759620949@calendar-sync.conwaypto.org
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Football Game Day - Hawaiian Theme
+CATEGORIES:ATHLETICS
+LOCATION:Away
+DESCRIPTION:Away game day theme: Hawaiian.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-93c20b5ba321@calendar-sync.conwaypto.org
@@ -925,6 +977,16 @@ LOCATION:John McConnell Stadium
 DESCRIPTION:Boys Varsity Football vs North Little Rock
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-eb215f089483@calendar-sync.conwaypto.org
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Football Game Day - Blackout Theme
+CATEGORIES:ATHLETICS
+LOCATION:Home
+DESCRIPTION:Home game day theme: Blackout.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-afda75f6614f@calendar-sync.conwaypto.org
 DTSTAMP:20261005T000000Z
 DTSTART;TZID=America/Chicago:20261005T000000
@@ -993,6 +1055,16 @@ SUMMARY:Boys Varsity Football at Cabot
 CATEGORIES:ATHLETICS
 LOCATION:Cabot Field
 DESCRIPTION:Boys Varsity Football at Cabot
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-a24860cd3d36@calendar-sync.conwaypto.org
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Football Game Day - Jerseys Theme
+CATEGORIES:ATHLETICS
+LOCATION:Away
+DESCRIPTION:Away game day theme: Jerseys.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-144d6727c001@calendar-sync.conwaypto.org
@@ -1115,6 +1187,16 @@ LOCATION:John McConnell Stadium
 DESCRIPTION:Boys Varsity Football vs Little Rock Central High
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-3d267a2ba8d9@calendar-sync.conwaypto.org
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Homecoming Football Game Day - Pink & Purple Theme
+CATEGORIES:ATHLETICS
+LOCATION:Home
+DESCRIPTION:Homecoming home game day theme: Pink & Purple.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
 DTSTAMP:20261019T000000Z
 DTSTART;TZID=America/Chicago:20261019T190000
@@ -1195,6 +1277,16 @@ LOCATION:Pulaski Academy Field
 DESCRIPTION:Boys Varsity Football at Pulaski Academy
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-07a667474d78@calendar-sync.conwaypto.org
+DTSTAMP:20261023T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Football Game Day - Super Hero Theme
+CATEGORIES:ATHLETICS
+LOCATION:Away
+DESCRIPTION:Away game day theme: Super Hero.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-b5bc1f7cb0d3@calendar-sync.conwaypto.org
 DTSTAMP:20261024T000000Z
 DTSTART;TZID=America/Chicago:20261024T000000
@@ -1245,6 +1337,16 @@ LOCATION:John McConnell Stadium
 DESCRIPTION:Boys Varsity Football vs Little Rock Christian
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-bee94bb24243@calendar-sync.conwaypto.org
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Football Game Day - Frat Theme
+CATEGORIES:ATHLETICS
+LOCATION:Home
+DESCRIPTION:Home game day theme: Frat.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=America/Chicago:20261031T000000
@@ -1283,6 +1385,16 @@ SUMMARY:Boys Varsity Football at Bryant
 CATEGORIES:ATHLETICS
 LOCATION:Bryant Field
 DESCRIPTION:Boys Varsity Football at Bryant
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-3b5ba45c5c44@calendar-sync.conwaypto.org
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Football Game Day - Whiteout Theme
+CATEGORIES:ATHLETICS
+LOCATION:Away
+DESCRIPTION:Away game day theme: Whiteout.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d7fcc4fa289b@calendar-sync.conwaypto.org

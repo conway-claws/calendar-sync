@@ -23,10 +23,21 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:newsletter-afb1d761fa19@calendar-sync.conwaypto.org
+DTSTAMP:20260825T000000Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Caring Cats First Meeting
+CATEGORIES:ACTIVITIES
+LOCATION:Old Gym
+DESCRIPTION:Caring Cats first meeting of the year during both lunches. Int
+ erested students and returning members should attend for information.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-9b432a4ef560@calendar-sync.conwaypto.org
 DTSTAMP:20260827T000000Z
-DTSTART;TZID=America/Chicago:20260827T112000
-DTEND;TZID=America/Chicago:20260827T124500
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
 SUMMARY:Kona Ice on Campus
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
@@ -70,20 +81,21 @@ DTEND;VALUE=DATE:20260909
 SUMMARY:CHS Beta Club First Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Lecture Hall
-DESCRIPTION:First meeting of the year during WIN Period for existing membe
- rs and anyone interested in joining.
+DESCRIPTION:First Beta Club meeting of the year during WIN Period. Existin
+ g members and interested students should attend.
 END:VEVENT
 BEGIN:VEVENT
-UID:newsletter-36a3fade9733@calendar-sync.conwaypto.org
+UID:newsletter-b507f8ff9b12@calendar-sync.conwaypto.org
 DTSTAMP:20260921T000000Z
 DTSTART;TZID=America/Chicago:20260921T180000
 DTEND;TZID=America/Chicago:20260921T190000
-SUMMARY:Student Travel Informational Meeting
+SUMMARY:Student Travel Abroad Informational Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Room 165
-DESCRIPTION:Informational meeting about upcoming student travel opportunit
- ies to Japan\, Australia & New Zealand\, or London\, Paris & Rome. Learn a
- bout trips\, what is included\, costs\, and how to get involved.
+DESCRIPTION:Informational meeting for students and families about upcoming
+  student travel opportunities to Japan\, Australia & New Zealand\, and Lon
+ don\, Paris & Rome. Learn about the trips\, what is included\, costs\, and
+  how to get involved.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-c41729aaba69@calendar-sync.conwaypto.org

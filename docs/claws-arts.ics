@@ -32,6 +32,19 @@ CATEGORIES:ARTS
 LOCATION:Conway High School Band Room
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-e06f24f21d23@calendar-sync.conwaypto.org
+DTSTAMP:20260827T000000Z
+DTSTART;TZID=America/Chicago:20260827T160000
+DTEND;TZID=America/Chicago:20260827T180000
+SUMMARY:PUFFS Fall Play Auditions
+CATEGORIES:ARTS
+LOCATION:Mr. S's room (104-A of the auditorium)
+DESCRIPTION:Auditions for the fall play PUFFS\, directed by Ms. Heather Ho
+ oten. No sign-up times\; be prepared to read a scene or two from the scrip
+ t. Attend either August 27 or August 31. Questions: hootenh@conwayschools.
+ info
+END:VEVENT
+BEGIN:VEVENT
 UID:orchestra-6c38bd7ea8f4@calendar-sync.conwaypto.org
 DTSTAMP:20260829T000000Z
 DTSTART;TZID=America/Chicago:20260829T100000
@@ -47,6 +60,18 @@ DTSTART;VALUE=DATE:20260829
 DTEND;VALUE=DATE:20260830
 SUMMARY:Play Music on the Porch Day
 CATEGORIES:ARTS
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-b204e88a7d16@calendar-sync.conwaypto.org
+DTSTAMP:20260831T000000Z
+DTSTART;TZID=America/Chicago:20260831T160000
+DTEND;TZID=America/Chicago:20260831T180000
+SUMMARY:PUFFS Fall Play Auditions
+CATEGORIES:ARTS
+LOCATION:Mr. S's room (104-A of the auditorium)
+DESCRIPTION:Second audition day for the fall play PUFFS. No sign-up times\
+ ; be prepared to read a scene or two from the script. You only need to att
+ end one day.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-9d3775cfbbe9@calendar-sync.conwaypto.org
