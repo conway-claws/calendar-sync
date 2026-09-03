@@ -1,9 +1,8 @@
 name: sync
 on:
   schedule:
-    # Both UTC hours that can be 7:00 AM America/Chicago; the gate step below
-    # runs the build only on the one that is, so the job fires at a fixed 7:00
-    # local year-round.
+    # Both UTC hours that can be 7:00 AM America/Chicago. GitHub may fire
+    # either one hours late, so the gate below keys on feed age, not the clock.
     - cron: "0 12 * * *"
     - cron: "0 13 * * *"
   workflow_dispatch: {}
@@ -16,17 +15,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: gate on 7 AM Central
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262  # v4
+        with:
+          fetch-depth: 50
+      - name: gate on feed age
         id: gate
         run: |
-          hour=$(TZ=America/Chicago date +%H)
-          if [ "${{ github.event_name }}" != "schedule" ] || [ "$hour" = "07" ]; then
+          built=$(git log -1 --format=%ct -- docs/)
+          age=$(( $(date +%s) - ${built:-0} ))
+          if [ "${{ github.event_name }}" != "schedule" ] || [ "$age" -gt 72000 ]; then
             echo "run=true" >> "$GITHUB_OUTPUT"
           else
             echo "run=false" >> "$GITHUB_OUTPUT"
           fi
-      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262  # v4
-        if: steps.gate.outputs.run == 'true'
       - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065  # v5
         if: steps.gate.outputs.run == 'true'
         with:
