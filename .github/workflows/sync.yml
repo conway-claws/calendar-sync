@@ -5,7 +5,12 @@ on:
     # either one hours late, so the gate below keys on feed age, not the clock.
     - cron: "0 12 * * *"
     - cron: "0 13 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      force:
+        description: override the removal cap
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -41,7 +46,10 @@ jobs:
         if: steps.gate.outputs.run == 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python3 bin/build.py | tee build.log
+        # pipefail so a removal-cap abort (exit 2) fails the run instead of tee hiding it
+        run: |
+          set -o pipefail
+          python3 bin/build.py ${{ inputs.force && '--force' || '' }} | tee build.log
       - name: commit
         if: steps.gate.outputs.run == 'true'
         run: |
