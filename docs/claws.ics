@@ -23,335 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:orchestra-4632935a1bf2@calendar-sync.conwaypto.org
-DTSTAMP:20260824T000000Z
-DTSTART;TZID=America/Chicago:20260824T160000
-DTEND;TZID=America/Chicago:20260824T190000
-SUMMARY:Saied Rental night
-CATEGORIES:ARTS
-LOCATION:Conway High School Band Room
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-1bf471d58aa6@calendar-sync.conwaypto.org
-DTSTAMP:20260825T000000Z
-DTSTART;TZID=America/Chicago:20260825T153000
-DTEND;TZID=America/Chicago:20260825T183000
-SUMMARY:Boys Varsity Cross Country at Perryville Mustang Invitational
-CATEGORIES:ATHLETICS
-LOCATION:Perryville High School
-DESCRIPTION:Boys Varsity Cross Country at Perryville Mustang Invitational
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-610c13d7dcd4@calendar-sync.conwaypto.org
-DTSTAMP:20260825T000000Z
-DTSTART;TZID=America/Chicago:20260825T090000
-DTEND;TZID=America/Chicago:20260825T120000
-SUMMARY:Boys Varsity Golf at Benton
-CATEGORIES:ATHLETICS
-LOCATION:Longhills CC
-DESCRIPTION:Boys Varsity Golf at Benton
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-a2a6d058a34b@calendar-sync.conwaypto.org
-DTSTAMP:20260825T000000Z
-DTSTART;TZID=America/Chicago:20260825T153000
-DTEND;TZID=America/Chicago:20260825T183000
-SUMMARY:Girls Varsity Cross Country at Perryville Mustang Invitational
-CATEGORIES:ATHLETICS
-LOCATION:Perryville High School
-DESCRIPTION:Girls Varsity Cross Country at Perryville Mustang Invitational
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-e3a0881df220@calendar-sync.conwaypto.org
-DTSTAMP:20260825T000000Z
-DTSTART;TZID=America/Chicago:20260825T090000
-DTEND;TZID=America/Chicago:20260825T120000
-SUMMARY:Girls Varsity Golf at Benton
-CATEGORIES:ATHLETICS
-LOCATION:Longhills CC
-DESCRIPTION:Girls Varsity Golf at Benton
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-afb1d761fa19@calendar-sync.conwaypto.org
-DTSTAMP:20260825T000000Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:Caring Cats First Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:Old Gym
-DESCRIPTION:Caring Cats first meeting of the year during both lunches. Int
- erested students and returning members should attend for information.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-dad165f3da06@calendar-sync.conwaypto.org
-DTSTAMP:20260825T000000Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:Chromebook Check - Sophomores
-CATEGORIES:ACADEMICS
-LOCATION:Conway High School
-DESCRIPTION:Beginning of the year Chromebook checks for sophomores during 
- ELA classes.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-3cfe0daadcf6@calendar-sync.conwaypto.org
-DTSTAMP:20260826T000000Z
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-SUMMARY:Chromebook Check - Juniors
-CATEGORIES:ACADEMICS
-LOCATION:Conway High School
-DESCRIPTION:Beginning of the year Chromebook checks for juniors during ELA
-  classes.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-135dec7429c6@calendar-sync.conwaypto.org
-DTSTAMP:20260827T000000Z
-DTSTART;TZID=America/Chicago:20260827T180000
-DTEND;TZID=America/Chicago:20260827T210000
-SUMMARY:Girls Varsity Volleyball at Greenwood
-CATEGORIES:ATHLETICS
-LOCATION:Greenwood VB Gym
-DESCRIPTION:Girls Varsity Volleyball at Greenwood
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-5fcb42711052@calendar-sync.conwaypto.org
-DTSTAMP:20260827T000000Z
-DTSTART;TZID=America/Chicago:20260827T170000
-DTEND;TZID=America/Chicago:20260827T200000
-SUMMARY:Girls JV Volleyball at Greenwood
-CATEGORIES:ATHLETICS
-LOCATION:Greenwood HS Gym
-DESCRIPTION:Girls JV Volleyball at Greenwood
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-8179a9725361@calendar-sync.conwaypto.org
-DTSTAMP:20260827T000000Z
-DTSTART;TZID=America/Chicago:20260827T153000
-DTEND;TZID=America/Chicago:20260827T183000
-SUMMARY:Boys Varsity Tennis vs Lakeside
-CATEGORIES:ATHLETICS
-LOCATION:Conway Tennis Center
-DESCRIPTION:Boys Varsity Tennis vs Lakeside
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-f4e5f47d9063@calendar-sync.conwaypto.org
-DTSTAMP:20260827T000000Z
-DTSTART;TZID=America/Chicago:20260827T153000
-DTEND;TZID=America/Chicago:20260827T183000
-SUMMARY:Girls Varsity Tennis vs Lakeside
-CATEGORIES:ATHLETICS
-LOCATION:Conway Tennis Center
-DESCRIPTION:Girls Varsity Tennis vs Lakeside
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-3e291c74ebd5@calendar-sync.conwaypto.org
-DTSTAMP:20260827T000000Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:Library Closed During WIN
-CATEGORIES:ACADEMICS
-LOCATION:CHS Library
-DESCRIPTION:The library will be closed during WIN period on Thursday\, Aug
- ust 27.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-46c75a68d77b@calendar-sync.conwaypto.org
-DTSTAMP:20260827T000000Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:Chromebook Check - Seniors
-CATEGORIES:ACADEMICS
-LOCATION:Conway High School
-DESCRIPTION:Beginning of the year Chromebook checks for seniors during ELA
-  classes.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-9b432a4ef560@calendar-sync.conwaypto.org
-DTSTAMP:20260827T000000Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:Kona Ice on Campus
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
-DESCRIPTION:Kona Ice will be on campus during both lunches.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-e06f24f21d23@calendar-sync.conwaypto.org
-DTSTAMP:20260827T000000Z
-DTSTART;TZID=America/Chicago:20260827T160000
-DTEND;TZID=America/Chicago:20260827T180000
-SUMMARY:PUFFS Fall Play Auditions
-CATEGORIES:ARTS
-LOCATION:Mr. S's room (104-A of the auditorium)
-DESCRIPTION:Auditions for the fall play PUFFS\, directed by Ms. Heather Ho
- oten. No sign-up times\; be prepared to read a scene or two from the scrip
- t. Attend either August 27 or August 31. Questions: hootenh@conwayschools.
- info
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-e84fe62978f9@calendar-sync.conwaypto.org
-DTSTAMP:20260827T000000Z
-DTSTART;TZID=America/Chicago:20260827T153500
-DTEND;TZID=America/Chicago:20260827T163500
-SUMMARY:Model UN Club Interest Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:Room 263 (2nd floor\, Mr. Richardson's room)
-DESCRIPTION:Join the Model United Nations club. Current members will be av
- ailable to discuss the club and competitions.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-9feb07d91ca0@calendar-sync.conwaypto.org
-DTSTAMP:20260828T000000Z
-DTSTART;TZID=America/Chicago:20260828T190000
-DTEND;TZID=America/Chicago:20260828T220000
-SUMMARY:Boys Varsity Football vs Capital High School (MO)
-CATEGORIES:ATHLETICS
-LOCATION:John McConnell Stadium
-DESCRIPTION:Boys Varsity Football vs Capital High School (MO)
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-c31ecaa88666@calendar-sync.conwaypto.org
-DTSTAMP:20260828T000000Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:Football Game Day - USA Theme
-CATEGORIES:ATHLETICS
-LOCATION:Home
-DESCRIPTION:Home game day theme: USA.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-14e6cce86260@calendar-sync.conwaypto.org
-DTSTAMP:20260829T000000Z
-DTSTART;TZID=America/Chicago:20260829T110000
-DTEND;TZID=America/Chicago:20260829T140000
-SUMMARY:Girls Varsity Volleyball at Greenwood  Early Bird Invitational
-CATEGORIES:ATHLETICS
-LOCATION:Bentonville HS Gym
-DESCRIPTION:Girls Varsity Volleyball at Greenwood  Early Bird Invitational
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-19f7d75e4704@calendar-sync.conwaypto.org
-DTSTAMP:20260829T000000Z
-DTSTART;TZID=America/Chicago:20260829T130000
-DTEND;TZID=America/Chicago:20260829T160000
-SUMMARY:Girls Varsity Volleyball at Har-Ber Early Bird Invitational
-CATEGORIES:ATHLETICS
-LOCATION:Bentonville HS Gym
-DESCRIPTION:Girls Varsity Volleyball at Har-Ber Early Bird Invitational
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-bc8e32ba15a6@calendar-sync.conwaypto.org
-DTSTAMP:20260829T000000Z
-DTSTART;TZID=America/Chicago:20260829T090000
-DTEND;TZID=America/Chicago:20260829T120000
-SUMMARY:Girls Varsity Volleyball at Little Rock Christian  Early Bird Invi
- tational
-CATEGORIES:ATHLETICS
-LOCATION:Bentonville HS Gym
-DESCRIPTION:Girls Varsity Volleyball at Little Rock Christian  Early Bird 
- Invitational
-END:VEVENT
-BEGIN:VEVENT
-UID:orchestra-6c38bd7ea8f4@calendar-sync.conwaypto.org
-DTSTAMP:20260829T000000Z
-DTSTART;TZID=America/Chicago:20260829T100000
-DTEND;TZID=America/Chicago:20260829T130000
-SUMMARY:CHS Pizza/Paint/Poster Party
-CATEGORIES:ARTS
-LOCATION:CHS Large Ensemble Room
-END:VEVENT
-BEGIN:VEVENT
-UID:orchestra-8910ea71be00@calendar-sync.conwaypto.org
-DTSTAMP:20260829T000000Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:Play Music on the Porch Day
-CATEGORIES:ARTS
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-31897f51fd0b@calendar-sync.conwaypto.org
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=America/Chicago:20260831T180000
-DTEND;TZID=America/Chicago:20260831T210000
-SUMMARY:Girls Varsity Volleyball vs Lakeside
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls Varsity Volleyball vs Lakeside
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-784ff12a99dd@calendar-sync.conwaypto.org
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=America/Chicago:20260831T183000
-DTEND;TZID=America/Chicago:20260831T213000
-SUMMARY:Boys JV Football at North Little Rock
-CATEGORIES:ATHLETICS
-LOCATION:Wildcat Stadium
-DESCRIPTION:Boys JV Football at North Little Rock
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-a54f6e338c43@calendar-sync.conwaypto.org
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=America/Chicago:20260831T170000
-DTEND;TZID=America/Chicago:20260831T200000
-SUMMARY:Girls JV Volleyball vs Lakeside
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls JV Volleyball vs Lakeside
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-b204e88a7d16@calendar-sync.conwaypto.org
-DTSTAMP:20260831T000000Z
-DTSTART;TZID=America/Chicago:20260831T160000
-DTEND;TZID=America/Chicago:20260831T180000
-SUMMARY:PUFFS Fall Play Auditions
-CATEGORIES:ARTS
-LOCATION:Mr. S's room (104-A of the auditorium)
-DESCRIPTION:Second audition day for the fall play PUFFS. No sign-up times\
- ; be prepared to read a scene or two from the script. You only need to att
- end one day.
-END:VEVENT
-BEGIN:VEVENT
-UID:orchestra-9d3775cfbbe9@calendar-sync.conwaypto.org
-DTSTAMP:20260831T000000Z
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-SUMMARY:Program Ad Sales begin
-CATEGORIES:ARTS
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-ffbcabe13937@calendar-sync.conwaypto.org
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=America/Chicago:20260901T153000
-DTEND;TZID=America/Chicago:20260901T183000
-SUMMARY:Boys Varsity Tennis vs Maumelle (JV Only)
-CATEGORIES:ATHLETICS
-LOCATION:Conway Tennis Center
-DESCRIPTION:Boys Varsity Tennis vs Maumelle (JV Only)
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-ffbeff92d41c@calendar-sync.conwaypto.org
-DTSTAMP:20260901T000000Z
-DTSTART;TZID=America/Chicago:20260901T153000
-DTEND;TZID=America/Chicago:20260901T183000
-SUMMARY:Girls Varsity Tennis vs Maumelle (JV Only)
-CATEGORIES:ATHLETICS
-LOCATION:Conway Tennis Center
-DESCRIPTION:Girls Varsity Tennis vs Maumelle (JV Only)
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-27f4b247c71e@calendar-sync.conwaypto.org
-DTSTAMP:20260902T000000Z
-DTSTART;TZID=America/Chicago:20260902T154500
-DTEND;TZID=America/Chicago:20260902T171500
-SUMMARY:Boys Basketball Newcomer Tryout
-CATEGORIES:ATHLETICS
-LOCATION:Old CHS Gym
-DESCRIPTION:Wampus Cat Boys Basketball newcomer tryout. Participants must 
- have a current physical in DragonFly or present one at the tryout. See Coa
- ch Moon for more information.
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-0cf566a06cf0@calendar-sync.conwaypto.org
 DTSTAMP:20260903T000000Z
 DTSTART;TZID=America/Chicago:20260903T180000
@@ -372,16 +43,6 @@ LOCATION:Longhills CC
 DESCRIPTION:Boys Varsity Golf at Benton
 END:VEVENT
 BEGIN:VEVENT
-UID:athletics-b3f583829b84@calendar-sync.conwaypto.org
-DTSTAMP:20260903T000000Z
-DTSTART;TZID=America/Chicago:20260903T153000
-DTEND;TZID=America/Chicago:20260903T183000
-SUMMARY:Boys Varsity Tennis at Little Rock Central
-CATEGORIES:ATHLETICS
-LOCATION:Rebsamen Tennis Center
-DESCRIPTION:Boys Varsity Tennis at Little Rock Central
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-cc2e3f9013a6@calendar-sync.conwaypto.org
 DTSTAMP:20260903T000000Z
 DTSTART;TZID=America/Chicago:20260903T170000
@@ -390,16 +51,6 @@ SUMMARY:Girls JV Volleyball at Little Rock Southwest
 CATEGORIES:ATHLETICS
 LOCATION:LRSW HS Gym
 DESCRIPTION:Girls JV Volleyball at Little Rock Southwest
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-dcc376f62466@calendar-sync.conwaypto.org
-DTSTAMP:20260903T000000Z
-DTSTART;TZID=America/Chicago:20260903T153000
-DTEND;TZID=America/Chicago:20260903T183000
-SUMMARY:Girls Varsity Tennis at Little Rock Central
-CATEGORIES:ATHLETICS
-LOCATION:Rebsamen Tennis Center
-DESCRIPTION:Girls Varsity Tennis at Little Rock Central
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-f04b5a82ce40@calendar-sync.conwaypto.org
@@ -412,6 +63,16 @@ LOCATION:Longhills CC
 DESCRIPTION:Girls Varsity Golf at Benton
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-3155e1c50dfd@calendar-sync.conwaypto.org
+DTSTAMP:20260903T000000Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Library Closed for Dyslexia Screenings
+CATEGORIES:ACADEMICS
+LOCATION:CHS Library
+DESCRIPTION:The library will be closed all day due to dyslexia screenings.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-8fd4241f0f68@calendar-sync.conwaypto.org
 DTSTAMP:20260904T000000Z
 DTSTART;TZID=America/Chicago:20260904T190000
@@ -422,14 +83,46 @@ LOCATION:John McConnell Stadium
 DESCRIPTION:Boys Varsity Football vs Bentonville
 END:VEVENT
 BEGIN:VEVENT
-UID:newsletter-6f224d1273b2@calendar-sync.conwaypto.org
+UID:newsletter-4c0c884ac90b@calendar-sync.conwaypto.org
 DTSTAMP:20260904T000000Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-SUMMARY:Football Game Day - Welcome to the Jungle Theme
+SUMMARY:Deadline: PSAT Sign-Up Deadline
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Deadline for juniors to sign up for the PSAT.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-7a161b66ccc1@calendar-sync.conwaypto.org
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Chromebook Assistance in Library
+CATEGORIES:ACADEMICS
+LOCATION:CHS Library
+DESCRIPTION:Students experiencing Chromebook issues may visit the library 
+ during WIN or 6th period for assistance.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-8d861a9a3f34@calendar-sync.conwaypto.org
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Football Theme Night: Welcome to the Jungle (Home)
 CATEGORIES:ATHLETICS
-LOCATION:Home
-DESCRIPTION:Home game day theme: Welcome to the Jungle.
+LOCATION:Conway High School (Home)
+DESCRIPTION:Home football game theme night: 🌴 Welcome to the Jungle. Se
+ e conwaywampuscats.com for schedule updates.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-54fd7d2eadf9@calendar-sync.conwaypto.org
+DTSTAMP:20260907T000000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:No School – Labor Day
+CATEGORIES:ACADEMICS
+DESCRIPTION:No school in observance of Labor Day. Students return to campu
+ s Tuesday morning.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-a52a69d6d0ae@calendar-sync.conwaypto.org
@@ -529,15 +222,26 @@ DESCRIPTION:<p>School Board Information:Â <a rel="noopener noreferrer no
  socialm3021/featured</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:newsletter-99a59b718e5d@calendar-sync.conwaypto.org
+UID:newsletter-92ff137414fe@calendar-sync.conwaypto.org
 DTSTAMP:20260908T000000Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-SUMMARY:CHS Beta Club First Meeting
+SUMMARY:Beta Club First Meeting
 CATEGORIES:ACTIVITIES
-LOCATION:Lecture Hall
-DESCRIPTION:First Beta Club meeting of the year during WIN Period. Existin
- g members and interested students should attend.
+LOCATION:Lecture Hall\, Conway High School
+DESCRIPTION:CHS Beta Club's first meeting of the year during WIN Period. E
+ xisting members and interested students should attend.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-6dbe900a733d@calendar-sync.conwaypto.org
+DTSTAMP:20260909T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Picture Day - Seniors
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Seniors picture day\; seniors will take their yearbook/cap & g
+ own photo if they have not already done so.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-60b427829982@calendar-sync.conwaypto.org
@@ -570,6 +274,16 @@ LOCATION:Rebsamen Tennis Center
 DESCRIPTION:Boys Varsity Tennis at Pulaski Academy
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-d1687824d395@calendar-sync.conwaypto.org
+DTSTAMP:20260910T000000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Picture Day - Juniors
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Junior picture day.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-8cf68be6b6a5@calendar-sync.conwaypto.org
 DTSTAMP:20260911T000000Z
 DTSTART;TZID=America/Chicago:20260911T190000
@@ -580,14 +294,23 @@ LOCATION:Marion Field
 DESCRIPTION:Boys Varsity Football at Marion
 END:VEVENT
 BEGIN:VEVENT
-UID:newsletter-f68ca7226a7c@calendar-sync.conwaypto.org
+UID:newsletter-378a81c52e5d@calendar-sync.conwaypto.org
 DTSTAMP:20260911T000000Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
-SUMMARY:Football Game Day - Construction Theme
+SUMMARY:Football Theme Night: Construction (Away)
 CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Away game day theme: Construction.
+DESCRIPTION:Away football game theme night: 🚧 Construction.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-e02f3bab3b7c@calendar-sync.conwaypto.org
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Picture Day - Sophomores
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Sophomore picture day.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-0c294cf42e4a@calendar-sync.conwaypto.org
@@ -627,6 +350,16 @@ LOCATION:OBU
 DESCRIPTION:Girls Varsity Cross Country at Bob Gravette Invitational
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-522a309f8bd8@calendar-sync.conwaypto.org
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=America/Chicago:20260914T153000
+DTEND;TZID=America/Chicago:20260914T183000
+SUMMARY:Girls Varsity Tennis at Little Rock Central
+CATEGORIES:ATHLETICS
+LOCATION:Rebsamen Tennis Center
+DESCRIPTION:Girls Varsity Tennis at Little Rock Central
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-7c849d4257c3@calendar-sync.conwaypto.org
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=America/Chicago:20260914T183000
@@ -645,6 +378,16 @@ SUMMARY:Boys Varsity Golf at Catholic
 CATEGORIES:ATHLETICS
 LOCATION:Rebsamen GC
 DESCRIPTION:Boys Varsity Golf at Catholic
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-dbcf9d4b8699@calendar-sync.conwaypto.org
+DTSTAMP:20260914T000000Z
+DTSTART;TZID=America/Chicago:20260914T153000
+DTEND;TZID=America/Chicago:20260914T183000
+SUMMARY:Boys Varsity Tennis at Little Rock Central
+CATEGORIES:ATHLETICS
+LOCATION:Rebsamen Tennis Center
+DESCRIPTION:Boys Varsity Tennis at Little Rock Central
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-20458b3852b8@calendar-sync.conwaypto.org
@@ -707,6 +450,17 @@ LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls Varsity Volleyball vs Van Buren
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-1f0336ec377c@calendar-sync.conwaypto.org
+DTSTAMP:20260915T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Jostens Visit - Seniors (Cap & Gown Info)
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Jostens visits during ELA classes so seniors can learn about c
+ ap & gown options and graduation essentials.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-3c8f256b1b7b@calendar-sync.conwaypto.org
 DTSTAMP:20260916T000000Z
 DTSTART;TZID=America/Chicago:20260916T153000
@@ -725,6 +479,17 @@ SUMMARY:Boys Varsity Tennis vs Ft. Smith Northside
 CATEGORIES:ATHLETICS
 LOCATION:Conway Tennis Center
 DESCRIPTION:Boys Varsity Tennis vs Ft. Smith Northside
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-0a9994b95634@calendar-sync.conwaypto.org
+DTSTAMP:20260916T000000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Jostens Visit - Juniors (Class Ring Info)
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Jostens visits during ELA classes with information about class
+  rings and ordering.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-04e21bf78f1a@calendar-sync.conwaypto.org
@@ -785,6 +550,17 @@ SUMMARY:Girls Varsity Golf at Benton
 CATEGORIES:ATHLETICS
 LOCATION:Longhills CC
 DESCRIPTION:Girls Varsity Golf at Benton
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-1831a7ec1206@calendar-sync.conwaypto.org
+DTSTAMP:20260917T000000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Spanish Club First Meeting
+CATEGORIES:ACTIVITIES
+LOCATION:Room 608\, Conway High School
+DESCRIPTION:First Spanish Club meeting during WIN time. Dues are $6. Conta
+ ct Señora Tedford (tedfordn@conwayschools.info).
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-262a0cce08d7@calendar-sync.conwaypto.org
@@ -881,11 +657,10 @@ DTSTART;TZID=America/Chicago:20260921T180000
 DTEND;TZID=America/Chicago:20260921T190000
 SUMMARY:Student Travel Abroad Informational Meeting
 CATEGORIES:ACTIVITIES
-LOCATION:Room 165
-DESCRIPTION:Informational meeting for students and families about upcoming
-  student travel opportunities to Japan\, Australia & New Zealand\, and Lon
- don\, Paris & Rome. Learn about the trips\, what is included\, costs\, and
-  how to get involved.
+LOCATION:Room 165\, Conway High School
+DESCRIPTION:Learn about upcoming student trips to Japan\, Australia & New 
+ Zealand\, or London\, Paris & Rome — what's included\, costs\, and how t
+ o get involved. Families invited\; complete the Travel Interest Form.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0055c42a5dfc@calendar-sync.conwaypto.org
@@ -958,6 +733,29 @@ LOCATION:Longhills CC
 DESCRIPTION:Girls Varsity Golf at Benton- JV
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-979d0defb293@calendar-sync.conwaypto.org
+DTSTAMP:20260923T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Deadline: Gifted & Talented Teacher Referral Deadline
+CATEGORIES:ACADEMICS
+DESCRIPTION:Deadline for teacher referrals for the Conway Public Schools G
+ ifted & Talented fall testing cycle (students in 3rd grade or above).
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-ccb1bdc9d492@calendar-sync.conwaypto.org
+DTSTAMP:20260923T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Deadline: National Honor Society Application Deadline
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Last day to submit NHS applications. Dues $25/year\; requires 
+ 3.75+ GPA\, 2 consecutive years of AP/concurrent credit classes\, current 
+ AP/concurrent enrollment\, and no major discipline infractions. Applicatio
+ ns available at the NHS table at the CHS Club Fair or outside A103.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-8e67bff22488@calendar-sync.conwaypto.org
 DTSTAMP:20260924T000000Z
 DTSTART;TZID=America/Chicago:20260924T170000
@@ -1008,14 +806,33 @@ LOCATION:Northside Field
 DESCRIPTION:Boys Varsity Football at Northside
 END:VEVENT
 BEGIN:VEVENT
-UID:newsletter-b00759620949@calendar-sync.conwaypto.org
+UID:feed-122ce20dec83@calendar-sync.conwaypto.org
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:Football Game Day - Hawaiian Theme
+SUMMARY:Deadline: Gifted & Talented Parent Referral Deadline
+CATEGORIES:ACADEMICS
+DESCRIPTION:Deadline for parent referrals for the Conway Public Schools Gi
+ fted & Talented fall testing cycle. Parent form available online.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-d600843762e8@calendar-sync.conwaypto.org
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Deadline: Gifted & Talented Parent Permission to Test Deadline
+CATEGORIES:ACADEMICS
+DESCRIPTION:Deadline to submit parent permission to test for the Gifted & 
+ Talented fall testing cycle.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-3a17f23641b3@calendar-sync.conwaypto.org
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Football Theme Night: Hawaiian (Away)
 CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Away game day theme: Hawaiian.
+DESCRIPTION:Away football game theme night: 🌺 Hawaiian.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-93c20b5ba321@calendar-sync.conwaypto.org
@@ -1098,6 +915,16 @@ LOCATION:John McConnell Stadium
 DESCRIPTION:Boys JV Football vs Little Rock Central
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-20b146eb7b3b@calendar-sync.conwaypto.org
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Gifted & Talented Fall Testing Window Begins
+CATEGORIES:ACADEMICS
+DESCRIPTION:Fall Gifted & Talented testing window runs September 28–Octo
+ ber 9\, 2026.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-0b6ef3c5dcfb@calendar-sync.conwaypto.org
 DTSTAMP:20260929T000000Z
 DTSTART;TZID=America/Chicago:20260929T153000
@@ -1136,6 +963,27 @@ SUMMARY:Girls Varsity Volleyball vs Little Rock Southwest
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls Varsity Volleyball vs Little Rock Southwest
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-830eb7795208@calendar-sync.conwaypto.org
+DTSTAMP:20260930T000000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Deadline: Last Day to Join Spanish Club / Spanish Honorary Society
+CATEGORIES:ACADEMICS
+LOCATION:Room 608\, Conway High School
+DESCRIPTION:Final date to join the CHS Spanish Club or the Sociedad Honora
+ ria Hispánica this semester. See Sra. Tedford in room 608 of the Annex.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-a50da41f3026@calendar-sync.conwaypto.org
+DTSTAMP:20260930T000000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:CHS Student College Fair
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:College fair for CHS students hosted by the Counseling Center.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-f0a066344aae@calendar-sync.conwaypto.org
@@ -1196,24 +1044,24 @@ LOCATION:John McConnell Stadium
 DESCRIPTION:Boys Varsity Football vs North Little Rock
 END:VEVENT
 BEGIN:VEVENT
-UID:feed-0f9c36952092@calendar-sync.conwaypto.org
+UID:feed-95bea8785e0d@calendar-sync.conwaypto.org
 DTSTAMP:20261002T000000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:Deadline: Senior Yearbook Ad Early Order Deadline
+SUMMARY:Deadline: Senior Yearbook Ad Early Order Deadline (Save $25)
 CATEGORIES:ACADEMICS
-DESCRIPTION:Order a personalized senior ad in the 2027 Conway High School 
- Yearbook by October 2 to save $25. Ads can be created online or uploaded.
+DESCRIPTION:Order a personalized senior ad for the 2027 Conway High School
+  Yearbook by October 2 to save $25.
 END:VEVENT
 BEGIN:VEVENT
-UID:newsletter-eb215f089483@calendar-sync.conwaypto.org
+UID:newsletter-3c23f62353ad@calendar-sync.conwaypto.org
 DTSTAMP:20261002T000000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:Football Game Day - Blackout Theme
+SUMMARY:Football Theme Night: Blackout (Home)
 CATEGORIES:ATHLETICS
-LOCATION:Home
-DESCRIPTION:Home game day theme: Blackout.
+LOCATION:Conway High School (Home)
+DESCRIPTION:Home football game theme night: 🖤 Blackout.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-afda75f6614f@calendar-sync.conwaypto.org
@@ -1234,6 +1082,16 @@ SUMMARY:Boys JV Football vs Benton
 CATEGORIES:ATHLETICS
 LOCATION:John McConnell Stadium
 DESCRIPTION:Boys JV Football vs Benton
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-7241de6d0a55@calendar-sync.conwaypto.org
+DTSTAMP:20261005T000000Z
+DTSTART;TZID=America/Chicago:20261005T183000
+DTEND;TZID=America/Chicago:20261005T193000
+SUMMARY:CHS Choir Region Preview Concert
+CATEGORIES:ARTS
+LOCATION:CHS Auditorium
+DESCRIPTION:Choir region preview concert.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-01dd84328566@calendar-sync.conwaypto.org
@@ -1334,14 +1192,13 @@ SUMMARY:Makeup ATLAS Interim #1
 CATEGORIES:ACADEMICS
 END:VEVENT
 BEGIN:VEVENT
-UID:newsletter-a24860cd3d36@calendar-sync.conwaypto.org
+UID:newsletter-22eac23d2f5b@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:Football Game Day - Jerseys Theme
+SUMMARY:Football Theme Night: Jerseys (Away)
 CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Away game day theme: Jerseys.
+DESCRIPTION:Away football game theme night: 👕 Jerseys.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-144d6727c001@calendar-sync.conwaypto.org
@@ -1489,6 +1346,16 @@ DESCRIPTION:<p>School Board Information:Â <a rel="noopener noreferrer no
  socialm3021/featured</a></p>
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-804e3cbc507b@calendar-sync.conwaypto.org
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Chicago:20261013T090000
+DTEND;TZID=America/Chicago:20261013T120000
+SUMMARY:Picture Day Makeup
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Makeup day for school pictures.
+END:VEVENT
+BEGIN:VEVENT
 UID:orchestra-4eb0efd30ab3@calendar-sync.conwaypto.org
 DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
@@ -1527,14 +1394,15 @@ LOCATION:John McConnell Stadium
 DESCRIPTION:Boys Varsity Football vs Little Rock Central High
 END:VEVENT
 BEGIN:VEVENT
-UID:newsletter-3d267a2ba8d9@calendar-sync.conwaypto.org
+UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Homecoming Football Game Day - Pink & Purple Theme
+SUMMARY:Homecoming Football Game - Pink & Purple Theme (Home)
 CATEGORIES:ATHLETICS
-LOCATION:Home
-DESCRIPTION:Homecoming home game day theme: Pink & Purple.
+LOCATION:Conway High School (Home)
+DESCRIPTION:Home football game theme night: 💗💜 Pink & Purple - HOMEC
+ OMING.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
@@ -1641,14 +1509,13 @@ LOCATION:Pulaski Academy Field
 DESCRIPTION:Boys Varsity Football at Pulaski Academy
 END:VEVENT
 BEGIN:VEVENT
-UID:newsletter-07a667474d78@calendar-sync.conwaypto.org
+UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Game Day - Super Hero Theme
+SUMMARY:Football Theme Night: Super Hero (Away)
 CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Away game day theme: Super Hero.
+DESCRIPTION:Away football game theme night: 🦸 Super Hero.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-b5bc1f7cb0d3@calendar-sync.conwaypto.org
@@ -1691,6 +1558,17 @@ LOCATION:TBA
 DESCRIPTION:Boys Varsity Cross Country at 6A Conference
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-809f3bea272f@calendar-sync.conwaypto.org
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:PSAT/NMSQT Test Day
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Juniors take the PSAT/NMSQT\, which can help students learn ab
+ out AP potential and enter the National Merit Scholarship Program.
+END:VEVENT
+BEGIN:VEVENT
 UID:ical-59c03f067cba@calendar-sync.conwaypto.org
 DTSTAMP:20261027T000000Z
 DTSTART;TZID=America/Chicago:20261027T080000
@@ -1713,14 +1591,14 @@ LOCATION:John McConnell Stadium
 DESCRIPTION:Boys Varsity Football vs Little Rock Christian
 END:VEVENT
 BEGIN:VEVENT
-UID:newsletter-bee94bb24243@calendar-sync.conwaypto.org
+UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Game Day - Frat Theme
+SUMMARY:Football Theme Night: Frat (Home)
 CATEGORIES:ATHLETICS
-LOCATION:Home
-DESCRIPTION:Home game day theme: Frat.
+LOCATION:Conway High School (Home)
+DESCRIPTION:Home football game theme night: 🎉 Frat.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -1771,14 +1649,13 @@ LOCATION:Bryant Field
 DESCRIPTION:Boys Varsity Football at Bryant
 END:VEVENT
 BEGIN:VEVENT
-UID:newsletter-3b5ba45c5c44@calendar-sync.conwaypto.org
+UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Game Day - Whiteout Theme
+SUMMARY:Football Theme Night: Whiteout (Away)
 CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Away game day theme: Whiteout.
+DESCRIPTION:Away football game theme night: 🤍 Whiteout.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-187c89a7721b@calendar-sync.conwaypto.org
@@ -1854,6 +1731,18 @@ SUMMARY:Girls Varsity Basketball vs TBA MC Invitational
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls Varsity Basketball vs TBA MC Invitational
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-1abd4f542d2b@calendar-sync.conwaypto.org
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=America/Chicago:20261112T080000
+DTEND;TZID=America/Chicago:20261112T090000
+SUMMARY:ASVAB Test
+CATEGORIES:ACADEMICS
+LOCATION:Lecture Hall\, Conway High School
+DESCRIPTION:Juniors and seniors may take the ASVAB career exploration test
+ . Sign up in the Counseling Center\; seats limited. Bring a fully charged 
+ Chromebook.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-87458867308d@calendar-sync.conwaypto.org
@@ -1932,5 +1821,40 @@ DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261128
 SUMMARY:Thanksgiving Break (Students & Staff Dismissed)
 CATEGORIES:ACADEMICS
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-2ae92d29c996@calendar-sync.conwaypto.org
+DTSTAMP:20261201T000000Z
+DTSTART;TZID=America/Chicago:20261201T170000
+DTEND;TZID=America/Chicago:20261201T200000
+SUMMARY:Girls Varsity Basketball vs Marion
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Girls Varsity Basketball vs Marion
+END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-88e5e2d052a8@calendar-sync.conwaypto.org
+DTSTAMP:20261201T000000Z
+DTSTART;TZID=America/Chicago:20261201T183000
+DTEND;TZID=America/Chicago:20261201T200000
+SUMMARY:CHS Ugly Sweater Christmas Party
+CATEGORIES:ARTS
+END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-19dae3c61c96@calendar-sync.conwaypto.org
+DTSTAMP:20261202T000000Z
+DTSTART;TZID=America/Chicago:20261202T154500
+DTEND;TZID=America/Chicago:20261202T173000
+SUMMARY:CHS Symphonic Orchestra Rehearsal
+CATEGORIES:ARTS
+LOCATION:CHS Large Ensemble Room
+END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-e5f4b7d84aa1@calendar-sync.conwaypto.org
+DTSTAMP:20261202T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:CHS trip deposit due ($150 non-refundable)
+CATEGORIES:ARTS
 END:VEVENT
 END:VCALENDAR

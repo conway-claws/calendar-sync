@@ -23,38 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-afb1d761fa19@calendar-sync.conwaypto.org
-DTSTAMP:20260825T000000Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:Caring Cats First Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:Old Gym
-DESCRIPTION:Caring Cats first meeting of the year during both lunches. Int
- erested students and returning members should attend for information.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-9b432a4ef560@calendar-sync.conwaypto.org
-DTSTAMP:20260827T000000Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:Kona Ice on Campus
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
-DESCRIPTION:Kona Ice will be on campus during both lunches.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-e84fe62978f9@calendar-sync.conwaypto.org
-DTSTAMP:20260827T000000Z
-DTSTART;TZID=America/Chicago:20260827T153500
-DTEND;TZID=America/Chicago:20260827T163500
-SUMMARY:Model UN Club Interest Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:Room 263 (2nd floor\, Mr. Richardson's room)
-DESCRIPTION:Join the Model United Nations club. Current members will be av
- ailable to discuss the club and competitions.
-END:VEVENT
-BEGIN:VEVENT
 UID:ical-087bc6a182cb@calendar-sync.conwaypto.org
 DTSTAMP:20260908T000000Z
 DTSTART;TZID=America/Chicago:20260908T180000
@@ -74,15 +42,79 @@ DESCRIPTION:<p>School Board Information:Â <a rel="noopener noreferrer no
  socialm3021/featured</a></p>
 END:VEVENT
 BEGIN:VEVENT
-UID:newsletter-99a59b718e5d@calendar-sync.conwaypto.org
+UID:newsletter-92ff137414fe@calendar-sync.conwaypto.org
 DTSTAMP:20260908T000000Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
-SUMMARY:CHS Beta Club First Meeting
+SUMMARY:Beta Club First Meeting
 CATEGORIES:ACTIVITIES
-LOCATION:Lecture Hall
-DESCRIPTION:First Beta Club meeting of the year during WIN Period. Existin
- g members and interested students should attend.
+LOCATION:Lecture Hall\, Conway High School
+DESCRIPTION:CHS Beta Club's first meeting of the year during WIN Period. E
+ xisting members and interested students should attend.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-6dbe900a733d@calendar-sync.conwaypto.org
+DTSTAMP:20260909T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Picture Day - Seniors
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Seniors picture day\; seniors will take their yearbook/cap & g
+ own photo if they have not already done so.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-d1687824d395@calendar-sync.conwaypto.org
+DTSTAMP:20260910T000000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Picture Day - Juniors
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Junior picture day.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-e02f3bab3b7c@calendar-sync.conwaypto.org
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Picture Day - Sophomores
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Sophomore picture day.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-1f0336ec377c@calendar-sync.conwaypto.org
+DTSTAMP:20260915T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Jostens Visit - Seniors (Cap & Gown Info)
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Jostens visits during ELA classes so seniors can learn about c
+ ap & gown options and graduation essentials.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-0a9994b95634@calendar-sync.conwaypto.org
+DTSTAMP:20260916T000000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Jostens Visit - Juniors (Class Ring Info)
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Jostens visits during ELA classes with information about class
+  rings and ordering.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-1831a7ec1206@calendar-sync.conwaypto.org
+DTSTAMP:20260917T000000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Spanish Club First Meeting
+CATEGORIES:ACTIVITIES
+LOCATION:Room 608\, Conway High School
+DESCRIPTION:First Spanish Club meeting during WIN time. Dues are $6. Conta
+ ct Señora Tedford (tedfordn@conwayschools.info).
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-b507f8ff9b12@calendar-sync.conwaypto.org
@@ -91,11 +123,10 @@ DTSTART;TZID=America/Chicago:20260921T180000
 DTEND;TZID=America/Chicago:20260921T190000
 SUMMARY:Student Travel Abroad Informational Meeting
 CATEGORIES:ACTIVITIES
-LOCATION:Room 165
-DESCRIPTION:Informational meeting for students and families about upcoming
-  student travel opportunities to Japan\, Australia & New Zealand\, and Lon
- don\, Paris & Rome. Learn about the trips\, what is included\, costs\, and
-  how to get involved.
+LOCATION:Room 165\, Conway High School
+DESCRIPTION:Learn about upcoming student trips to Japan\, Australia & New 
+ Zealand\, or London\, Paris & Rome — what's included\, costs\, and how t
+ o get involved. Families invited\; complete the Travel Interest Form.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-c41729aaba69@calendar-sync.conwaypto.org
@@ -115,6 +146,16 @@ DESCRIPTION:<p>School Board Information:Â <a rel="noopener noreferrer no
  D&amp\;source=calendar&amp\;ust=1780949568991644&amp\;usg=AOvVaw2ua-Ikn5nS
  caC-hLECNmeX" target="_blank">https://www.youtube.com/@conwaypublicschools
  socialm3021/featured</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-804e3cbc507b@calendar-sync.conwaypto.org
+DTSTAMP:20261013T000000Z
+DTSTART;TZID=America/Chicago:20261013T090000
+DTEND;TZID=America/Chicago:20261013T120000
+SUMMARY:Picture Day Makeup
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Makeup day for school pictures.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-577d178b8308@calendar-sync.conwaypto.org

@@ -23,48 +23,45 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-dad165f3da06@calendar-sync.conwaypto.org
-DTSTAMP:20260825T000000Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:Chromebook Check - Sophomores
-CATEGORIES:ACADEMICS
-LOCATION:Conway High School
-DESCRIPTION:Beginning of the year Chromebook checks for sophomores during 
- ELA classes.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-3cfe0daadcf6@calendar-sync.conwaypto.org
-DTSTAMP:20260826T000000Z
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-SUMMARY:Chromebook Check - Juniors
-CATEGORIES:ACADEMICS
-LOCATION:Conway High School
-DESCRIPTION:Beginning of the year Chromebook checks for juniors during ELA
-  classes.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-3e291c74ebd5@calendar-sync.conwaypto.org
-DTSTAMP:20260827T000000Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:Library Closed During WIN
+UID:newsletter-3155e1c50dfd@calendar-sync.conwaypto.org
+DTSTAMP:20260903T000000Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Library Closed for Dyslexia Screenings
 CATEGORIES:ACADEMICS
 LOCATION:CHS Library
-DESCRIPTION:The library will be closed during WIN period on Thursday\, Aug
- ust 27.
+DESCRIPTION:The library will be closed all day due to dyslexia screenings.
 END:VEVENT
 BEGIN:VEVENT
-UID:newsletter-46c75a68d77b@calendar-sync.conwaypto.org
-DTSTAMP:20260827T000000Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:Chromebook Check - Seniors
+UID:newsletter-4c0c884ac90b@calendar-sync.conwaypto.org
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Deadline: PSAT Sign-Up Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Beginning of the year Chromebook checks for seniors during ELA
-  classes.
+DESCRIPTION:Deadline for juniors to sign up for the PSAT.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-7a161b66ccc1@calendar-sync.conwaypto.org
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Chromebook Assistance in Library
+CATEGORIES:ACADEMICS
+LOCATION:CHS Library
+DESCRIPTION:Students experiencing Chromebook issues may visit the library 
+ during WIN or 6th period for assistance.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-54fd7d2eadf9@calendar-sync.conwaypto.org
+DTSTAMP:20260907T000000Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:No School – Labor Day
+CATEGORIES:ACADEMICS
+DESCRIPTION:No school in observance of Labor Day. Students return to campu
+ s Tuesday morning.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-a52a69d6d0ae@calendar-sync.conwaypto.org
@@ -75,14 +72,88 @@ SUMMARY:Labor Day (Students & Staff Dismissed)
 CATEGORIES:ACADEMICS
 END:VEVENT
 BEGIN:VEVENT
-UID:feed-0f9c36952092@calendar-sync.conwaypto.org
+UID:feed-979d0defb293@calendar-sync.conwaypto.org
+DTSTAMP:20260923T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Deadline: Gifted & Talented Teacher Referral Deadline
+CATEGORIES:ACADEMICS
+DESCRIPTION:Deadline for teacher referrals for the Conway Public Schools G
+ ifted & Talented fall testing cycle (students in 3rd grade or above).
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-ccb1bdc9d492@calendar-sync.conwaypto.org
+DTSTAMP:20260923T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Deadline: National Honor Society Application Deadline
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Last day to submit NHS applications. Dues $25/year\; requires 
+ 3.75+ GPA\, 2 consecutive years of AP/concurrent credit classes\, current 
+ AP/concurrent enrollment\, and no major discipline infractions. Applicatio
+ ns available at the NHS table at the CHS Club Fair or outside A103.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-122ce20dec83@calendar-sync.conwaypto.org
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Deadline: Gifted & Talented Parent Referral Deadline
+CATEGORIES:ACADEMICS
+DESCRIPTION:Deadline for parent referrals for the Conway Public Schools Gi
+ fted & Talented fall testing cycle. Parent form available online.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-d600843762e8@calendar-sync.conwaypto.org
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Deadline: Gifted & Talented Parent Permission to Test Deadline
+CATEGORIES:ACADEMICS
+DESCRIPTION:Deadline to submit parent permission to test for the Gifted & 
+ Talented fall testing cycle.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-20b146eb7b3b@calendar-sync.conwaypto.org
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Gifted & Talented Fall Testing Window Begins
+CATEGORIES:ACADEMICS
+DESCRIPTION:Fall Gifted & Talented testing window runs September 28–Octo
+ ber 9\, 2026.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-830eb7795208@calendar-sync.conwaypto.org
+DTSTAMP:20260930T000000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Deadline: Last Day to Join Spanish Club / Spanish Honorary Society
+CATEGORIES:ACADEMICS
+LOCATION:Room 608\, Conway High School
+DESCRIPTION:Final date to join the CHS Spanish Club or the Sociedad Honora
+ ria Hispánica this semester. See Sra. Tedford in room 608 of the Annex.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-a50da41f3026@calendar-sync.conwaypto.org
+DTSTAMP:20260930T000000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:CHS Student College Fair
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:College fair for CHS students hosted by the Counseling Center.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-95bea8785e0d@calendar-sync.conwaypto.org
 DTSTAMP:20261002T000000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:Deadline: Senior Yearbook Ad Early Order Deadline
+SUMMARY:Deadline: Senior Yearbook Ad Early Order Deadline (Save $25)
 CATEGORIES:ACADEMICS
-DESCRIPTION:Order a personalized senior ad in the 2027 Conway High School 
- Yearbook by October 2 to save $25. Ads can be created online or uploaded.
+DESCRIPTION:Order a personalized senior ad for the 2027 Conway High School
+  Yearbook by October 2 to save $25.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-86b2418c1596@calendar-sync.conwaypto.org
@@ -173,6 +244,17 @@ SUMMARY:Fall Break (Students & Staff Dismissed)
 CATEGORIES:ACADEMICS
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-809f3bea272f@calendar-sync.conwaypto.org
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:PSAT/NMSQT Test Day
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Juniors take the PSAT/NMSQT\, which can help students learn ab
+ out AP potential and enter the National Merit Scholarship Program.
+END:VEVENT
+BEGIN:VEVENT
 UID:ical-59c03f067cba@calendar-sync.conwaypto.org
 DTSTAMP:20261027T000000Z
 DTSTART;TZID=America/Chicago:20261027T080000
@@ -183,6 +265,18 @@ DESCRIPTION:<p>10th grade students test and some Juniors (who signed up).<
  /p><p>All non-testing Juniors and Seniors have the opportunity to have a c
  ollege visit day\, do community service (family choice) or attend AP Test 
  Review sessions on campus. (Excused absence for NON testing students)</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-1abd4f542d2b@calendar-sync.conwaypto.org
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=America/Chicago:20261112T080000
+DTEND;TZID=America/Chicago:20261112T090000
+SUMMARY:ASVAB Test
+CATEGORIES:ACADEMICS
+LOCATION:Lecture Hall\, Conway High School
+DESCRIPTION:Juniors and seniors may take the ASVAB career exploration test
+ . Sign up in the Counseling Center\; seats limited. Bring a fully charged 
+ Chromebook.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-b5c0750885eb@calendar-sync.conwaypto.org
