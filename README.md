@@ -51,8 +51,10 @@ CHS Announcements newsletter    ──┘
    copies. Nothing here writes to any calendar account.
 2. Live-feed, RSS, newsletter, and Doc text is untrusted data: extraction runs under a
    fixed schema, a 50-event cap, and re-validation of every field.
-3. A failed source carries its previous events forward. A build that would
-   remove more than 15 events aborts and opens an issue.
+3. A failed source carries its previous events forward, and so does an event a
+   text source announced but no longer mentions, until its date passes. A build
+   that would remove more than 15 still-current events aborts and opens an
+   issue; events aging out of the window never count.
 4. Output is diff-stable: sorted events, content-derived DTSTAMPs and UIDs. A
    rebuild with unchanged sources is byte-identical.
 
@@ -73,7 +75,8 @@ alone.
 
 - Schedule: `.github/workflows/sync.yml`, daily 12:00 UTC, commits as
   `github-actions[bot]`. Failures and aborted builds open an issue labeled
-  `sync-failure`.
+  `sync-failure`, or comment on the one already open; the next clean build
+  closes it.
 - Secret: `ANTHROPIC_API_KEY`, a repository Actions secret.
 - Feeds: `https://calendar.conwaypto.org/claws.ics` and
   `claws-athletics.ics` / `claws-arts.ics` / `claws-academics.ics` /

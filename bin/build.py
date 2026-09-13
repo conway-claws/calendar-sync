@@ -36,6 +36,7 @@ DOCS = Path(__file__).resolve().parent.parent / "docs"
 # events: the programs maintain fuller titles, times, and locations.
 PRIORITY = {"athletics": 6, "orchestra": 5, "ical": 4, "newsletter": 3, "doc": 2,
             "feed": 1, "rss": 0}
+TEXT_SOURCES = ("newsletter", "doc", "feed", "rss")
 
 
 def event_day(ev):
@@ -80,6 +81,48 @@ def dedup(events):
         if not dupe:
             kept.append(ev)
     return kept
+
+
+def reconcile(old_events, new_events, today):
+    """Keep identity stable across builds and keep announced events until dated.
+
+    The extractor rephrases titles between runs ("Jostens Visit - Seniors" one
+    day, "Jostens Visit — Seniors" the next), and identity is a title hash, so
+    each rephrase would otherwise be a delete plus a re-add for subscribers. A
+    same-source, same-day fuzzy match takes over the old uid instead.
+
+    A text source is a stream, not a state: this week's newsletter issue, the
+    last 25 feed posts. An event it announced weeks ago is still real after it
+    drops out of the latest issue, so it is carried forward until its date
+    passes. Carried events go back through dedup so a program feed that later
+    publishes the same event still wins.
+    """
+    old_uids = {e["uid"] for e in old_events}
+    new_uids = {e["uid"] for e in new_events}
+    claimed = set()
+    carried = []
+    for old in old_events:
+        if old["uid"] in new_uids or not in_window(old, today):
+            continue
+        source = old["uid"].split("-", 1)[0]
+        match = next(
+            (e for e in new_events
+             if e["source"] == source and e["uid"] not in old_uids
+             and e["uid"] not in claimed and event_day(e) == event_day(old)
+             and similar(e["title"], old["title"]) >= 0.6),
+            None,
+        )
+        if match:
+            claimed.add(match["uid"])
+            match["uid"] = old["uid"]
+        elif source in TEXT_SOURCES:
+            carried.append(old | {"source": source})
+    return dedup(new_events + carried)
+
+
+def over_cap(removed_events, today):
+    """Only in-window removals count; past events aging out is not a signal."""
+    return sum(in_window(e, today) for e in removed_events) > REMOVAL_CAP
 
 
 def ics_events(name, text, label_hint, today):
@@ -200,6 +243,7 @@ def main():
     for ev in new_events:
         ev["label"] = classify.label_for(ev["title"], ev.get("label"))
     new_events = [assign_uid(e) for e in dedup(new_events)]
+    new_events = reconcile(old_events, new_events, today)
 
     new_by_uid = {e["uid"]: e for e in new_events}
     added = sorted(set(new_by_uid) - set(old_by_uid))
@@ -220,8 +264,8 @@ def main():
         e = old_by_uid[uid]
         print(f"  - {event_day(e)} {e['title']}")
 
-    if len(removed) > REMOVAL_CAP and not args.force:
-        print(f"ABORT: {len(removed)} removals exceeds cap of {REMOVAL_CAP}; "
+    if over_cap([old_by_uid[u] for u in removed], today) and not args.force:
+        print(f"ABORT: in-window removals exceed cap of {REMOVAL_CAP}; "
               "rerun with --force if intended", file=sys.stderr)
         return 2
 

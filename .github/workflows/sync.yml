@@ -59,14 +59,24 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -m "sync: $(head -1 build.log)"
           git push
+      - name: close failure issues
+        if: steps.gate.outputs.run == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue list --label sync-failure --state open --json number --jq '.[].number' \
+            | xargs -r -I{} gh issue close {} --comment "Recovered: $(head -1 build.log)"
       - name: report failure
         if: failure()
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh issue create \
-            --title "sync failed $(date -u +%F)" \
-            --body "$(tail -40 build.log 2>/dev/null || echo 'no build log')
+          body="$(tail -40 build.log 2>/dev/null || echo 'no build log')
 
-          Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" \
-            --label sync-failure || true
+          Run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          open=$(gh issue list --label sync-failure --state open --json number --jq '.[0].number')
+          if [ -n "$open" ]; then
+            gh issue comment "$open" --body "$body" || true
+          else
+            gh issue create --title "sync failed $(date -u +%F)" --body "$body" --label sync-failure || true
+          fi

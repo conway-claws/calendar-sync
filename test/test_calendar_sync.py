@@ -214,6 +214,55 @@ class DedupTests(unittest.TestCase):
         self.assertEqual(build.assign_uid(dict(a))["uid"], a["uid"])
 
 
+class ReconcileTests(unittest.TestCase):
+    TODAY = date(2026, 9, 12)
+
+    def _ev(self, title, source, day, uid=None):
+        ev = {"uid": uid or "", "title": title, "start": day, "end": None,
+              "all_day": True, "location": "", "description": "",
+              "label": "ACTIVITIES", "source": source}
+        return ev if uid else build.assign_uid(ev)
+
+    def test_retitle_keeps_old_uid(self):
+        old = self._ev("Jostens Visit - Seniors (Cap & Gown Info)", "newsletter",
+                       date(2026, 9, 15))
+        new = self._ev("Jostens Visit — Seniors (Cap & Gown Info)", "newsletter",
+                       date(2026, 9, 15))
+        self.assertNotEqual(old["uid"], new["uid"])
+        kept = build.reconcile([old], [new], self.TODAY)
+        self.assertEqual([e["uid"] for e in kept], [old["uid"]])
+        self.assertEqual(kept[0]["title"], new["title"])
+
+    def test_retitle_never_crosses_sources(self):
+        old = self._ev("Football at Marion", "ical", date(2026, 9, 25))
+        new = self._ev("Football at Marion", "doc", date(2026, 9, 25))
+        kept = build.reconcile([old], [new], self.TODAY)
+        self.assertEqual([e["uid"] for e in kept], [new["uid"]])
+
+    def test_text_source_event_carried_until_dated(self):
+        future = self._ev("Deadline: PSAT Sign-Up", "newsletter", date(2026, 10, 27))
+        past = self._ev("Picture Day", "newsletter", date(2026, 9, 9))
+        kept = build.reconcile([future, past], [], self.TODAY)
+        self.assertEqual([e["uid"] for e in kept], [future["uid"]])
+        self.assertEqual(kept[0]["source"], "newsletter")
+
+    def test_ical_source_event_not_carried(self):
+        old = self._ev("Volleyball vs Cabot", "ical", date(2026, 10, 1))
+        self.assertEqual(build.reconcile([old], [], self.TODAY), [])
+
+    def test_carried_event_yields_to_program_feed(self):
+        old = self._ev("Volleyball vs Cabot", "newsletter", date(2026, 10, 1))
+        new = self._ev("Girls Varsity Volleyball vs Cabot", "athletics", date(2026, 10, 1))
+        kept = build.reconcile([old], [new], self.TODAY)
+        self.assertEqual([e["source"] for e in kept], ["athletics"])
+
+    def test_cap_ignores_aged_out_events(self):
+        aged = [self._ev(f"Past {i}", "ical", date(2026, 9, 1)) for i in range(40)]
+        live = [self._ev(f"Future {i}", "ical", date(2026, 10, 1)) for i in range(16)]
+        self.assertFalse(build.over_cap(aged + live[:15], self.TODAY))
+        self.assertTrue(build.over_cap(live, self.TODAY))
+
+
 class OrchestraParseTests(unittest.TestCase):
     def setUp(self):
         self.events = ical.parse_ics((FIXTURES / "orchestra.ics").read_text())
