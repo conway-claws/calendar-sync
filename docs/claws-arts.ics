@@ -23,21 +23,13 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:orchestra-0c294cf42e4a@calendar-sync.conwaypto.org
-DTSTAMP:20260911T000000Z
-DTSTART;TZID=America/Chicago:20260911T180000
-DTEND;TZID=America/Chicago:20260911T190000
-SUMMARY:Bach to School setup
+UID:orchestra-139b63704f59@calendar-sync.conwaypto.org
+DTSTAMP:20260918T000000Z
+DTSTART;TZID=America/Chicago:20260918T191500
+DTEND;TZID=America/Chicago:20260918T201500
+SUMMARY:CSO Concert in the Park
 CATEGORIES:ARTS
-END:VEVENT
-BEGIN:VEVENT
-UID:orchestra-46fc8fc542cc@calendar-sync.conwaypto.org
-DTSTAMP:20260911T000000Z
-DTSTART;TZID=America/Chicago:20260911T190000
-DTEND;TZID=America/Chicago:20260911T200000
-SUMMARY:OPUS "Bach"-to-School Orchestra Family Night
-CATEGORIES:ARTS
-LOCATION:Conway High School Courtyard and Cafeteria
+LOCATION:Laurel Park\nConway\, AR  72034\, United States
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-5c13d8ffccdf@calendar-sync.conwaypto.org
@@ -63,7 +55,8 @@ DTEND;TZID=America/Chicago:20261005T193000
 SUMMARY:CHS Choir Region Preview Concert
 CATEGORIES:ARTS
 LOCATION:CHS Auditorium
-DESCRIPTION:Choir region preview concert.
+DESCRIPTION:Conway High School Choir performs its Region Preview Concert i
+ n the auditorium.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-96811dd6888a@calendar-sync.conwaypto.org
@@ -169,5 +162,40 @@ DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:CHS trip deposit due ($150 non-refundable)
 CATEGORIES:ARTS
+END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-e7a85b1f1531@calendar-sync.conwaypto.org
+DTSTAMP:20261208T000000Z
+DTSTART;TZID=America/Chicago:20261208T154500
+DTEND;TZID=America/Chicago:20261208T173000
+SUMMARY:CHS Symphonic Orchestra Rehearsal
+CATEGORIES:ARTS
+LOCATION:CHS Large Ensemble Room
+END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-6dc2ef650520@calendar-sync.conwaypto.org
+DTSTAMP:20261209T000000Z
+DTSTART;TZID=America/Chicago:20261209T075500
+DTEND;TZID=America/Chicago:20261209T084000
+SUMMARY:Simon Orchestra Combined rehearsal
+CATEGORIES:ARTS
+END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-9b541bcd6842@calendar-sync.conwaypto.org
+DTSTAMP:20261209T000000Z
+DTSTART;TZID=America/Chicago:20261209T154500
+DTEND;TZID=America/Chicago:20261209T173000
+SUMMARY:CHS Symphonic Orchestra Rehearsal
+CATEGORIES:ARTS
+LOCATION:CHS Large Ensemble Room
+END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-7fd7e8ff2518@calendar-sync.conwaypto.org
+DTSTAMP:20261210T000000Z
+DTSTART;TZID=America/Chicago:20261210T093000
+DTEND;TZID=America/Chicago:20261210T113000
+SUMMARY:Simon Winter Concert
+CATEGORIES:ARTS
+LOCATION:1601 E Siebenmorgan Rd\nConway\, AR  72032\, United States
 END:VEVENT
 END:VCALENDAR

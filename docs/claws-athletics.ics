@@ -23,186 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:athletics-0cf566a06cf0@calendar-sync.conwaypto.org
-DTSTAMP:20260903T000000Z
-DTSTART;TZID=America/Chicago:20260903T180000
-DTEND;TZID=America/Chicago:20260903T210000
-SUMMARY:Girls Varsity Volleyball at Little Rock Southwest
-CATEGORIES:ATHLETICS
-LOCATION:LR Southwest Gym
-DESCRIPTION:Girls Varsity Volleyball at Little Rock Southwest
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-58c0ebfbe5c6@calendar-sync.conwaypto.org
-DTSTAMP:20260903T000000Z
-DTSTART;TZID=America/Chicago:20260903T090000
-DTEND;TZID=America/Chicago:20260903T120000
-SUMMARY:Boys Varsity Golf at Benton
-CATEGORIES:ATHLETICS
-LOCATION:Longhills CC
-DESCRIPTION:Boys Varsity Golf at Benton
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-cc2e3f9013a6@calendar-sync.conwaypto.org
-DTSTAMP:20260903T000000Z
-DTSTART;TZID=America/Chicago:20260903T170000
-DTEND;TZID=America/Chicago:20260903T200000
-SUMMARY:Girls JV Volleyball at Little Rock Southwest
-CATEGORIES:ATHLETICS
-LOCATION:LRSW HS Gym
-DESCRIPTION:Girls JV Volleyball at Little Rock Southwest
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-f04b5a82ce40@calendar-sync.conwaypto.org
-DTSTAMP:20260903T000000Z
-DTSTART;TZID=America/Chicago:20260903T090000
-DTEND;TZID=America/Chicago:20260903T120000
-SUMMARY:Girls Varsity Golf at Benton
-CATEGORIES:ATHLETICS
-LOCATION:Longhills CC
-DESCRIPTION:Girls Varsity Golf at Benton
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-8fd4241f0f68@calendar-sync.conwaypto.org
-DTSTAMP:20260904T000000Z
-DTSTART;TZID=America/Chicago:20260904T190000
-DTEND;TZID=America/Chicago:20260904T220000
-SUMMARY:Boys Varsity Football vs Bentonville
-CATEGORIES:ATHLETICS
-LOCATION:John McConnell Stadium
-DESCRIPTION:Boys Varsity Football vs Bentonville
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-8d861a9a3f34@calendar-sync.conwaypto.org
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-SUMMARY:Football Theme Night: Welcome to the Jungle (Home)
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School (Home)
-DESCRIPTION:Home football game theme night: 🌴 Welcome to the Jungle. Se
- e conwaywampuscats.com for schedule updates.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-5877bccc9d20@calendar-sync.conwaypto.org
-DTSTAMP:20260908T000000Z
-DTSTART;TZID=America/Chicago:20260908T180000
-DTEND;TZID=America/Chicago:20260908T210000
-SUMMARY:Girls Varsity Volleyball vs North Little Rock
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls Varsity Volleyball vs North Little Rock
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-705ea547d2c1@calendar-sync.conwaypto.org
-DTSTAMP:20260908T000000Z
-DTSTART;TZID=America/Chicago:20260908T080000
-DTEND;TZID=America/Chicago:20260908T110000
-SUMMARY:Girls Varsity Golf at North Little Rock
-CATEGORIES:ATHLETICS
-LOCATION:Burns Park CC
-DESCRIPTION:Girls Varsity Golf at North Little Rock
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-8b971ea7908b@calendar-sync.conwaypto.org
-DTSTAMP:20260908T000000Z
-DTSTART;TZID=America/Chicago:20260908T153000
-DTEND;TZID=America/Chicago:20260908T183000
-SUMMARY:Girls Varsity Tennis at Cabot
-CATEGORIES:ATHLETICS
-LOCATION:Cabot
-DESCRIPTION:Girls Varsity Tennis at Cabot
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-8ffc06610efe@calendar-sync.conwaypto.org
-DTSTAMP:20260908T000000Z
-DTSTART;TZID=America/Chicago:20260908T190000
-DTEND;TZID=America/Chicago:20260908T220000
-SUMMARY:Boys JV Football at Bryant
-CATEGORIES:ATHLETICS
-LOCATION:Hornet Stadium
-DESCRIPTION:Boys JV Football at Bryant
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-ad926cee0a62@calendar-sync.conwaypto.org
-DTSTAMP:20260908T000000Z
-DTSTART;TZID=America/Chicago:20260908T170000
-DTEND;TZID=America/Chicago:20260908T200000
-SUMMARY:Girls JV Volleyball vs North Little Rock
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls JV Volleyball vs North Little Rock
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-b8e7001a6423@calendar-sync.conwaypto.org
-DTSTAMP:20260908T000000Z
-DTSTART;TZID=America/Chicago:20260908T153000
-DTEND;TZID=America/Chicago:20260908T183000
-SUMMARY:Boys Varsity Tennis at Cabot
-CATEGORIES:ATHLETICS
-LOCATION:Cabot
-DESCRIPTION:Boys Varsity Tennis at Cabot
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-d41c981a9ead@calendar-sync.conwaypto.org
-DTSTAMP:20260908T000000Z
-DTSTART;TZID=America/Chicago:20260908T080000
-DTEND;TZID=America/Chicago:20260908T110000
-SUMMARY:Boys Varsity Golf at North Little Rock
-CATEGORIES:ATHLETICS
-LOCATION:Burns Park CC
-DESCRIPTION:Boys Varsity Golf at North Little Rock
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-60b427829982@calendar-sync.conwaypto.org
-DTSTAMP:20260910T000000Z
-DTSTART;TZID=America/Chicago:20260910T170000
-DTEND;TZID=America/Chicago:20260910T200000
-SUMMARY:Girls JV Volleyball at Cabot
-CATEGORIES:ATHLETICS
-LOCATION:Cabot HS Gym
-DESCRIPTION:Girls JV Volleyball at Cabot
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-d46f43512c64@calendar-sync.conwaypto.org
-DTSTAMP:20260910T000000Z
-DTSTART;TZID=America/Chicago:20260910T180000
-DTEND;TZID=America/Chicago:20260910T210000
-SUMMARY:Girls Varsity Volleyball at Cabot
-CATEGORIES:ATHLETICS
-LOCATION:Cabot HS Gym
-DESCRIPTION:Girls Varsity Volleyball at Cabot
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-d8a1fc03dfef@calendar-sync.conwaypto.org
-DTSTAMP:20260910T000000Z
-DTSTART;TZID=America/Chicago:20260910T153000
-DTEND;TZID=America/Chicago:20260910T183000
-SUMMARY:Boys Varsity Tennis at Pulaski Academy
-CATEGORIES:ATHLETICS
-LOCATION:Rebsamen Tennis Center
-DESCRIPTION:Boys Varsity Tennis at Pulaski Academy
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-8cf68be6b6a5@calendar-sync.conwaypto.org
-DTSTAMP:20260911T000000Z
-DTSTART;TZID=America/Chicago:20260911T190000
-DTEND;TZID=America/Chicago:20260911T220000
-SUMMARY:Boys Varsity Football at Marion
-CATEGORIES:ATHLETICS
-LOCATION:Marion Field
-DESCRIPTION:Boys Varsity Football at Marion
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-378a81c52e5d@calendar-sync.conwaypto.org
-DTSTAMP:20260911T000000Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:Football Theme Night: Construction (Away)
-CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game theme night: 🚧 Construction.
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-a3a2ae01d47e@calendar-sync.conwaypto.org
 DTSTAMP:20260912T000000Z
 DTSTART;TZID=America/Chicago:20260912T080000
@@ -323,6 +143,28 @@ LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls Varsity Volleyball vs Van Buren
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-142c139d393d@calendar-sync.conwaypto.org
+DTSTAMP:20260915T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:CHS Esports Meeting
+CATEGORIES:ATHLETICS
+LOCATION:Room 202
+DESCRIPTION:Esports members and interested participants meet during WIN. I
+ nterested students should read the Code of Conduct and complete the Esport
+ s Interest Form.
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-7bb701ff808d@calendar-sync.conwaypto.org
+DTSTAMP:20260915T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:CHS Men's Tennis Home Match
+CATEGORIES:ATHLETICS
+LOCATION:Conway Tennis Center
+DESCRIPTION:Home tennis match for the 4-0 CHS Men's tennis team.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-3c8f256b1b7b@calendar-sync.conwaypto.org
 DTSTAMP:20260916T000000Z
 DTSTART;TZID=America/Chicago:20260916T153000
@@ -343,6 +185,16 @@ LOCATION:Conway Tennis Center
 DESCRIPTION:Boys Varsity Tennis vs Ft. Smith Northside
 END:VEVENT
 BEGIN:VEVENT
+UID:rss-a2a29f60bf44@calendar-sync.conwaypto.org
+DTSTAMP:20260916T000000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:CHS Men's Tennis Home Match
+CATEGORIES:ATHLETICS
+LOCATION:Conway Tennis Center
+DESCRIPTION:Home tennis match for the CHS Men's tennis team.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-04e21bf78f1a@calendar-sync.conwaypto.org
 DTSTAMP:20260917T000000Z
 DTSTART;TZID=America/Chicago:20260917T170000
@@ -361,6 +213,16 @@ SUMMARY:Girls Varsity Volleyball at Central
 CATEGORIES:ATHLETICS
 LOCATION:LR Central Gym
 DESCRIPTION:Girls Varsity Volleyball at Central
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-7f368b9f1346@calendar-sync.conwaypto.org
+DTSTAMP:20260917T000000Z
+DTSTART;TZID=America/Chicago:20260917T163000
+DTEND;TZID=America/Chicago:20260917T193000
+SUMMARY:Girls JV Basketball at Springdale
+CATEGORIES:ATHLETICS
+LOCATION:Springdale HS
+DESCRIPTION:Girls JV Basketball at Springdale
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8be95f7ce7f4@calendar-sync.conwaypto.org
@@ -401,6 +263,16 @@ SUMMARY:Girls Varsity Golf at Benton
 CATEGORIES:ATHLETICS
 LOCATION:Longhills CC
 DESCRIPTION:Girls Varsity Golf at Benton
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-54fbad6fddfd@calendar-sync.conwaypto.org
+DTSTAMP:20260917T000000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:CHS Men's Tennis Home Match
+CATEGORIES:ATHLETICS
+LOCATION:Conway Tennis Center
+DESCRIPTION:Home tennis match for the CHS Men's tennis team.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-262a0cce08d7@calendar-sync.conwaypto.org
@@ -607,9 +479,11 @@ UID:newsletter-3a17f23641b3@calendar-sync.conwaypto.org
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:Football Theme Night: Hawaiian (Away)
+SUMMARY:Football Game – Hawaiian Theme (Away)
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game theme night: 🌺 Hawaiian.
+LOCATION:Away
+DESCRIPTION:Away football game with Hawaiian student section dress theme. 
+ Students need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-93c20b5ba321@calendar-sync.conwaypto.org
@@ -748,7 +622,7 @@ DTSTART;TZID=America/Chicago:20261001T000000
 DTEND;TZID=America/Chicago:20261001T030000
 SUMMARY:Boys Varsity Tennis at Conference Tournament
 CATEGORIES:ATHLETICS
-LOCATION:TBA
+LOCATION:Burns Park
 DESCRIPTION:Boys Varsity Tennis at Conference Tournament
 END:VEVENT
 BEGIN:VEVENT
@@ -758,7 +632,7 @@ DTSTART;TZID=America/Chicago:20261001T000000
 DTEND;TZID=America/Chicago:20261001T030000
 SUMMARY:Girls Varsity Tennis at Conference Tournament
 CATEGORIES:ATHLETICS
-LOCATION:TBA
+LOCATION:Burns Park
 DESCRIPTION:Girls Varsity Tennis at Conference Tournament
 END:VEVENT
 BEGIN:VEVENT
@@ -786,10 +660,11 @@ UID:newsletter-3c23f62353ad@calendar-sync.conwaypto.org
 DTSTAMP:20261002T000000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:Football Theme Night: Blackout (Home)
+SUMMARY:Football Game – Blackout Theme (Home)
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School (Home)
-DESCRIPTION:Home football game theme night: 🖤 Blackout.
+LOCATION:Conway High School
+DESCRIPTION:Home football game with Blackout student section dress theme. 
+ Students need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-afda75f6614f@calendar-sync.conwaypto.org
@@ -866,9 +741,11 @@ UID:newsletter-22eac23d2f5b@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:Football Theme Night: Jerseys (Away)
+SUMMARY:Football Game – Jerseys Theme (Away)
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game theme night: 👕 Jerseys.
+LOCATION:Away
+DESCRIPTION:Away football game with Jerseys student section dress theme. S
+ tudents need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-144d6727c001@calendar-sync.conwaypto.org
@@ -897,7 +774,7 @@ DTSTART;TZID=America/Chicago:20261012T000000
 DTEND;TZID=America/Chicago:20261012T030000
 SUMMARY:Boys Varsity Tennis at State Tournament
 CATEGORIES:ATHLETICS
-LOCATION:TBA
+LOCATION:Burns Park
 DESCRIPTION:Boys Varsity Tennis at State Tournament
 END:VEVENT
 BEGIN:VEVENT
@@ -907,7 +784,7 @@ DTSTART;TZID=America/Chicago:20261012T000000
 DTEND;TZID=America/Chicago:20261012T030000
 SUMMARY:Girls Varsity Tennis at State Tournament
 CATEGORIES:ATHLETICS
-LOCATION:TBA
+LOCATION:Burns Park
 DESCRIPTION:Girls Varsity Tennis at State Tournament
 END:VEVENT
 BEGIN:VEVENT
@@ -995,11 +872,11 @@ UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Homecoming Football Game - Pink & Purple Theme (Home)
+SUMMARY:Homecoming Football Game – Pink & Purple Theme (Home)
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School (Home)
-DESCRIPTION:Home football game theme night: 💗💜 Pink & Purple - HOMEC
- OMING.
+LOCATION:Conway High School
+DESCRIPTION:Homecoming home football game with Pink & Purple student secti
+ on dress theme. Students need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
@@ -1086,9 +963,11 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Theme Night: Super Hero (Away)
+SUMMARY:Football Game – Super Hero Theme (Away)
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game theme night: 🦸 Super Hero.
+LOCATION:Away
+DESCRIPTION:Away football game with Super Hero student section dress theme
+ . Students need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-b5bc1f7cb0d3@calendar-sync.conwaypto.org
@@ -1145,10 +1024,11 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Theme Night: Frat (Home)
+SUMMARY:Football Game – Frat Theme (Home)
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School (Home)
-DESCRIPTION:Home football game theme night: 🎉 Frat.
+LOCATION:Conway High School
+DESCRIPTION:Home football game with Frat student section dress theme. Stud
+ ents need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -1195,9 +1075,11 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Theme Night: Whiteout (Away)
+SUMMARY:Football Game – Whiteout Theme (Away)
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game theme night: 🤍 Whiteout.
+LOCATION:Away
+DESCRIPTION:Away football game with Whiteout student section dress theme. 
+ Students need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d7fcc4fa289b@calendar-sync.conwaypto.org
@@ -1220,6 +1102,26 @@ LOCATION:Brooklyn
 DESCRIPTION:Girls Varsity Cheer at Brooklyn
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-1f56dbf9229d@calendar-sync.conwaypto.org
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=America/Chicago:20261110T170000
+DTEND;TZID=America/Chicago:20261110T200000
+SUMMARY:Boys JV Basketball vs Rogers Heritage Benefit Game
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Boys JV Basketball vs Rogers Heritage Benefit Game
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-45aa629c3705@calendar-sync.conwaypto.org
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=America/Chicago:20261111T170000
+DTEND;TZID=America/Chicago:20261111T200000
+SUMMARY:Boys Varsity Basketball vs Rogers Heritage  Benefit Game
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Boys Varsity Basketball vs Rogers Heritage  Benefit Game
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-379a2cbdda3e@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;TZID=America/Chicago:20261112T190000
@@ -1228,6 +1130,26 @@ SUMMARY:Girls Varsity Basketball vs TBA MC Invitational
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls Varsity Basketball vs TBA MC Invitational
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-b809e5cc1359@calendar-sync.conwaypto.org
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=America/Chicago:20261112T173000
+DTEND;TZID=America/Chicago:20261112T203000
+SUMMARY:Boys Varsity Basketball at Fayetteville
+CATEGORIES:ATHLETICS
+LOCATION:Fayetteville HS
+DESCRIPTION:Boys Varsity Basketball at Fayetteville
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-c0e3faf0a569@calendar-sync.conwaypto.org
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=America/Chicago:20261112T163000
+DTEND;TZID=America/Chicago:20261112T193000
+SUMMARY:Boys JV Basketball at Fayetteville
+CATEGORIES:ATHLETICS
+LOCATION:Fayetteville HS
+DESCRIPTION:Boys JV Basketball at Fayetteville
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-87458867308d@calendar-sync.conwaypto.org
@@ -1250,6 +1172,26 @@ LOCATION:Hot Springs
 DESCRIPTION:Girls Varsity Cheer at Hot Springs
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-39f94fbd058e@calendar-sync.conwaypto.org
+DTSTAMP:20261117T000000Z
+DTSTART;TZID=America/Chicago:20261117T180000
+DTEND;TZID=America/Chicago:20261117T210000
+SUMMARY:Boys Varsity Basketball at Springdale
+CATEGORIES:ATHLETICS
+LOCATION:Springdale HS
+DESCRIPTION:Boys Varsity Basketball at Springdale
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-3eda28b1420d@calendar-sync.conwaypto.org
+DTSTAMP:20261117T000000Z
+DTSTART;TZID=America/Chicago:20261117T170000
+DTEND;TZID=America/Chicago:20261117T200000
+SUMMARY:Boys JV Basketball at Springdale
+CATEGORIES:ATHLETICS
+LOCATION:Springdale HS
+DESCRIPTION:Boys JV Basketball at Springdale
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-ebf0a3a7ec92@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;TZID=America/Chicago:20261117T163000
@@ -1258,6 +1200,26 @@ SUMMARY:Girls Varsity Basketball at Springdale
 CATEGORIES:ATHLETICS
 LOCATION:Springdale High School
 DESCRIPTION:Girls Varsity Basketball at Springdale
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-4a92a657b740@calendar-sync.conwaypto.org
+DTSTAMP:20261119T000000Z
+DTSTART;TZID=America/Chicago:20261119T170000
+DTEND;TZID=America/Chicago:20261119T200000
+SUMMARY:Boys JV Basketball at Russellville
+CATEGORIES:ATHLETICS
+LOCATION:Russellville HS
+DESCRIPTION:Boys JV Basketball at Russellville
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-5b4d7fa9caba@calendar-sync.conwaypto.org
+DTSTAMP:20261119T000000Z
+DTSTART;TZID=America/Chicago:20261119T180000
+DTEND;TZID=America/Chicago:20261119T210000
+SUMMARY:Boys Varsity Basketball at Russellville
+CATEGORIES:ATHLETICS
+LOCATION:Russellville HS
+DESCRIPTION:Boys Varsity Basketball at Russellville
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-90fbd853c4b4@calendar-sync.conwaypto.org
@@ -1271,6 +1233,16 @@ DESCRIPTION:Girls Varsity Basketball at Joe T. Robinson DA Matchup Showcas
  e
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-0c4a9bd48c5d@calendar-sync.conwaypto.org
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=America/Chicago:20261121T153000
+DTEND;TZID=America/Chicago:20261121T183000
+SUMMARY:Boys Varsity Basketball at Fort Smith Northside
+CATEGORIES:ATHLETICS
+LOCATION:Little Rock Christian
+DESCRIPTION:Boys Varsity Basketball at Fort Smith Northside
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-c728df77282b@calendar-sync.conwaypto.org
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=America/Chicago:20261121T150000
@@ -1282,6 +1254,26 @@ DESCRIPTION:Girls Varsity Basketball at Pulaski Academy DA Matchup Showcas
  e
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-96f23bda67a7@calendar-sync.conwaypto.org
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=America/Chicago:20261124T163000
+DTEND;TZID=America/Chicago:20261124T193000
+SUMMARY:Boys JV Basketball at Har-Ber
+CATEGORIES:ATHLETICS
+LOCATION:Har-Ber HS
+DESCRIPTION:Boys JV Basketball at Har-Ber
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-a5d9557e3062@calendar-sync.conwaypto.org
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=America/Chicago:20261124T173000
+DTEND;TZID=America/Chicago:20261124T203000
+SUMMARY:Boys Varsity Basketball at Har-Ber
+CATEGORIES:ATHLETICS
+LOCATION:Har-Ber HS
+DESCRIPTION:Boys Varsity Basketball at Har-Ber
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-2ae92d29c996@calendar-sync.conwaypto.org
 DTSTAMP:20261201T000000Z
 DTSTART;TZID=America/Chicago:20261201T170000
@@ -1290,5 +1282,115 @@ SUMMARY:Girls Varsity Basketball vs Marion
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls Varsity Basketball vs Marion
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-2b5648138789@calendar-sync.conwaypto.org
+DTSTAMP:20261201T000000Z
+DTSTART;TZID=America/Chicago:20261201T164500
+DTEND;TZID=America/Chicago:20261201T194500
+SUMMARY:Boys JV Basketball vs Fort Smith Southside
+CATEGORIES:ATHLETICS
+LOCATION:CHS PE Gym
+DESCRIPTION:Boys JV Basketball vs Fort Smith Southside
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-2de148724ef9@calendar-sync.conwaypto.org
+DTSTAMP:20261201T000000Z
+DTSTART;TZID=America/Chicago:20261201T170000
+DTEND;TZID=America/Chicago:20261201T200000
+SUMMARY:Girls JV Basketball vs Marion
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Girls JV Basketball vs Marion
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-44af430d054d@calendar-sync.conwaypto.org
+DTSTAMP:20261201T000000Z
+DTSTART;TZID=America/Chicago:20261201T193000
+DTEND;TZID=America/Chicago:20261201T223000
+SUMMARY:Boys Varsity Basketball at Fort Smith Southside
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Boys Varsity Basketball at Fort Smith Southside
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-98eeddb699e8@calendar-sync.conwaypto.org
+DTSTAMP:20261203T000000Z
+DTSTART;TZID=America/Chicago:20261203T000000
+DTEND;TZID=America/Chicago:20261203T030000
+SUMMARY:Boys Varsity Basketball at Sylvan Hills
+CATEGORIES:ATHLETICS
+LOCATION:Vilonia HS
+DESCRIPTION:Boys Varsity Basketball at Sylvan Hills
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-bdc30d88d225@calendar-sync.conwaypto.org
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=America/Chicago:20261205T000000
+DTEND;TZID=America/Chicago:20261205T030000
+SUMMARY:Girls Varsity Cheer at Lake Hamilton
+CATEGORIES:ATHLETICS
+LOCATION:Lake Hamilton
+DESCRIPTION:Girls Varsity Cheer at Lake Hamilton
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-01166208e9b1@calendar-sync.conwaypto.org
+DTSTAMP:20261208T000000Z
+DTSTART;TZID=America/Chicago:20261208T000000
+DTEND;TZID=America/Chicago:20261208T030000
+SUMMARY:Girls Varsity Cheer at State
+CATEGORIES:ATHLETICS
+LOCATION:Hot Springs
+DESCRIPTION:Girls Varsity Cheer at State
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-64df162cb0f3@calendar-sync.conwaypto.org
+DTSTAMP:20261208T000000Z
+DTSTART;TZID=America/Chicago:20261208T180000
+DTEND;TZID=America/Chicago:20261208T210000
+SUMMARY:Boys Varsity Basketball vs Bentonville
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Boys Varsity Basketball vs Bentonville
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-b156dac290e3@calendar-sync.conwaypto.org
+DTSTAMP:20261208T000000Z
+DTSTART;TZID=America/Chicago:20261208T170000
+DTEND;TZID=America/Chicago:20261208T200000
+SUMMARY:Boys JV Basketball vs Bentonville
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Boys JV Basketball vs Bentonville
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-437f895e9ea1@calendar-sync.conwaypto.org
+DTSTAMP:20261209T000000Z
+DTSTART;TZID=America/Chicago:20261209T183000
+DTEND;TZID=America/Chicago:20261209T213000
+SUMMARY:Girls Varsity Basketball at Shiloh Christian Reddog Classic
+CATEGORIES:ATHLETICS
+LOCATION:Springdale High School
+DESCRIPTION:Girls Varsity Basketball at Shiloh Christian Reddog Classic
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-536d250c81d2@calendar-sync.conwaypto.org
+DTSTAMP:20261210T000000Z
+DTSTART;TZID=America/Chicago:20261210T193000
+DTEND;TZID=America/Chicago:20261210T223000
+SUMMARY:Girls Varsity Basketball at Van Buren  Reddog Classic
+CATEGORIES:ATHLETICS
+LOCATION:Springdale High School
+DESCRIPTION:Girls Varsity Basketball at Van Buren  Reddog Classic
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-eb215cc526b1@calendar-sync.conwaypto.org
+DTSTAMP:20261210T000000Z
+DTSTART;TZID=America/Chicago:20261210T000000
+DTEND;TZID=America/Chicago:20261210T030000
+SUMMARY:Boys Varsity Basketball at TBA Arvest Hoopfest
+CATEGORIES:ATHLETICS
+LOCATION:Rogers HS
+DESCRIPTION:Boys Varsity Basketball at TBA Arvest Hoopfest
 END:VEVENT
 END:VCALENDAR
