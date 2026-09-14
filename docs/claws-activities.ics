@@ -27,11 +27,11 @@ UID:newsletter-1f0336ec377c@calendar-sync.conwaypto.org
 DTSTAMP:20260915T000000Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-SUMMARY:Jostens Visit – Seniors (Cap & Gown Info)
+SUMMARY:Jostens Visit for Seniors — Cap & Gown Information
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Jostens visits during ELA classes to share cap & gown options 
- and graduation essentials with seniors.
+DESCRIPTION:Jostens visits during ELA classes so seniors can learn about c
+ ap & gown options and graduation essentials.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-30fb583f16b2@calendar-sync.conwaypto.org
@@ -42,10 +42,21 @@ SUMMARY:Senior Parent Night
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School Cafeteria
 DESCRIPTION:Presentations begin at 6:00 PM with breakout sessions on finan
- cial aid\, college selection and applications\, and military educational b
- enefits. Come early at 5:30 PM to the CHS Main Lobby to meet college reps 
- from CBC\, Hendrix\, UACCM\, and UCA\; Jostens will assist with cap and go
- wn questions.
+ cial aid\, college selection & application process\, and military educatio
+ nal benefits. Come early at 5:30 PM to the CHS Main Lobby to meet college 
+ reps from CBC\, Hendrix College\, UACCM\, and UCA\; Jostens will also be p
+ resent for cap and gown questions.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-536a9f5bb475@calendar-sync.conwaypto.org
+DTSTAMP:20260915T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Caring Cats Meeting
+CATEGORIES:ACTIVITIES
+LOCATION:Lecture Hall
+DESCRIPTION:Caring Cats meeting during WIN. Pick up a pass from room 258 t
+ o be excused to attend.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-c212b255c5ee@calendar-sync.conwaypto.org
@@ -55,7 +66,7 @@ DTEND;VALUE=DATE:20260916
 SUMMARY:Young Democrats Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Room 263
-DESCRIPTION:The Young Democrats meet during 1st and 2nd lunches.
+DESCRIPTION:The Young Democrats will meet during 1st and 2nd lunches.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-e91466661808@calendar-sync.conwaypto.org
@@ -65,19 +76,19 @@ DTEND;VALUE=DATE:20260916
 SUMMARY:Fellowship of Christian Students First Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Mrs. Dunn's Room 365
-DESCRIPTION:First FCS meeting during WIN time. Stop by room 365 to get a p
- ass to attend.
+DESCRIPTION:First meeting during WIN time. Stop by Mrs. Dunn's room 365 to
+  get a pass to attend.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-0a9994b95634@calendar-sync.conwaypto.org
 DTSTAMP:20260916T000000Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
-SUMMARY:Jostens Visit – Juniors (Class Rings)
+SUMMARY:Jostens Visit for Juniors — Class Ring Information
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Jostens visits during ELA classes to share class ring informat
- ion with juniors.
+DESCRIPTION:Jostens visits during ELA classes so juniors can get informati
+ on about class rings and ordering.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-c0e1b9c57b38@calendar-sync.conwaypto.org
@@ -87,8 +98,8 @@ DTEND;VALUE=DATE:20260917
 SUMMARY:ALLiance First Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Room 217 (1st lunch) / Room 261 (2nd lunch)
-DESCRIPTION:First ALLiance club meeting during lunches. Email Ms. Breaux o
- r Ms. Drake for more info.
+DESCRIPTION:ALLiance holds its first meeting during lunches. Email Ms. Bre
+ aux or Ms. Drake for more info.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-79ebb59540d2@calendar-sync.conwaypto.org
@@ -110,9 +121,9 @@ DTEND;VALUE=DATE:20260918
 SUMMARY:Spanish Club First Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Room 608 (Annex Building)
-DESCRIPTION:First Spanish Club meeting during WIN time. Pick up a colored 
- WIN pass in Room 608 before the meeting. Dues are $6. Contact Señora Tedf
- ord for more information.
+DESCRIPTION:First Spanish Club meeting during WIN time. Stop by Room 608 b
+ efore September 17 to pick up a colored WIN pass to attend. Dues are $6. C
+ ontact Señora Tedford for more info.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-96d91905b048@calendar-sync.conwaypto.org
@@ -122,9 +133,9 @@ DTEND;TZID=America/Chicago:20260920T180000
 SUMMARY:Hispanic Heritage Community Night
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School Cafeteria
-DESCRIPTION:Celebrate Hispanic students and families with student artwork\
- , a student video\, college representatives\, counselor Q&A\, and campus t
- ours. Open to CHS students and families.
+DESCRIPTION:Students and families are invited to celebrate Hispanic studen
+ ts and families with student artwork\, a student video\, college represent
+ atives\, counselor Q&A\, and campus tours. Everyone is welcome.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-b507f8ff9b12@calendar-sync.conwaypto.org
@@ -133,10 +144,11 @@ DTSTART;TZID=America/Chicago:20260921T180000
 DTEND;TZID=America/Chicago:20260921T190000
 SUMMARY:Student Travel Abroad Informational Meeting
 CATEGORIES:ACTIVITIES
-LOCATION:Room 165\, Conway High School
-DESCRIPTION:Learn about upcoming student trips to Japan\, Australia & New 
- Zealand\, and London/Paris/Rome\, including what's included\, costs\, and 
- how to get involved. Students and families invited.
+LOCATION:Conway High School\, Room 165
+DESCRIPTION:Students and families can learn about upcoming trips to Japan\
+ , Australia & New Zealand\, and London\, Paris & Rome\, including what's i
+ ncluded\, costs\, and how to get involved. Complete the travel interest fo
+ rm.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-bc1871e6cf3c@calendar-sync.conwaypto.org
@@ -146,8 +158,8 @@ DTEND;VALUE=DATE:20260923
 SUMMARY:Deadline: Blood Drive Permission Slip Deadline
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Signed permission slips must be turned in by Tuesday\, Septemb
- er 22 to donate blood at the HOSA blood drive.
+DESCRIPTION:Signed permission slips must be turned in by September 22 in o
+ rder to donate blood at the HOSA blood drive.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-32a16ad57c0d@calendar-sync.conwaypto.org
@@ -157,8 +169,19 @@ DTEND;TZID=America/Chicago:20260923T193000
 SUMMARY:2026 Service Academy Information Night
 CATEGORIES:ACTIVITIES
 LOCATION:Maumelle Charter High School
-DESCRIPTION:Information night about U.S. Service Academies for interested 
+DESCRIPTION:Information night about U.S. service academies for interested 
  students and families.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-3e179c62cd00@calendar-sync.conwaypto.org
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:HOSA Blood Drive with Arkansas Blood Institute
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:HOSA hosts its semi-annual blood drive. HOSA representatives w
+ ill visit study halls to distribute and collect permission slips.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-aab6297c0943@calendar-sync.conwaypto.org
@@ -207,10 +230,11 @@ UID:newsletter-804e3cbc507b@calendar-sync.conwaypto.org
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Chicago:20261013T090000
 DTEND;TZID=America/Chicago:20261013T120000
-SUMMARY:Picture Day Makeup
+SUMMARY:Makeup Picture Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Makeup day for student yearbook pictures.
+DESCRIPTION:Makeup picture day for students who missed the original pictur
+ e day.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-577d178b8308@calendar-sync.conwaypto.org

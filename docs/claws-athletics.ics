@@ -23,26 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:athletics-a3a2ae01d47e@calendar-sync.conwaypto.org
-DTSTAMP:20260912T000000Z
-DTSTART;TZID=America/Chicago:20260912T080000
-DTEND;TZID=America/Chicago:20260912T110000
-SUMMARY:Boys Varsity Cross Country at Bob Gravette Invitational
-CATEGORIES:ATHLETICS
-LOCATION:OBU
-DESCRIPTION:Boys Varsity Cross Country at Bob Gravette Invitational
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-b98a7741103c@calendar-sync.conwaypto.org
-DTSTAMP:20260912T000000Z
-DTSTART;TZID=America/Chicago:20260912T080000
-DTEND;TZID=America/Chicago:20260912T110000
-SUMMARY:Girls Varsity Cross Country at Bob Gravette Invitational
-CATEGORIES:ATHLETICS
-LOCATION:OBU
-DESCRIPTION:Girls Varsity Cross Country at Bob Gravette Invitational
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-522a309f8bd8@calendar-sync.conwaypto.org
 DTSTAMP:20260914T000000Z
 DTSTART;TZID=America/Chicago:20260914T153000
@@ -143,6 +123,17 @@ LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls Varsity Volleyball vs Van Buren
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-7bb701ff808d@calendar-sync.conwaypto.org
+DTSTAMP:20260915T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:CHS Men's Tennis Home Match
+CATEGORIES:ATHLETICS
+LOCATION:Conway Tennis Center
+DESCRIPTION:Home tennis match for the CHS men's tennis team\, currently 4-
+ 0 on the season.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-142c139d393d@calendar-sync.conwaypto.org
 DTSTAMP:20260915T000000Z
 DTSTART;VALUE=DATE:20260915
@@ -150,19 +141,9 @@ DTEND;VALUE=DATE:20260916
 SUMMARY:CHS Esports Meeting
 CATEGORIES:ATHLETICS
 LOCATION:Room 202
-DESCRIPTION:Esports members and interested participants meet during WIN. I
- nterested students should read the Code of Conduct and complete the Esport
- s Interest Form.
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-7bb701ff808d@calendar-sync.conwaypto.org
-DTSTAMP:20260915T000000Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:CHS Men's Tennis Home Match
-CATEGORIES:ATHLETICS
-LOCATION:Conway Tennis Center
-DESCRIPTION:Home tennis match for the 4-0 CHS Men's tennis team.
+DESCRIPTION:CHS Esports members and interested participants meet during WI
+ N. Interested students should read the Code of Conduct and complete the Es
+ ports Interest Form.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-3c8f256b1b7b@calendar-sync.conwaypto.org
@@ -185,14 +166,14 @@ LOCATION:Conway Tennis Center
 DESCRIPTION:Boys Varsity Tennis vs Ft. Smith Northside
 END:VEVENT
 BEGIN:VEVENT
-UID:rss-a2a29f60bf44@calendar-sync.conwaypto.org
+UID:feed-a2a29f60bf44@calendar-sync.conwaypto.org
 DTSTAMP:20260916T000000Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:CHS Men's Tennis Home Match
 CATEGORIES:ATHLETICS
 LOCATION:Conway Tennis Center
-DESCRIPTION:Home tennis match for the CHS Men's tennis team.
+DESCRIPTION:Home tennis match for the CHS men's tennis team.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-04e21bf78f1a@calendar-sync.conwaypto.org
@@ -265,14 +246,14 @@ LOCATION:Longhills CC
 DESCRIPTION:Girls Varsity Golf at Benton
 END:VEVENT
 BEGIN:VEVENT
-UID:rss-54fbad6fddfd@calendar-sync.conwaypto.org
+UID:feed-54fbad6fddfd@calendar-sync.conwaypto.org
 DTSTAMP:20260917T000000Z
 DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:CHS Men's Tennis Home Match
 CATEGORIES:ATHLETICS
 LOCATION:Conway Tennis Center
-DESCRIPTION:Home tennis match for the CHS Men's tennis team.
+DESCRIPTION:Home tennis match for the CHS men's tennis team.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-262a0cce08d7@calendar-sync.conwaypto.org
@@ -479,11 +460,10 @@ UID:newsletter-3a17f23641b3@calendar-sync.conwaypto.org
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:Football Game – Hawaiian Theme (Away)
+SUMMARY:Football Game (Away) — Hawaiian Theme
 CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Away football game with Hawaiian student section dress theme. 
- Students need their student ID to enter football games.
+DESCRIPTION:Away football game with Hawaiian dress-up theme. Students will
+  need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-93c20b5ba321@calendar-sync.conwaypto.org
@@ -660,11 +640,10 @@ UID:newsletter-3c23f62353ad@calendar-sync.conwaypto.org
 DTSTAMP:20261002T000000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:Football Game – Blackout Theme (Home)
+SUMMARY:Football Game (Home) — Blackout Theme
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Home football game with Blackout student section dress theme. 
- Students need their student ID to enter football games.
+DESCRIPTION:Home football game with Blackout dress-up theme. Students will
+  need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-afda75f6614f@calendar-sync.conwaypto.org
@@ -741,11 +720,10 @@ UID:newsletter-22eac23d2f5b@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:Football Game – Jerseys Theme (Away)
+SUMMARY:Football Game (Away) — Jerseys Theme
 CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Away football game with Jerseys student section dress theme. S
- tudents need their student ID to enter football games.
+DESCRIPTION:Away football game with Jerseys dress-up theme. Students will 
+ need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-144d6727c001@calendar-sync.conwaypto.org
@@ -872,11 +850,10 @@ UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Homecoming Football Game – Pink & Purple Theme (Home)
+SUMMARY:Homecoming Football Game (Home) — Pink & Purple Theme
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Homecoming home football game with Pink & Purple student secti
- on dress theme. Students need their student ID to enter football games.
+DESCRIPTION:Homecoming home football game with Pink & Purple dress-up them
+ e. Students will need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
@@ -963,11 +940,10 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Game – Super Hero Theme (Away)
+SUMMARY:Football Game (Away) — Super Hero Theme
 CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Away football game with Super Hero student section dress theme
- . Students need their student ID to enter football games.
+DESCRIPTION:Away football game with Super Hero dress-up theme. Students wi
+ ll need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-b5bc1f7cb0d3@calendar-sync.conwaypto.org
@@ -1024,11 +1000,10 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Game – Frat Theme (Home)
+SUMMARY:Football Game (Home) — Frat Theme
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Home football game with Frat student section dress theme. Stud
- ents need their student ID to enter football games.
+DESCRIPTION:Home football game with Frat dress-up theme. Students will nee
+ d their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -1075,11 +1050,10 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Game – Whiteout Theme (Away)
+SUMMARY:Football Game (Away) — Whiteout Theme
 CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Away football game with Whiteout student section dress theme. 
- Students need their student ID to enter football games.
+DESCRIPTION:Away football game with Whiteout dress-up theme. Students will
+  need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d7fcc4fa289b@calendar-sync.conwaypto.org
@@ -1112,10 +1086,10 @@ LOCATION:Buzz Bolding Arena
 DESCRIPTION:Boys JV Basketball vs Rogers Heritage Benefit Game
 END:VEVENT
 BEGIN:VEVENT
-UID:athletics-45aa629c3705@calendar-sync.conwaypto.org
-DTSTAMP:20261111T000000Z
-DTSTART;TZID=America/Chicago:20261111T170000
-DTEND;TZID=America/Chicago:20261111T200000
+UID:athletics-2701e4d6e09f@calendar-sync.conwaypto.org
+DTSTAMP:20261110T000000Z
+DTSTART;TZID=America/Chicago:20261110T170000
+DTEND;TZID=America/Chicago:20261110T200000
 SUMMARY:Boys Varsity Basketball vs Rogers Heritage  Benefit Game
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena

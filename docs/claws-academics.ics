@@ -41,10 +41,10 @@ SUMMARY:Deadline: National Honor Society Application Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Last day to submit NHS applications for the 2026-2027 school y
- ear. Requirements: current junior or senior\, 3.75+ GPA\, 2 consecutive ye
- ars of AP/concurrent credit classes and currently enrolled in one\, no maj
- or discipline infractions. Dues are $25.00. Applications available outside
-  A103.
+ ear. Returning junior members must reapply. Dues are $25. Eligibility: cur
+ rent senior or junior\, 3.75+ GPA\, 2 consecutive years of AP/concurrent c
+ redit classes and currently enrolled in one\, no major discipline infracti
+ ons. Applications available outside A103.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-122ce20dec83@calendar-sync.conwaypto.org
@@ -73,10 +73,10 @@ DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Deadline: Beta Club Dues Deadline
 CATEGORIES:ACADEMICS
-LOCATION:Room 259 (Mr. Cullum)
-DESCRIPTION:Students joining CHS Beta Club must pay the one-time $40 dues 
- to Mr. Cullum by September 25. Payment must be brought before 5th period\;
-  students must verify a 3.0 minimum GPA.
+LOCATION:Room 259
+DESCRIPTION:Students interested in joining CHS Beta Club must pay the one-
+ time $40 dues to Mr. Cullum in room 259 by September 25. Students must ver
+ ify a minimum 3.0 GPA\; payment must be brought before 5th period.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-20b146eb7b3b@calendar-sync.conwaypto.org
@@ -93,13 +93,13 @@ UID:newsletter-830eb7795208@calendar-sync.conwaypto.org
 DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:Deadline: Last Day to Join Spanish Club and Spanish Honorary Socie
- ty
+SUMMARY:Deadline: Last Day to Join Spanish Club / Spanish Honorary Society
 CATEGORIES:ACADEMICS
 LOCATION:Room 608 (Annex Building)
-DESCRIPTION:Final date this semester to join the CHS Spanish Club ($6 dues
- ) or the Sociedad Honoraria Hispánica ($7 lifetime dues). See Sra. Tedfor
- d in room 608 for details.
+DESCRIPTION:Final date this semester to join the CHS Spanish Club (dues $6
+ ) or the Sociedad Honoraria Hispánica (dues $7 lifetime\; requires 3 seme
+ sters of Spanish with A's and 3.7+ GPA). Returning SHH members must submit
+  an updated transcript.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-95bea8785e0d@calendar-sync.conwaypto.org
@@ -180,10 +180,10 @@ UID:feed-082178697751@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Deadline: Yearbook Lowest Price Deadline
+SUMMARY:Deadline: CHS Yearbook Lowest Price Sale Ends
 CATEGORIES:ACADEMICS
-DESCRIPTION:Last day to order the Conway High School yearbook at the speci
- al price of $55 through Jostens.
+DESCRIPTION:Conway High School yearbooks are $55 at their lowest price\; t
+ he special offer ends October 16\, 2026. Order through Jostens.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-180b882db40c@calendar-sync.conwaypto.org
@@ -239,8 +239,8 @@ DTSTART;TZID=America/Chicago:20261112T080000
 DTEND;TZID=America/Chicago:20261112T090000
 SUMMARY:ASVAB Test
 CATEGORIES:ACADEMICS
-LOCATION:Lecture Hall\, Conway High School
-DESCRIPTION:Juniors and seniors may take the ASVAB career exploration test
+LOCATION:Lecture Hall
+DESCRIPTION:Juniors and seniors can take the ASVAB career exploration test
  . Sign up in the Counseling Center\; seats are limited. Bring a fully char
  ged Chromebook.
 END:VEVENT
