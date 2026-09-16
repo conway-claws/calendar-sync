@@ -23,66 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:athletics-20458b3852b8@calendar-sync.conwaypto.org
-DTSTAMP:20260915T000000Z
-DTSTART;TZID=America/Chicago:20260915T153000
-DTEND;TZID=America/Chicago:20260915T183000
-SUMMARY:Boys Varsity Cross Country at Josh Park
-CATEGORIES:ATHLETICS
-LOCATION:Dam Site Park
-DESCRIPTION:Boys Varsity Cross Country at Josh Park
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-893c152aeea9@calendar-sync.conwaypto.org
-DTSTAMP:20260915T000000Z
-DTSTART;TZID=America/Chicago:20260915T153000
-DTEND;TZID=America/Chicago:20260915T183000
-SUMMARY:Boys Varsity Tennis vs Little Rock Christian
-CATEGORIES:ATHLETICS
-LOCATION:Conway Tennis Center
-DESCRIPTION:Boys Varsity Tennis vs Little Rock Christian
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-a27f547faa28@calendar-sync.conwaypto.org
-DTSTAMP:20260915T000000Z
-DTSTART;TZID=America/Chicago:20260915T153000
-DTEND;TZID=America/Chicago:20260915T183000
-SUMMARY:Girls Varsity Tennis vs Little Rock Christian
-CATEGORIES:ATHLETICS
-LOCATION:Conway Tennis Center
-DESCRIPTION:Girls Varsity Tennis vs Little Rock Christian
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-be3c1a4840b4@calendar-sync.conwaypto.org
-DTSTAMP:20260915T000000Z
-DTSTART;TZID=America/Chicago:20260915T153000
-DTEND;TZID=America/Chicago:20260915T183000
-SUMMARY:Girls Varsity Cross Country at Josh Park
-CATEGORIES:ATHLETICS
-LOCATION:Dam Site Park
-DESCRIPTION:Girls Varsity Cross Country at Josh Park
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-c0fe357a881c@calendar-sync.conwaypto.org
-DTSTAMP:20260915T000000Z
-DTSTART;TZID=America/Chicago:20260915T170000
-DTEND;TZID=America/Chicago:20260915T200000
-SUMMARY:Girls JV Volleyball vs Van Buren
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls JV Volleyball vs Van Buren
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-c9321259b31b@calendar-sync.conwaypto.org
-DTSTAMP:20260915T000000Z
-DTSTART;TZID=America/Chicago:20260915T180000
-DTEND;TZID=America/Chicago:20260915T210000
-SUMMARY:Girls Varsity Volleyball vs Van Buren
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls Varsity Volleyball vs Van Buren
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-7bb701ff808d@calendar-sync.conwaypto.org
 DTSTAMP:20260915T000000Z
 DTSTART;VALUE=DATE:20260915
@@ -149,6 +89,17 @@ SUMMARY:CHS Men's Tennis Home Match
 CATEGORIES:ATHLETICS
 LOCATION:Conway Tennis Center
 DESCRIPTION:Home tennis match for the CHS men's tennis team.
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-d5150f82d793@calendar-sync.conwaypto.org
+DTSTAMP:20260916T000000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Lady Cats Volleyball vs. Van Buren
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School (Home)
+DESCRIPTION:Home volleyball game for the Lady Cats against Van Buren. Tick
+ et link and live stream available on YouTube.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-04e21bf78f1a@calendar-sync.conwaypto.org
@@ -425,7 +376,7 @@ UID:newsletter-3a17f23641b3@calendar-sync.conwaypto.org
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:Football Game - Hawaiian Theme (Away)
+SUMMARY:Football Game – Away (Hawaiian Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Away
 DESCRIPTION:Away football game with Hawaiian dress-up theme. Students need
@@ -615,9 +566,9 @@ UID:newsletter-3c23f62353ad@calendar-sync.conwaypto.org
 DTSTAMP:20261002T000000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:Football Game - Blackout Theme (Home)
+SUMMARY:Football Game – Home (Blackout Theme)
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School
+LOCATION:Home
 DESCRIPTION:Home football game with Blackout dress-up theme. Students need
   their student ID to enter football games.
 END:VEVENT
@@ -696,7 +647,7 @@ UID:newsletter-22eac23d2f5b@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:Football Game - Jerseys Theme (Away)
+SUMMARY:Football Game – Away (Jerseys Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Away
 DESCRIPTION:Away football game with Jerseys dress-up theme. Students need 
@@ -827,9 +778,9 @@ UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Homecoming Football Game - Pink & Purple Theme (Home)
+SUMMARY:Football Game – Home (Pink & Purple Theme) – HOMECOMING
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School
+LOCATION:Home
 DESCRIPTION:Homecoming home football game with Pink & Purple dress-up them
  e. Students need their student ID to enter football games.
 END:VEVENT
@@ -918,7 +869,7 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Game - Super Hero Theme (Away)
+SUMMARY:Football Game – Away (Super Hero Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Away
 DESCRIPTION:Away football game with Super Hero dress-up theme. Students ne
@@ -979,9 +930,9 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Game - Frat Theme (Home)
+SUMMARY:Football Game – Home (Frat Theme)
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School
+LOCATION:Home
 DESCRIPTION:Home football game with Frat dress-up theme. Students need the
  ir student ID to enter football games.
 END:VEVENT
@@ -1030,7 +981,7 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Game - Whiteout Theme (Away)
+SUMMARY:Football Game – Away (Whiteout Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Away
 DESCRIPTION:Away football game with Whiteout dress-up theme. Students need
@@ -1347,5 +1298,25 @@ SUMMARY:Boys Varsity Basketball at TBA Arvest Hoopfest
 CATEGORIES:ATHLETICS
 LOCATION:Rogers HS
 DESCRIPTION:Boys Varsity Basketball at TBA Arvest Hoopfest
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-0588200f022a@calendar-sync.conwaypto.org
+DTSTAMP:20261215T000000Z
+DTSTART;TZID=America/Chicago:20261215T173000
+DTEND;TZID=America/Chicago:20261215T203000
+SUMMARY:Boys JV Basketball at Maumelle
+CATEGORIES:ATHLETICS
+LOCATION:Maumelle HS
+DESCRIPTION:Boys JV Basketball at Maumelle
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-81113391fd29@calendar-sync.conwaypto.org
+DTSTAMP:20261215T000000Z
+DTSTART;TZID=America/Chicago:20261215T183000
+DTEND;TZID=America/Chicago:20261215T213000
+SUMMARY:Boys Varsity Basketball at Maumelle
+CATEGORIES:ATHLETICS
+LOCATION:Maumelle HS
+DESCRIPTION:Boys Varsity Basketball at Maumelle
 END:VEVENT
 END:VCALENDAR

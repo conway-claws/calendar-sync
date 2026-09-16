@@ -54,8 +54,8 @@ DTSTART;TZID=America/Chicago:20261005T183000
 DTEND;TZID=America/Chicago:20261005T193000
 SUMMARY:CHS Choir Region Preview Concert
 CATEGORIES:ARTS
-LOCATION:Auditorium
-DESCRIPTION:CHS Choir performs its Region Preview Concert.
+LOCATION:Conway High School Auditorium
+DESCRIPTION:The CHS Choir performs its Region Preview Concert.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-96811dd6888a@calendar-sync.conwaypto.org
