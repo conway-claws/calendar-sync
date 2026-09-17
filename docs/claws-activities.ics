@@ -23,49 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-1f0336ec377c@calendar-sync.conwaypto.org
-DTSTAMP:20260915T000000Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:Jostens Visit for Seniors (Cap & Gown)
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
-DESCRIPTION:Jostens visits seniors during ELA classes to share cap & gown 
- options and graduation essentials.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-536a9f5bb475@calendar-sync.conwaypto.org
-DTSTAMP:20260915T000000Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:Caring Cats Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:Lecture Hall
-DESCRIPTION:Meeting during WIN. Pick up a pass from room 258 to be excused
-  to attend.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-c212b255c5ee@calendar-sync.conwaypto.org
-DTSTAMP:20260915T000000Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:Young Democrats Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:Room 263
-DESCRIPTION:The Young Democrats will meet during 1st and 2nd lunches.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-e91466661808@calendar-sync.conwaypto.org
-DTSTAMP:20260915T000000Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:Fellowship of Christian Students First Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:Mrs. Dunn's room 365
-DESCRIPTION:First meeting during WIN time. Stop by Mrs. Dunn's room 365 to
-  get a pass to attend.
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-0a9994b95634@calendar-sync.conwaypto.org
 DTSTAMP:20260916T000000Z
 DTSTART;VALUE=DATE:20260916
@@ -95,9 +52,10 @@ DTEND;TZID=America/Chicago:20260917T190000
 SUMMARY:District Wide Fall C.A.T. Forum
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School Lecture Hall
-DESCRIPTION:District-wide forum focused on Communication\, Accountability\
- , and Transparency\, with updates on the strategic plan Project Conway For
- ward (PC4W) and an opportunity to ask questions.
+DESCRIPTION:District-wide forum focused on Communication\, Action\, and Tr
+ ansparency. District leaders will share how they are serving students and 
+ supporting staff\, plus updates on the strategic plan Project Conway Forwa
+ rd (PC4W). Opportunity for the community to engage and ask questions.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-1831a7ec1206@calendar-sync.conwaypto.org
@@ -106,10 +64,19 @@ DTSTART;VALUE=DATE:20260917
 DTEND;VALUE=DATE:20260918
 SUMMARY:Spanish Club First Meeting
 CATEGORIES:ACTIVITIES
-LOCATION:Room 608\, Annex Building
-DESCRIPTION:First Spanish Club meeting during WIN time. Stop by Room 608 b
- eforehand to pick up a colored WIN pass. Dues are $6. Contact Señora Tedf
- ord for more information.
+LOCATION:Room 608 (Annex Building)
+DESCRIPTION:First CHS Spanish Club meeting during WIN time. Dues are $6. C
+ ontact Señora Tedford (tedfordn@conwayschools.info) for more information.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-528d3f871d80@calendar-sync.conwaypto.org
+DTSTAMP:20260918T000000Z
+DTSTART;TZID=America/Chicago:20260918T080000
+DTEND;TZID=America/Chicago:20260918T130000
+SUMMARY:Jostens In-Person Order Day
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Jostens will be on campus for in-person orders.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-96d91905b048@calendar-sync.conwaypto.org
@@ -120,31 +87,41 @@ SUMMARY:Hispanic Heritage Community Night
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School cafeteria
 DESCRIPTION:Students and families are invited to celebrate Hispanic studen
- ts and families with student artwork\, a student video\, college represent
- atives\, counselor Q&A\, and campus tours.
+ ts and families with student artwork\, a special student video\, college r
+ epresentatives\, counselor Q&A\, and campus tours. Everyone is welcome!
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-b507f8ff9b12@calendar-sync.conwaypto.org
 DTSTAMP:20260921T000000Z
 DTSTART;TZID=America/Chicago:20260921T180000
 DTEND;TZID=America/Chicago:20260921T190000
-SUMMARY:Student Travel Informational Meeting
+SUMMARY:Student Travel Abroad Informational Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Room 165
-DESCRIPTION:Informational meeting about upcoming student travel opportunit
- ies to Japan\, Australia & New Zealand\, or London\, Paris & Rome\, includ
- ing costs and what is included.
+DESCRIPTION:Learn about upcoming student travel opportunities to Japan\, A
+ ustralia & New Zealand\, or London\, Paris & Rome\, including what is incl
+ uded\, costs\, and how to get involved. Complete the Travel Interest Form.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-bc1871e6cf3c@calendar-sync.conwaypto.org
 DTSTAMP:20260922T000000Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-SUMMARY:Deadline: HOSA Blood Drive Permission Slip Deadline
+SUMMARY:Deadline: Blood Drive Permission Slip Deadline
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Signed permission slips must be turned in by this date in orde
- r to donate blood at the HOSA blood drive.
+ r to donate blood at the HOSA/Arkansas Blood Institute blood drive.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-5d10fafdc16a@calendar-sync.conwaypto.org
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:FBLA Meeting
+CATEGORIES:ACTIVITIES
+LOCATION:Mrs. Alexander's Room 900\, Career Center
+DESCRIPTION:FBLA meeting during WIN time.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-3e179c62cd00@calendar-sync.conwaypto.org
@@ -166,8 +143,11 @@ DTEND;VALUE=DATE:20260926
 SUMMARY:HOSA Blood Drive
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:HOSA hosts its semi-annual blood drive with the Arkansas Blood
-  Institute. Permission slips due by September 22.
+DESCRIPTION:HOSA's semi-annual blood drive with Arkansas Blood Institute. 
+ Permission slips distributed in 1st-8th period study halls\; signed slips 
+ due by September 22. Students without a study hall can arrange through Mrs
+ . Tillery-Harris' room 8117\, the Health Science Building\, Mrs. Langford 
+ in the Career Center\, or the front office.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-c41729aaba69@calendar-sync.conwaypto.org
@@ -196,8 +176,7 @@ DTEND;TZID=America/Chicago:20261013T120000
 SUMMARY:Makeup Picture Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Makeup picture day for students who missed the original school
-  picture day.
+DESCRIPTION:Makeup picture day for students.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-577d178b8308@calendar-sync.conwaypto.org
