@@ -23,97 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-a2a29f60bf44@calendar-sync.conwaypto.org
-DTSTAMP:20260916T000000Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:CHS Men's Tennis Home Match
-CATEGORIES:ATHLETICS
-LOCATION:Conway Tennis Center
-DESCRIPTION:Home tennis match for the CHS men's tennis team.
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-d5150f82d793@calendar-sync.conwaypto.org
-DTSTAMP:20260916T000000Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Lady Cats Volleyball vs. Van Buren
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School (Home)
-DESCRIPTION:Home volleyball game for the Lady Cats against Van Buren. Tick
- et link and live stream available on YouTube.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-04e21bf78f1a@calendar-sync.conwaypto.org
-DTSTAMP:20260917T000000Z
-DTSTART;TZID=America/Chicago:20260917T170000
-DTEND;TZID=America/Chicago:20260917T200000
-SUMMARY:Girls JV Volleyball at Central
-CATEGORIES:ATHLETICS
-LOCATION:LR Central Gym
-DESCRIPTION:Girls JV Volleyball at Central
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-35fca7658d40@calendar-sync.conwaypto.org
-DTSTAMP:20260917T000000Z
-DTSTART;TZID=America/Chicago:20260917T180000
-DTEND;TZID=America/Chicago:20260917T210000
-SUMMARY:Girls Varsity Volleyball at Central
-CATEGORIES:ATHLETICS
-LOCATION:LR Central Gym
-DESCRIPTION:Girls Varsity Volleyball at Central
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-7f368b9f1346@calendar-sync.conwaypto.org
-DTSTAMP:20260917T000000Z
-DTSTART;TZID=America/Chicago:20260917T163000
-DTEND;TZID=America/Chicago:20260917T193000
-SUMMARY:Girls JV Basketball at Springdale
-CATEGORIES:ATHLETICS
-LOCATION:Springdale HS
-DESCRIPTION:Girls JV Basketball at Springdale
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-8be95f7ce7f4@calendar-sync.conwaypto.org
-DTSTAMP:20260917T000000Z
-DTSTART;TZID=America/Chicago:20260917T090000
-DTEND;TZID=America/Chicago:20260917T120000
-SUMMARY:Boys Varsity Golf at Benton
-CATEGORIES:ATHLETICS
-LOCATION:Longhills CC
-DESCRIPTION:Boys Varsity Golf at Benton
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-d04a11812bdd@calendar-sync.conwaypto.org
-DTSTAMP:20260917T000000Z
-DTSTART;TZID=America/Chicago:20260917T153000
-DTEND;TZID=America/Chicago:20260917T183000
-SUMMARY:Boys Varsity Tennis vs Catholic
-CATEGORIES:ATHLETICS
-LOCATION:Conway Tennis Center
-DESCRIPTION:Boys Varsity Tennis vs Catholic
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-e26d215d88e0@calendar-sync.conwaypto.org
-DTSTAMP:20260917T000000Z
-DTSTART;TZID=America/Chicago:20260917T153000
-DTEND;TZID=America/Chicago:20260917T183000
-SUMMARY:Girls Varsity Tennis vs Mount Saint Mary
-CATEGORIES:ATHLETICS
-LOCATION:Conway Tennis Center
-DESCRIPTION:Girls Varsity Tennis vs Mount Saint Mary
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-fcf3d9e2f3a1@calendar-sync.conwaypto.org
-DTSTAMP:20260917T000000Z
-DTSTART;TZID=America/Chicago:20260917T090000
-DTEND;TZID=America/Chicago:20260917T120000
-SUMMARY:Girls Varsity Golf at Benton
-CATEGORIES:ATHLETICS
-LOCATION:Longhills CC
-DESCRIPTION:Girls Varsity Golf at Benton
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-54fbad6fddfd@calendar-sync.conwaypto.org
 DTSTAMP:20260917T000000Z
 DTSTART;VALUE=DATE:20260917
@@ -138,6 +47,31 @@ DESCRIPTION:Lady Cat volleyball on the road against Little Rock Central. T
  panied by a responsible adult age 21+. Only students from Conway High Scho
  ol and Central High School may attend. No outside food or drink. Ticket li
  nk: https://gofan.co/event/6852814?schoolId=AR4663
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-099715f09660@calendar-sync.conwaypto.org
+DTSTAMP:20260918T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Lady Cats Volleyball at Little Rock Central
+CATEGORIES:ATHLETICS
+LOCATION:Little Rock Central High School
+DESCRIPTION:Conway Lady Cat volleyball travels to Little Rock Central. Tic
+ kets must be purchased online only (no cash) at GoFan.co by 7:00 p.m. on g
+ ame day. Clear bag policy in effect\; students need a school ID badge and 
+ an online ticket\, or must be accompanied by a responsible adult 21 or old
+ er. Only Conway and Central students may attend. No outside food or drink.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-4f91d4c29427@calendar-sync.conwaypto.org
+DTSTAMP:20260918T000000Z
+DTSTART;TZID=America/Chicago:20260918T153000
+DTEND;TZID=America/Chicago:20260918T163000
+SUMMARY:CHS Tennis vs. Catholic/Mount St. Mary
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School (home)
+DESCRIPTION:Both CHS tennis teams\, now 5-1 on the season\, host Catholic 
+ and Mount St. Mary in a big home match.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-262a0cce08d7@calendar-sync.conwaypto.org
@@ -334,7 +268,7 @@ UID:newsletter-3a17f23641b3@calendar-sync.conwaypto.org
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:Football Away Game - Hawaiian Theme
+SUMMARY:Football Game (Away) - Hawaiian Theme
 CATEGORIES:ATHLETICS
 LOCATION:Away
 DESCRIPTION:Away football game with Hawaiian dress-up theme. Students need
@@ -524,11 +458,11 @@ UID:newsletter-3c23f62353ad@calendar-sync.conwaypto.org
 DTSTAMP:20261002T000000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:Football Home Game - Blackout Theme
+SUMMARY:Football Game (Home) - Blackout Theme
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
 DESCRIPTION:Home football game with Blackout dress-up theme. Students need
-  their student ID to enter football games.
+  their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-afda75f6614f@calendar-sync.conwaypto.org
@@ -605,11 +539,11 @@ UID:newsletter-22eac23d2f5b@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:Football Away Game - Jerseys Theme
+SUMMARY:Football Game (Away) - Jerseys Theme
 CATEGORIES:ATHLETICS
 LOCATION:Away
 DESCRIPTION:Away football game with Jerseys dress-up theme. Students need 
- their student ID to enter football games.
+ their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-144d6727c001@calendar-sync.conwaypto.org
@@ -709,9 +643,8 @@ DTEND;VALUE=DATE:20261014
 SUMMARY:Volleyball Pink Night Donation Drive
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School parking lot
-DESCRIPTION:Volleyball players will collect change and donations in the hi
- gh school parking lot during dismissal to raise money for Emmersyn Caldwel
- l\, this year's Pink Night recipient.
+DESCRIPTION:Volleyball team collects change and donations during dismissal
+  for Emmersyn Caldwell\, this year's Pink Night recipient.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-a78340100fa9@calendar-sync.conwaypto.org
@@ -748,11 +681,11 @@ UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Homecoming Football Game - Pink & Purple Theme
+SUMMARY:Homecoming Football Game (Home) - Pink & Purple Theme
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home Homecoming football game with Pink & Purple dress-up them
- e. Students need their student ID to enter football games.
+DESCRIPTION:Homecoming home football game with Pink & Purple dress-up them
+ e. Students need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
@@ -839,11 +772,11 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Away Game - Super Hero Theme
+SUMMARY:Football Game (Away) - Super Hero Theme
 CATEGORIES:ATHLETICS
 LOCATION:Away
 DESCRIPTION:Away football game with Super Hero dress-up theme. Students ne
- ed their student ID to enter football games.
+ ed their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-b5bc1f7cb0d3@calendar-sync.conwaypto.org
@@ -900,11 +833,11 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Home Game - Frat Theme
+SUMMARY:Football Game (Home) - Frat Theme
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
 DESCRIPTION:Home football game with Frat dress-up theme. Students need the
- ir student ID to enter football games.
+ ir student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -915,6 +848,26 @@ SUMMARY:Girls Varsity Volleyball at State Finals
 CATEGORIES:ATHLETICS
 LOCATION:Bank OZK Arena
 DESCRIPTION:Girls Varsity Volleyball at State Finals
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-8295f0eae580@calendar-sync.conwaypto.org
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=America/Chicago:20261105T000000
+DTEND;TZID=America/Chicago:20261105T030000
+SUMMARY:Girls Varsity Swim and Dive vs Conway Meet
+CATEGORIES:ATHLETICS
+LOCATION:Hendrix Pool
+DESCRIPTION:Girls Varsity Swim and Dive vs Conway Meet
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-e75c41b6efd1@calendar-sync.conwaypto.org
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=America/Chicago:20261105T000000
+DTEND;TZID=America/Chicago:20261105T030000
+SUMMARY:Boys Varsity Swim and Dive vs Conway Meet
+CATEGORIES:ATHLETICS
+LOCATION:Hendrix Pool
+DESCRIPTION:Boys Varsity Swim and Dive vs Conway Meet
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-04e4dbd2b11a@calendar-sync.conwaypto.org
@@ -951,11 +904,11 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Away Game - Whiteout Theme
+SUMMARY:Football Game (Away) - Whiteout Theme
 CATEGORIES:ATHLETICS
 LOCATION:Away
 DESCRIPTION:Away football game with Whiteout dress-up theme. Students need
-  their student ID to enter football games.
+  their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d7fcc4fa289b@calendar-sync.conwaypto.org
@@ -1008,6 +961,16 @@ LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls Varsity Basketball vs TBA MC Invitational
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-a265d35c84ba@calendar-sync.conwaypto.org
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=America/Chicago:20261112T000000
+DTEND;TZID=America/Chicago:20261112T030000
+SUMMARY:Girls Varsity Swim and Dive at Russellville
+CATEGORIES:ATHLETICS
+LOCATION:Russellville Aquatic Center
+DESCRIPTION:Girls Varsity Swim and Dive at Russellville
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-b809e5cc1359@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;TZID=America/Chicago:20261112T173000
@@ -1026,6 +989,16 @@ SUMMARY:Boys JV Basketball at Fayetteville
 CATEGORIES:ATHLETICS
 LOCATION:Fayetteville HS
 DESCRIPTION:Boys JV Basketball at Fayetteville
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-f6dfc7a2a9ac@calendar-sync.conwaypto.org
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=America/Chicago:20261112T000000
+DTEND;TZID=America/Chicago:20261112T030000
+SUMMARY:Boys Varsity Swim and Dive at Russellville
+CATEGORIES:ATHLETICS
+LOCATION:Russellville Aquatic Center
+DESCRIPTION:Boys Varsity Swim and Dive at Russellville
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-87458867308d@calendar-sync.conwaypto.org
@@ -1096,6 +1069,26 @@ SUMMARY:Boys Varsity Basketball at Russellville
 CATEGORIES:ATHLETICS
 LOCATION:Russellville HS
 DESCRIPTION:Boys Varsity Basketball at Russellville
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-6411af48e357@calendar-sync.conwaypto.org
+DTSTAMP:20261119T000000Z
+DTSTART;TZID=America/Chicago:20261119T000000
+DTEND;TZID=America/Chicago:20261119T030000
+SUMMARY:Boys Varsity Swim and Dive vs Conway Meet
+CATEGORIES:ATHLETICS
+LOCATION:Hendrix Pool
+DESCRIPTION:Boys Varsity Swim and Dive vs Conway Meet
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-c34bbb15ae41@calendar-sync.conwaypto.org
+DTSTAMP:20261119T000000Z
+DTSTART;TZID=America/Chicago:20261119T000000
+DTEND;TZID=America/Chicago:20261119T030000
+SUMMARY:Girls Varsity Swim and Dive vs Conway Meet
+CATEGORIES:ATHLETICS
+LOCATION:Hendrix Pool
+DESCRIPTION:Girls Varsity Swim and Dive vs Conway Meet
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-90fbd853c4b4@calendar-sync.conwaypto.org
@@ -1184,10 +1177,20 @@ UID:athletics-44af430d054d@calendar-sync.conwaypto.org
 DTSTAMP:20261201T000000Z
 DTSTART;TZID=America/Chicago:20261201T193000
 DTEND;TZID=America/Chicago:20261201T223000
-SUMMARY:Boys Varsity Basketball at Fort Smith Southside
+SUMMARY:Boys Varsity Basketball vs Fort Smith Southside
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
-DESCRIPTION:Boys Varsity Basketball at Fort Smith Southside
+DESCRIPTION:Boys Varsity Basketball vs Fort Smith Southside
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-926440ecdd10@calendar-sync.conwaypto.org
+DTSTAMP:20261203T000000Z
+DTSTART;TZID=America/Chicago:20261203T000000
+DTEND;TZID=America/Chicago:20261203T030000
+SUMMARY:Girls Varsity Swim and Dive at Bixby
+CATEGORIES:ATHLETICS
+LOCATION:Bixby High School
+DESCRIPTION:Girls Varsity Swim and Dive at Bixby
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-98eeddb699e8@calendar-sync.conwaypto.org
@@ -1200,6 +1203,16 @@ LOCATION:Vilonia HS
 DESCRIPTION:Boys Varsity Basketball at Sylvan Hills
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-c36ad742df6d@calendar-sync.conwaypto.org
+DTSTAMP:20261203T000000Z
+DTSTART;TZID=America/Chicago:20261203T000000
+DTEND;TZID=America/Chicago:20261203T030000
+SUMMARY:Boys Varsity Swim and Dive at Bixby
+CATEGORIES:ATHLETICS
+LOCATION:Bixby High School
+DESCRIPTION:Boys Varsity Swim and Dive at Bixby
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-bdc30d88d225@calendar-sync.conwaypto.org
 DTSTAMP:20261205T000000Z
 DTSTART;TZID=America/Chicago:20261205T000000
@@ -1208,16 +1221,6 @@ SUMMARY:Girls Varsity Cheer at Lake Hamilton
 CATEGORIES:ATHLETICS
 LOCATION:Lake Hamilton
 DESCRIPTION:Girls Varsity Cheer at Lake Hamilton
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-01166208e9b1@calendar-sync.conwaypto.org
-DTSTAMP:20261208T000000Z
-DTSTART;TZID=America/Chicago:20261208T000000
-DTEND;TZID=America/Chicago:20261208T030000
-SUMMARY:Girls Varsity Cheer at State
-CATEGORIES:ATHLETICS
-LOCATION:Hot Springs
-DESCRIPTION:Girls Varsity Cheer at State
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-64df162cb0f3@calendar-sync.conwaypto.org
@@ -1260,14 +1263,44 @@ LOCATION:Springdale High School
 DESCRIPTION:Girls Varsity Basketball at Van Buren  Reddog Classic
 END:VEVENT
 BEGIN:VEVENT
-UID:athletics-eb215cc526b1@calendar-sync.conwaypto.org
+UID:athletics-85f0bcf2082c@calendar-sync.conwaypto.org
 DTSTAMP:20261210T000000Z
 DTSTART;TZID=America/Chicago:20261210T000000
 DTEND;TZID=America/Chicago:20261210T030000
+SUMMARY:Girls Varsity Swim and Dive vs Conway Meet
+CATEGORIES:ATHLETICS
+LOCATION:Hendrix Pool
+DESCRIPTION:Girls Varsity Swim and Dive vs Conway Meet
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-f6909d2d3d77@calendar-sync.conwaypto.org
+DTSTAMP:20261210T000000Z
+DTSTART;TZID=America/Chicago:20261210T000000
+DTEND;TZID=America/Chicago:20261210T030000
+SUMMARY:Boys Varsity Swim and Dive vs Conway Meet
+CATEGORIES:ATHLETICS
+LOCATION:Hendrix Pool
+DESCRIPTION:Boys Varsity Swim and Dive vs Conway Meet
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-23b2b5ef4636@calendar-sync.conwaypto.org
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=America/Chicago:20261211T000000
+DTEND;TZID=America/Chicago:20261211T030000
 SUMMARY:Boys Varsity Basketball at TBA Arvest Hoopfest
 CATEGORIES:ATHLETICS
 LOCATION:Rogers HS
 DESCRIPTION:Boys Varsity Basketball at TBA Arvest Hoopfest
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-939909eeb1f7@calendar-sync.conwaypto.org
+DTSTAMP:20261212T000000Z
+DTSTART;TZID=America/Chicago:20261212T000000
+DTEND;TZID=America/Chicago:20261212T030000
+SUMMARY:Boys Varsity Basketball at TBA
+CATEGORIES:ATHLETICS
+LOCATION:Rogers HS
+DESCRIPTION:Boys Varsity Basketball at TBA
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0588200f022a@calendar-sync.conwaypto.org

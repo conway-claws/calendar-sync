@@ -23,28 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-0a9994b95634@calendar-sync.conwaypto.org
-DTSTAMP:20260916T000000Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:Jostens Visit for Juniors – Class Rings
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
-DESCRIPTION:Jostens visits juniors during ELA classes with information abo
- ut class rings and ordering details.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-c0e1b9c57b38@calendar-sync.conwaypto.org
-DTSTAMP:20260916T000000Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:ALLiance First Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:Room 217 (1st lunch) / Room 261 (2nd lunch)
-DESCRIPTION:ALLiance holds its first meeting during lunch. Email Ms. Breau
- x or Ms. Drake for more info.
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-79ebb59540d2@calendar-sync.conwaypto.org
 DTSTAMP:20260917T000000Z
 DTSTART;TZID=America/Chicago:20260917T180000
@@ -85,33 +63,33 @@ DTSTART;TZID=America/Chicago:20260920T160000
 DTEND;TZID=America/Chicago:20260920T180000
 SUMMARY:Hispanic Heritage Community Night
 CATEGORIES:ACTIVITIES
-LOCATION:Conway High School cafeteria
+LOCATION:Conway High School Cafeteria
 DESCRIPTION:Students and families are invited to celebrate Hispanic studen
- ts and families with student artwork\, a special student video\, college r
- epresentatives\, counselor Q&A\, and campus tours. Everyone is welcome!
+ ts and families with student artwork\, a student video\, college represent
+ atives\, counselor Q&A\, and campus tours.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-b507f8ff9b12@calendar-sync.conwaypto.org
 DTSTAMP:20260921T000000Z
 DTSTART;TZID=America/Chicago:20260921T180000
 DTEND;TZID=America/Chicago:20260921T190000
-SUMMARY:Student Travel Abroad Informational Meeting
+SUMMARY:Student Travel Informational Meeting
 CATEGORIES:ACTIVITIES
-LOCATION:Room 165
+LOCATION:Room 165\, Conway High School
 DESCRIPTION:Learn about upcoming student travel opportunities to Japan\, A
  ustralia & New Zealand\, or London\, Paris & Rome\, including what is incl
- uded\, costs\, and how to get involved. Complete the Travel Interest Form.
+ uded\, costs\, and how to get involved.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-bc1871e6cf3c@calendar-sync.conwaypto.org
 DTSTAMP:20260922T000000Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-SUMMARY:Deadline: Blood Drive Permission Slip Deadline
+SUMMARY:Deadline: HOSA Blood Drive Permission Slip Deadline
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Signed permission slips must be turned in by this date in orde
- r to donate blood at the HOSA/Arkansas Blood Institute blood drive.
+ r to donate blood at the HOSA blood drive.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-5d10fafdc16a@calendar-sync.conwaypto.org
@@ -121,7 +99,7 @@ DTEND;VALUE=DATE:20260925
 SUMMARY:FBLA Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Mrs. Alexander's Room 900\, Career Center
-DESCRIPTION:FBLA meeting during WIN time.
+DESCRIPTION:FBLA meeting during WIN for interested students.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-3e179c62cd00@calendar-sync.conwaypto.org
@@ -144,10 +122,7 @@ SUMMARY:HOSA Blood Drive
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:HOSA's semi-annual blood drive with Arkansas Blood Institute. 
- Permission slips distributed in 1st-8th period study halls\; signed slips 
- due by September 22. Students without a study hall can arrange through Mrs
- . Tillery-Harris' room 8117\, the Health Science Building\, Mrs. Langford 
- in the Career Center\, or the front office.
+ Signed permission slip required (due Sept 22).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-c41729aaba69@calendar-sync.conwaypto.org
@@ -177,6 +152,18 @@ SUMMARY:Makeup Picture Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Makeup picture day for students.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-cde705c113b3@calendar-sync.conwaypto.org
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Chicago:20261016T203000
+DTEND;TZID=America/Chicago:20261016T213000
+SUMMARY:CHS Homecoming Dance
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School Cafeteria
+DESCRIPTION:Homecoming dance. No freshmen and no students over 20 may atte
+ nd. Out-of-school dates require a signed form and must be escorted by a cu
+ rrent CHS student.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-577d178b8308@calendar-sync.conwaypto.org
