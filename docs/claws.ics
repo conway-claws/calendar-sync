@@ -23,56 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-54fbad6fddfd@calendar-sync.conwaypto.org
-DTSTAMP:20260917T000000Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:CHS Men's Tennis Home Match
-CATEGORIES:ATHLETICS
-LOCATION:Conway Tennis Center
-DESCRIPTION:Home tennis match for the CHS men's tennis team.
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-79ebb59540d2@calendar-sync.conwaypto.org
-DTSTAMP:20260917T000000Z
-DTSTART;TZID=America/Chicago:20260917T180000
-DTEND;TZID=America/Chicago:20260917T190000
-SUMMARY:District Wide Fall C.A.T. Forum
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School Lecture Hall
-DESCRIPTION:District-wide forum focused on Communication\, Action\, and Tr
- ansparency. District leaders will share how they are serving students and 
- supporting staff\, plus updates on the strategic plan Project Conway Forwa
- rd (PC4W). Opportunity for the community to engage and ask questions.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-1831a7ec1206@calendar-sync.conwaypto.org
-DTSTAMP:20260917T000000Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:Spanish Club First Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:Room 608 (Annex Building)
-DESCRIPTION:First CHS Spanish Club meeting during WIN time. Dues are $6. C
- ontact Señora Tedford (tedfordn@conwayschools.info) for more information.
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-e0ced76aff04@calendar-sync.conwaypto.org
-DTSTAMP:20260917T000000Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:Volleyball: Conway at Little Rock Central
-CATEGORIES:ATHLETICS
-LOCATION:Little Rock Central High School
-DESCRIPTION:Lady Cat volleyball on the road against Little Rock Central. T
- ickets online only at GoFan (no cash) and must be purchased by 7:00 p.m. o
- n game day. Clear bag policy in effect\; no purses larger than a clutch. A
- ll students must have a school ID badge and an online ticket\, or be accom
- panied by a responsible adult age 21+. Only students from Conway High Scho
- ol and Central High School may attend. No outside food or drink. Ticket li
- nk: https://gofan.co/event/6852814?schoolId=AR4663
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-099715f09660@calendar-sync.conwaypto.org
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
@@ -172,9 +122,10 @@ DTEND;TZID=America/Chicago:20260920T180000
 SUMMARY:Hispanic Heritage Community Night
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School Cafeteria
-DESCRIPTION:Students and families are invited to celebrate Hispanic studen
- ts and families with student artwork\, a student video\, college represent
- atives\, counselor Q&A\, and campus tours.
+DESCRIPTION:Conway High School and Conway Junior High students and familie
+ s are invited to celebrate Hispanic students and families with student art
+ work\, a student video\, college representatives\, counselor Q&A\, and cam
+ pus tours.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-1595d3653e7b@calendar-sync.conwaypto.org
@@ -211,7 +162,7 @@ UID:newsletter-b507f8ff9b12@calendar-sync.conwaypto.org
 DTSTAMP:20260921T000000Z
 DTSTART;TZID=America/Chicago:20260921T180000
 DTEND;TZID=America/Chicago:20260921T190000
-SUMMARY:Student Travel Informational Meeting
+SUMMARY:Student Travel Abroad Informational Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Room 165\, Conway High School
 DESCRIPTION:Learn about upcoming student travel opportunities to Japan\, A
@@ -237,6 +188,16 @@ SUMMARY:Boys Varsity Golf at NLR-JV
 CATEGORIES:ATHLETICS
 LOCATION:Burns Park CC
 DESCRIPTION:Boys Varsity Golf at NLR-JV
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-784a106cc0f3@calendar-sync.conwaypto.org
+DTSTAMP:20260922T000000Z
+DTSTART;TZID=America/Chicago:20260922T073000
+DTEND;TZID=America/Chicago:20260922T103000
+SUMMARY:Girls Varsity Golf at NLR JV Boys Only
+CATEGORIES:ATHLETICS
+LOCATION:Burns Park Golf Course
+DESCRIPTION:Girls Varsity Golf at NLR JV Boys Only
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-7c09d2f5ac8c@calendar-sync.conwaypto.org
@@ -277,7 +238,7 @@ SUMMARY:Deadline: HOSA Blood Drive Permission Slip Deadline
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Signed permission slips must be turned in by this date in orde
- r to donate blood at the HOSA blood drive.
+ r to donate blood at the HOSA/Arkansas Blood Institute blood drive.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-272bfc955212@calendar-sync.conwaypto.org
@@ -294,10 +255,10 @@ UID:athletics-e2dfb9840ea8@calendar-sync.conwaypto.org
 DTSTAMP:20260923T000000Z
 DTSTART;TZID=America/Chicago:20260923T090000
 DTEND;TZID=America/Chicago:20260923T120000
-SUMMARY:Girls Varsity Golf at Benton- JV
+SUMMARY:Girls Varsity Golf at Benton- JV Boys Only
 CATEGORIES:ATHLETICS
 LOCATION:Longhills CC
-DESCRIPTION:Girls Varsity Golf at Benton- JV
+DESCRIPTION:Girls Varsity Golf at Benton- JV Boys Only
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-979d0defb293@calendar-sync.conwaypto.org
@@ -307,9 +268,7 @@ DTEND;VALUE=DATE:20260924
 SUMMARY:Deadline: Gifted & Talented Teacher Referral Deadline
 CATEGORIES:ACADEMICS
 DESCRIPTION:Deadline for teacher referrals for the Conway Public Schools G
- ifted & Talented fall testing cycle. Students in 3rd grade or above may be
-  referred. Questions: campus GT specialist or district GT coordinator at r
- eynoldsa@conwayschools.info.
+ ifted & Talented fall testing cycle.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-32a16ad57c0d@calendar-sync.conwaypto.org
@@ -320,7 +279,7 @@ SUMMARY:Service Academy Information Night
 CATEGORIES:ACADEMICS
 LOCATION:Maumelle Charter High School
 DESCRIPTION:The 2026 Service Academy Information Night for students intere
- sted in the U.S. service academies.
+ sted in U.S. service academies.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-ccb1bdc9d492@calendar-sync.conwaypto.org
@@ -331,8 +290,9 @@ SUMMARY:Deadline: National Honor Society Application Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Last day to submit NHS applications for the 2026-2027 school y
- ear. Applications available outside A103. Dues are $25 per year\; eligibil
- ity requires 3.75+ GPA and AP/concurrent coursework.
+ ear. Requirements: current Junior or Senior\, 3.75+ GPA\, 2 consecutive ye
+ ars of AP/concurrent credit classes and currently enrolled in one\, no maj
+ or discipline infractions. Dues $25.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8e67bff22488@calendar-sync.conwaypto.org
@@ -401,10 +361,8 @@ DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Deadline: Gifted & Talented Parent Referral Deadline
 CATEGORIES:ACADEMICS
-DESCRIPTION:Deadline for parents to submit Gifted & Talented referrals for
-  the fall testing cycle. Students in 3rd grade or above may be referred. Q
- uestions: campus GT specialist or district GT coordinator at reynoldsa@con
- wayschools.info.
+DESCRIPTION:Deadline for parent referrals for the Conway Public Schools Gi
+ fted & Talented fall testing cycle.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-d600843762e8@calendar-sync.conwaypto.org
@@ -421,11 +379,11 @@ UID:newsletter-3a17f23641b3@calendar-sync.conwaypto.org
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:Football Game (Away) - Hawaiian Theme
+SUMMARY:Football Game – Away (Hawaiian Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Away football game with Hawaiian dress-up theme. Students need
-  their student ID to enter football games.
+DESCRIPTION:Wampus Cats away football game with a Hawaiian student section
+  theme. Students need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-3e179c62cd00@calendar-sync.conwaypto.org
@@ -435,9 +393,10 @@ DTEND;VALUE=DATE:20260926
 SUMMARY:HOSA Blood Drive with Arkansas Blood Institute
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:HOSA hosts its semi-annual blood drive. Permission slips distr
- ibuted in study halls or available in the Health Science Building\, Career
-  Center\, or front office.
+DESCRIPTION:HOSA's semi-annual blood drive. Permission slips distributed i
+ n study halls\; students without a study hall can arrange donation through
+  Mrs. Tillery-Harris' room 8117\, the Health Science Building\, Mrs. Langf
+ ord in the Career Center\, or the front office.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-aab6297c0943@calendar-sync.conwaypto.org
@@ -458,8 +417,9 @@ DTEND;VALUE=DATE:20260926
 SUMMARY:Deadline: Beta Club Dues Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Room 259\, Conway High School
-DESCRIPTION:Students interested in joining CHS Beta Club must pay one-time
-  $40 dues to Mr. Cullum before 5th period. Minimum 3.0 GPA required.
+DESCRIPTION:Students interested in joining CHS Beta Club must pay the one-
+ time $40 dues to Mr. Cullum by this date (before 5th period) and verify a 
+ minimum 3.0 GPA.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-93c20b5ba321@calendar-sync.conwaypto.org
@@ -548,9 +508,8 @@ DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Gifted & Talented Fall Testing Window Begins
 CATEGORIES:ACADEMICS
-DESCRIPTION:Conway Public Schools Gifted & Talented fall testing window ru
- ns September 28 through October 9\, 2026. Identification is based on multi
- ple measures\; no special preparation is needed.
+DESCRIPTION:Fall testing window for Gifted & Talented identification runs 
+ September 28 through October 9\, 2026.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0b6ef3c5dcfb@calendar-sync.conwaypto.org
@@ -597,12 +556,11 @@ UID:newsletter-81fd223e636f@calendar-sync.conwaypto.org
 DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:Deadline: Spanish Honorary Society Join Deadline
+SUMMARY:Deadline: Spanish Club Join/Payment Deadline
 CATEGORIES:ACADEMICS
-LOCATION:Room 608\, Annex
-DESCRIPTION:Last day to join the Sociedad Honoraria Hispánica this semest
- er. Requires 3 semesters of Spanish with A's and 3.7 GPA\; dues $7 lifetim
- e.
+LOCATION:Room 608 of the Annex
+DESCRIPTION:Last date to pay and join CHS Spanish Club this semester. See 
+ Sra. Tedford for details.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-830eb7795208@calendar-sync.conwaypto.org
@@ -621,11 +579,12 @@ UID:newsletter-971a5742c4c4@calendar-sync.conwaypto.org
 DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:Deadline: Spanish Club Join/Payment Deadline
+SUMMARY:Deadline: Spanish Honorary Society (SHH) Join Deadline
 CATEGORIES:ACADEMICS
-LOCATION:Room 608\, Annex
-DESCRIPTION:Last day to pay and join Spanish Club this semester. See Sra. 
- Tedford for details.
+LOCATION:Room 608 of the Annex
+DESCRIPTION:Last day to join the Sociedad Honoraria Hispánica this semest
+ er. Requires 3 semesters of Spanish with an A each semester and a 3.7+ GPA
+ . Dues are $7 for lifetime membership.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-a50da41f3026@calendar-sync.conwaypto.org
@@ -635,7 +594,7 @@ DTEND;VALUE=DATE:20261001
 SUMMARY:CHS Student College Fair
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:College fair for CHS students hosted by the Counseling Center.
+DESCRIPTION:College fair for CHS students with college representatives.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-f0a066344aae@calendar-sync.conwaypto.org
@@ -719,21 +678,21 @@ UID:newsletter-3c23f62353ad@calendar-sync.conwaypto.org
 DTSTAMP:20261002T000000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:Football Game (Home) - Blackout Theme
+SUMMARY:Football Game – Home (Blackout Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home football game with Blackout dress-up theme. Students need
-  their student ID to enter.
+DESCRIPTION:Wampus Cats home football game with a Blackout student section
+  theme. Students need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-afda75f6614f@calendar-sync.conwaypto.org
 DTSTAMP:20261005T000000Z
 DTSTART;TZID=America/Chicago:20261005T000000
 DTEND;TZID=America/Chicago:20261005T030000
-SUMMARY:Boys Varsity Golf at State
+SUMMARY:Boys Varsity Golf at Boys State at Jonesboro
 CATEGORIES:ATHLETICS
-LOCATION:TBA
-DESCRIPTION:Boys Varsity Golf at State
+LOCATION:Jonesboro Country Club
+DESCRIPTION:Boys Varsity Golf at Boys State at Jonesboro
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-c8525056a8a6@calendar-sync.conwaypto.org
@@ -824,9 +783,9 @@ DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Deadline: Homecoming Out-of-School Date Form Deadline
 CATEGORIES:ACADEMICS
-LOCATION:CHS Front Office
-DESCRIPTION:Out-of-School Date Forms for the Homecoming Dance must be sign
- ed and returned to the front office no later than 3:30 p.m.
+LOCATION:Front Office\, Conway High School
+DESCRIPTION:Signed Out-of-School Date Forms for the Homecoming Dance must 
+ be returned to the Front Office no later than 3:30 p.m.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-99ce510574db@calendar-sync.conwaypto.org
@@ -835,6 +794,16 @@ DTSTART;TZID=America/Chicago:20261008T080000
 DTEND;TZID=America/Chicago:20261008T153500
 SUMMARY:Makeup  ATLAS  Interim  #1
 CATEGORIES:ACADEMICS
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-d480339b53f5@calendar-sync.conwaypto.org
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:ATLAS Interim #1 Make-up Testing
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Make-up testing for students who missed ATLAS Interim #1.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-aeaf4df030d2@calendar-sync.conwaypto.org
@@ -869,11 +838,21 @@ UID:newsletter-22eac23d2f5b@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:Football Game (Away) - Jerseys Theme
+SUMMARY:Football Game – Away (Jerseys Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Away football game with Jerseys dress-up theme. Students need 
- their student ID to enter.
+DESCRIPTION:Wampus Cats away football game with a Jerseys student section 
+ theme. Students need their student ID to enter.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-d8173b95c214@calendar-sync.conwaypto.org
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:ATLAS Interim #1 Make-up Testing
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Make-up testing for students who missed ATLAS Interim #1.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-144d6727c001@calendar-sync.conwaypto.org
@@ -1025,11 +1004,12 @@ UID:newsletter-7285a84105be@calendar-sync.conwaypto.org
 DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-SUMMARY:Volleyball Pink Night Donation Drive
+SUMMARY:Volleyball Pink Night Fundraiser Collection
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School parking lot
-DESCRIPTION:Volleyball team collects change and donations during dismissal
-  for Emmersyn Caldwell\, this year's Pink Night recipient.
+DESCRIPTION:Volleyball players collect change and donations during dismiss
+ al to raise money for Emmersyn Caldwell\, this year's Pink Night recipient
+ .
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-804e3cbc507b@calendar-sync.conwaypto.org
@@ -1039,7 +1019,7 @@ DTEND;TZID=America/Chicago:20261013T120000
 SUMMARY:Makeup Picture Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Makeup picture day for students.
+DESCRIPTION:Makeup picture day for CHS students.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-4eb0efd30ab3@calendar-sync.conwaypto.org
@@ -1094,11 +1074,11 @@ UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Homecoming Football Game (Home) - Pink & Purple Theme
+SUMMARY:Football Game – Home (Pink & Purple\, Homecoming)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Homecoming home football game with Pink & Purple dress-up them
- e. Students need their student ID to enter.
+DESCRIPTION:Homecoming football game with a Pink & Purple student section 
+ theme. Students need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-cde705c113b3@calendar-sync.conwaypto.org
@@ -1108,9 +1088,9 @@ DTEND;TZID=America/Chicago:20261016T213000
 SUMMARY:CHS Homecoming Dance
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School Cafeteria
-DESCRIPTION:Homecoming dance. No freshmen and no students over 20 may atte
- nd. Out-of-school dates require a signed form and must be escorted by a cu
- rrent CHS student.
+DESCRIPTION:Homecoming dance for CHS students. No freshmen and no students
+  over 20 may attend. Out-of-school dates require a signed form and must be
+  escorted by a current CHS student.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
@@ -1221,11 +1201,11 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Game (Away) - Super Hero Theme
+SUMMARY:Football Game – Away (Super Hero Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Away football game with Super Hero dress-up theme. Students ne
- ed their student ID to enter.
+DESCRIPTION:Wampus Cats away football game with a Super Hero student secti
+ on theme.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-b5bc1f7cb0d3@calendar-sync.conwaypto.org
@@ -1305,11 +1285,11 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Game (Home) - Frat Theme
+SUMMARY:Football Game – Home (Frat Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home football game with Frat dress-up theme. Students need the
- ir student ID to enter.
+DESCRIPTION:Wampus Cats home football game with a Frat student section the
+ me.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -1384,11 +1364,11 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Game (Away) - Whiteout Theme
+SUMMARY:Football Game – Away (Whiteout Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Away football game with Whiteout dress-up theme. Students need
-  their student ID to enter.
+DESCRIPTION:Wampus Cats away football game with a Whiteout student section
+  theme.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-187c89a7721b@calendar-sync.conwaypto.org
@@ -1891,6 +1871,17 @@ CATEGORIES:ACADEMICS
 DESCRIPTION:<p>*All notes are subject to verification.</p>
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
+DTSTAMP:20261209T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Deadline: Last Day to Turn in Doctor's Notes for Exam Exemption
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Last day to turn in doctor's notes toward exemption status for
+  fall semester exams. Notes will still be accepted for credit until 12/18.
+END:VEVENT
+BEGIN:VEVENT
 UID:orchestra-6dc2ef650520@calendar-sync.conwaypto.org
 DTSTAMP:20261209T000000Z
 DTSTART;TZID=America/Chicago:20261209T075500
@@ -2013,12 +2004,34 @@ SUMMARY:Semester Test Exam Day (modified bell schedule- TBD)
 CATEGORIES:ACADEMICS
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-de8a4d654c99@calendar-sync.conwaypto.org
+DTSTAMP:20261215T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Fall Semester Exams – Day 1
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Fall semester exam day\; a modified bell schedule will be used
+  (TBD).
+END:VEVENT
+BEGIN:VEVENT
 UID:ical-1698bb095b37@calendar-sync.conwaypto.org
 DTSTAMP:20261216T000000Z
 DTSTART;TZID=America/Chicago:20261216T080000
 DTEND;TZID=America/Chicago:20261216T153500
 SUMMARY:Semester Test Exam Day (modified bell schedule- TBD)
 CATEGORIES:ACADEMICS
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-5a6f5007818b@calendar-sync.conwaypto.org
+DTSTAMP:20261216T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Fall Semester Exams – Day 2
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Fall semester exam day\; a modified bell schedule will be used
+  (TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-bc9027022add@calendar-sync.conwaypto.org
@@ -2028,5 +2041,52 @@ DTEND;TZID=America/Chicago:20261217T153500
 SUMMARY:Make-up Semester Exams (*admin approval)
 CATEGORIES:ACADEMICS
 DESCRIPTION:<p></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-228af9fa9ea4@calendar-sync.conwaypto.org
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=America/Chicago:20261218T000000
+DTEND;TZID=America/Chicago:20261218T030000
+SUMMARY:Girls Varsity Cheer at State
+CATEGORIES:ATHLETICS
+LOCATION:Hot Springs
+DESCRIPTION:Girls Varsity Cheer at State
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-66b648e067d0@calendar-sync.conwaypto.org
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=America/Chicago:20261218T183000
+DTEND;TZID=America/Chicago:20261218T213000
+SUMMARY:Boys Varsity Basketball vs Lincoln Prep\, (KC) The Classic
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Boys Varsity Basketball vs Lincoln Prep\, (KC) The Classic
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-2439c1f93437@calendar-sync.conwaypto.org
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:End of 2nd 9 Weeks
+CATEGORIES:ACADEMICS
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-bc65622e37c8@calendar-sync.conwaypto.org
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=America/Chicago:20261218T080000
+DTEND;TZID=America/Chicago:20261218T153500
+SUMMARY:Make-up Semester Exams (*admin approval)
+CATEGORIES:ACADEMICS
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-850c4e16f1b2@calendar-sync.conwaypto.org
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Make-up Semester Exams / Final Day for Doctor's Notes for Credit
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Make-up day for fall semester exams. Last day doctor's notes w
+ ill be accepted for credit.
 END:VEVENT
 END:VCALENDAR

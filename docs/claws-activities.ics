@@ -23,30 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-79ebb59540d2@calendar-sync.conwaypto.org
-DTSTAMP:20260917T000000Z
-DTSTART;TZID=America/Chicago:20260917T180000
-DTEND;TZID=America/Chicago:20260917T190000
-SUMMARY:District Wide Fall C.A.T. Forum
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School Lecture Hall
-DESCRIPTION:District-wide forum focused on Communication\, Action\, and Tr
- ansparency. District leaders will share how they are serving students and 
- supporting staff\, plus updates on the strategic plan Project Conway Forwa
- rd (PC4W). Opportunity for the community to engage and ask questions.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-1831a7ec1206@calendar-sync.conwaypto.org
-DTSTAMP:20260917T000000Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:Spanish Club First Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:Room 608 (Annex Building)
-DESCRIPTION:First CHS Spanish Club meeting during WIN time. Dues are $6. C
- ontact Señora Tedford (tedfordn@conwayschools.info) for more information.
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-528d3f871d80@calendar-sync.conwaypto.org
 DTSTAMP:20260918T000000Z
 DTSTART;TZID=America/Chicago:20260918T080000
@@ -64,16 +40,17 @@ DTEND;TZID=America/Chicago:20260920T180000
 SUMMARY:Hispanic Heritage Community Night
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School Cafeteria
-DESCRIPTION:Students and families are invited to celebrate Hispanic studen
- ts and families with student artwork\, a student video\, college represent
- atives\, counselor Q&A\, and campus tours.
+DESCRIPTION:Conway High School and Conway Junior High students and familie
+ s are invited to celebrate Hispanic students and families with student art
+ work\, a student video\, college representatives\, counselor Q&A\, and cam
+ pus tours.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-b507f8ff9b12@calendar-sync.conwaypto.org
 DTSTAMP:20260921T000000Z
 DTSTART;TZID=America/Chicago:20260921T180000
 DTEND;TZID=America/Chicago:20260921T190000
-SUMMARY:Student Travel Informational Meeting
+SUMMARY:Student Travel Abroad Informational Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Room 165\, Conway High School
 DESCRIPTION:Learn about upcoming student travel opportunities to Japan\, A
@@ -89,7 +66,7 @@ SUMMARY:Deadline: HOSA Blood Drive Permission Slip Deadline
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Signed permission slips must be turned in by this date in orde
- r to donate blood at the HOSA blood drive.
+ r to donate blood at the HOSA/Arkansas Blood Institute blood drive.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-5d10fafdc16a@calendar-sync.conwaypto.org
@@ -109,9 +86,10 @@ DTEND;VALUE=DATE:20260926
 SUMMARY:HOSA Blood Drive with Arkansas Blood Institute
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:HOSA hosts its semi-annual blood drive. Permission slips distr
- ibuted in study halls or available in the Health Science Building\, Career
-  Center\, or front office.
+DESCRIPTION:HOSA's semi-annual blood drive. Permission slips distributed i
+ n study halls\; students without a study hall can arrange donation through
+  Mrs. Tillery-Harris' room 8117\, the Health Science Building\, Mrs. Langf
+ ord in the Career Center\, or the front office.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-aab6297c0943@calendar-sync.conwaypto.org
@@ -151,7 +129,7 @@ DTEND;TZID=America/Chicago:20261013T120000
 SUMMARY:Makeup Picture Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Makeup picture day for students.
+DESCRIPTION:Makeup picture day for CHS students.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-cde705c113b3@calendar-sync.conwaypto.org
@@ -161,9 +139,9 @@ DTEND;TZID=America/Chicago:20261016T213000
 SUMMARY:CHS Homecoming Dance
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School Cafeteria
-DESCRIPTION:Homecoming dance. No freshmen and no students over 20 may atte
- nd. Out-of-school dates require a signed form and must be escorted by a cu
- rrent CHS student.
+DESCRIPTION:Homecoming dance for CHS students. No freshmen and no students
+  over 20 may attend. Out-of-school dates require a signed form and must be
+  escorted by a current CHS student.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-577d178b8308@calendar-sync.conwaypto.org

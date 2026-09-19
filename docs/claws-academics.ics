@@ -30,9 +30,7 @@ DTEND;VALUE=DATE:20260924
 SUMMARY:Deadline: Gifted & Talented Teacher Referral Deadline
 CATEGORIES:ACADEMICS
 DESCRIPTION:Deadline for teacher referrals for the Conway Public Schools G
- ifted & Talented fall testing cycle. Students in 3rd grade or above may be
-  referred. Questions: campus GT specialist or district GT coordinator at r
- eynoldsa@conwayschools.info.
+ ifted & Talented fall testing cycle.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-32a16ad57c0d@calendar-sync.conwaypto.org
@@ -43,7 +41,7 @@ SUMMARY:Service Academy Information Night
 CATEGORIES:ACADEMICS
 LOCATION:Maumelle Charter High School
 DESCRIPTION:The 2026 Service Academy Information Night for students intere
- sted in the U.S. service academies.
+ sted in U.S. service academies.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-ccb1bdc9d492@calendar-sync.conwaypto.org
@@ -54,8 +52,9 @@ SUMMARY:Deadline: National Honor Society Application Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Last day to submit NHS applications for the 2026-2027 school y
- ear. Applications available outside A103. Dues are $25 per year\; eligibil
- ity requires 3.75+ GPA and AP/concurrent coursework.
+ ear. Requirements: current Junior or Senior\, 3.75+ GPA\, 2 consecutive ye
+ ars of AP/concurrent credit classes and currently enrolled in one\, no maj
+ or discipline infractions. Dues $25.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-122ce20dec83@calendar-sync.conwaypto.org
@@ -64,10 +63,8 @@ DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Deadline: Gifted & Talented Parent Referral Deadline
 CATEGORIES:ACADEMICS
-DESCRIPTION:Deadline for parents to submit Gifted & Talented referrals for
-  the fall testing cycle. Students in 3rd grade or above may be referred. Q
- uestions: campus GT specialist or district GT coordinator at reynoldsa@con
- wayschools.info.
+DESCRIPTION:Deadline for parent referrals for the Conway Public Schools Gi
+ fted & Talented fall testing cycle.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-d600843762e8@calendar-sync.conwaypto.org
@@ -87,8 +84,9 @@ DTEND;VALUE=DATE:20260926
 SUMMARY:Deadline: Beta Club Dues Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Room 259\, Conway High School
-DESCRIPTION:Students interested in joining CHS Beta Club must pay one-time
-  $40 dues to Mr. Cullum before 5th period. Minimum 3.0 GPA required.
+DESCRIPTION:Students interested in joining CHS Beta Club must pay the one-
+ time $40 dues to Mr. Cullum by this date (before 5th period) and verify a 
+ minimum 3.0 GPA.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-20b146eb7b3b@calendar-sync.conwaypto.org
@@ -97,21 +95,19 @@ DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Gifted & Talented Fall Testing Window Begins
 CATEGORIES:ACADEMICS
-DESCRIPTION:Conway Public Schools Gifted & Talented fall testing window ru
- ns September 28 through October 9\, 2026. Identification is based on multi
- ple measures\; no special preparation is needed.
+DESCRIPTION:Fall testing window for Gifted & Talented identification runs 
+ September 28 through October 9\, 2026.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-81fd223e636f@calendar-sync.conwaypto.org
 DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:Deadline: Spanish Honorary Society Join Deadline
+SUMMARY:Deadline: Spanish Club Join/Payment Deadline
 CATEGORIES:ACADEMICS
-LOCATION:Room 608\, Annex
-DESCRIPTION:Last day to join the Sociedad Honoraria Hispánica this semest
- er. Requires 3 semesters of Spanish with A's and 3.7 GPA\; dues $7 lifetim
- e.
+LOCATION:Room 608 of the Annex
+DESCRIPTION:Last date to pay and join CHS Spanish Club this semester. See 
+ Sra. Tedford for details.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-830eb7795208@calendar-sync.conwaypto.org
@@ -130,11 +126,12 @@ UID:newsletter-971a5742c4c4@calendar-sync.conwaypto.org
 DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:Deadline: Spanish Club Join/Payment Deadline
+SUMMARY:Deadline: Spanish Honorary Society (SHH) Join Deadline
 CATEGORIES:ACADEMICS
-LOCATION:Room 608\, Annex
-DESCRIPTION:Last day to pay and join Spanish Club this semester. See Sra. 
- Tedford for details.
+LOCATION:Room 608 of the Annex
+DESCRIPTION:Last day to join the Sociedad Honoraria Hispánica this semest
+ er. Requires 3 semesters of Spanish with an A each semester and a 3.7+ GPA
+ . Dues are $7 for lifetime membership.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-a50da41f3026@calendar-sync.conwaypto.org
@@ -144,7 +141,7 @@ DTEND;VALUE=DATE:20261001
 SUMMARY:CHS Student College Fair
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:College fair for CHS students hosted by the Counseling Center.
+DESCRIPTION:College fair for CHS students with college representatives.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-95bea8785e0d@calendar-sync.conwaypto.org
@@ -185,9 +182,9 @@ DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Deadline: Homecoming Out-of-School Date Form Deadline
 CATEGORIES:ACADEMICS
-LOCATION:CHS Front Office
-DESCRIPTION:Out-of-School Date Forms for the Homecoming Dance must be sign
- ed and returned to the front office no later than 3:30 p.m.
+LOCATION:Front Office\, Conway High School
+DESCRIPTION:Signed Out-of-School Date Forms for the Homecoming Dance must 
+ be returned to the Front Office no later than 3:30 p.m.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-99ce510574db@calendar-sync.conwaypto.org
@@ -196,6 +193,16 @@ DTSTART;TZID=America/Chicago:20261008T080000
 DTEND;TZID=America/Chicago:20261008T153500
 SUMMARY:Makeup  ATLAS  Interim  #1
 CATEGORIES:ACADEMICS
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-d480339b53f5@calendar-sync.conwaypto.org
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:ATLAS Interim #1 Make-up Testing
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Make-up testing for students who missed ATLAS Interim #1.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-427ef42c46b6@calendar-sync.conwaypto.org
@@ -214,6 +221,16 @@ DTSTART;TZID=America/Chicago:20261009T080000
 DTEND;TZID=America/Chicago:20261009T153500
 SUMMARY:Makeup ATLAS Interim #1
 CATEGORIES:ACADEMICS
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-d8173b95c214@calendar-sync.conwaypto.org
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:ATLAS Interim #1 Make-up Testing
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Make-up testing for students who missed ATLAS Interim #1.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-cd2081ec0dff@calendar-sync.conwaypto.org
@@ -331,6 +348,17 @@ CATEGORIES:ACADEMICS
 DESCRIPTION:<p>*All notes are subject to verification.</p>
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
+DTSTAMP:20261209T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Deadline: Last Day to Turn in Doctor's Notes for Exam Exemption
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Last day to turn in doctor's notes toward exemption status for
+  fall semester exams. Notes will still be accepted for credit until 12/18.
+END:VEVENT
+BEGIN:VEVENT
 UID:ical-1d1dcc2035bf@calendar-sync.conwaypto.org
 DTSTAMP:20261214T000000Z
 DTSTART;TZID=America/Chicago:20261214T080000
@@ -347,12 +375,34 @@ SUMMARY:Semester Test Exam Day (modified bell schedule- TBD)
 CATEGORIES:ACADEMICS
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-de8a4d654c99@calendar-sync.conwaypto.org
+DTSTAMP:20261215T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Fall Semester Exams – Day 1
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Fall semester exam day\; a modified bell schedule will be used
+  (TBD).
+END:VEVENT
+BEGIN:VEVENT
 UID:ical-1698bb095b37@calendar-sync.conwaypto.org
 DTSTAMP:20261216T000000Z
 DTSTART;TZID=America/Chicago:20261216T080000
 DTEND;TZID=America/Chicago:20261216T153500
 SUMMARY:Semester Test Exam Day (modified bell schedule- TBD)
 CATEGORIES:ACADEMICS
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-5a6f5007818b@calendar-sync.conwaypto.org
+DTSTAMP:20261216T000000Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Fall Semester Exams – Day 2
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Fall semester exam day\; a modified bell schedule will be used
+  (TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-bc9027022add@calendar-sync.conwaypto.org
@@ -362,5 +412,32 @@ DTEND;TZID=America/Chicago:20261217T153500
 SUMMARY:Make-up Semester Exams (*admin approval)
 CATEGORIES:ACADEMICS
 DESCRIPTION:<p></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-2439c1f93437@calendar-sync.conwaypto.org
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:End of 2nd 9 Weeks
+CATEGORIES:ACADEMICS
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-bc65622e37c8@calendar-sync.conwaypto.org
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=America/Chicago:20261218T080000
+DTEND;TZID=America/Chicago:20261218T153500
+SUMMARY:Make-up Semester Exams (*admin approval)
+CATEGORIES:ACADEMICS
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-850c4e16f1b2@calendar-sync.conwaypto.org
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Make-up Semester Exams / Final Day for Doctor's Notes for Credit
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Make-up day for fall semester exams. Last day doctor's notes w
+ ill be accepted for credit.
 END:VEVENT
 END:VCALENDAR

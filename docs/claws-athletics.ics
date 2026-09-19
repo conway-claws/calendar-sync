@@ -23,32 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-54fbad6fddfd@calendar-sync.conwaypto.org
-DTSTAMP:20260917T000000Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:CHS Men's Tennis Home Match
-CATEGORIES:ATHLETICS
-LOCATION:Conway Tennis Center
-DESCRIPTION:Home tennis match for the CHS men's tennis team.
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-e0ced76aff04@calendar-sync.conwaypto.org
-DTSTAMP:20260917T000000Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:Volleyball: Conway at Little Rock Central
-CATEGORIES:ATHLETICS
-LOCATION:Little Rock Central High School
-DESCRIPTION:Lady Cat volleyball on the road against Little Rock Central. T
- ickets online only at GoFan (no cash) and must be purchased by 7:00 p.m. o
- n game day. Clear bag policy in effect\; no purses larger than a clutch. A
- ll students must have a school ID badge and an online ticket\, or be accom
- panied by a responsible adult age 21+. Only students from Conway High Scho
- ol and Central High School may attend. No outside food or drink. Ticket li
- nk: https://gofan.co/event/6852814?schoolId=AR4663
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-099715f09660@calendar-sync.conwaypto.org
 DTSTAMP:20260918T000000Z
 DTSTART;VALUE=DATE:20260918
@@ -164,6 +138,16 @@ LOCATION:Burns Park CC
 DESCRIPTION:Boys Varsity Golf at NLR-JV
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-784a106cc0f3@calendar-sync.conwaypto.org
+DTSTAMP:20260922T000000Z
+DTSTART;TZID=America/Chicago:20260922T073000
+DTEND;TZID=America/Chicago:20260922T103000
+SUMMARY:Girls Varsity Golf at NLR JV Boys Only
+CATEGORIES:ATHLETICS
+LOCATION:Burns Park Golf Course
+DESCRIPTION:Girls Varsity Golf at NLR JV Boys Only
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-7c09d2f5ac8c@calendar-sync.conwaypto.org
 DTSTAMP:20260922T000000Z
 DTSTART;TZID=America/Chicago:20260922T180000
@@ -208,10 +192,10 @@ UID:athletics-e2dfb9840ea8@calendar-sync.conwaypto.org
 DTSTAMP:20260923T000000Z
 DTSTART;TZID=America/Chicago:20260923T090000
 DTEND;TZID=America/Chicago:20260923T120000
-SUMMARY:Girls Varsity Golf at Benton- JV
+SUMMARY:Girls Varsity Golf at Benton- JV Boys Only
 CATEGORIES:ATHLETICS
 LOCATION:Longhills CC
-DESCRIPTION:Girls Varsity Golf at Benton- JV
+DESCRIPTION:Girls Varsity Golf at Benton- JV Boys Only
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8e67bff22488@calendar-sync.conwaypto.org
@@ -268,11 +252,11 @@ UID:newsletter-3a17f23641b3@calendar-sync.conwaypto.org
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:Football Game (Away) - Hawaiian Theme
+SUMMARY:Football Game – Away (Hawaiian Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Away football game with Hawaiian dress-up theme. Students need
-  their student ID to enter football games.
+DESCRIPTION:Wampus Cats away football game with a Hawaiian student section
+  theme. Students need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-93c20b5ba321@calendar-sync.conwaypto.org
@@ -458,21 +442,21 @@ UID:newsletter-3c23f62353ad@calendar-sync.conwaypto.org
 DTSTAMP:20261002T000000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:Football Game (Home) - Blackout Theme
+SUMMARY:Football Game – Home (Blackout Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home football game with Blackout dress-up theme. Students need
-  their student ID to enter.
+DESCRIPTION:Wampus Cats home football game with a Blackout student section
+  theme. Students need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-afda75f6614f@calendar-sync.conwaypto.org
 DTSTAMP:20261005T000000Z
 DTSTART;TZID=America/Chicago:20261005T000000
 DTEND;TZID=America/Chicago:20261005T030000
-SUMMARY:Boys Varsity Golf at State
+SUMMARY:Boys Varsity Golf at Boys State at Jonesboro
 CATEGORIES:ATHLETICS
-LOCATION:TBA
-DESCRIPTION:Boys Varsity Golf at State
+LOCATION:Jonesboro Country Club
+DESCRIPTION:Boys Varsity Golf at Boys State at Jonesboro
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-c8525056a8a6@calendar-sync.conwaypto.org
@@ -539,11 +523,11 @@ UID:newsletter-22eac23d2f5b@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:Football Game (Away) - Jerseys Theme
+SUMMARY:Football Game – Away (Jerseys Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Away football game with Jerseys dress-up theme. Students need 
- their student ID to enter.
+DESCRIPTION:Wampus Cats away football game with a Jerseys student section 
+ theme. Students need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-144d6727c001@calendar-sync.conwaypto.org
@@ -640,11 +624,12 @@ UID:newsletter-7285a84105be@calendar-sync.conwaypto.org
 DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-SUMMARY:Volleyball Pink Night Donation Drive
+SUMMARY:Volleyball Pink Night Fundraiser Collection
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School parking lot
-DESCRIPTION:Volleyball team collects change and donations during dismissal
-  for Emmersyn Caldwell\, this year's Pink Night recipient.
+DESCRIPTION:Volleyball players collect change and donations during dismiss
+ al to raise money for Emmersyn Caldwell\, this year's Pink Night recipient
+ .
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-a78340100fa9@calendar-sync.conwaypto.org
@@ -681,11 +666,11 @@ UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Homecoming Football Game (Home) - Pink & Purple Theme
+SUMMARY:Football Game – Home (Pink & Purple\, Homecoming)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Homecoming home football game with Pink & Purple dress-up them
- e. Students need their student ID to enter.
+DESCRIPTION:Homecoming football game with a Pink & Purple student section 
+ theme. Students need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
@@ -772,11 +757,11 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Game (Away) - Super Hero Theme
+SUMMARY:Football Game – Away (Super Hero Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Away football game with Super Hero dress-up theme. Students ne
- ed their student ID to enter.
+DESCRIPTION:Wampus Cats away football game with a Super Hero student secti
+ on theme.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-b5bc1f7cb0d3@calendar-sync.conwaypto.org
@@ -833,11 +818,11 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Game (Home) - Frat Theme
+SUMMARY:Football Game – Home (Frat Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home football game with Frat dress-up theme. Students need the
- ir student ID to enter.
+DESCRIPTION:Wampus Cats home football game with a Frat student section the
+ me.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -904,11 +889,11 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Game (Away) - Whiteout Theme
+SUMMARY:Football Game – Away (Whiteout Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Away football game with Whiteout dress-up theme. Students need
-  their student ID to enter.
+DESCRIPTION:Wampus Cats away football game with a Whiteout student section
+  theme.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d7fcc4fa289b@calendar-sync.conwaypto.org
@@ -1321,5 +1306,25 @@ SUMMARY:Boys Varsity Basketball at Maumelle
 CATEGORIES:ATHLETICS
 LOCATION:Maumelle HS
 DESCRIPTION:Boys Varsity Basketball at Maumelle
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-228af9fa9ea4@calendar-sync.conwaypto.org
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=America/Chicago:20261218T000000
+DTEND;TZID=America/Chicago:20261218T030000
+SUMMARY:Girls Varsity Cheer at State
+CATEGORIES:ATHLETICS
+LOCATION:Hot Springs
+DESCRIPTION:Girls Varsity Cheer at State
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-66b648e067d0@calendar-sync.conwaypto.org
+DTSTAMP:20261218T000000Z
+DTSTART;TZID=America/Chicago:20261218T183000
+DTEND;TZID=America/Chicago:20261218T213000
+SUMMARY:Boys Varsity Basketball vs Lincoln Prep\, (KC) The Classic
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Boys Varsity Basketball vs Lincoln Prep\, (KC) The Classic
 END:VEVENT
 END:VCALENDAR
