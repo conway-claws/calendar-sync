@@ -23,71 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-099715f09660@calendar-sync.conwaypto.org
-DTSTAMP:20260918T000000Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:Lady Cats Volleyball at Little Rock Central
-CATEGORIES:ATHLETICS
-LOCATION:Little Rock Central High School
-DESCRIPTION:Conway Lady Cat volleyball travels to Little Rock Central. Tic
- kets must be purchased online only (no cash) at GoFan.co by 7:00 p.m. on g
- ame day. Clear bag policy in effect\; students need a school ID badge and 
- an online ticket\, or must be accompanied by a responsible adult 21 or old
- er. Only Conway and Central students may attend. No outside food or drink.
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-4f91d4c29427@calendar-sync.conwaypto.org
-DTSTAMP:20260918T000000Z
-DTSTART;TZID=America/Chicago:20260918T153000
-DTEND;TZID=America/Chicago:20260918T163000
-SUMMARY:CHS Tennis vs. Catholic/Mount St. Mary
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School (home)
-DESCRIPTION:Both CHS tennis teams\, now 5-1 on the season\, host Catholic 
- and Mount St. Mary in a big home match.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-262a0cce08d7@calendar-sync.conwaypto.org
-DTSTAMP:20260919T000000Z
-DTSTART;TZID=America/Chicago:20260919T090000
-DTEND;TZID=America/Chicago:20260919T120000
-SUMMARY:Girls Varsity Volleyball at Ozark  Springfield Classic
-CATEGORIES:ATHLETICS
-LOCATION:The Fieldhouse
-DESCRIPTION:Girls Varsity Volleyball at Ozark  Springfield Classic
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-4b266b4451fc@calendar-sync.conwaypto.org
-DTSTAMP:20260919T000000Z
-DTSTART;TZID=America/Chicago:20260919T100000
-DTEND;TZID=America/Chicago:20260919T130000
-SUMMARY:Girls Varsity Volleyball at Nixa Springfield Classic
-CATEGORIES:ATHLETICS
-LOCATION:The Fieldhouse
-DESCRIPTION:Girls Varsity Volleyball at Nixa Springfield Classic
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-b14103353296@calendar-sync.conwaypto.org
-DTSTAMP:20260919T000000Z
-DTSTART;TZID=America/Chicago:20260919T123000
-DTEND;TZID=America/Chicago:20260919T153000
-SUMMARY:Girls Varsity Volleyball at Kickapoo Springfield Classic
-CATEGORIES:ATHLETICS
-LOCATION:The Fieldhouse
-DESCRIPTION:Girls Varsity Volleyball at Kickapoo Springfield Classic
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-ca31e03a7043@calendar-sync.conwaypto.org
-DTSTAMP:20260919T000000Z
-DTSTART;TZID=America/Chicago:20260919T143000
-DTEND;TZID=America/Chicago:20260919T173000
-SUMMARY:Girls Varsity Volleyball at Republic  Springfield Classic
-CATEGORIES:ATHLETICS
-LOCATION:The Fieldhouse
-DESCRIPTION:Girls Varsity Volleyball at Republic  Springfield Classic
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-1595d3653e7b@calendar-sync.conwaypto.org
 DTSTAMP:20260921T000000Z
 DTSTART;TZID=America/Chicago:20260921T183000
@@ -252,11 +187,11 @@ UID:newsletter-3a17f23641b3@calendar-sync.conwaypto.org
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:Football Game – Away (Hawaiian Theme)
+SUMMARY:Football Game - Away (Hawaiian Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Wampus Cats away football game with a Hawaiian student section
-  theme. Students need their student ID to enter football games.
+DESCRIPTION:Away football game with Hawaiian spirit theme. Students need t
+ heir student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-93c20b5ba321@calendar-sync.conwaypto.org
@@ -442,11 +377,11 @@ UID:newsletter-3c23f62353ad@calendar-sync.conwaypto.org
 DTSTAMP:20261002T000000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:Football Game – Home (Blackout Theme)
+SUMMARY:Football Game - Home (Blackout Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Wampus Cats home football game with a Blackout student section
-  theme. Students need their student ID to enter.
+DESCRIPTION:Home football game with Blackout spirit theme. Students need t
+ heir student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-afda75f6614f@calendar-sync.conwaypto.org
@@ -523,11 +458,11 @@ UID:newsletter-22eac23d2f5b@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:Football Game – Away (Jerseys Theme)
+SUMMARY:Football Game - Away (Jerseys Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Wampus Cats away football game with a Jerseys student section 
- theme. Students need their student ID to enter.
+DESCRIPTION:Away football game with Jerseys spirit theme. Students need th
+ eir student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-144d6727c001@calendar-sync.conwaypto.org
@@ -627,9 +562,9 @@ DTEND;VALUE=DATE:20261014
 SUMMARY:Volleyball Pink Night Fundraiser Collection
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School parking lot
-DESCRIPTION:Volleyball players collect change and donations during dismiss
- al to raise money for Emmersyn Caldwell\, this year's Pink Night recipient
- .
+DESCRIPTION:Volleyball players will collect change and donations during di
+ smissal to raise money for Emmersyn Caldwell\, this year's Pink Night reci
+ pient.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-a78340100fa9@calendar-sync.conwaypto.org
@@ -666,11 +601,11 @@ UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Football Game – Home (Pink & Purple\, Homecoming)
+SUMMARY:Football Game - Home (Pink & Purple\, Homecoming)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Homecoming football game with a Pink & Purple student section 
- theme. Students need their student ID to enter.
+DESCRIPTION:Homecoming home football game with Pink & Purple spirit theme.
+  Students need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
@@ -757,11 +692,11 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Game – Away (Super Hero Theme)
+SUMMARY:Football Game - Away (Super Hero Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Wampus Cats away football game with a Super Hero student secti
- on theme.
+DESCRIPTION:Away football game with Super Hero spirit theme. Students need
+  their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-b5bc1f7cb0d3@calendar-sync.conwaypto.org
@@ -818,11 +753,11 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Game – Home (Frat Theme)
+SUMMARY:Football Game - Home (Frat Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Wampus Cats home football game with a Frat student section the
- me.
+DESCRIPTION:Home football game with Frat spirit theme. Students need their
+  student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -889,11 +824,11 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Game – Away (Whiteout Theme)
+SUMMARY:Football Game - Away (Whiteout Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Wampus Cats away football game with a Whiteout student section
-  theme.
+DESCRIPTION:Away football game with Whiteout spirit theme. Students need t
+ heir student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d7fcc4fa289b@calendar-sync.conwaypto.org
@@ -1326,5 +1261,15 @@ SUMMARY:Boys Varsity Basketball vs Lincoln Prep\, (KC) The Classic
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
 DESCRIPTION:Boys Varsity Basketball vs Lincoln Prep\, (KC) The Classic
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-bbb70f95c5ed@calendar-sync.conwaypto.org
+DTSTAMP:20261219T000000Z
+DTSTART;TZID=America/Chicago:20261219T140000
+DTEND;TZID=America/Chicago:20261219T170000
+SUMMARY:Boys Varsity Basketball vs LR Catholic
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Boys Varsity Basketball vs LR Catholic
 END:VEVENT
 END:VCALENDAR
