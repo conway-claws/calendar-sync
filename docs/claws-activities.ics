@@ -23,18 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-96d91905b048@calendar-sync.conwaypto.org
-DTSTAMP:20260920T000000Z
-DTSTART;TZID=America/Chicago:20260920T160000
-DTEND;TZID=America/Chicago:20260920T180000
-SUMMARY:Hispanic Heritage Community Night
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School Cafeteria
-DESCRIPTION:CHS students and families are invited to celebrate Hispanic st
- udents and families with student artwork\, a student video\, college repre
- sentatives\, counselor Q&A\, and campus tours.
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-b507f8ff9b12@calendar-sync.conwaypto.org
 DTSTAMP:20260921T000000Z
 DTSTART;TZID=America/Chicago:20260921T180000
@@ -55,20 +43,20 @@ DTEND;VALUE=DATE:20260923
 SUMMARY:Deadline: HOSA Blood Drive Permission Slip Deadline
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:To donate blood at the HOSA/Arkansas Blood Institute blood dri
- ve\, signed permission slips must be turned in by Tuesday\, September 22.
+DESCRIPTION:Signed permission slips must be turned in to donate blood at t
+ he HOSA blood drive.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-787572a76eab@calendar-sync.conwaypto.org
 DTSTAMP:20260923T000000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-SUMMARY:French Club First Meeting
+SUMMARY:CHS French Club First Meeting
 CATEGORIES:ACTIVITIES
-LOCATION:Conway High School (Mrs. Grinder's room 606)
-DESCRIPTION:First meeting of the CHS French Club during WIN time. Students
-  must turn in their red registration form and/or join the Schoology Group 
- (code VDSD-RR6Q-B5Z8K) to receive a WIN pass.
+LOCATION:Conway High School
+DESCRIPTION:First French Club meeting during WIN time. Students must turn 
+ in the red registration form (available in Mrs. Grinder's room 606) and/or
+  join the Schoology Group (code VDSD-RR6Q-B5Z8K) to receive a WIN pass.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-5d10fafdc16a@calendar-sync.conwaypto.org
@@ -78,7 +66,8 @@ DTEND;VALUE=DATE:20260925
 SUMMARY:FBLA Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Mrs. Alexander's Room 900\, Career Center
-DESCRIPTION:FBLA meeting during WIN for interested students.
+DESCRIPTION:FBLA meeting during WIN for any students interested in joining
+ .
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-3e179c62cd00@calendar-sync.conwaypto.org
@@ -88,10 +77,10 @@ DTEND;VALUE=DATE:20260926
 SUMMARY:HOSA Blood Drive with Arkansas Blood Institute
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:HOSA's semi-annual blood drive. Permission slips distributed i
- n study halls\; students without a study hall can arrange donation through
-  Mrs. Tillery-Harris' room 8117\, the Health Science Building\, Mrs. Langf
- ord in the Career Center\, or the front office.
+DESCRIPTION:HOSA semi-annual blood drive. Permission slips distributed in 
+ 1st-8th period study halls\; students without study hall can arrange throu
+ gh Mrs. Tillery-Harris' room 8117\, the Health Science Building\, Mrs. Lan
+ gford in the Career Center\, or the front office.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-aab6297c0943@calendar-sync.conwaypto.org
