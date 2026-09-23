@@ -23,19 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-b507f8ff9b12@calendar-sync.conwaypto.org
-DTSTAMP:20260921T000000Z
-DTSTART;TZID=America/Chicago:20260921T180000
-DTEND;TZID=America/Chicago:20260921T190000
-SUMMARY:Student Travel Informational Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:Room 165\, Conway High School
-DESCRIPTION:Informational meeting for students and families about upcoming
-  trips to Japan\, Australia & New Zealand\, or London\, Paris & Rome. Lear
- n about what is included\, costs\, and how to get involved. Complete the t
- ravel interest form.
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-bc1871e6cf3c@calendar-sync.conwaypto.org
 DTSTAMP:20260922T000000Z
 DTSTART;VALUE=DATE:20260922
@@ -53,10 +40,23 @@ DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:CHS French Club First Meeting
 CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
+LOCATION:Mrs. Grinder's Room 606
 DESCRIPTION:First French Club meeting during WIN time. Students must turn 
- in the red registration form (available in Mrs. Grinder's room 606) and/or
-  join the Schoology Group (code VDSD-RR6Q-B5Z8K) to receive a WIN pass.
+ in their red registration form and/or join the Schoology Group (code VDSD-
+ RR6Q-B5Z8K) to receive a WIN pass.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-ee81b3e0c64e@calendar-sync.conwaypto.org
+DTSTAMP:20260924T000000Z
+DTSTART;TZID=America/Chicago:20260924T184500
+DTEND;TZID=America/Chicago:20260924T194500
+SUMMARY:CHS Beta Suicide Awareness & Prevention Remembrance Event
+CATEGORIES:ACTIVITIES
+LOCATION:Veterans Memorial Park on Tucker Creek (near Neighborhood Walmart
+ )
+DESCRIPTION:CHS Beta invites students and community members to an evening 
+ of reflection and remembrance honoring Suicide Awareness & Prevention Mont
+ h.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-5d10fafdc16a@calendar-sync.conwaypto.org
@@ -66,8 +66,19 @@ DTEND;VALUE=DATE:20260925
 SUMMARY:FBLA Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Mrs. Alexander's Room 900\, Career Center
-DESCRIPTION:FBLA meeting during WIN for any students interested in joining
- .
+DESCRIPTION:FBLA meeting during WIN time.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-22f572a74baf@calendar-sync.conwaypto.org
+DTSTAMP:20260925T000000Z
+DTSTART;TZID=America/Chicago:20260925T154000
+DTEND;TZID=America/Chicago:20260925T163000
+SUMMARY:Asian Club First Interest Meeting
+CATEGORIES:ACTIVITIES
+LOCATION:Room 607
+DESCRIPTION:First interest meeting with elections for 4 officer positions 
+ and discussion of meeting dates and activities. $8 annual membership fee d
+ ue at the meeting\; up to 35 members accepted.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-3e179c62cd00@calendar-sync.conwaypto.org
@@ -77,10 +88,10 @@ DTEND;VALUE=DATE:20260926
 SUMMARY:HOSA Blood Drive with Arkansas Blood Institute
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:HOSA semi-annual blood drive. Permission slips distributed in 
- 1st-8th period study halls\; students without study hall can arrange throu
- gh Mrs. Tillery-Harris' room 8117\, the Health Science Building\, Mrs. Lan
- gford in the Career Center\, or the front office.
+DESCRIPTION:HOSA semi-annual blood drive. HOSA representatives visit 1st-8
+ th period study halls with permission slips\; students without study hall 
+ can arrange through Mrs. Tillery-Harris' room 8117\, the Health Science Bu
+ ilding\, Mrs. Langford in the Career Center\, or the front office.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-aab6297c0943@calendar-sync.conwaypto.org
@@ -95,6 +106,17 @@ DESCRIPTION:HOSA semi-annual blood drive with Arkansas Blood Institute. Re
  dents without study hall can arrange through Mrs. Tillery-Harris' room 811
  7\, the Health Science Building\, Mrs. Langford in the Career Center\, or 
  the front office.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-c40798246760@calendar-sync.conwaypto.org
+DTSTAMP:20260929T000000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Key Club Meeting
+CATEGORIES:ACTIVITIES
+LOCATION:Lecture Hall
+DESCRIPTION:Key Club meeting during both lunches. Dues must be paid by Oct
+  5 to join.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-c41729aaba69@calendar-sync.conwaypto.org
@@ -133,9 +155,9 @@ DTEND;TZID=America/Chicago:20261016T213000
 SUMMARY:CHS Homecoming Dance
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School Cafeteria
-DESCRIPTION:Homecoming dance for CHS students. No freshmen and no students
-  over 20 may attend. Out-of-school dates require a signed form and must be
-  escorted by a current CHS student.
+DESCRIPTION:Homecoming dance. No freshmen and no students over 20 years of
+  age may attend. Out-of-school dates must be escorted by a current full-ti
+ me CHS student (or part-time with administration approval).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-577d178b8308@calendar-sync.conwaypto.org

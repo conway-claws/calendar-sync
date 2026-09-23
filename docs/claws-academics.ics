@@ -40,8 +40,7 @@ DTEND;TZID=America/Chicago:20260923T193000
 SUMMARY:2026 Service Academy Information Night
 CATEGORIES:ACADEMICS
 LOCATION:Maumelle Charter High School
-DESCRIPTION:Information night about U.S. service academies\, hosted for ar
- ea students and families.
+DESCRIPTION:Information night about U.S. service academies.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-ccb1bdc9d492@calendar-sync.conwaypto.org
@@ -52,23 +51,9 @@ SUMMARY:Deadline: National Honor Society Application Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Last day to submit NHS applications for the 2026-2027 school y
- ear. Dues $25. Eligibility: current Senior or Junior\, 3.75+ GPA\, 2 conse
- cutive years of AP and/or concurrent credit classes and currently enrolled
-  in one\, no major discipline infractions. Applications available outside 
- A103.
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-1cf22dd0b203@calendar-sync.conwaypto.org
-DTSTAMP:20260924T000000Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:Deadline: CHS Beta Suicide Awareness & Prevention Vigil
-CATEGORIES:ACADEMICS
-LOCATION:Veterans Memorial Park on Tucker Creek (near the Neighborhood Wal
- mart)
-DESCRIPTION:CHS Beta invites all students and community members to an even
- ing of reflection and remembrance honoring Suicide Awareness & Prevention 
- Month and raising awareness for suicide prevention.
+ ear. Dues are $25.00 per year. Eligibility: current Senior or Junior\, 3.7
+ 5+ GPA\, 2 consecutive years of AP/concurrent credit classes and currently
+  enrolled in one\, no major discipline infractions.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-122ce20dec83@calendar-sync.conwaypto.org
@@ -99,10 +84,10 @@ DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Deadline: Beta Club Dues Deadline
 CATEGORIES:ACADEMICS
-LOCATION:Room 259\, Conway High School
-DESCRIPTION:Students interested in joining CHS Beta Club must pay the one-
- time $40 dues to Mr. Cullum in room 259 before 5th period\; 3.0 minimum GP
- A required.
+LOCATION:Room 259
+DESCRIPTION:Students joining CHS Beta Club must pay a one-time $40 dues to
+  Mr. Cullum by September 25th. Students must verify a 3.0 minimum GPA\; pa
+ yment must be brought before 5th period.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-20b146eb7b3b@calendar-sync.conwaypto.org
@@ -120,11 +105,11 @@ UID:newsletter-81fd223e636f@calendar-sync.conwaypto.org
 DTSTAMP:20260930T000000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:Deadline: CHS Spanish Club Membership Deadline
+SUMMARY:Deadline: Spanish Club Membership Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Room 608\, Annex
-DESCRIPTION:Last date to pay and join Spanish Club this semester. See Sra.
-  Tedford in room 608 of the Annex.
+DESCRIPTION:Last date to pay and join CHS Spanish Club this semester. See 
+ Sra. Tedford for details.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-830eb7795208@calendar-sync.conwaypto.org
@@ -146,9 +131,9 @@ DTEND;VALUE=DATE:20261001
 SUMMARY:Deadline: Spanish Honorary Society (SHH) Membership Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Room 608\, Annex
-DESCRIPTION:Last day to join Sociedad Honoraria Hispánica this semester. 
- Requirements: 3 semesters of Spanish with an A each semester\, 3.7+ GPA\; 
- dues $7 for lifetime membership. See Sra. Tedford.
+DESCRIPTION:Last day to join the Sociedad Honoraria Hispánica this semest
+ er. Requires 3 semesters of Spanish with an A each semester and a 3.7+ ove
+ rall GPA. Dues are $7 for lifetime membership.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-a50da41f3026@calendar-sync.conwaypto.org
@@ -158,19 +143,28 @@ DTEND;VALUE=DATE:20261001
 SUMMARY:CHS Student College Fair
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:College fair for CHS students\; see the CHS Student College Fa
- ir invitation for details.
+DESCRIPTION:College fair for CHS students hosted by the Counseling Center.
 END:VEVENT
 BEGIN:VEVENT
-UID:rss-730cc46ddb45@calendar-sync.conwaypto.org
+UID:feed-7993144c6c3c@calendar-sync.conwaypto.org
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:Deadline: Emmersyn Caldwell Support T-Shirt Order Deadline
+SUMMARY:Arkansas A.C.C.E.S.S. Portal Application Period Opens for Seniors
 CATEGORIES:ACADEMICS
-DESCRIPTION:Final day to order Wampus Cat shirts supporting Emmersyn Caldw
- ell and her fight. Kids sizes are available. Orders placed online through 
- the Conway volleyball team store.
+DESCRIPTION:CHS seniors can submit the statewide universal college applica
+ tion for free at araccessportal.adhe.edu when the application period opens
+  October 1.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-7d2f1cf0d000@calendar-sync.conwaypto.org
+DTSTAMP:20261001T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Deadline: Emmersyn Caldwell Support T-Shirt Orders Close
+CATEGORIES:ACADEMICS
+DESCRIPTION:Last day to order Wampus Cat shirts supporting Emmersyn Caldwe
+ ll\; adult and kids sizes available at conwayvolleyball26.itemorder.com.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-95bea8785e0d@calendar-sync.conwaypto.org
@@ -181,6 +175,16 @@ SUMMARY:Deadline: Senior Yearbook Ad Early Order Deadline (Save $25)
 CATEGORIES:ACADEMICS
 DESCRIPTION:Order a personalized senior ad for the 2027 Conway High School
   Yearbook by October 2 to save $25.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-198b951037d3@calendar-sync.conwaypto.org
+DTSTAMP:20261005T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Deadline: Key Club Dues Deadline
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Dues must be paid by October 5th to join Key Club.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-86b2418c1596@calendar-sync.conwaypto.org
@@ -231,8 +235,8 @@ DTEND;VALUE=DATE:20261009
 SUMMARY:ATLAS Interim #1 Makeup Testing
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Make-up testing for students who missed the ATLAS Interim #1 e
- xams.
+DESCRIPTION:Makeup testing for ATLAS Interim #1 on October 8th and 9th. St
+ udents who miss testing are required to do make-ups.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-427ef42c46b6@calendar-sync.conwaypto.org
@@ -257,11 +261,10 @@ UID:newsletter-d8173b95c214@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:ATLAS Interim #1 Makeup Testing
+SUMMARY:ATLAS Interim #1 Makeup Testing (Day 2)
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Make-up testing for students who missed the ATLAS Interim #1 e
- xams.
+DESCRIPTION:Second makeup day for ATLAS Interim #1 testing.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-cd2081ec0dff@calendar-sync.conwaypto.org
@@ -343,7 +346,7 @@ DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:ASVAB Test for Seniors
 CATEGORIES:ACADEMICS
-LOCATION:Lecture Hall\, Conway High School
+LOCATION:CHS Lecture Hall
 DESCRIPTION:Seniors may sign up in the Counseling Center to take the ASVAB
   career exploration test in the afternoon. Bring a fully charged Chromeboo
  k. Seats are limited.
@@ -383,11 +386,11 @@ UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
 DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Deadline: Last Day to Turn in Doctor's Notes Toward Exam Exemption
+SUMMARY:Deadline: Last Day to Turn in Doctor's Notes for Exam Exemption
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Last day to turn in doctor's notes towards exemption status\; 
- notes accepted for credit until 12/18.
+DESCRIPTION:Last day to turn in doctor's notes toward exemption status. No
+ tes will be accepted for credit until 12/18.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-1d1dcc2035bf@calendar-sync.conwaypto.org
@@ -410,11 +413,10 @@ UID:newsletter-de8a4d654c99@calendar-sync.conwaypto.org
 DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Fall Semester Exams (Day 1)
+SUMMARY:Fall Semester Exams
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day\; a modified bell schedule will be run (TBD)
- .
+DESCRIPTION:Semester exam day (modified bell schedule - TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-1698bb095b37@calendar-sync.conwaypto.org
@@ -432,8 +434,7 @@ DTEND;VALUE=DATE:20261217
 SUMMARY:Fall Semester Exams (Day 2)
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day\; a modified bell schedule will be run (TBD)
- .
+DESCRIPTION:Second semester exam day (modified bell schedule - TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-bc9027022add@calendar-sync.conwaypto.org
