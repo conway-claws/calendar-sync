@@ -23,39 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-979d0defb293@calendar-sync.conwaypto.org
-DTSTAMP:20260923T000000Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Deadline: Gifted & Talented Teacher Referral Deadline
-CATEGORIES:ACADEMICS
-DESCRIPTION:Deadline for teacher referrals for the Conway Public Schools G
- ifted & Talented fall testing cycle.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-32a16ad57c0d@calendar-sync.conwaypto.org
-DTSTAMP:20260923T000000Z
-DTSTART;TZID=America/Chicago:20260923T173000
-DTEND;TZID=America/Chicago:20260923T193000
-SUMMARY:2026 Service Academy Information Night
-CATEGORIES:ACADEMICS
-LOCATION:Maumelle Charter High School
-DESCRIPTION:Information night about U.S. service academies.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-ccb1bdc9d492@calendar-sync.conwaypto.org
-DTSTAMP:20260923T000000Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Deadline: National Honor Society Application Deadline
-CATEGORIES:ACADEMICS
-LOCATION:Conway High School
-DESCRIPTION:Last day to submit NHS applications for the 2026-2027 school y
- ear. Dues are $25.00 per year. Eligibility: current Senior or Junior\, 3.7
- 5+ GPA\, 2 consecutive years of AP/concurrent credit classes and currently
-  enrolled in one\, no major discipline infractions.
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-122ce20dec83@calendar-sync.conwaypto.org
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
@@ -82,12 +49,11 @@ UID:newsletter-c10c9e63b959@calendar-sync.conwaypto.org
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:Deadline: Beta Club Dues Deadline
+SUMMARY:Deadline: CHS Beta Club Dues Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Room 259
-DESCRIPTION:Students interested in joining CHS Beta Club must pay the one-
- time $40 dues to Mr. Cullum in room 259 by September 25. GPA of 3.0 minimu
- m required\; payment must be brought before 5th period.
+DESCRIPTION:One-time $40 dues paid to Mr. Cullum before 5th period. Studen
+ ts must verify a minimum 3.0 GPA.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-20b146eb7b3b@calendar-sync.conwaypto.org
@@ -143,19 +109,17 @@ DTEND;VALUE=DATE:20261001
 SUMMARY:CHS Student College Fair
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:College fair for CHS students\; see the CHS Student College Fa
- ir invitation for details.
+DESCRIPTION:College fair for CHS students.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-7993144c6c3c@calendar-sync.conwaypto.org
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:Arkansas A.C.C.E.S.S. Portal Application Period Opens
+SUMMARY:Deadline: Arkansas A.C.C.E.S.S. Portal Application Period Opens
 CATEGORIES:ACADEMICS
-DESCRIPTION:The statewide universal college application opens for Conway H
- igh School seniors. Applications can be submitted free at araccessportal.a
- dhe.edu.
+DESCRIPTION:The statewide universal college application opens for CHS seni
+ ors. Have your application ready to submit at araccessportal.adhe.edu.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-7d2f1cf0d000@calendar-sync.conwaypto.org
@@ -165,7 +129,7 @@ DTEND;VALUE=DATE:20261002
 SUMMARY:Deadline: Emmersyn Caldwell Support T-Shirt Orders Close
 CATEGORIES:ACADEMICS
 DESCRIPTION:Last day to order Wampus Cat shirts supporting Emmersyn Caldwe
- ll through the volleyball team's online store. Kids sizes available.
+ ll. Kids sizes available. Order at conwayvolleyball26.itemorder.com.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-95bea8785e0d@calendar-sync.conwaypto.org
@@ -185,7 +149,7 @@ DTEND;VALUE=DATE:20261006
 SUMMARY:Deadline: Key Club Dues Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Key Club dues must be paid by October 5 to join.
+DESCRIPTION:Dues must be paid by October 5th to join Key Club.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-86b2418c1596@calendar-sync.conwaypto.org
@@ -214,11 +178,11 @@ UID:newsletter-db26827ae898@calendar-sync.conwaypto.org
 DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:Deadline: Homecoming Out-of-School Date Form Deadline
+SUMMARY:Deadline: Homecoming Out-of-School Date Form Due
 CATEGORIES:ACADEMICS
-LOCATION:Front Office
-DESCRIPTION:Out-of-School Date Forms for the Homecoming Dance must be sign
- ed and returned to the Front Office no later than 3:30 p.m.
+LOCATION:Conway High School Front Office
+DESCRIPTION:Signed Out-of-School Date Forms must be returned to the Front 
+ Office no later than 3:30 p.m.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-99ce510574db@calendar-sync.conwaypto.org
@@ -229,15 +193,26 @@ SUMMARY:Makeup  ATLAS  Interim  #1
 CATEGORIES:ACADEMICS
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-af4549635ae6@calendar-sync.conwaypto.org
+DTSTAMP:20261008T000000Z
+DTSTART;TZID=America/Chicago:20261008T180000
+DTEND;TZID=America/Chicago:20261008T190000
+SUMMARY:PSAT/NMSQT Parent Meeting
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School Lecture Hall
+DESCRIPTION:Parents of 10th graders and opted-in 11th graders are invited 
+ to learn more about the PSAT/NMSQT assessment and its benefits.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-d480339b53f5@calendar-sync.conwaypto.org
 DTSTAMP:20261008T000000Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-SUMMARY:ATLAS Interim #1 Makeup Testing
+SUMMARY:ATLAS Interim #1 Makeup Testing (Day 1)
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Makeup testing for ATLAS Interim #1 on October 8 and 9. Studen
- ts who miss testing are required to do make-ups.
+DESCRIPTION:Makeup testing for students who missed ATLAS Interim #1. Stude
+ nts who miss testing are required to do make-ups.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-427ef42c46b6@calendar-sync.conwaypto.org
@@ -265,7 +240,7 @@ DTEND;VALUE=DATE:20261010
 SUMMARY:ATLAS Interim #1 Makeup Testing (Day 2)
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Second day of makeup testing for ATLAS Interim #1.
+DESCRIPTION:Second day of ATLAS Interim #1 makeup testing.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-cd2081ec0dff@calendar-sync.conwaypto.org
@@ -318,6 +293,18 @@ SUMMARY:Fall Break (Students & Staff Dismissed)
 CATEGORIES:ACADEMICS
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-2b2ef9f0345f@calendar-sync.conwaypto.org
+DTSTAMP:20261024T000000Z
+DTSTART;TZID=America/Chicago:20261024T130000
+DTEND;TZID=America/Chicago:20261024T160000
+SUMMARY:FAFSA Help Day
+CATEGORIES:ACADEMICS
+LOCATION:Faulkner County Library\, Program Space 2
+DESCRIPTION:Arkansas Asset Builders FAFSA Help Day. Computer workstations 
+ available or bring your own device. Online registration at https://waitwhi
+ le.com/locations/fafsahelpday.
+END:VEVENT
+BEGIN:VEVENT
 UID:feed-809f3bea272f@calendar-sync.conwaypto.org
 DTSTAMP:20261027T000000Z
 DTSTART;VALUE=DATE:20261027
@@ -345,12 +332,12 @@ UID:newsletter-117669b1dcec@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:ASVAB Testing for Seniors
+SUMMARY:ASVAB Test for Seniors
 CATEGORIES:ACADEMICS
-LOCATION:Lecture Hall
-DESCRIPTION:Seniors may sign up in the Counseling Center to take the ASVAB
-  career exploration test in the Lecture Hall in the afternoon. Bring a ful
- ly charged Chromebook\; seats are limited.
+LOCATION:Conway High School Lecture Hall
+DESCRIPTION:Seniors can sign up in the Counseling Center to take the ASVAB
+  career exploration test in the afternoon. Bring a fully charged Chromeboo
+ k. Seats are limited.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-1abd4f542d2b@calendar-sync.conwaypto.org
@@ -387,11 +374,11 @@ UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
 DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Deadline: Last Day to Turn In Doctor's Notes for Exam Exemption
+SUMMARY:Deadline: Last Day to Turn in Doctor's Notes for Exam Exemption
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Last day to turn in doctor's notes toward exemption status for
-  fall semester exams. Notes accepted for credit until 12/18.
+DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
+ s. Notes will be accepted for credit until 12/18.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-1d1dcc2035bf@calendar-sync.conwaypto.org
@@ -414,11 +401,10 @@ UID:newsletter-de8a4d654c99@calendar-sync.conwaypto.org
 DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Fall Semester Exams - Day 1
+SUMMARY:Fall Semester Exams (Day 1)
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:First day of fall semester exams\; a modified bell schedule wi
- ll be used (TBD).
+DESCRIPTION:Semester exam day\; modified bell schedule TBD.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-1698bb095b37@calendar-sync.conwaypto.org
@@ -433,11 +419,10 @@ UID:newsletter-5a6f5007818b@calendar-sync.conwaypto.org
 DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:Fall Semester Exams - Day 2
+SUMMARY:Fall Semester Exams (Day 2)
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Second day of fall semester exams\; a modified bell schedule w
- ill be used (TBD).
+DESCRIPTION:Semester exam day\; modified bell schedule TBD.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-bc9027022add@calendar-sync.conwaypto.org
