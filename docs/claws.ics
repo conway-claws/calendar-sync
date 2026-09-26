@@ -23,73 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-68ac73509a15@calendar-sync.conwaypto.org
-DTSTAMP:20260924T000000Z
-DTSTART;TZID=America/Chicago:20260924T153000
-DTEND;TZID=America/Chicago:20260924T163000
-SUMMARY:CHS Tennis vs. Catholic/Mount St. Mary
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School (home)
-DESCRIPTION:Both CHS tennis teams\, now 5-1 on the season\, host Catholic/
- MSM in a big home match.
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-ee81b3e0c64e@calendar-sync.conwaypto.org
-DTSTAMP:20260924T000000Z
-DTSTART;TZID=America/Chicago:20260924T184500
-DTEND;TZID=America/Chicago:20260924T194500
-SUMMARY:CHS Beta Suicide Awareness & Prevention Remembrance Evening
-CATEGORIES:ACTIVITIES
-LOCATION:Veterans Memorial Park on Tucker Creek (near Neighborhood Walmart
- )
-DESCRIPTION:CHS Beta invites all students and community members to an even
- ing of reflection and remembrance honoring Suicide Awareness & Prevention 
- Month.
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-f9403b9e2185@calendar-sync.conwaypto.org
-DTSTAMP:20260924T000000Z
-DTSTART;TZID=America/Chicago:20260924T153000
-DTEND;TZID=America/Chicago:20260924T163000
-SUMMARY:CHS Tennis Home Match vs. Jonesboro High School
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:CHS tennis hosts Jonesboro High School.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-5d10fafdc16a@calendar-sync.conwaypto.org
-DTSTAMP:20260924T000000Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:FBLA Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:Mrs. Alexander's Room 900\, Career Center
-DESCRIPTION:FBLA will meet during WIN in Mrs. Alexander's Room 900 in the 
- Career Center.
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-5aae59716aa7@calendar-sync.conwaypto.org
-DTSTAMP:20260924T000000Z
-DTSTART;TZID=America/Chicago:20260924T170000
-DTEND;TZID=America/Chicago:20260924T180000
-SUMMARY:Lady Cats Volleyball Home Game vs. Jonesboro
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Home volleyball game against Jonesboro. JV starts at 5:00 PM w
- ith Varsity to follow. Tickets via GoFan\; live stream available on YouTub
- e.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-e0e08d1c581d@calendar-sync.conwaypto.org
-DTSTAMP:20260925T000000Z
-DTSTART;TZID=America/Chicago:20260925T190000
-DTEND;TZID=America/Chicago:20260925T220000
-SUMMARY:Boys Varsity Football at Northside
-CATEGORIES:ATHLETICS
-LOCATION:Northside Field
-DESCRIPTION:Boys Varsity Football at Northside
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-122ce20dec83@calendar-sync.conwaypto.org
 DTSTAMP:20260925T000000Z
 DTSTART;VALUE=DATE:20260925
@@ -212,11 +145,11 @@ UID:feed-a5dfa98ed1f2@calendar-sync.conwaypto.org
 DTSTAMP:20260927T000000Z
 DTSTART;TZID=America/Chicago:20260927T080000
 DTEND;TZID=America/Chicago:20260927T130000
-SUMMARY:Pancake Breakfast Fundraiser for Wampus Cat & Lady Cat Basketball
+SUMMARY:Pancake Breakfast for Wampus Cat & Lady Cat Basketball
 CATEGORIES:ATHLETICS
 LOCATION:Stoby's
 DESCRIPTION:$6 all-you-can-eat pancakes\, drive-thru or dine-in\, supporti
- ng Conway boys and girls basketball programs.
+ ng boys and girls basketball programs.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-fbf37f0ea6eb@calendar-sync.conwaypto.org
@@ -308,8 +241,8 @@ DTEND;VALUE=DATE:20260929
 SUMMARY:6A Girls State Golf Championships
 CATEGORIES:ATHLETICS
 LOCATION:Hurricane Golf Course\, Bryant\, AR
-DESCRIPTION:Varsity Girls golf competes at the 6A State Golf Championships
- \, September 28-30.
+DESCRIPTION:Wampus Cat Varsity Girls Golf competes at the 6A State Golf Ch
+ ampionships\, September 28-30.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0b6ef3c5dcfb@calendar-sync.conwaypto.org
@@ -359,7 +292,7 @@ DTEND;VALUE=DATE:20260930
 SUMMARY:Key Club Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Lecture Hall
-DESCRIPTION:Key Club meeting during both lunches.
+DESCRIPTION:Key Club meeting during both lunches in the Lecture Hall.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-81fd223e636f@calendar-sync.conwaypto.org
@@ -404,7 +337,8 @@ DTEND;VALUE=DATE:20261001
 SUMMARY:CHS Student College Fair
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:College fair for CHS students.
+DESCRIPTION:College fair for CHS students. See the CHS Student College Fai
+ r invitation for details.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-f0a066344aae@calendar-sync.conwaypto.org
@@ -461,18 +395,18 @@ DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Deadline: Arkansas A.C.C.E.S.S. Portal Application Period Opens
 CATEGORIES:ACADEMICS
-DESCRIPTION:The statewide universal college application opens for CHS seni
- ors. Have your application ready to submit at araccessportal.adhe.edu.
+DESCRIPTION:Statewide universal college application opens for CHS seniors\
+ ; apply free at araccessportal.adhe.edu.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-7d2f1cf0d000@calendar-sync.conwaypto.org
 DTSTAMP:20261001T000000Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:Deadline: Emmersyn Caldwell Support T-Shirt Orders Close
+SUMMARY:Deadline: Emmersyn Caldwell Support T-Shirt Order Deadline
 CATEGORIES:ACADEMICS
-DESCRIPTION:Last day to order Wampus Cat shirts supporting Emmersyn Caldwe
- ll. Kids sizes available. Order at conwayvolleyball26.itemorder.com.
+DESCRIPTION:Orders for the Wampus Cat shirt supporting Emmersyn Caldwell c
+ lose Thursday\, October 1. Adult and kids sizes available.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-ce5ca7127bc2@calendar-sync.conwaypto.org
@@ -483,7 +417,7 @@ SUMMARY:Wrestling Interest Meeting
 CATEGORIES:ATHLETICS
 LOCATION:High School Cafeteria
 DESCRIPTION:Meeting for students in 8th\, 9th\, or 10th grade interested i
- n wrestling. Come talk to the coaches!
+ n wrestling — come talk to the coaches.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-e5c1bc6d8670@calendar-sync.conwaypto.org
@@ -522,11 +456,11 @@ UID:newsletter-3c23f62353ad@calendar-sync.conwaypto.org
 DTSTAMP:20261002T000000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:Football Game - Home (Blackout Theme)
+SUMMARY:Football Game — Home (Blackout Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Student theme: Blackout. Students need their student ID to ent
- er football games.
+DESCRIPTION:Home football game with a Blackout student section theme. Stud
+ ents need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-b07ce8fd0833@calendar-sync.conwaypto.org
@@ -536,8 +470,7 @@ DTEND;TZID=America/Chicago:20261003T150000
 SUMMARY:Wrestling Rummage Sale
 CATEGORIES:ATHLETICS
 LOCATION:1610 Prince Street
-DESCRIPTION:Shop the Wrestling Rummage Sale to support the CHS wrestling p
- rogram.
+DESCRIPTION:Rummage sale fundraiser supporting the CHS wrestling program.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-afda75f6614f@calendar-sync.conwaypto.org
@@ -567,7 +500,7 @@ DTEND;VALUE=DATE:20261006
 SUMMARY:Deadline: Key Club Dues Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Dues must be paid by October 5th to join Key Club.
+DESCRIPTION:Dues must be paid by October 5 to join Key Club.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-7241de6d0a55@calendar-sync.conwaypto.org
@@ -577,7 +510,7 @@ DTEND;TZID=America/Chicago:20261005T193000
 SUMMARY:CHS Choir Region Preview Concert
 CATEGORIES:ARTS
 LOCATION:Conway High School Auditorium
-DESCRIPTION:Choir region preview concert.
+DESCRIPTION:CHS Choir Region Preview Concert in the auditorium.
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-64aa9de4d6ee@calendar-sync.conwaypto.org
@@ -587,8 +520,8 @@ DTEND;VALUE=DATE:20261006
 SUMMARY:6A Boys State Golf Championships
 CATEGORIES:ATHLETICS
 LOCATION:Jonesboro Country Club\, Jonesboro\, AR
-DESCRIPTION:Varsity Boys golf competes at the 6A State Golf Championships\
- , October 5-7.
+DESCRIPTION:Wampus Cat Varsity Boys Golf competes at the 6A State Golf Cha
+ mpionships\, October 5-7.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-01dd84328566@calendar-sync.conwaypto.org
@@ -659,9 +592,9 @@ DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Deadline: Homecoming Out-of-School Date Form Due
 CATEGORIES:ACADEMICS
-LOCATION:Conway High School Front Office
-DESCRIPTION:Signed Out-of-School Date Forms must be returned to the Front 
- Office no later than 3:30 p.m.
+LOCATION:CHS Front Office
+DESCRIPTION:Signed Out-of-School Date Forms for the Homecoming Dance must 
+ be returned to the front office no later than 3:30 p.m.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-99ce510574db@calendar-sync.conwaypto.org
@@ -679,19 +612,19 @@ DTEND;TZID=America/Chicago:20261008T190000
 SUMMARY:PSAT/NMSQT Parent Meeting
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School Lecture Hall
-DESCRIPTION:Parents of 10th graders and opted-in 11th graders are invited 
- to learn more about the PSAT/NMSQT assessment and its benefits.
+DESCRIPTION:Parent meeting about the PSAT/NMSQT for 10th graders and opted
+ -in 11th graders\, covering the assessment and its benefits.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-d480339b53f5@calendar-sync.conwaypto.org
 DTSTAMP:20261008T000000Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
-SUMMARY:ATLAS Interim #1 Makeup Testing (Day 1)
+SUMMARY:ATLAS Interim #1 Makeup Testing
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Makeup testing for students who missed ATLAS Interim #1. Stude
- nts who miss testing are required to do make-ups.
+DESCRIPTION:Makeup testing for ATLAS Interim #1 on October 8 and 9. Studen
+ ts who miss testing are required to do make-ups.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-aeaf4df030d2@calendar-sync.conwaypto.org
@@ -718,12 +651,11 @@ UID:feed-c387404dd0c4@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:Lady Cat Volleyball Change Runs (Pink Night Fundraiser)
+SUMMARY:Lady Cat Volleyball Change Run for Pink Night
 CATEGORIES:ATHLETICS
-LOCATION:Conway Elementary Schools
-DESCRIPTION:The Lady Cat volleyball team will visit Conway elementary scho
- ols for their annual change runs. Proceeds go to Pink Night recipient Emme
- rsyn Caldwell. Bring your change and make a difference!
+LOCATION:Conway elementary schools
+DESCRIPTION:Lady Cat volleyball team collects change at Conway elementary 
+ schools benefiting Pink Night recipient Emmersyn Caldwell.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-2753988abe96@calendar-sync.conwaypto.org
@@ -738,11 +670,9 @@ UID:newsletter-22eac23d2f5b@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:Football Game - Away (Jerseys Theme)
+SUMMARY:Football Game — Away (Jerseys Theme)
 CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Student theme: Jerseys. Students need their student ID to ente
- r football games.
+DESCRIPTION:Away football game with a Jerseys student section theme.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-d8173b95c214@calendar-sync.conwaypto.org
@@ -752,7 +682,7 @@ DTEND;VALUE=DATE:20261010
 SUMMARY:ATLAS Interim #1 Makeup Testing (Day 2)
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Second day of ATLAS Interim #1 makeup testing.
+DESCRIPTION:Second day of makeup testing for ATLAS Interim #1.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-144d6727c001@calendar-sync.conwaypto.org
@@ -904,12 +834,12 @@ UID:newsletter-7285a84105be@calendar-sync.conwaypto.org
 DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-SUMMARY:Volleyball Pink Night Donation Collection
+SUMMARY:Volleyball Pink Night Fundraiser Collection
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School parking lot
-DESCRIPTION:Volleyball players collect change and donations during dismiss
- al to raise money for Emmersyn Caldwell\, this year's Pink Night recipient
- .
+DESCRIPTION:Volleyball team collects change and donations in the high scho
+ ol parking lot during dismissal to raise money for Emmersyn Caldwell\, thi
+ s year's Pink Night recipient.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-804e3cbc507b@calendar-sync.conwaypto.org
@@ -974,11 +904,11 @@ UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Homecoming Football Game - Home (Pink & Purple Theme)
+SUMMARY:Football Game — Home (Pink & Purple\, Homecoming)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Homecoming game. Student theme: Pink & Purple. Students need t
- heir student ID to enter football games.
+DESCRIPTION:Homecoming home football game with a Pink & Purple student sec
+ tion theme.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-cde705c113b3@calendar-sync.conwaypto.org
@@ -988,9 +918,9 @@ DTEND;TZID=America/Chicago:20261016T213000
 SUMMARY:CHS Homecoming Dance
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School Cafeteria
-DESCRIPTION:No freshmen allowed and no students over 20. Out-of-school dat
- es must be escorted by a current CHS student and require an approved Out-o
- f-School Date Form.
+DESCRIPTION:Homecoming dance. No freshmen and no students over 20 may atte
+ nd. Out-of-school dates require a signed form and must be escorted by a cu
+ rrent CHS student.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
@@ -1101,11 +1031,9 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Game - Away (Super Hero Theme)
+SUMMARY:Football Game — Away (Super Hero Theme)
 CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Student theme: Super Hero. Students need their student ID to e
- nter football games.
+DESCRIPTION:Away football game with a Super Hero student section theme.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-54c6e937bb32@calendar-sync.conwaypto.org
@@ -1145,9 +1073,9 @@ DTEND;TZID=America/Chicago:20261024T160000
 SUMMARY:FAFSA Help Day
 CATEGORIES:ACADEMICS
 LOCATION:Faulkner County Library\, Program Space 2
-DESCRIPTION:Arkansas Asset Builders FAFSA Help Day. Computer workstations 
- available or bring your own device. Online registration at https://waitwhi
- le.com/locations/fafsahelpday.
+DESCRIPTION:FAFSA Help Day hosted by Arkansas Asset Builders. Computer wor
+ kstations available or bring your own device. Online registration at waitw
+ hile.com/locations/fafsahelpday.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-64ce2f216989@calendar-sync.conwaypto.org
@@ -1217,11 +1145,10 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Game - Home (Frat Theme)
+SUMMARY:Football Game — Home (Frat Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Student theme: Frat. Students need their student ID to enter f
- ootball games.
+DESCRIPTION:Home football game with a Frat student section theme.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -1296,11 +1223,9 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Game - Away (Whiteout Theme)
+SUMMARY:Football Game — Away (Whiteout Theme)
 CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Student theme: Whiteout. Students need their student ID to ent
- er football games.
+DESCRIPTION:Away football game with a Whiteout student section theme.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-187c89a7721b@calendar-sync.conwaypto.org
@@ -1482,10 +1407,10 @@ UID:newsletter-117669b1dcec@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:ASVAB Test for Seniors
+SUMMARY:ASVAB Testing for Seniors
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School Lecture Hall
-DESCRIPTION:Seniors can sign up in the Counseling Center to take the ASVAB
+DESCRIPTION:Seniors may sign up in the Counseling Center to take the ASVAB
   career exploration test in the afternoon. Bring a fully charged Chromeboo
  k. Seats are limited.
 END:VEVENT
@@ -1530,16 +1455,6 @@ SUMMARY:Girls Varsity Wrestling vs Intersquad Dual Fundraiser
 CATEGORIES:ATHLETICS
 LOCATION:Conway
 DESCRIPTION:Girls Varsity Wrestling vs Intersquad Dual Fundraiser
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-37b8fe702412@calendar-sync.conwaypto.org
-DTSTAMP:20261117T000000Z
-DTSTART;TZID=America/Chicago:20261117T163000
-DTEND;TZID=America/Chicago:20261117T193000
-SUMMARY:Boys Varsity Basketball vs Simon Middle
-CATEGORIES:ATHLETICS
-LOCATION:Courtway Middle School
-DESCRIPTION:Boys Varsity Basketball vs Simon Middle
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-39f94fbd058e@calendar-sync.conwaypto.org
@@ -1599,16 +1514,6 @@ SUMMARY:Boys JV Basketball at Russellville
 CATEGORIES:ATHLETICS
 LOCATION:Russellville HS
 DESCRIPTION:Boys JV Basketball at Russellville
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-54bc35aa9876@calendar-sync.conwaypto.org
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=America/Chicago:20261119T163000
-DTEND;TZID=America/Chicago:20261119T193000
-SUMMARY:Boys Varsity Basketball at Carl Stuart
-CATEGORIES:ATHLETICS
-LOCATION:Carl Stuart
-DESCRIPTION:Boys Varsity Basketball at Carl Stuart
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-5b4d7fa9caba@calendar-sync.conwaypto.org
@@ -1770,16 +1675,6 @@ LOCATION:Buzz Bolding Arena
 DESCRIPTION:Boys Varsity Basketball vs Fort Smith Southside
 END:VEVENT
 BEGIN:VEVENT
-UID:athletics-e0973deef1de@calendar-sync.conwaypto.org
-DTSTAMP:20261201T000000Z
-DTSTART;TZID=America/Chicago:20261201T170000
-DTEND;TZID=America/Chicago:20261201T200000
-SUMMARY:Boys Varsity Basketball at Bethel (A&B)
-CATEGORIES:ATHLETICS
-LOCATION:Bethel Middle School
-DESCRIPTION:Boys Varsity Basketball at Bethel (A&B)
-END:VEVENT
-BEGIN:VEVENT
 UID:orchestra-88e5e2d052a8@calendar-sync.conwaypto.org
 DTSTAMP:20261201T000000Z
 DTSTART;TZID=America/Chicago:20261201T183000
@@ -1803,16 +1698,6 @@ DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:CHS trip deposit due ($150 non-refundable)
 CATEGORIES:ARTS
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-2c583a4ef064@calendar-sync.conwaypto.org
-DTSTAMP:20261203T000000Z
-DTSTART;TZID=America/Chicago:20261203T163000
-DTEND;TZID=America/Chicago:20261203T193000
-SUMMARY:Boys Varsity Basketball vs Greenbrier Middle
-CATEGORIES:ATHLETICS
-LOCATION:Courtway
-DESCRIPTION:Boys Varsity Basketball vs Greenbrier Middle
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-926440ecdd10@calendar-sync.conwaypto.org
@@ -1873,16 +1758,6 @@ SUMMARY:Boys Varsity Wrestling at Central Classic
 CATEGORIES:ATHLETICS
 LOCATION:Central High
 DESCRIPTION:Boys Varsity Wrestling at Central Classic
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-1b1912cf0e8f@calendar-sync.conwaypto.org
-DTSTAMP:20261208T000000Z
-DTSTART;TZID=America/Chicago:20261208T163000
-DTEND;TZID=America/Chicago:20261208T193000
-SUMMARY:Boys Varsity Basketball vs Mt. View
-CATEGORIES:ATHLETICS
-LOCATION:Courtway
-DESCRIPTION:Boys Varsity Basketball vs Mt. View
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-64df162cb0f3@calendar-sync.conwaypto.org
@@ -1960,8 +1835,8 @@ DTEND;VALUE=DATE:20261210
 SUMMARY:Deadline: Last Day to Turn in Doctor's Notes for Exam Exemption
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
- s. Notes will be accepted for credit until 12/18.
+DESCRIPTION:Last day to turn in doctor's notes toward exemption status for
+  fall semester exams. Notes accepted for credit until 12/18.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-6dc2ef650520@calendar-sync.conwaypto.org
@@ -1979,16 +1854,6 @@ DTEND;TZID=America/Chicago:20261209T173000
 SUMMARY:CHS Symphonic Orchestra Rehearsal
 CATEGORIES:ARTS
 LOCATION:CHS Large Ensemble Room
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-002695fd308d@calendar-sync.conwaypto.org
-DTSTAMP:20261210T000000Z
-DTSTART;TZID=America/Chicago:20261210T163000
-DTEND;TZID=America/Chicago:20261210T193000
-SUMMARY:Boys Varsity Basketball vs Carl Stuart
-CATEGORIES:ATHLETICS
-LOCATION:Courtway
-DESCRIPTION:Boys Varsity Basketball vs Carl Stuart
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-536d250c81d2@calendar-sync.conwaypto.org
@@ -2118,16 +1983,6 @@ LOCATION:Maumelle HS
 DESCRIPTION:Boys Varsity Basketball at Maumelle
 END:VEVENT
 BEGIN:VEVENT
-UID:athletics-a1ad10fa9a1b@calendar-sync.conwaypto.org
-DTSTAMP:20261215T000000Z
-DTSTART;TZID=America/Chicago:20261215T163000
-DTEND;TZID=America/Chicago:20261215T193000
-SUMMARY:Boys Varsity Basketball at Benton
-CATEGORIES:ATHLETICS
-LOCATION:Benton High School
-DESCRIPTION:Boys Varsity Basketball at Benton
-END:VEVENT
-BEGIN:VEVENT
 UID:ical-f7e959b555bf@calendar-sync.conwaypto.org
 DTSTAMP:20261215T000000Z
 DTSTART;TZID=America/Chicago:20261215T080000
@@ -2143,7 +1998,7 @@ DTEND;VALUE=DATE:20261216
 SUMMARY:Fall Semester Exams (Day 1)
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day\; modified bell schedule TBD.
+DESCRIPTION:Semester exam day with a modified bell schedule (TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-1698bb095b37@calendar-sync.conwaypto.org
@@ -2161,17 +2016,7 @@ DTEND;VALUE=DATE:20261217
 SUMMARY:Fall Semester Exams (Day 2)
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day\; modified bell schedule TBD.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-d188c03e2d95@calendar-sync.conwaypto.org
-DTSTAMP:20261217T000000Z
-DTSTART;TZID=America/Chicago:20261217T163000
-DTEND;TZID=America/Chicago:20261217T193000
-SUMMARY:Boys Varsity Basketball vs Ruth Doyle
-CATEGORIES:ATHLETICS
-LOCATION:Courtway
-DESCRIPTION:Boys Varsity Basketball vs Ruth Doyle
+DESCRIPTION:Semester exam day with a modified bell schedule (TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-bc9027022add@calendar-sync.conwaypto.org
