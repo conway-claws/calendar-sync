@@ -23,40 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-22f572a74baf@calendar-sync.conwaypto.org
-DTSTAMP:20260925T000000Z
-DTSTART;TZID=America/Chicago:20260925T154000
-DTEND;TZID=America/Chicago:20260925T163000
-SUMMARY:Asian Club First Interest Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:Room 607
-DESCRIPTION:Officer elections and discussion of meeting dates and activiti
- es. $8 annual membership fee\; up to 35 members accepted.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-3e179c62cd00@calendar-sync.conwaypto.org
-DTSTAMP:20260925T000000Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:HOSA Blood Drive with Arkansas Blood Institute
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
-DESCRIPTION:HOSA semi-annual blood drive. HOSA representatives visit 1st-8
- th period study halls with permission slips\; students without study hall 
- can arrange through Mrs. Tillery-Harris' room 8117\, the Health Science Bu
- ilding\, Mrs. Langford in the Career Center\, or the front office.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-aab6297c0943@calendar-sync.conwaypto.org
-DTSTAMP:20260925T000000Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:HOSA Semi-Annual Blood Drive
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
-DESCRIPTION:HOSA hosts a blood drive with the Arkansas Blood Institute.
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-c40798246760@calendar-sync.conwaypto.org
 DTSTAMP:20260929T000000Z
 DTSTART;VALUE=DATE:20260929
@@ -103,9 +69,9 @@ DTEND;TZID=America/Chicago:20261016T213000
 SUMMARY:CHS Homecoming Dance
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School Cafeteria
-DESCRIPTION:Homecoming dance. No freshmen and no students over 20 may atte
- nd. Out-of-school dates require a signed form and must be escorted by a cu
- rrent CHS student.
+DESCRIPTION:Homecoming dance. No freshmen and no students over 20. Out-of-
+ school dates must be escorted by a CHS student and require an approved for
+ m.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-577d178b8308@calendar-sync.conwaypto.org

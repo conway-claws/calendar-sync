@@ -23,47 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-3a17f23641b3@calendar-sync.conwaypto.org
-DTSTAMP:20260925T000000Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:Football Game - Away (Hawaiian Theme)
-CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Student theme: Hawaiian. Students need their student ID to ent
- er football games.
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-e33da0334ebb@calendar-sync.conwaypto.org
-DTSTAMP:20260925T000000Z
-DTSTART;TZID=America/Chicago:20260925T153000
-DTEND;TZID=America/Chicago:20260925T163000
-SUMMARY:CHS Tennis Home Match vs. Jonesboro
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:CHS tennis hosts Jonesboro High School for a home match.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-93c20b5ba321@calendar-sync.conwaypto.org
-DTSTAMP:20260926T000000Z
-DTSTART;TZID=America/Chicago:20260926T080000
-DTEND;TZID=America/Chicago:20260926T110000
-SUMMARY:Boys Varsity Cross Country at Cyclone Invitational
-CATEGORIES:ATHLETICS
-LOCATION:Arkansas Tech
-DESCRIPTION:Boys Varsity Cross Country at Cyclone Invitational
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-d3dcc298292f@calendar-sync.conwaypto.org
-DTSTAMP:20260926T000000Z
-DTSTART;TZID=America/Chicago:20260926T080000
-DTEND;TZID=America/Chicago:20260926T110000
-SUMMARY:Girls Varsity Cross Country at Cyclone Invitational
-CATEGORIES:ATHLETICS
-LOCATION:Arkansas Tech
-DESCRIPTION:Girls Varsity Cross Country at Cyclone Invitational
-END:VEVENT
-BEGIN:VEVENT
 UID:rss-d3ff17ded4c5@calendar-sync.conwaypto.org
 DTSTAMP:20260926T000000Z
 DTSTART;TZID=America/Chicago:20260926T153000
@@ -163,8 +122,8 @@ DTEND;VALUE=DATE:20260929
 SUMMARY:6A Girls State Golf Championships
 CATEGORIES:ATHLETICS
 LOCATION:Hurricane Golf Course\, Bryant\, AR
-DESCRIPTION:Wampus Cat Varsity Girls Golf competes at the 6A State Golf Ch
- ampionships\, September 28-30.
+DESCRIPTION:Conway Varsity Girls golf competes at the 6A State Golf Champi
+ onships\, September 28-30.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0b6ef3c5dcfb@calendar-sync.conwaypto.org
@@ -287,8 +246,8 @@ DTEND;VALUE=DATE:20261003
 SUMMARY:Football Game — Home (Blackout Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home football game with a Blackout student section theme. Stud
- ents need their student ID to enter football games.
+DESCRIPTION:Home football game with Blackout student section theme. Studen
+ ts need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-b07ce8fd0833@calendar-sync.conwaypto.org
@@ -328,8 +287,8 @@ DTEND;VALUE=DATE:20261006
 SUMMARY:6A Boys State Golf Championships
 CATEGORIES:ATHLETICS
 LOCATION:Jonesboro Country Club\, Jonesboro\, AR
-DESCRIPTION:Wampus Cat Varsity Boys Golf competes at the 6A State Golf Cha
- mpionships\, October 5-7.
+DESCRIPTION:Conway Varsity Boys golf competes at the 6A State Golf Champio
+ nships\, October 5-7.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-01dd84328566@calendar-sync.conwaypto.org
@@ -399,7 +358,7 @@ DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Football Game — Away (Jerseys Theme)
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game with a Jerseys student section theme.
+DESCRIPTION:Away football game with Jerseys student section theme.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-144d6727c001@calendar-sync.conwaypto.org
@@ -499,9 +458,8 @@ DTEND;VALUE=DATE:20261014
 SUMMARY:Volleyball Pink Night Fundraiser Collection
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School parking lot
-DESCRIPTION:Volleyball team collects change and donations in the high scho
- ol parking lot during dismissal to raise money for Emmersyn Caldwell\, thi
- s year's Pink Night recipient.
+DESCRIPTION:Volleyball team collects change and donations during dismissal
+  for Pink Night recipient Emmersyn Caldwell.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-a78340100fa9@calendar-sync.conwaypto.org
@@ -538,11 +496,11 @@ UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Football Game — Home (Pink & Purple\, Homecoming)
+SUMMARY:Homecoming Football Game — Home (Pink & Purple)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Homecoming home football game with a Pink & Purple student sec
- tion theme.
+DESCRIPTION:Homecoming home football game with Pink & Purple theme. Studen
+ ts need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
@@ -631,7 +589,7 @@ DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Football Game — Away (Super Hero Theme)
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game with a Super Hero student section theme.
+DESCRIPTION:Away football game with Super Hero student section theme.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-54c6e937bb32@calendar-sync.conwaypto.org
@@ -711,7 +669,8 @@ DTEND;VALUE=DATE:20261031
 SUMMARY:Football Game — Home (Frat Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home football game with a Frat student section theme.
+DESCRIPTION:Home football game with Frat student section theme. Students n
+ eed their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -780,7 +739,7 @@ DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Football Game — Away (Whiteout Theme)
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game with a Whiteout student section theme.
+DESCRIPTION:Away football game with Whiteout student section theme.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-181efad4c93d@calendar-sync.conwaypto.org
