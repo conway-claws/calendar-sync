@@ -92,9 +92,9 @@ DTSTART;TZID=America/Chicago:20261001T180000
 DTEND;TZID=America/Chicago:20261001T190000
 SUMMARY:Wrestling Interest Meeting
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School Cafeteria
-DESCRIPTION:Interest meeting for students in 8th\, 9th\, or 10th grade who
-  want to talk with the wrestling coaches.
+LOCATION:High School Cafeteria
+DESCRIPTION:Meeting for students in 8th\, 9th\, or 10th grade interested i
+ n wrestling — come talk to the coaches.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-e5c1bc6d8670@calendar-sync.conwaypto.org
@@ -143,11 +143,11 @@ UID:newsletter-3c23f62353ad@calendar-sync.conwaypto.org
 DTSTAMP:20261002T000000Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
-SUMMARY:Football Game (Home) - Blackout Theme
+SUMMARY:Football Game — Home: Blackout Theme
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home football game with a Blackout student section theme. Stud
- ents need their student ID to enter football games.
+DESCRIPTION:Home football game with Blackout theme. Students need their st
+ udent ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-b07ce8fd0833@calendar-sync.conwaypto.org
@@ -256,9 +256,10 @@ UID:newsletter-22eac23d2f5b@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:Football Game (Away) - Jerseys Theme
+SUMMARY:Football Game — Away: Jerseys Theme
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game with a Jerseys student section theme.
+DESCRIPTION:Away football game with Jerseys theme. Students need their stu
+ dent ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-144d6727c001@calendar-sync.conwaypto.org
@@ -355,11 +356,12 @@ UID:newsletter-7285a84105be@calendar-sync.conwaypto.org
 DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-SUMMARY:Volleyball Pink Night Donation Collection
+SUMMARY:Volleyball Pink Night Donation Drive
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School parking lot
-DESCRIPTION:Volleyball players collect change and donations during dismiss
- al for Emmersyn Caldwell\, this year's Pink Night recipient.
+DESCRIPTION:Volleyball team collects change and donations in the high scho
+ ol parking lot during dismissal to raise money for Emmersyn Caldwell\, thi
+ s year's Pink Night recipient.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-a78340100fa9@calendar-sync.conwaypto.org
@@ -396,11 +398,11 @@ UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Football Game (Home) - Homecoming\, Pink & Purple Theme
+SUMMARY:Football Game — Home: Pink & Purple (Homecoming)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Homecoming home football game with a Pink & Purple student sec
- tion theme.
+DESCRIPTION:Homecoming home football game with Pink & Purple theme. Studen
+ ts need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
@@ -487,9 +489,10 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Game (Away) - Super Hero Theme
+SUMMARY:Football Game — Away: Super Hero Theme
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game with a Super Hero student section theme.
+DESCRIPTION:Away football game with Super Hero theme. Students need their 
+ student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-54c6e937bb32@calendar-sync.conwaypto.org
@@ -566,10 +569,11 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Game (Home) - Frat Theme
+SUMMARY:Football Game — Home: Frat Theme
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home football game with a Frat student section theme.
+DESCRIPTION:Home football game with Frat theme. Students need their studen
+ t ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -676,9 +680,10 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Game (Away) - Whiteout Theme
+SUMMARY:Football Game — Away: Whiteout Theme
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game with a Whiteout student section theme.
+DESCRIPTION:Away football game with Whiteout theme. Students need their st
+ udent ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-181efad4c93d@calendar-sync.conwaypto.org
@@ -1369,6 +1374,36 @@ UID:athletics-79dedd666e66@calendar-sync.conwaypto.org
 DTSTAMP:20261229T000000Z
 DTSTART;TZID=America/Chicago:20261229T100000
 DTEND;TZID=America/Chicago:20261229T130000
+SUMMARY:Boys Varsity Wrestling at Diamond State
+CATEGORIES:ATHLETICS
+LOCATION:Harber High
+DESCRIPTION:Boys Varsity Wrestling at Diamond State
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-1990dd7adfed@calendar-sync.conwaypto.org
+DTSTAMP:20261230T000000Z
+DTSTART;TZID=America/Chicago:20261230T000000
+DTEND;TZID=America/Chicago:20261230T030000
+SUMMARY:Boys Varsity Basketball at TBA Bad Boy Mowers Tournament
+CATEGORIES:ATHLETICS
+LOCATION:Highland HS
+DESCRIPTION:Boys Varsity Basketball at TBA Bad Boy Mowers Tournament
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-1ae2e13c8b91@calendar-sync.conwaypto.org
+DTSTAMP:20261230T000000Z
+DTSTART;TZID=America/Chicago:20261230T093000
+DTEND;TZID=America/Chicago:20261230T123000
+SUMMARY:Girls Varsity Wrestling at Diamond State
+CATEGORIES:ATHLETICS
+LOCATION:Harber High
+DESCRIPTION:Girls Varsity Wrestling at Diamond State
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-8ec237407223@calendar-sync.conwaypto.org
+DTSTAMP:20261230T000000Z
+DTSTART;TZID=America/Chicago:20261230T093000
+DTEND;TZID=America/Chicago:20261230T123000
 SUMMARY:Boys Varsity Wrestling at Diamond State
 CATEGORIES:ATHLETICS
 LOCATION:Harber High
