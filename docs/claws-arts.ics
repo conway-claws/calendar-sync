@@ -23,12 +23,16 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:orchestra-f0a066344aae@calendar-sync.conwaypto.org
-DTSTAMP:20260930T000000Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Program ad sales due
+UID:rss-dcabbafebca8@calendar-sync.conwaypto.org
+DTSTAMP:20261002T000000Z
+DTSTART;TZID=America/Chicago:20261002T174500
+DTEND;TZID=America/Chicago:20261002T184500
+SUMMARY:Conway Marching Band Game Day Performance
 CATEGORIES:ARTS
+LOCATION:Conway High School Courtyard / McConnell Stadium
+DESCRIPTION:The Conway Wampus Cat Marching Band warms up at 5:45pm in the 
+ CHS Courtyard\, then marches into McConnell Stadium at 6:15pm. Line the wa
+ lk to watch the band march in before the football game.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-7241de6d0a55@calendar-sync.conwaypto.org
@@ -38,7 +42,7 @@ DTEND;TZID=America/Chicago:20261005T193000
 SUMMARY:CHS Choir Region Preview Concert
 CATEGORIES:ARTS
 LOCATION:Conway High School Auditorium
-DESCRIPTION:CHS Choir Region Preview Concert in the auditorium.
+DESCRIPTION:CHS Choir performs a Region Preview Concert.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-96811dd6888a@calendar-sync.conwaypto.org
