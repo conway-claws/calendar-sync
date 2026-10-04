@@ -23,37 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-534d8fdcd267@calendar-sync.conwaypto.org
-DTSTAMP:20261002T000000Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Cheer and Dance Halftime Performance
-CATEGORIES:ATHLETICS
-DESCRIPTION:Conway cheer and dance teams perform at halftime of Friday nig
- ht's football game.
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-bb336477ccda@calendar-sync.conwaypto.org
-DTSTAMP:20261002T000000Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:CHS Tennis Conference Tournament
-CATEGORIES:ATHLETICS
-LOCATION:Burns Park
-DESCRIPTION:Second day of the conference tennis tournament at Burns Park.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-3c23f62353ad@calendar-sync.conwaypto.org
-DTSTAMP:20261002T000000Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Football Game - Home (Blackout Theme)
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Home football game with Blackout theme. Students need their st
- udent ID to enter football games.
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-b07ce8fd0833@calendar-sync.conwaypto.org
 DTSTAMP:20261003T000000Z
 DTSTART;TZID=America/Chicago:20261003T070000
@@ -75,6 +44,17 @@ DESCRIPTION:CHS tennis competes in the conference tournament at Burns Park
  \, beginning at 8:00 a.m. A plan is in place in case of incoming rain.
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-9699bb62e59d@calendar-sync.conwaypto.org
+DTSTAMP:20261004T000000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Lady Cat Volleyball at North Little Rock
+CATEGORIES:ATHLETICS
+LOCATION:North Little Rock
+DESCRIPTION:Conference volleyball matchup at North Little Rock. Tickets vi
+ a GoFan\; livestream on NLRTV on YouTube.
+END:VEVENT
+BEGIN:VEVENT
 UID:feed-b088a451062c@calendar-sync.conwaypto.org
 DTSTAMP:20261004T000000Z
 DTSTART;TZID=America/Chicago:20261004T080000
@@ -84,6 +64,18 @@ CATEGORIES:ATHLETICS
 LOCATION:Burns Park
 DESCRIPTION:CHS tennis competes in the conference tournament at Burns Park
  \; a plan is in place in case of incoming rain.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-e03cd51ed12b@calendar-sync.conwaypto.org
+DTSTAMP:20261004T000000Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Lady Cat Volleyball vs. Little Rock Southwest
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School
+DESCRIPTION:Second round of conference play begins at home for the Lady Ca
+ t Volleyball team against Little Rock Southwest. Tickets available via GoF
+ an\; live stream on YouTube.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-afda75f6614f@calendar-sync.conwaypto.org
@@ -104,6 +96,17 @@ SUMMARY:Boys JV Football vs Benton
 CATEGORIES:ATHLETICS
 LOCATION:John McConnell Stadium
 DESCRIPTION:Boys JV Football vs Benton
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-5e41ed003d5b@calendar-sync.conwaypto.org
+DTSTAMP:20261005T000000Z
+DTSTART;TZID=America/Chicago:20261005T080000
+DTEND;TZID=America/Chicago:20261005T090000
+SUMMARY:Conference Tennis Tournament Begins
+CATEGORIES:ATHLETICS
+LOCATION:Burns Park
+DESCRIPTION:Conference tennis tournament begins at 8:00 a.m. at Burns Park
+ . A plan is in place to combat the incoming rain.
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-64aa9de4d6ee@calendar-sync.conwaypto.org
@@ -157,6 +160,17 @@ LOCATION:Bishop Park
 DESCRIPTION:Boys Varsity Cross Country at Bryant Invitational
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-7d99e262126e@calendar-sync.conwaypto.org
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:CHS Tennis Conference Tournament
+CATEGORIES:ATHLETICS
+LOCATION:Burns Park
+DESCRIPTION:CHS tennis conference tournament held Thursday and Friday at B
+ urns Park following a historic 20-4 season.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-aeaf4df030d2@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;TZID=America/Chicago:20261009T190000
@@ -165,6 +179,17 @@ SUMMARY:Boys Varsity Football at Cabot
 CATEGORIES:ATHLETICS
 LOCATION:Cabot Field
 DESCRIPTION:Boys Varsity Football at Cabot
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-187b67be0ba6@calendar-sync.conwaypto.org
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:CHS Tennis Conference Tournament
+CATEGORIES:ATHLETICS
+LOCATION:Burns Park
+DESCRIPTION:Second day of the CHS tennis conference tournament at Burns Pa
+ rk.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-c387404dd0c4@calendar-sync.conwaypto.org
@@ -182,11 +207,11 @@ UID:newsletter-22eac23d2f5b@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:Football Game (Away) - Jerseys Theme
+SUMMARY:Football Game - Away (Jerseys Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Away football game with 'Jerseys' student section theme. Stude
- nts need their student ID to enter football games.
+DESCRIPTION:Away football game\, student section theme: Jerseys. Students 
+ need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-144d6727c001@calendar-sync.conwaypto.org
@@ -287,7 +312,7 @@ SUMMARY:Volleyball Pink Night Donation Drive
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School parking lot
 DESCRIPTION:Volleyball team collects change and donations during dismissal
-  for Emmersyn Caldwell\, this year's Pink Night recipient.
+  to raise money for Emmersyn Caldwell\, this year's Pink Night recipient.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-a78340100fa9@calendar-sync.conwaypto.org
@@ -324,11 +349,11 @@ UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Football Game (Home) - Homecoming\, Pink & Purple Theme
+SUMMARY:Homecoming Football Game - Home (Pink & Purple Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Homecoming home football game with Pink & Purple student secti
- on theme. Students need their student ID to enter.
+DESCRIPTION:Home Homecoming football game\, student section theme: Pink & 
+ Purple. Students need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
@@ -415,11 +440,11 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Game (Away) - Super Hero Theme
+SUMMARY:Football Game - Away (Super Hero Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Away football game with Super Hero student section theme. Stud
- ents need their student ID to enter.
+DESCRIPTION:Away football game\, student section theme: Super Hero. Studen
+ ts need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-54c6e937bb32@calendar-sync.conwaypto.org
@@ -496,11 +521,11 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Game (Home) - Frat Theme
+SUMMARY:Football Game - Home (Frat Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home football game with Frat student section theme. Students n
- eed their student ID to enter.
+DESCRIPTION:Home football game\, student section theme: Frat. Students nee
+ d their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -607,11 +632,11 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Game (Away) - Whiteout Theme
+SUMMARY:Football Game - Away (Whiteout Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Away football game with Whiteout student section theme. Studen
- ts need their student ID to enter.
+DESCRIPTION:Away football game\, student section theme: Whiteout. Students
+  need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-181efad4c93d@calendar-sync.conwaypto.org
