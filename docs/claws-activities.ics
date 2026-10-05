@@ -23,6 +23,16 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:feed-b7ab35c8cea9@calendar-sync.conwaypto.org
+DTSTAMP:20261005T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Digital Homecoming Ticket Sales Begin
+CATEGORIES:ACTIVITIES
+DESCRIPTION:Digital tickets for the A Night in Rio homecoming dance go on 
+ sale for $27.25.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-a0d89f1fedd7@calendar-sync.conwaypto.org
 DTSTAMP:20261005T000000Z
 DTSTART;VALUE=DATE:20261005
@@ -32,6 +42,38 @@ CATEGORIES:ACTIVITIES
 LOCATION:Room 217
 DESCRIPTION:Stop by room 217 to get a WIN pass for the ALLiance Club meeti
  ng and receive a Schoology code for future announcements.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-c19d8a14e1d2@calendar-sync.conwaypto.org
+DTSTAMP:20261006T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Young Democrats Club Meeting
+CATEGORIES:ACTIVITIES
+LOCATION:Room 263
+DESCRIPTION:Meeting during both lunches to discuss upcoming events and oth
+ er information.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-2e0a9bf0d68b@calendar-sync.conwaypto.org
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Homecoming Physical Ticket Sales
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Physical tickets ($25) sold in person during lunches on Octobe
+ r 12\, 13\, 14\, and 15.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-e8cd017ed0c6@calendar-sync.conwaypto.org
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Homecoming Spirit Week: Airport Fit
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Travel in style! Wear your favorite loungewear.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-c41729aaba69@calendar-sync.conwaypto.org
@@ -60,18 +102,71 @@ DTEND;TZID=America/Chicago:20261013T120000
 SUMMARY:Makeup Picture Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Makeup picture day for CHS students.
+DESCRIPTION:Makeup picture day for students.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-c75fcf274fdd@calendar-sync.conwaypto.org
+DTSTAMP:20261013T000000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Homecoming Spirit Week: Tourist Day
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Break out the tropical prints\, cargo shorts\, sunglasses\, an
+ d more.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-7cabd2cb42a1@calendar-sync.conwaypto.org
+DTSTAMP:20261014T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Homecoming Spirit Week: Birds of a Feather
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Match with your friends and show off your flock.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-af7e5f03bf33@calendar-sync.conwaypto.org
+DTSTAMP:20261014T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:FCS Meeting (Rescheduled)
+CATEGORIES:ACTIVITIES
+LOCATION:Room 365
+DESCRIPTION:Rescheduled due to sophomore ATLAS testing. Meets during WIN t
+ ime\; pick up a pass from Mrs. Dunn's room.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-43264abfa65f@calendar-sync.conwaypto.org
+DTSTAMP:20261015T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Homecoming Spirit Week: Party in Rio
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Go big and bold in bright and neon colors.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-2380dc0f5f23@calendar-sync.conwaypto.org
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Homecoming Spirit Week: Grade Wars
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:10th Grade: White\, 11th Grade: Blue\, 12th Grade: Black.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-cde705c113b3@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=America/Chicago:20261016T203000
 DTEND;TZID=America/Chicago:20261016T213000
-SUMMARY:CHS Homecoming Dance
+SUMMARY:Homecoming Dance - A Night in Rio
 CATEGORIES:ACTIVITIES
-LOCATION:Conway High School Cafeteria
-DESCRIPTION:Homecoming Dance. No freshmen and no students over 20 may atte
- nd. Out-of-school dates must be escorted by a current CHS student.
+LOCATION:CHS Cafeteria
+DESCRIPTION:No freshmen and no students over 20 may attend. Out-of-school 
+ dates must be escorted by a CHS student. All students must show a photo ID
+  to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-577d178b8308@calendar-sync.conwaypto.org
