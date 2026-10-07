@@ -23,66 +23,15 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-5e41ed003d5b@calendar-sync.conwaypto.org
-DTSTAMP:20261005T000000Z
-DTSTART;TZID=America/Chicago:20261005T080000
-DTEND;TZID=America/Chicago:20261005T090000
-SUMMARY:Conference Tennis Tournament Begins
-CATEGORIES:ATHLETICS
-LOCATION:Burns Park
-DESCRIPTION:Conference tennis tournament begins at 8:00 a.m. at Burns Park
- . A plan is in place to combat the incoming rain.
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-64aa9de4d6ee@calendar-sync.conwaypto.org
-DTSTAMP:20261005T000000Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:6A Boys State Golf Championships
-CATEGORIES:ATHLETICS
-LOCATION:Jonesboro Country Club\, Jonesboro\, AR
-DESCRIPTION:Conway varsity boys golf competes at the 6A State Golf Champio
- nships\, October 5-7.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-01dd84328566@calendar-sync.conwaypto.org
-DTSTAMP:20261006T000000Z
-DTSTART;TZID=America/Chicago:20261006T170000
-DTEND;TZID=America/Chicago:20261006T200000
-SUMMARY:Girls JV Volleyball vs Cabot
+UID:feed-d711a40103de@calendar-sync.conwaypto.org
+DTSTAMP:20261007T000000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Lady Cats Volleyball vs. Cabot
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls JV Volleyball vs Cabot
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-76987314b406@calendar-sync.conwaypto.org
-DTSTAMP:20261006T000000Z
-DTSTART;TZID=America/Chicago:20261006T180000
-DTEND;TZID=America/Chicago:20261006T210000
-SUMMARY:Girls Varsity Volleyball vs Cabot
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls Varsity Volleyball vs Cabot
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-77a96afc7558@calendar-sync.conwaypto.org
-DTSTAMP:20261006T000000Z
-DTSTART;TZID=America/Chicago:20261006T153000
-DTEND;TZID=America/Chicago:20261006T183000
-SUMMARY:Girls Varsity Cross Country at Bryant Invitational
-CATEGORIES:ATHLETICS
-LOCATION:Bishop Park
-DESCRIPTION:Girls Varsity Cross Country at Bryant Invitational
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-c7df7ff35d8e@calendar-sync.conwaypto.org
-DTSTAMP:20261006T000000Z
-DTSTART;TZID=America/Chicago:20261006T153000
-DTEND;TZID=America/Chicago:20261006T183000
-SUMMARY:Boys Varsity Cross Country at Bryant Invitational
-CATEGORIES:ATHLETICS
-LOCATION:Bishop Park
-DESCRIPTION:Boys Varsity Cross Country at Bryant Invitational
+DESCRIPTION:Conference volleyball matchup against Cabot. Tickets available
+  via GoFan\; live stream available on YouTube.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-7d99e262126e@calendar-sync.conwaypto.org
@@ -132,11 +81,10 @@ UID:newsletter-22eac23d2f5b@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:Football Game - Away (Jerseys Theme)
+SUMMARY:Football Away Game – Jersey Theme
 CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Away football game. Student theme: Jerseys. Students need thei
- r student ID to enter football games.
+DESCRIPTION:Away football game. Student section theme: Jerseys. Students n
+ eed their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-144d6727c001@calendar-sync.conwaypto.org
@@ -264,21 +212,21 @@ UID:athletics-9240e9684426@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=America/Chicago:20261016T190000
 DTEND;TZID=America/Chicago:20261016T220000
-SUMMARY:Boys Varsity Football vs Little Rock Central High
+SUMMARY:Boys Varsity Football vs Little Rock Central High  Homecoming
 CATEGORIES:ATHLETICS
 LOCATION:John McConnell Stadium
-DESCRIPTION:Boys Varsity Football vs Little Rock Central High
+DESCRIPTION:Boys Varsity Football vs Little Rock Central High  Homecoming
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Homecoming Football Game - Home (Pink & Purple)
+SUMMARY:Homecoming Football Game – Pink & Purple
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home Homecoming football game. Student theme: Pink & Purple. S
- tudents need their student ID to enter.
+DESCRIPTION:Home homecoming football game. Student section theme: Pink & P
+ urple. Students need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
@@ -365,11 +313,10 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Game - Away (Super Hero Theme)
+SUMMARY:Football Away Game – Super Hero Theme
 CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Away football game. Student theme: Super Hero. Students need t
- heir student ID to enter.
+DESCRIPTION:Away football game. Student section theme: Super Hero. Student
+ s need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-54c6e937bb32@calendar-sync.conwaypto.org
@@ -446,11 +393,11 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Game - Home (Frat Theme)
+SUMMARY:Football Home Game – Frat Theme
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home football game. Student theme: Frat. Students need their s
- tudent ID to enter.
+DESCRIPTION:Home football game. Student section theme: Frat. Students need
+  their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -557,11 +504,10 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Game - Away (Whiteout)
+SUMMARY:Football Away Game – Whiteout
 CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Away football game. Student theme: Whiteout. Students need the
- ir student ID to enter.
+DESCRIPTION:Away football game. Student section theme: Whiteout. Students 
+ need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-181efad4c93d@calendar-sync.conwaypto.org
@@ -1306,5 +1252,65 @@ SUMMARY:Boys JV Wrestling at Challenge Matches
 CATEGORIES:ATHLETICS
 LOCATION:Bryant
 DESCRIPTION:Boys JV Wrestling at Challenge Matches
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-1d4e1e6e0d34@calendar-sync.conwaypto.org
+DTSTAMP:20270105T000000Z
+DTSTART;TZID=America/Chicago:20270105T164500
+DTEND;TZID=America/Chicago:20270105T194500
+SUMMARY:Boys JV Basketball vs Little Rock Southwest
+CATEGORIES:ATHLETICS
+LOCATION:CHS PE Gym
+DESCRIPTION:Boys JV Basketball vs Little Rock Southwest
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-70c976645095@calendar-sync.conwaypto.org
+DTSTAMP:20270105T000000Z
+DTSTART;TZID=America/Chicago:20270105T170000
+DTEND;TZID=America/Chicago:20270105T200000
+SUMMARY:Girls Varsity Wrestling at Bryant
+CATEGORIES:ATHLETICS
+LOCATION:Bryant High
+DESCRIPTION:Girls Varsity Wrestling at Bryant
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-b360495de0e3@calendar-sync.conwaypto.org
+DTSTAMP:20270105T000000Z
+DTSTART;TZID=America/Chicago:20270105T180000
+DTEND;TZID=America/Chicago:20270105T210000
+SUMMARY:Girls Varsity Basketball vs Southwest
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Girls Varsity Basketball vs Southwest
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-b4c20a7a7ab7@calendar-sync.conwaypto.org
+DTSTAMP:20270105T000000Z
+DTSTART;TZID=America/Chicago:20270105T170000
+DTEND;TZID=America/Chicago:20270105T200000
+SUMMARY:Boys Varsity Wrestling at Bryant
+CATEGORIES:ATHLETICS
+LOCATION:Bryant High
+DESCRIPTION:Boys Varsity Wrestling at Bryant
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-d03f53057a6f@calendar-sync.conwaypto.org
+DTSTAMP:20270105T000000Z
+DTSTART;TZID=America/Chicago:20270105T193000
+DTEND;TZID=America/Chicago:20270105T223000
+SUMMARY:Boys Varsity Basketball vs Little Rock Southwest
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Boys Varsity Basketball vs Little Rock Southwest
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-dda60afb33cc@calendar-sync.conwaypto.org
+DTSTAMP:20270105T000000Z
+DTSTART;TZID=America/Chicago:20270105T164500
+DTEND;TZID=America/Chicago:20270105T194500
+SUMMARY:Girls JV Basketball vs Little Rock Southwest
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Girls JV Basketball vs Little Rock Southwest
 END:VEVENT
 END:VCALENDAR

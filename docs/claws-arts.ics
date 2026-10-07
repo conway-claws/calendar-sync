@@ -23,16 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-7241de6d0a55@calendar-sync.conwaypto.org
-DTSTAMP:20261005T000000Z
-DTSTART;TZID=America/Chicago:20261005T183000
-DTEND;TZID=America/Chicago:20261005T193000
-SUMMARY:CHS Choir Region Preview Concert
-CATEGORIES:ARTS
-LOCATION:CHS Auditorium
-DESCRIPTION:Choir region preview concert.
-END:VEVENT
-BEGIN:VEVENT
 UID:orchestra-96811dd6888a@calendar-sync.conwaypto.org
 DTSTAMP:20261010T000000Z
 DTSTART;VALUE=DATE:20261010
@@ -51,6 +41,9 @@ SUMMARY:South Region Orchestra WBP Auditions
 CATEGORIES:ARTS
 LOCATION:Bob and Betty Courtway Middle School\n1200 Bob Courtway Dr\, Conw
  ay\, AR  72032\, United States
+DESCRIPTION:Join with Google Meet: https://meet.google.com/rop-zkhm-mpf\n\
+ nLearn more about Meet at: https://support.google.com/a/users/answer/92827
+ 20
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-4eb0efd30ab3@calendar-sync.conwaypto.org

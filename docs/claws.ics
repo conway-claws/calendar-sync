@@ -23,108 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-5e41ed003d5b@calendar-sync.conwaypto.org
-DTSTAMP:20261005T000000Z
-DTSTART;TZID=America/Chicago:20261005T080000
-DTEND;TZID=America/Chicago:20261005T090000
-SUMMARY:Conference Tennis Tournament Begins
-CATEGORIES:ATHLETICS
-LOCATION:Burns Park
-DESCRIPTION:Conference tennis tournament begins at 8:00 a.m. at Burns Park
- . A plan is in place to combat the incoming rain.
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-b7ab35c8cea9@calendar-sync.conwaypto.org
-DTSTAMP:20261005T000000Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:Digital Homecoming Ticket Sales Begin
-CATEGORIES:ACTIVITIES
-DESCRIPTION:Digital tickets for the A Night in Rio homecoming dance go on 
- sale for $27.25.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-198b951037d3@calendar-sync.conwaypto.org
-DTSTAMP:20261005T000000Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:Deadline: Key Club Dues Deadline
-CATEGORIES:ACADEMICS
-DESCRIPTION:Dues must be paid by Oct 5th to join Key Club.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-7241de6d0a55@calendar-sync.conwaypto.org
-DTSTAMP:20261005T000000Z
-DTSTART;TZID=America/Chicago:20261005T183000
-DTEND;TZID=America/Chicago:20261005T193000
-SUMMARY:CHS Choir Region Preview Concert
-CATEGORIES:ARTS
-LOCATION:CHS Auditorium
-DESCRIPTION:Choir region preview concert.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-a0d89f1fedd7@calendar-sync.conwaypto.org
-DTSTAMP:20261005T000000Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:ALLiance Club Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:Room 217
-DESCRIPTION:Stop by room 217 to get a WIN pass for the ALLiance Club meeti
- ng and receive a Schoology code for future announcements.
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-64aa9de4d6ee@calendar-sync.conwaypto.org
-DTSTAMP:20261005T000000Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:6A Boys State Golf Championships
-CATEGORIES:ATHLETICS
-LOCATION:Jonesboro Country Club\, Jonesboro\, AR
-DESCRIPTION:Conway varsity boys golf competes at the 6A State Golf Champio
- nships\, October 5-7.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-01dd84328566@calendar-sync.conwaypto.org
-DTSTAMP:20261006T000000Z
-DTSTART;TZID=America/Chicago:20261006T170000
-DTEND;TZID=America/Chicago:20261006T200000
-SUMMARY:Girls JV Volleyball vs Cabot
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls JV Volleyball vs Cabot
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-76987314b406@calendar-sync.conwaypto.org
-DTSTAMP:20261006T000000Z
-DTSTART;TZID=America/Chicago:20261006T180000
-DTEND;TZID=America/Chicago:20261006T210000
-SUMMARY:Girls Varsity Volleyball vs Cabot
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls Varsity Volleyball vs Cabot
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-77a96afc7558@calendar-sync.conwaypto.org
-DTSTAMP:20261006T000000Z
-DTSTART;TZID=America/Chicago:20261006T153000
-DTEND;TZID=America/Chicago:20261006T183000
-SUMMARY:Girls Varsity Cross Country at Bryant Invitational
-CATEGORIES:ATHLETICS
-LOCATION:Bishop Park
-DESCRIPTION:Girls Varsity Cross Country at Bryant Invitational
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-c7df7ff35d8e@calendar-sync.conwaypto.org
-DTSTAMP:20261006T000000Z
-DTSTART;TZID=America/Chicago:20261006T153000
-DTEND;TZID=America/Chicago:20261006T183000
-SUMMARY:Boys Varsity Cross Country at Bryant Invitational
-CATEGORIES:ATHLETICS
-LOCATION:Bishop Park
-DESCRIPTION:Boys Varsity Cross Country at Bryant Invitational
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-4ccb871be926@calendar-sync.conwaypto.org
 DTSTAMP:20261006T000000Z
 DTSTART;VALUE=DATE:20261006
@@ -135,17 +33,6 @@ LOCATION:Conway High School
 DESCRIPTION:All sophomores take ATLAS exams. Juniors enrolled in Geometry 
  and/or Biology will also test. Students should bring a fully charged Chrom
  ebook.
-END:VEVENT
-BEGIN:VEVENT
-UID:ical-86b2418c1596@calendar-sync.conwaypto.org
-DTSTAMP:20261006T000000Z
-DTSTART;TZID=America/Chicago:20261006T080000
-DTEND;TZID=America/Chicago:20261006T153500
-SUMMARY:ATLAS Interim #1
-CATEGORIES:ACADEMICS
-DESCRIPTION:<p>10th grade students and some Juniors will test (Geometry\, 
- Biology\, English\, Writing) * Students who miss testing are required to d
- o make-ups</p>
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-c19d8a14e1d2@calendar-sync.conwaypto.org
@@ -178,9 +65,20 @@ DTEND;VALUE=DATE:20261008
 SUMMARY:ATLAS Testing
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:All sophomores take ATLAS exams. Juniors enrolled in Geometry 
- and/or Biology will also test. Students should bring a fully charged Chrom
- ebook.
+DESCRIPTION:All sophomores take ATLAS exams\, along with juniors enrolled 
+ in Geometry and/or Biology. Students should bring fully charged Chromebook
+ s and come prepared.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-d711a40103de@calendar-sync.conwaypto.org
+DTSTAMP:20261007T000000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Lady Cats Volleyball vs. Cabot
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Conference volleyball matchup against Cabot. Tickets available
+  via GoFan\; live stream available on YouTube.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-b1cb7d4bd7e4@calendar-sync.conwaypto.org
@@ -201,8 +99,8 @@ DTEND;VALUE=DATE:20261008
 SUMMARY:Deadline: Homecoming Out-of-School Date Form Due
 CATEGORIES:ACADEMICS
 LOCATION:CHS Front Office
-DESCRIPTION:Out-of-School Date Forms for the Homecoming Dance must be sign
- ed and returned to the Front Office no later than 3:30 p.m.
+DESCRIPTION:Signed Out-of-School Date Forms for the Homecoming Dance must 
+ be returned to the Front Office no later than 3:30 p.m.
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-213b40804dff@calendar-sync.conwaypto.org
@@ -243,7 +141,8 @@ SUMMARY:PSAT/NMSQT Parent Meeting
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School Lecture Hall
 DESCRIPTION:Parents of 10th graders and opted-in 11th graders are invited 
- to learn about the PSAT/NMSQT assessment and its benefits.
+ to learn about the PSAT/NMSQT\, its benefits\, and how it supports student
+ s' academic journeys.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-d480339b53f5@calendar-sync.conwaypto.org
@@ -311,11 +210,10 @@ UID:newsletter-22eac23d2f5b@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:Football Game - Away (Jerseys Theme)
+SUMMARY:Football Away Game – Jersey Theme
 CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Away football game. Student theme: Jerseys. Students need thei
- r student ID to enter football games.
+DESCRIPTION:Away football game. Student section theme: Jerseys. Students n
+ eed their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-3b021761025a@calendar-sync.conwaypto.org
@@ -325,16 +223,16 @@ DTEND;TZID=America/Chicago:20261009T163000
 SUMMARY:Asian Club Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Mrs. Chen's Room 607
-DESCRIPTION:Second Asian Club meeting: learn to make Japanese rice balls (
- onigiri) with Dr. Reed\, a Japanese professor from UCA. Available only to 
- paid Asian Club members.
+DESCRIPTION:Second Asian Club meeting. Learn to make Japanese rice balls (
+ onigiri) with Dr. Reed\, a Japanese professor from UCA. Available to paid 
+ Asian Club members only.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-d8173b95c214@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:ATLAS Interim #1 Makeup Testing (Day 2)
+SUMMARY:ATLAS Interim #1 Makeup Testing
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Second makeup day for ATLAS Interim #1 testing.
@@ -416,8 +314,7 @@ SUMMARY:Homecoming Physical Ticket Sales
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Physical Homecoming Dance tickets ($25) sold in person during 
- lunches on October 12\, 13\, 14\, and 15. No tickets sold after October 15
-  or at the door.
+ lunches October 12-15.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-e8cd017ed0c6@calendar-sync.conwaypto.org
@@ -427,8 +324,8 @@ DTEND;VALUE=DATE:20261013
 SUMMARY:Spirit Week: Airport Fit
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Homecoming Spirit Week - Airport Fit day. Wear your favorite l
- oungewear.
+DESCRIPTION:Homecoming Spirit Week day 1 — Travel in style! Wear your fa
+ vorite loungewear.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-f0efe6cddf02@calendar-sync.conwaypto.org
@@ -439,6 +336,9 @@ SUMMARY:South Region Orchestra WBP Auditions
 CATEGORIES:ARTS
 LOCATION:Bob and Betty Courtway Middle School\n1200 Bob Courtway Dr\, Conw
  ay\, AR  72032\, United States
+DESCRIPTION:Join with Google Meet: https://meet.google.com/rop-zkhm-mpf\n\
+ nLearn more about Meet at: https://support.google.com/a/users/answer/92827
+ 20
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-5e88394ec0ed@calendar-sync.conwaypto.org
@@ -536,8 +436,8 @@ DTEND;VALUE=DATE:20261014
 SUMMARY:Spirit Week: Tourist Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Homecoming Spirit Week - Tourist Day. Tropical prints\, cargo 
- shorts\, sunglasses and more.
+DESCRIPTION:Homecoming Spirit Week day 2 — Break out the tropical prints
+ \, cargo shorts\, and sunglasses.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-7cabd2cb42a1@calendar-sync.conwaypto.org
@@ -547,8 +447,8 @@ DTEND;VALUE=DATE:20261015
 SUMMARY:Spirit Week: Birds of a Feather
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Homecoming Spirit Week - Birds of a Feather. Match with your f
- riends and show off your flock.
+DESCRIPTION:Homecoming Spirit Week day 3 — Match with your friends and s
+ how off your flock.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-af7e5f03bf33@calendar-sync.conwaypto.org
@@ -558,8 +458,8 @@ DTEND;VALUE=DATE:20261015
 SUMMARY:FCS Club Meeting (Rescheduled)
 CATEGORIES:ACTIVITIES
 LOCATION:Room 365
-DESCRIPTION:FCS meeting rescheduled due to Sophomore ATLAS Testing\; meets
-  during WIN time. Pick up a pass from Mrs. Dunn's room.
+DESCRIPTION:FCS meeting rescheduled due to Sophomore ATLAS testing. Meets 
+ during WIN time\; pick up a pass from Mrs. Dunn's room.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-4eb0efd30ab3@calendar-sync.conwaypto.org
@@ -594,12 +494,12 @@ UID:newsletter-0681620aa862@calendar-sync.conwaypto.org
 DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-SUMMARY:Deadline: Last Day for Homecoming Digital Ticket Sales
+SUMMARY:Deadline: Last Day for Homecoming Ticket Sales
 CATEGORIES:ACADEMICS
-LOCATION:GoFan app
-DESCRIPTION:Digital Homecoming tickets ($27.25) available on the GoFan app
-  through October 15 at midnight. No tickets sold after October 15 or at th
- e door\; no refunds.
+LOCATION:Conway High School / GoFan app
+DESCRIPTION:Final day to purchase Homecoming Dance tickets. Digital ticket
+ s ($27.25) available on GoFan until midnight\; physical tickets ($25) sold
+  during lunches. No tickets sold after October 15 or at the door.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-43264abfa65f@calendar-sync.conwaypto.org
@@ -609,18 +509,18 @@ DTEND;VALUE=DATE:20261016
 SUMMARY:Spirit Week: Party in Rio
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Homecoming Spirit Week - Party in Rio. Go big and bold in brig
- ht and neon colors.
+DESCRIPTION:Homecoming Spirit Week day 4 — Go BIG and BOLD in bright & n
+ eon colors.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-9240e9684426@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=America/Chicago:20261016T190000
 DTEND;TZID=America/Chicago:20261016T220000
-SUMMARY:Boys Varsity Football vs Little Rock Central High
+SUMMARY:Boys Varsity Football vs Little Rock Central High  Homecoming
 CATEGORIES:ATHLETICS
 LOCATION:John McConnell Stadium
-DESCRIPTION:Boys Varsity Football vs Little Rock Central High
+DESCRIPTION:Boys Varsity Football vs Little Rock Central High  Homecoming
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-082178697751@calendar-sync.conwaypto.org
@@ -640,31 +540,31 @@ DTEND;VALUE=DATE:20261017
 SUMMARY:Spirit Week: Grade Wars
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Homecoming Spirit Week - Grade Wars. 10th Grade: White\, 11th 
- Grade: Blue\, 12th Grade: Black.
+DESCRIPTION:Homecoming Spirit Week day 5 — Grade Wars! 10th Grade: White
+ \, 11th Grade: Blue\, 12th Grade: Black.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Homecoming Football Game - Home (Pink & Purple)
+SUMMARY:Homecoming Football Game – Pink & Purple
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home Homecoming football game. Student theme: Pink & Purple. S
- tudents need their student ID to enter.
+DESCRIPTION:Home homecoming football game. Student section theme: Pink & P
+ urple. Students need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-cde705c113b3@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=America/Chicago:20261016T203000
 DTEND;TZID=America/Chicago:20261016T213000
-SUMMARY:Homecoming Dance - A Night in Rio
+SUMMARY:Homecoming Dance – A Night in Rio
 CATEGORIES:ACTIVITIES
 LOCATION:CHS Cafeteria
 DESCRIPTION:2026 Homecoming Dance. No freshmen and no students over 20 may
   attend. Out-of-school dates must be escorted by a CHS student. All studen
- ts must show photo ID to enter.
+ ts must show a photo ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
@@ -750,13 +650,12 @@ UID:newsletter-efa402f4ce1a@calendar-sync.conwaypto.org
 DTSTAMP:20261021T000000Z
 DTSTART;TZID=America/Chicago:20261021T160000
 DTEND;TZID=America/Chicago:20261021T180000
-SUMMARY:FAFSA Parent Night & Parent/Teacher Conferences
+SUMMARY:FAFSA Parent Night / Parent-Teacher Conferences
 CATEGORIES:ACADEMICS
 LOCATION:CHS Lecture Hall
-DESCRIPTION:FAFSA Parent Night held in conjunction with Parent/Teacher Con
- ferences. Financial aid representatives will help parents and students com
- plete the FAFSA and SAMS application. Create a FAFSA ID beforehand at stud
- entaid.gov and bring 2025 tax returns.
+DESCRIPTION:Financial aid representatives from local colleges will help pa
+ rents and students complete the FAFSA and SAMS application. Create a FAFSA
+  ID at studentaid.gov beforehand and bring parents' 2025 tax returns.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-2673cb6061c2@calendar-sync.conwaypto.org
@@ -801,11 +700,10 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Game - Away (Super Hero Theme)
+SUMMARY:Football Away Game – Super Hero Theme
 CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Away football game. Student theme: Super Hero. Students need t
- heir student ID to enter.
+DESCRIPTION:Away football game. Student section theme: Super Hero. Student
+ s need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-54c6e937bb32@calendar-sync.conwaypto.org
@@ -928,11 +826,11 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Game - Home (Frat Theme)
+SUMMARY:Football Home Game – Frat Theme
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home football game. Student theme: Frat. Students need their s
- tudent ID to enter.
+DESCRIPTION:Home football game. Student section theme: Frat. Students need
+  their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -1047,11 +945,10 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Game - Away (Whiteout)
+SUMMARY:Football Away Game – Whiteout
 CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Away football game. Student theme: Whiteout. Students need the
- ir student ID to enter.
+DESCRIPTION:Away football game. Student section theme: Whiteout. Students 
+ need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-187c89a7721b@calendar-sync.conwaypto.org
@@ -1233,10 +1130,10 @@ UID:newsletter-117669b1dcec@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:ASVAB Test for Seniors
+SUMMARY:ASVAB Testing for Seniors
 CATEGORIES:ACADEMICS
-LOCATION:CHS Lecture Hall
-DESCRIPTION:Seniors may sign up in the Counseling Center to take the ASVAB
+LOCATION:Conway High School Lecture Hall
+DESCRIPTION:Seniors can sign up in the Counseling Center to take the ASVAB
   career exploration test in the afternoon. Bring a fully charged Chromeboo
  k. Seats are limited.
 END:VEVENT
@@ -1688,11 +1585,11 @@ UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
 DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Deadline: Doctor's Notes for Exam Exemption
+SUMMARY:Deadline: Last Day to Turn In Doctor's Notes for Exam Exemption
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
- s. Notes will be accepted for credit until 12/18.
+ s. Notes accepted for credit until 12/18.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-6dc2ef650520@calendar-sync.conwaypto.org
@@ -1861,10 +1758,10 @@ UID:newsletter-de8a4d654c99@calendar-sync.conwaypto.org
 DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Semester Exam Day 1
+SUMMARY:Fall Semester Exams
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Fall semester exams\; modified bell schedule TBD.
+DESCRIPTION:Semester exam day 1. Modified bell schedule TBD.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-1698bb095b37@calendar-sync.conwaypto.org
@@ -1879,10 +1776,10 @@ UID:newsletter-5a6f5007818b@calendar-sync.conwaypto.org
 DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:Semester Exam Day 2
+SUMMARY:Fall Semester Exams
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Fall semester exams\; modified bell schedule TBD.
+DESCRIPTION:Semester exam day 2. Modified bell schedule TBD.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-bc9027022add@calendar-sync.conwaypto.org
@@ -2097,6 +1994,74 @@ DTSTAMP:20270104T000000Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 SUMMARY:Virtual Professional Develop (Students Dismissed)
+CATEGORIES:ACADEMICS
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-1d4e1e6e0d34@calendar-sync.conwaypto.org
+DTSTAMP:20270105T000000Z
+DTSTART;TZID=America/Chicago:20270105T164500
+DTEND;TZID=America/Chicago:20270105T194500
+SUMMARY:Boys JV Basketball vs Little Rock Southwest
+CATEGORIES:ATHLETICS
+LOCATION:CHS PE Gym
+DESCRIPTION:Boys JV Basketball vs Little Rock Southwest
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-70c976645095@calendar-sync.conwaypto.org
+DTSTAMP:20270105T000000Z
+DTSTART;TZID=America/Chicago:20270105T170000
+DTEND;TZID=America/Chicago:20270105T200000
+SUMMARY:Girls Varsity Wrestling at Bryant
+CATEGORIES:ATHLETICS
+LOCATION:Bryant High
+DESCRIPTION:Girls Varsity Wrestling at Bryant
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-b360495de0e3@calendar-sync.conwaypto.org
+DTSTAMP:20270105T000000Z
+DTSTART;TZID=America/Chicago:20270105T180000
+DTEND;TZID=America/Chicago:20270105T210000
+SUMMARY:Girls Varsity Basketball vs Southwest
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Girls Varsity Basketball vs Southwest
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-b4c20a7a7ab7@calendar-sync.conwaypto.org
+DTSTAMP:20270105T000000Z
+DTSTART;TZID=America/Chicago:20270105T170000
+DTEND;TZID=America/Chicago:20270105T200000
+SUMMARY:Boys Varsity Wrestling at Bryant
+CATEGORIES:ATHLETICS
+LOCATION:Bryant High
+DESCRIPTION:Boys Varsity Wrestling at Bryant
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-d03f53057a6f@calendar-sync.conwaypto.org
+DTSTAMP:20270105T000000Z
+DTSTART;TZID=America/Chicago:20270105T193000
+DTEND;TZID=America/Chicago:20270105T223000
+SUMMARY:Boys Varsity Basketball vs Little Rock Southwest
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Boys Varsity Basketball vs Little Rock Southwest
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-dda60afb33cc@calendar-sync.conwaypto.org
+DTSTAMP:20270105T000000Z
+DTSTART;TZID=America/Chicago:20270105T164500
+DTEND;TZID=America/Chicago:20270105T194500
+SUMMARY:Girls JV Basketball vs Little Rock Southwest
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Girls JV Basketball vs Little Rock Southwest
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-2a55ffcc39a7@calendar-sync.conwaypto.org
+DTSTAMP:20270105T000000Z
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:Start of 3rd 9 Weeks (Student Return to School)
 CATEGORIES:ACADEMICS
 END:VEVENT
 END:VCALENDAR
