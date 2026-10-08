@@ -77,14 +77,25 @@ DESCRIPTION:The Lady Cat volleyball team collects change at Conway element
  ary schools to benefit Pink Night recipient Emmersyn Caldwell.
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-f7e291c41f41@calendar-sync.conwaypto.org
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Lady Cat Volleyball Fundraiser Drop-Off Collection
+CATEGORIES:ATHLETICS
+LOCATION:Conway elementary school drop off lines
+DESCRIPTION:Lady Cat Volleyball players will be collecting change in the m
+ orning drop off lines to support Emmersyn.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-22eac23d2f5b@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:Football Away Game – Jersey Theme
+SUMMARY:Football Game (Away) - Jersey Theme
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game. Student section theme: Jerseys. Students n
- eed their student ID to enter football games.
+DESCRIPTION:Away football game with Jerseys student section theme. Student
+ s need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-144d6727c001@calendar-sync.conwaypto.org
@@ -181,11 +192,11 @@ UID:newsletter-7285a84105be@calendar-sync.conwaypto.org
 DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-SUMMARY:Volleyball Pink Night Donation Drive
+SUMMARY:Volleyball Pink Night Donation Drive for Emmersyn Caldwell
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School parking lot
 DESCRIPTION:Volleyball team collects change and donations during dismissal
-  for Emmersyn Caldwell\, this year's Pink Night recipient.
+  to support Emmersyn Caldwell\, this year's Pink Night recipient.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-a78340100fa9@calendar-sync.conwaypto.org
@@ -222,11 +233,11 @@ UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Homecoming Football Game – Pink & Purple
+SUMMARY:Homecoming Football Game (Home) - Pink & Purple
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home homecoming football game. Student section theme: Pink & P
- urple. Students need their student ID to enter.
+DESCRIPTION:Home homecoming football game with Pink & Purple student secti
+ on theme. Students need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
@@ -313,10 +324,10 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Away Game – Super Hero Theme
+SUMMARY:Football Game (Away) - Super Hero Theme
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game. Student section theme: Super Hero. Student
- s need their student ID to enter.
+DESCRIPTION:Away football game with Super Hero student section theme. Stud
+ ents need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-54c6e937bb32@calendar-sync.conwaypto.org
@@ -393,11 +404,11 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Home Game – Frat Theme
+SUMMARY:Football Game (Home) - Frat Theme
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home football game. Student section theme: Frat. Students need
-  their student ID to enter.
+DESCRIPTION:Home football game with Frat student section theme. Students n
+ eed their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -504,10 +515,10 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Away Game – Whiteout
+SUMMARY:Football Game (Away) - Whiteout
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game. Student section theme: Whiteout. Students 
- need their student ID to enter.
+DESCRIPTION:Away football game with Whiteout student section theme. Studen
+ ts need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-181efad4c93d@calendar-sync.conwaypto.org

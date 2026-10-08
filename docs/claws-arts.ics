@@ -165,4 +165,14 @@ SUMMARY:Simon Winter Concert
 CATEGORIES:ARTS
 LOCATION:1601 E Siebenmorgan Rd\nConway\, AR  72032\, United States
 END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-25cd97d6c7d8@calendar-sync.conwaypto.org
+DTSTAMP:20270106T000000Z
+DTSTART;TZID=America/Chicago:20270106T154500
+DTEND;TZID=America/Chicago:20270106T173000
+SUMMARY:CHS Symphonic Orchestra Rehearsal
+CATEGORIES:ARTS
+LOCATION:James H. Clark Auditorium\n2300 Prince St\, Conway\, AR  72034\, 
+ United States
+END:VEVENT
 END:VCALENDAR
