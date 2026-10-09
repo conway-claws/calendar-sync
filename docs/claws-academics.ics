@@ -23,48 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-3c1b94b346c0@calendar-sync.conwaypto.org
-DTSTAMP:20261007T000000Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:ATLAS Testing
-CATEGORIES:ACADEMICS
-LOCATION:Conway High School
-DESCRIPTION:All sophomores take ATLAS exams\, along with juniors enrolled 
- in Geometry and/or Biology. Students should bring fully charged Chromebook
- s and come prepared.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-db26827ae898@calendar-sync.conwaypto.org
-DTSTAMP:20261007T000000Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Deadline: Homecoming Out-of-School Date Form Due
-CATEGORIES:ACADEMICS
-LOCATION:CHS Front Office
-DESCRIPTION:Signed Out-of-School Date Forms for the Homecoming Dance must 
- be returned to the Front Office no later than 3:30 p.m.
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-213b40804dff@calendar-sync.conwaypto.org
-DTSTAMP:20261007T000000Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:ATLAS Testing — Sophomores & Select Juniors
-CATEGORIES:ACADEMICS
-LOCATION:Conway High School
-DESCRIPTION:Second day of ATLAS exams for all sophomores and juniors enrol
- led in Geometry and/or Biology. Bring a fully charged Chromebook.
-END:VEVENT
-BEGIN:VEVENT
-UID:ical-99ce510574db@calendar-sync.conwaypto.org
-DTSTAMP:20261008T000000Z
-DTSTART;TZID=America/Chicago:20261008T080000
-DTEND;TZID=America/Chicago:20261008T153500
-SUMMARY:Makeup  ATLAS  Interim  #1
-CATEGORIES:ACADEMICS
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-af4549635ae6@calendar-sync.conwaypto.org
 DTSTAMP:20261008T000000Z
 DTSTART;TZID=America/Chicago:20261008T180000
@@ -93,10 +51,10 @@ UID:feed-427ef42c46b6@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:Deadline: Senior Yearbook Ad Extended Deadline
+SUMMARY:Deadline: Senior Yearbook Ad Order Deadline
 CATEGORIES:ACADEMICS
-DESCRIPTION:Extended deadline to purchase a senior ad in the 2027 Conway H
- igh School Yearbook.
+DESCRIPTION:Final day to design\, build\, and pay for a personalized senio
+ r ad in the 2026–27 yearbook at Jostens.com.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-2753988abe96@calendar-sync.conwaypto.org
@@ -111,11 +69,12 @@ UID:newsletter-d8173b95c214@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:ATLAS Interim #1 Makeup Testing (Day 2)
+SUMMARY:ATLAS Interim #1 Make-up Testing
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Second day of makeup testing for ATLAS Interim #1 for 10th gra
- de students and some juniors.
+DESCRIPTION:Make-up testing for ATLAS Interim #1 (Geometry\, Biology\, Eng
+ lish\, Writing) for 10th grade and some junior students who missed testing
+  on October 6th & 7th.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-cd2081ec0dff@calendar-sync.conwaypto.org
@@ -169,8 +128,9 @@ CATEGORIES:ACADEMICS
 LOCATION:CHS Lecture Hall
 DESCRIPTION:Held in conjunction with Parent/Teacher Conferences. Financial
   aid representatives from local colleges will help parents and students co
- mplete the FAFSA and SAMS application. Create a FAFSA ID at studentaid.gov
-  beforehand and bring 2025 tax returns.
+ mplete the FAFSA and SAMS application (Arkansas Academic Challenge Scholar
+ ship). Create a FAFSA ID at studentaid.gov beforehand and bring parents' 2
+ 025 tax returns.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-efa402f4ce1a@calendar-sync.conwaypto.org
@@ -202,7 +162,7 @@ CATEGORIES:ACADEMICS
 LOCATION:Faulkner County Library\, Program Space 2
 DESCRIPTION:Arkansas Asset Builders FAFSA Help Day. Computer workstations 
  available or bring your own device. Online registration at https://waitwhi
- le.com/locations/fafsahelpday.
+ le.com/locations/fafsahelpday
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-f49ea6c1c589@calendar-sync.conwaypto.org
@@ -246,8 +206,8 @@ DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:ASVAB Test for Seniors
 CATEGORIES:ACADEMICS
-LOCATION:Lecture Hall
-DESCRIPTION:Seniors can sign up in the Counseling Center to take the ASVAB
+LOCATION:CHS Lecture Hall
+DESCRIPTION:Seniors may sign up in the Counseling Center to take the ASVAB
   career exploration test in the afternoon. Bring a fully charged Chromeboo
  k. Seats are limited.
 END:VEVENT
@@ -286,11 +246,11 @@ UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
 DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Deadline: Last Day to Turn in Doctor's Notes for Exam Exemption
+SUMMARY:Deadline: Doctor's Notes for Exam Exemption Status
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
- s. Notes accepted for credit until 12/18.
+DESCRIPTION:Last day to turn in doctor's notes toward exemption status for
+  fall semester exams. Notes accepted for credit until 12/18.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-cee63733d55d@calendar-sync.conwaypto.org
@@ -327,7 +287,8 @@ DTEND;VALUE=DATE:20261216
 SUMMARY:Fall Semester Exams - Day 1
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:First day of fall semester exams\; modified bell schedule TBD.
+DESCRIPTION:First day of fall semester exams\; a modified bell schedule wi
+ ll be used (TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-1698bb095b37@calendar-sync.conwaypto.org
@@ -345,8 +306,8 @@ DTEND;VALUE=DATE:20261217
 SUMMARY:Fall Semester Exams - Day 2
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Second day of fall semester exams\; modified bell schedule TBD
- .
+DESCRIPTION:Second day of fall semester exams\; a modified bell schedule w
+ ill be used (TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-bc9027022add@calendar-sync.conwaypto.org

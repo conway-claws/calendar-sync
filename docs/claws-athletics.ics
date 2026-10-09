@@ -23,17 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-d711a40103de@calendar-sync.conwaypto.org
-DTSTAMP:20261007T000000Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Lady Cats Volleyball vs. Cabot
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Conference volleyball matchup against Cabot. Tickets available
-  via GoFan\; live stream available on YouTube.
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-7d99e262126e@calendar-sync.conwaypto.org
 DTSTAMP:20261008T000000Z
 DTSTART;VALUE=DATE:20261008
@@ -92,10 +81,11 @@ UID:newsletter-22eac23d2f5b@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
-SUMMARY:Football Game (Away) - Jersey Theme
+SUMMARY:Football Game - Away (Jersey Theme)
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game with Jerseys student section theme. Student
- s need their student ID to enter football games.
+LOCATION:Away
+DESCRIPTION:Away football game with student section theme: Jerseys. Studen
+ ts need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-144d6727c001@calendar-sync.conwaypto.org
@@ -116,6 +106,18 @@ SUMMARY:Girls Varsity Competitive Dance at Lake Hamilton
 CATEGORIES:ATHLETICS
 LOCATION:Lake Hamilton
 DESCRIPTION:Girls Varsity Competitive Dance at Lake Hamilton
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-00455421ebc4@calendar-sync.conwaypto.org
+DTSTAMP:20261010T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Lady Cat Invitational Volleyball Tournament
+CATEGORIES:ATHLETICS
+LOCATION:Conway
+DESCRIPTION:24 of the top volleyball teams in Arkansas come to Conway for 
+ the Lady Cat Invitational Tournament. Live scoring available online. Come 
+ support the Lady Cats!
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-425ba4db345b@calendar-sync.conwaypto.org
@@ -146,6 +148,16 @@ SUMMARY:Boys JV Football at Cabot
 CATEGORIES:ATHLETICS
 LOCATION:Panther Stadium
 DESCRIPTION:Boys JV Football at Cabot
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-f0a7e4a587ae@calendar-sync.conwaypto.org
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:State Tournament at Burns Park
+CATEGORIES:ATHLETICS
+LOCATION:Burns Park
+DESCRIPTION:CHS team competes in the state tournament at Burns Park.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-5e88394ec0ed@calendar-sync.conwaypto.org
@@ -199,6 +211,17 @@ DESCRIPTION:Volleyball team collects change and donations during dismissal
   to support Emmersyn Caldwell\, this year's Pink Night recipient.
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-f8e723031ae4@calendar-sync.conwaypto.org
+DTSTAMP:20261013T000000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Volleyball Pink Night Fundraiser Collection
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School parking lot
+DESCRIPTION:Volleyball team collects change and donations during dismissal
+  to raise money for Emmersyn Caldwell\, this year's Pink Night recipient.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-a78340100fa9@calendar-sync.conwaypto.org
 DTSTAMP:20261015T000000Z
 DTSTART;TZID=America/Chicago:20261015T180000
@@ -233,11 +256,11 @@ UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Homecoming Football Game (Home) - Pink & Purple
+SUMMARY:Football Game - Home (Pink & Purple\, Homecoming)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home homecoming football game with Pink & Purple student secti
- on theme. Students need their student ID to enter.
+DESCRIPTION:Homecoming home football game with Pink & Purple theme. Studen
+ ts need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
@@ -324,10 +347,11 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Game (Away) - Super Hero Theme
+SUMMARY:Football Game - Away (Super Hero Theme)
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game with Super Hero student section theme. Stud
- ents need their student ID to enter.
+LOCATION:Away
+DESCRIPTION:Away football game with student section theme: Super Hero. Stu
+ dents need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-54c6e937bb32@calendar-sync.conwaypto.org
@@ -404,11 +428,11 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Game (Home) - Frat Theme
+SUMMARY:Football Game - Home (Frat Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home football game with Frat student section theme. Students n
- eed their student ID to enter.
+DESCRIPTION:Home football game with student section theme: Frat. Students 
+ need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -515,10 +539,11 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Game (Away) - Whiteout
+SUMMARY:Football Game - Away (Whiteout Theme)
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game with Whiteout student section theme. Studen
- ts need their student ID to enter.
+LOCATION:Away
+DESCRIPTION:Away football game with student section theme: Whiteout. Stude
+ nts need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-181efad4c93d@calendar-sync.conwaypto.org
@@ -1323,5 +1348,25 @@ SUMMARY:Girls JV Basketball vs Little Rock Southwest
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls JV Basketball vs Little Rock Southwest
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-1effcd9a7319@calendar-sync.conwaypto.org
+DTSTAMP:20270107T000000Z
+DTSTART;TZID=America/Chicago:20270107T000000
+DTEND;TZID=America/Chicago:20270107T030000
+SUMMARY:Girls Varsity Swim and Dive at Cabot
+CATEGORIES:ATHLETICS
+LOCATION:Cabot Veterans Park
+DESCRIPTION:Girls Varsity Swim and Dive at Cabot
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-b30719164e48@calendar-sync.conwaypto.org
+DTSTAMP:20270107T000000Z
+DTSTART;TZID=America/Chicago:20270107T000000
+DTEND;TZID=America/Chicago:20270107T030000
+SUMMARY:Boys Varsity Swim and Dive at Cabot
+CATEGORIES:ATHLETICS
+LOCATION:Cabot Veterans Park
+DESCRIPTION:Boys Varsity Swim and Dive at Cabot
 END:VEVENT
 END:VCALENDAR
