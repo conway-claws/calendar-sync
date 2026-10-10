@@ -23,27 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-7d99e262126e@calendar-sync.conwaypto.org
-DTSTAMP:20261008T000000Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:CHS Tennis Conference Tournament
-CATEGORIES:ATHLETICS
-LOCATION:Burns Park
-DESCRIPTION:CHS tennis conference tournament held Thursday and Friday at B
- urns Park following a historic 20-4 season.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-aeaf4df030d2@calendar-sync.conwaypto.org
-DTSTAMP:20261009T000000Z
-DTSTART;TZID=America/Chicago:20261009T190000
-DTEND;TZID=America/Chicago:20261009T220000
-SUMMARY:Boys Varsity Football at Cabot
-CATEGORIES:ATHLETICS
-LOCATION:Cabot Field
-DESCRIPTION:Boys Varsity Football at Cabot
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-187b67be0ba6@calendar-sync.conwaypto.org
 DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
@@ -90,12 +69,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:athletics-144d6727c001@calendar-sync.conwaypto.org
 DTSTAMP:20261010T000000Z
-DTSTART;TZID=America/Chicago:20261010T000000
-DTEND;TZID=America/Chicago:20261010T030000
-SUMMARY:Girls Varsity Volleyball vs Lady Cat Invitational
+DTSTART;TZID=America/Chicago:20261010T090000
+DTEND;TZID=America/Chicago:20261010T120000
+SUMMARY:Girls Varsity Volleyball vs Vilonia Lady Cat Invitational
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls Varsity Volleyball vs Lady Cat Invitational
+DESCRIPTION:Girls Varsity Volleyball vs Vilonia Lady Cat Invitational
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-5c6686d87955@calendar-sync.conwaypto.org
@@ -108,6 +87,16 @@ LOCATION:Lake Hamilton
 DESCRIPTION:Girls Varsity Competitive Dance at Lake Hamilton
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-744ec5eea445@calendar-sync.conwaypto.org
+DTSTAMP:20261010T000000Z
+DTSTART;TZID=America/Chicago:20261010T100000
+DTEND;TZID=America/Chicago:20261010T130000
+SUMMARY:Girls Varsity Volleyball at Westside Lady Cat Invitational
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Girls Varsity Volleyball at Westside Lady Cat Invitational
+END:VEVENT
+BEGIN:VEVENT
 UID:feed-00455421ebc4@calendar-sync.conwaypto.org
 DTSTAMP:20261010T000000Z
 DTSTART;VALUE=DATE:20261010
@@ -118,6 +107,17 @@ LOCATION:Conway
 DESCRIPTION:24 of the top volleyball teams in Arkansas come to Conway for 
  the Lady Cat Invitational Tournament. Live scoring available online. Come 
  support the Lady Cats!
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-75f80b77e364@calendar-sync.conwaypto.org
+DTSTAMP:20261010T000000Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Volleyball Tournament at Buzz Bolding Arena
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Big volleyball tournament hosted today — come support the La
+ dy Cats. Live scoring link available online.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-425ba4db345b@calendar-sync.conwaypto.org
@@ -150,14 +150,15 @@ LOCATION:Panther Stadium
 DESCRIPTION:Boys JV Football at Cabot
 END:VEVENT
 BEGIN:VEVENT
-UID:rss-f0a7e4a587ae@calendar-sync.conwaypto.org
+UID:feed-f50d73e749d7@calendar-sync.conwaypto.org
 DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-SUMMARY:State Tournament at Burns Park
+SUMMARY:Cross Country State Tournament at Burns Park
 CATEGORIES:ATHLETICS
 LOCATION:Burns Park
-DESCRIPTION:CHS team competes in the state tournament at Burns Park.
+DESCRIPTION:Conway High School competes in the state tournament at Burns P
+ ark.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-5e88394ec0ed@calendar-sync.conwaypto.org
@@ -217,9 +218,9 @@ DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Volleyball Pink Night Fundraiser Collection
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School parking lot
-DESCRIPTION:Volleyball team collects change and donations during dismissal
-  to raise money for Emmersyn Caldwell\, this year's Pink Night recipient.
+LOCATION:High school parking lot
+DESCRIPTION:Volleyball team collecting change and donations for Emmersyn C
+ aldwell\, this year's Pink Night recipient\, during dismissal.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-a78340100fa9@calendar-sync.conwaypto.org
@@ -256,11 +257,11 @@ UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Football Game - Home (Pink & Purple\, Homecoming)
+SUMMARY:Homecoming Football Game - Home: Pink & Purple
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Homecoming home football game with Pink & Purple theme. Studen
- ts need their student ID to enter football games.
+LOCATION:Conway High School (Home)
+DESCRIPTION:Homecoming home football game with Pink & Purple spirit theme.
+  Students need student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
@@ -347,11 +348,11 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Game - Away (Super Hero Theme)
+SUMMARY:Football Game - Away: Super Hero Theme
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Away football game with student section theme: Super Hero. Stu
- dents need their student ID to enter football games.
+DESCRIPTION:Away football game with Super Hero spirit theme. Students need
+  student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-54c6e937bb32@calendar-sync.conwaypto.org
@@ -428,11 +429,11 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Game - Home (Frat Theme)
+SUMMARY:Football Game - Home: Frat Theme
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Home football game with student section theme: Frat. Students 
- need their student ID to enter football games.
+LOCATION:Conway High School (Home)
+DESCRIPTION:Home football game with Frat spirit theme. Students need stude
+ nt ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -539,11 +540,11 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Game - Away (Whiteout Theme)
+SUMMARY:Football Game - Away: Whiteout
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Away football game with student section theme: Whiteout. Stude
- nts need their student ID to enter football games.
+DESCRIPTION:Away football game with Whiteout spirit theme. Students need s
+ tudent ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-181efad4c93d@calendar-sync.conwaypto.org
@@ -1368,5 +1369,45 @@ SUMMARY:Boys Varsity Swim and Dive at Cabot
 CATEGORIES:ATHLETICS
 LOCATION:Cabot Veterans Park
 DESCRIPTION:Boys Varsity Swim and Dive at Cabot
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-0e3604789356@calendar-sync.conwaypto.org
+DTSTAMP:20270108T000000Z
+DTSTART;TZID=America/Chicago:20270108T164500
+DTEND;TZID=America/Chicago:20270108T194500
+SUMMARY:Boys JV Basketball vs North Little Rock
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Boys JV Basketball vs North Little Rock
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-1cee26bddd7b@calendar-sync.conwaypto.org
+DTSTAMP:20270108T000000Z
+DTSTART;TZID=America/Chicago:20270108T160000
+DTEND;TZID=America/Chicago:20270108T190000
+SUMMARY:Girls Varsity Wrestling at Bryant Tournament
+CATEGORIES:ATHLETICS
+LOCATION:Bryant High
+DESCRIPTION:Girls Varsity Wrestling at Bryant Tournament
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-8ac4b22419c8@calendar-sync.conwaypto.org
+DTSTAMP:20270108T000000Z
+DTSTART;TZID=America/Chicago:20270108T193000
+DTEND;TZID=America/Chicago:20270108T223000
+SUMMARY:Boys Varsity Basketball vs North Little Rock
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Boys Varsity Basketball vs North Little Rock
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-a56e034e07fa@calendar-sync.conwaypto.org
+DTSTAMP:20270108T000000Z
+DTSTART;TZID=America/Chicago:20270108T180000
+DTEND;TZID=America/Chicago:20270108T210000
+SUMMARY:Girls Varsity Basketball vs North Little Rock
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Girls Varsity Basketball vs North Little Rock
 END:VEVENT
 END:VCALENDAR
