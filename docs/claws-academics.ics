@@ -23,28 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-427ef42c46b6@calendar-sync.conwaypto.org
-DTSTAMP:20261009T000000Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Deadline: Senior Yearbook Ad Order Deadline
-CATEGORIES:ACADEMICS
-DESCRIPTION:Final day to design\, build\, and pay for a personalized senio
- r ad in the 2026–27 yearbook at Jostens.com.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-d8173b95c214@calendar-sync.conwaypto.org
-DTSTAMP:20261009T000000Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:ATLAS Interim #1 Make-up Testing
-CATEGORIES:ACADEMICS
-LOCATION:Conway High School
-DESCRIPTION:Make-up testing for ATLAS Interim #1 (Geometry\, Biology\, Eng
- lish\, Writing) for 10th grade and some junior students who missed testing
-  on October 6th & 7th.
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-7991cdeb9771@calendar-sync.conwaypto.org
 DTSTAMP:20261010T000000Z
 DTSTART;VALUE=DATE:20261010
@@ -55,6 +33,18 @@ LOCATION:CHS Front Office
 DESCRIPTION:Out-of-school date forms for the Homecoming 2026 'A Night in R
  io' dance are due to the CHS front office by 3:30 PM. Forms must be submit
  ted by the deadline for a date to attend.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-f35a64601505@calendar-sync.conwaypto.org
+DTSTAMP:20261011T000000Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Deadline: Homecoming Out-of-School Date Form Deadline
+CATEGORIES:ACADEMICS
+LOCATION:CHS Front Office
+DESCRIPTION:Out-of-school date forms for the Homecoming 2026 'A Night in R
+ io' dance are due to the CHS front office by 3:30 PM. Forms must be submit
+ ted by the deadline for a date to attend the dance.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-cd2081ec0dff@calendar-sync.conwaypto.org
@@ -71,6 +61,17 @@ DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Start of 2nd 9 Weeks
 CATEGORIES:ACADEMICS
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-0681620aa862@calendar-sync.conwaypto.org
+DTSTAMP:20261015T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Deadline: Homecoming Digital Ticket Sales Deadline
+CATEGORIES:ACADEMICS
+DESCRIPTION:Last chance to purchase digital Homecoming tickets ($27.25) on
+  the GoFan app\; sales end at midnight October 15. No tickets sold at the 
+ door.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-082178697751@calendar-sync.conwaypto.org
@@ -106,10 +107,10 @@ DTEND;TZID=America/Chicago:20261021T180000
 SUMMARY:FAFSA Parent Night
 CATEGORIES:ACADEMICS
 LOCATION:CHS Lecture Hall
-DESCRIPTION:Hosted in conjunction with Parent/Teacher Conferences. Financi
- al aid representatives from local colleges will help parents and students 
- complete the FAFSA and SAMS application. Create a FAFSA ID beforehand at s
- tudentaid.gov and bring parents' 2025 tax returns.
+DESCRIPTION:Held in conjunction with Parent/Teacher Conferences. Financial
+  aid representatives from local colleges will help parents and students co
+ mplete the FAFSA and SAMS application. Create a FAFSA ID at studentaid.gov
+  beforehand and bring parents' 2025 tax returns.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-efa402f4ce1a@calendar-sync.conwaypto.org
@@ -139,9 +140,9 @@ DTEND;TZID=America/Chicago:20261024T160000
 SUMMARY:FAFSA Help Day
 CATEGORIES:ACADEMICS
 LOCATION:Faulkner County Library\, Program Space 2
-DESCRIPTION:Arkansas Asset Builders FAFSA Help Day. Computer workstations 
- available or bring your own device. Online registration at https://waitwhi
- le.com/locations/fafsahelpday
+DESCRIPTION:Hosted by Arkansas Asset Builders. Computer workstations avail
+ able or bring your own device. Online registration at https://waitwhile.co
+ m/locations/fafsahelpday.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-f49ea6c1c589@calendar-sync.conwaypto.org
@@ -186,9 +187,9 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:ASVAB Testing for Seniors
 CATEGORIES:ACADEMICS
 LOCATION:CHS Lecture Hall
-DESCRIPTION:Armed Service Vocational Aptitude Battery career exploration t
- est for seniors in the afternoon. Sign up in the Counseling Center\; seats
-  are limited. Bring fully charged Chromebook.
+DESCRIPTION:Seniors can sign up in the Counseling Center to take the ASVAB
+  career exploration test in the afternoon. Bring a fully charged Chromeboo
+ k. Seats are limited.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-1abd4f542d2b@calendar-sync.conwaypto.org
@@ -225,7 +226,7 @@ UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
 DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Deadline: Doctor's Notes for Exam Exemption
+SUMMARY:Deadline: Last Day to Turn in Doctor's Notes for Exam Exemption
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Last day to turn in doctor's notes toward exemption status. No

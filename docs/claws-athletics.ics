@@ -23,80 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-187b67be0ba6@calendar-sync.conwaypto.org
-DTSTAMP:20261009T000000Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:CHS Tennis Conference Tournament
-CATEGORIES:ATHLETICS
-LOCATION:Burns Park
-DESCRIPTION:Second day of the CHS tennis conference tournament at Burns Pa
- rk.
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-c387404dd0c4@calendar-sync.conwaypto.org
-DTSTAMP:20261009T000000Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Lady Cat Volleyball Annual Change Runs
-CATEGORIES:ATHLETICS
-LOCATION:Conway Elementary Schools
-DESCRIPTION:The Lady Cat volleyball team collects change at Conway element
- ary schools to benefit Pink Night recipient Emmersyn Caldwell.
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-f7e291c41f41@calendar-sync.conwaypto.org
-DTSTAMP:20261009T000000Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Lady Cat Volleyball Fundraiser Drop-Off Collection
-CATEGORIES:ATHLETICS
-LOCATION:Conway elementary school drop off lines
-DESCRIPTION:Lady Cat Volleyball players will be collecting change in the m
- orning drop off lines to support Emmersyn.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-22eac23d2f5b@calendar-sync.conwaypto.org
-DTSTAMP:20261009T000000Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Football Game - Away (Jersey Theme)
-CATEGORIES:ATHLETICS
-LOCATION:Away
-DESCRIPTION:Away football game with student section theme: Jerseys. Studen
- ts need their student ID to enter football games.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-144d6727c001@calendar-sync.conwaypto.org
-DTSTAMP:20261010T000000Z
-DTSTART;TZID=America/Chicago:20261010T090000
-DTEND;TZID=America/Chicago:20261010T120000
-SUMMARY:Girls Varsity Volleyball vs Vilonia Lady Cat Invitational
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls Varsity Volleyball vs Vilonia Lady Cat Invitational
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-5c6686d87955@calendar-sync.conwaypto.org
-DTSTAMP:20261010T000000Z
-DTSTART;TZID=America/Chicago:20261010T000000
-DTEND;TZID=America/Chicago:20261010T030000
-SUMMARY:Girls Varsity Competitive Dance at Lake Hamilton
-CATEGORIES:ATHLETICS
-LOCATION:Lake Hamilton
-DESCRIPTION:Girls Varsity Competitive Dance at Lake Hamilton
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-744ec5eea445@calendar-sync.conwaypto.org
-DTSTAMP:20261010T000000Z
-DTSTART;TZID=America/Chicago:20261010T100000
-DTEND;TZID=America/Chicago:20261010T130000
-SUMMARY:Girls Varsity Volleyball at Westside Lady Cat Invitational
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls Varsity Volleyball at Westside Lady Cat Invitational
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-00455421ebc4@calendar-sync.conwaypto.org
 DTSTAMP:20261010T000000Z
 DTSTART;VALUE=DATE:20261010
@@ -208,8 +134,9 @@ DTEND;VALUE=DATE:20261014
 SUMMARY:Volleyball Pink Night Donation Drive for Emmersyn Caldwell
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School parking lot
-DESCRIPTION:Volleyball team collects change and donations during dismissal
-  to support Emmersyn Caldwell\, this year's Pink Night recipient.
+DESCRIPTION:Volleyball players will collect change and donations in the hi
+ gh school parking lot during dismissal to support this year's Pink Night r
+ ecipient\, Emmersyn Caldwell.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-f8e723031ae4@calendar-sync.conwaypto.org
@@ -253,15 +180,26 @@ LOCATION:John McConnell Stadium
 DESCRIPTION:Boys Varsity Football vs Little Rock Central High  Homecoming
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-a634f5a6a6a0@calendar-sync.conwaypto.org
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Football at Cabot
+CATEGORIES:ATHLETICS
+LOCATION:Cabot
+DESCRIPTION:Wampus Cat football game at Cabot. Tickets available for purch
+ ase online through Vanco Events.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Homecoming Football Game - Home: Pink & Purple
+SUMMARY:Homecoming Football Game - Pink & Purple Theme
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School (Home)
-DESCRIPTION:Homecoming home football game with Pink & Purple spirit theme.
-  Students need student ID to enter.
+LOCATION:Home
+DESCRIPTION:Home homecoming football game with Pink & Purple theme. Studen
+ ts need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
@@ -292,6 +230,17 @@ SUMMARY:Boys Varsity Tennis at Overall Tournament
 CATEGORIES:ATHLETICS
 LOCATION:TBA
 DESCRIPTION:Boys Varsity Tennis at Overall Tournament
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-546bdee8b848@calendar-sync.conwaypto.org
+DTSTAMP:20261019T000000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Cross Country State Tournament
+CATEGORIES:ATHLETICS
+LOCATION:Burns Park
+DESCRIPTION:Conway High School competes in the state tournament at Burns P
+ ark.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-887d93484ba9@calendar-sync.conwaypto.org
@@ -348,11 +297,11 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Game - Away: Super Hero Theme
+SUMMARY:Football Game - Super Hero Theme
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Away football game with Super Hero spirit theme. Students need
-  student ID to enter.
+DESCRIPTION:Away football game with Super Hero student section theme. Stud
+ ents need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-54c6e937bb32@calendar-sync.conwaypto.org
@@ -429,11 +378,11 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Game - Home: Frat Theme
+SUMMARY:Football Game - Frat Theme
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School (Home)
-DESCRIPTION:Home football game with Frat spirit theme. Students need stude
- nt ID to enter.
+LOCATION:Home
+DESCRIPTION:Home football game with Frat student section theme. Students n
+ eed their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -540,11 +489,11 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Game - Away: Whiteout
+SUMMARY:Football Game - Whiteout Theme
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Away football game with Whiteout spirit theme. Students need s
- tudent ID to enter.
+DESCRIPTION:Away football game with Whiteout student section theme. Studen
+ ts need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-181efad4c93d@calendar-sync.conwaypto.org
@@ -1409,5 +1358,15 @@ SUMMARY:Girls Varsity Basketball vs North Little Rock
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls Varsity Basketball vs North Little Rock
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-50e2925451e3@calendar-sync.conwaypto.org
+DTSTAMP:20270109T000000Z
+DTSTART;TZID=America/Chicago:20270109T160000
+DTEND;TZID=America/Chicago:20270109T190000
+SUMMARY:Boys Varsity Wrestling at Bryant Tournament
+CATEGORIES:ATHLETICS
+LOCATION:Bryant High
+DESCRIPTION:Boys Varsity Wrestling at Bryant Tournament
 END:VEVENT
 END:VCALENDAR
