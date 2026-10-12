@@ -23,29 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-00455421ebc4@calendar-sync.conwaypto.org
-DTSTAMP:20261010T000000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:Lady Cat Invitational Volleyball Tournament
-CATEGORIES:ATHLETICS
-LOCATION:Conway
-DESCRIPTION:24 of the top volleyball teams in Arkansas come to Conway for 
- the Lady Cat Invitational Tournament. Live scoring available online. Come 
- support the Lady Cats!
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-75f80b77e364@calendar-sync.conwaypto.org
-DTSTAMP:20261010T000000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:Volleyball Tournament at Buzz Bolding Arena
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Big volleyball tournament hosted today — come support the La
- dy Cats. Live scoring link available online.
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-425ba4db345b@calendar-sync.conwaypto.org
 DTSTAMP:20261012T000000Z
 DTSTART;TZID=America/Chicago:20261012T000000
@@ -127,6 +104,17 @@ LOCATION:Meadow Tech Park
 DESCRIPTION:Girls Varsity Cross Country vs Wampus Cat Invitational
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-1cf2127886c6@calendar-sync.conwaypto.org
+DTSTAMP:20261013T000000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Volleyball Change Drive for Pink Night Recipient
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School parking lot
+DESCRIPTION:Volleyball team collects change and donations during dismissal
+  to raise money for Emmersyn Caldwell\, this year's Pink Night recipient.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-7285a84105be@calendar-sync.conwaypto.org
 DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
@@ -180,6 +168,18 @@ LOCATION:John McConnell Stadium
 DESCRIPTION:Boys Varsity Football vs Little Rock Central High  Homecoming
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-9aceea604165@calendar-sync.conwaypto.org
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Chicago:20261016T190000
+DTEND;TZID=America/Chicago:20261016T200000
+SUMMARY:Homecoming Game & Coronation vs. Central High School
+CATEGORIES:ATHLETICS
+LOCATION:John McConnell Stadium
+DESCRIPTION:The Wampus Cats take on Central High School for Homecoming. Co
+ ronation of the Homecoming Queen takes place at 7 p.m. at John McConnell S
+ tadium. Theme: A Night in Rio.
+END:VEVENT
+BEGIN:VEVENT
 UID:feed-a634f5a6a6a0@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
@@ -195,11 +195,23 @@ UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Homecoming Football Game - Pink & Purple Theme
+SUMMARY:Football Game (Home) - Homecoming\, Pink & Purple Theme
 CATEGORIES:ATHLETICS
-LOCATION:Home
-DESCRIPTION:Home homecoming football game with Pink & Purple theme. Studen
- ts need their student ID to enter football games.
+LOCATION:Conway High School
+DESCRIPTION:Home football game for Homecoming with Pink & Purple theme. St
+ udents need their student ID to enter.
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-562c228c4e1c@calendar-sync.conwaypto.org
+DTSTAMP:20261016T000000Z
+DTSTART;TZID=America/Chicago:20261016T190000
+DTEND;TZID=America/Chicago:20261016T200000
+SUMMARY:Conway High School Homecoming: Coronation & Football vs. Central
+CATEGORIES:ATHLETICS
+LOCATION:John McConnell Stadium
+DESCRIPTION:The Wampus Cats take on Central High School for Homecoming. Co
+ ronation of the Queen takes place at 7 p.m. at John McConnell Stadium with
+  the 2026 Homecoming Court.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
@@ -297,11 +309,10 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Game - Super Hero Theme
+SUMMARY:Football Game (Away) - Super Hero Theme
 CATEGORIES:ATHLETICS
-LOCATION:Away
 DESCRIPTION:Away football game with Super Hero student section theme. Stud
- ents need their student ID to enter football games.
+ ents need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-54c6e937bb32@calendar-sync.conwaypto.org
@@ -378,11 +389,11 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Game - Frat Theme
+SUMMARY:Football Game (Home) - Frat Theme
 CATEGORIES:ATHLETICS
-LOCATION:Home
+LOCATION:Conway High School
 DESCRIPTION:Home football game with Frat student section theme. Students n
- eed their student ID to enter football games.
+ eed their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -433,6 +444,19 @@ SUMMARY:Girls JV Basketball vs Basketball Madness
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls JV Basketball vs Basketball Madness
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-e32b5fa97b4a@calendar-sync.conwaypto.org
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Baseball Tryouts for New Students
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School
+DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
+ nting to participate in baseball for the 2026-2027 school year. A current 
+ physical must be in DragonFly Max. Email hardinl@conwayschools.info to sig
+ n up.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8295f0eae580@calendar-sync.conwaypto.org
@@ -489,11 +513,10 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Game - Whiteout Theme
+SUMMARY:Football Game (Away) - Whiteout Theme
 CATEGORIES:ATHLETICS
-LOCATION:Away
 DESCRIPTION:Away football game with Whiteout student section theme. Studen
- ts need their student ID to enter football games.
+ ts need their student ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-181efad4c93d@calendar-sync.conwaypto.org

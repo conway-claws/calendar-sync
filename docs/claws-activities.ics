@@ -39,11 +39,11 @@ UID:newsletter-e8cd017ed0c6@calendar-sync.conwaypto.org
 DTSTAMP:20261012T000000Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
-SUMMARY:Homecoming Spirit Week: Airport Fit (Monday)
+SUMMARY:Homecoming Spirit Week: Airport Fit
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Travel in style! Wear your favorite loungewear for Homecoming 
- Spirit Week.
+DESCRIPTION:Travel in style! Wear your favorite loungewear for Monday of H
+ omecoming Spirit Week.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-c41729aaba69@calendar-sync.conwaypto.org
@@ -72,14 +72,15 @@ DTEND;TZID=America/Chicago:20261013T120000
 SUMMARY:Makeup Picture Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Makeup picture day for students.
+DESCRIPTION:Makeup picture day for students who missed the original pictur
+ e day.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-c75fcf274fdd@calendar-sync.conwaypto.org
 DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-SUMMARY:Homecoming Spirit Week: Tourist Day (Tuesday)
+SUMMARY:Homecoming Spirit Week: Tourist Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Break out the tropical prints\, cargo shorts\, sunglasses\, an
@@ -93,16 +94,17 @@ DTEND;VALUE=DATE:20261015
 SUMMARY:Club America Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Mr. S's room A104
-DESCRIPTION:Club America (formerly Young Republicans) meets during WIN. Ge
- t a pass from Mrs. Rice (257)\, Mrs. Glover (364)\, Mrs. Imboden (109) or 
- Mrs. Hammett (913) to give to your WIN teacher.
+DESCRIPTION:CLUB AMERICA (formerly Young Republicans) meets during WIN. Pi
+ ck up a pass from Mrs. Rice (257)\, Mrs. Glover (364)\, Mrs. Imboden (109)
+ \, or Mrs. Hammett (913) to give to your WIN teacher. Fellowship and snack
+ s.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-7cabd2cb42a1@calendar-sync.conwaypto.org
 DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-SUMMARY:Homecoming Spirit Week: Birds of a Feather (Wednesday)
+SUMMARY:Homecoming Spirit Week: Birds of a Feather
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Match with your friends and show off your flock!
@@ -114,16 +116,39 @@ DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:FCS Club Meeting (Rescheduled)
 CATEGORIES:ACTIVITIES
-LOCATION:Room 365 (passes in Mrs. Dunn's room)
-DESCRIPTION:FCS meeting rescheduled due to sophomore ATLAS testing. Meets 
- during WIN time\; pick up a pass from Mrs. Dunn's room.
+LOCATION:Room 365
+DESCRIPTION:FCS meeting rescheduled due to Sophomore Atlas Testing\; meets
+  during WIN time. Pick up a pass from Mrs. Dunn's room\, or sign the roste
+ r/message her on Schoology if unable to attend.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-0681620aa862@calendar-sync.conwaypto.org
+DTSTAMP:20261015T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Deadline: Homecoming Dance Physical Ticket Sales
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Physical tickets ($25) sold in person during lunches October 1
+ 2\, 13\, 14\, and 15. No tickets sold after October 15 and none at the doo
+ r.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-2dd1e17a9ca7@calendar-sync.conwaypto.org
+DTSTAMP:20261015T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Deadline: Homecoming Dance Digital Ticket Deadline
+CATEGORIES:ACTIVITIES
+DESCRIPTION:Digital tickets ($27.25) available on the GoFan app from Octob
+ er 5 until October 15 at midnight. No refunds.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-43264abfa65f@calendar-sync.conwaypto.org
 DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-SUMMARY:Homecoming Spirit Week: Party in Rio (Thursday)
+SUMMARY:Homecoming Spirit Week: Party in Rio
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Go BIG and BOLD in bright & neon colors!
@@ -133,11 +158,11 @@ UID:newsletter-2380dc0f5f23@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Homecoming Spirit Week: Grade Wars (Friday)
+SUMMARY:Homecoming Spirit Week: Grade Wars
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Grade Wars: 10th Grade White\, 11th Grade Blue\, 12th Grade Bl
- ack.
+DESCRIPTION:Grade Wars day — 10th Grade: White\, 11th Grade: Blue\, 12th
+  Grade: Black.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-cde705c113b3@calendar-sync.conwaypto.org
@@ -147,9 +172,9 @@ DTEND;TZID=America/Chicago:20261016T213000
 SUMMARY:Homecoming Dance - A Night in Rio
 CATEGORIES:ACTIVITIES
 LOCATION:CHS Cafeteria
-DESCRIPTION:No freshmen and no students over 20 may attend. Out-of-school 
- dates must be escorted by a current CHS student. All students must show ph
- oto ID to enter. No refunds.
+DESCRIPTION:2026 Homecoming Dance. No freshmen and no students over 20 may
+  attend. Out-of-school dates must be escorted by a current CHS student. Ph
+ oto ID required for entry.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-62945859218c@calendar-sync.conwaypto.org
@@ -159,7 +184,7 @@ DTEND;VALUE=DATE:20261029
 SUMMARY:Jostens In-Person Order Date
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Jostens in-person ordering day.
+DESCRIPTION:Jostens in-person order date.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-577d178b8308@calendar-sync.conwaypto.org
