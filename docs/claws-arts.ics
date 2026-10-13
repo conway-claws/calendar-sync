@@ -165,4 +165,14 @@ CATEGORIES:ARTS
 LOCATION:James H. Clark Auditorium\n2300 Prince St\, Conway\, AR  72034\, 
  United States
 END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-053821e496f0@calendar-sync.conwaypto.org
+DTSTAMP:20270111T000000Z
+DTSTART;TZID=America/Chicago:20270111T154500
+DTEND;TZID=America/Chicago:20270111T173000
+SUMMARY:CHS Symphonic Orchestra Rehearsal
+CATEGORIES:ARTS
+LOCATION:James H. Clark Auditorium\n2300 Prince St\, Conway\, AR  72034\, 
+ United States
+END:VEVENT
 END:VCALENDAR

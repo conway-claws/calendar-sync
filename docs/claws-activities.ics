@@ -65,6 +65,17 @@ DESCRIPTION:<p>School Board Information:Â <a rel="noopener noreferrer no
  socialm3021/featured</a></p>
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-7f00de66a6ff@calendar-sync.conwaypto.org
+DTSTAMP:20261013T000000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Homecoming Dance Physical Ticket Sales
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Physical tickets ($25) sold in person during lunches on Octobe
+ r 12\, 13\, 14 and 15.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-804e3cbc507b@calendar-sync.conwaypto.org
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Chicago:20261013T090000
@@ -72,8 +83,8 @@ DTEND;TZID=America/Chicago:20261013T120000
 SUMMARY:Makeup Picture Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Makeup picture day for students who missed the original pictur
- e day.
+DESCRIPTION:Makeup picture day for CHS students. Must have form to purchas
+ e pictures.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-c75fcf274fdd@calendar-sync.conwaypto.org
@@ -93,11 +104,10 @@ DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Club America Meeting
 CATEGORIES:ACTIVITIES
-LOCATION:Mr. S's room A104
-DESCRIPTION:CLUB AMERICA (formerly Young Republicans) meets during WIN. Pi
- ck up a pass from Mrs. Rice (257)\, Mrs. Glover (364)\, Mrs. Imboden (109)
- \, or Mrs. Hammett (913) to give to your WIN teacher. Fellowship and snack
- s.
+LOCATION:Room A104
+DESCRIPTION:Club America (formerly Young Republicans) meets during WIN in 
+ Mr. S's room A104. Get a pass from Mrs. Rice (257)\, Mrs. Glover (364)\, M
+ rs. Imboden (109) or Mrs. Hammett (913).
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-7cabd2cb42a1@calendar-sync.conwaypto.org
@@ -110,6 +120,16 @@ LOCATION:Conway High School
 DESCRIPTION:Match with your friends and show off your flock!
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-921ef0758eb1@calendar-sync.conwaypto.org
+DTSTAMP:20261014T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Homecoming Dance Physical Ticket Sales
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Physical tickets ($25) sold in person during lunches.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-af7e5f03bf33@calendar-sync.conwaypto.org
 DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
@@ -117,21 +137,20 @@ DTEND;VALUE=DATE:20261015
 SUMMARY:FCS Club Meeting (Rescheduled)
 CATEGORIES:ACTIVITIES
 LOCATION:Room 365
-DESCRIPTION:FCS meeting rescheduled due to Sophomore Atlas Testing\; meets
-  during WIN time. Pick up a pass from Mrs. Dunn's room\, or sign the roste
- r/message her on Schoology if unable to attend.
+DESCRIPTION:Rescheduled FCS meeting during WIN time due to Sophomore Atlas
+  Testing. Pick up a pass from Mrs. Dunn's room.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-0681620aa862@calendar-sync.conwaypto.org
 DTSTAMP:20261015T000000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-SUMMARY:Deadline: Homecoming Dance Physical Ticket Sales
+SUMMARY:Deadline: Homecoming Dance Ticket Sales Deadline
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Physical tickets ($25) sold in person during lunches October 1
- 2\, 13\, 14\, and 15. No tickets sold after October 15 and none at the doo
- r.
+DESCRIPTION:Last day to buy tickets: physical tickets ($25) sold during lu
+ nches and digital tickets ($27.25) available on the GoFan app until midnig
+ ht. No tickets sold after October 15 and none at the door.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-2dd1e17a9ca7@calendar-sync.conwaypto.org
@@ -161,8 +180,8 @@ DTEND;VALUE=DATE:20261017
 SUMMARY:Homecoming Spirit Week: Grade Wars
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Grade Wars day — 10th Grade: White\, 11th Grade: Blue\, 12th
-  Grade: Black.
+DESCRIPTION:Grade Wars day - 10th Grade: White\, 11th Grade: Blue\, 12th G
+ rade: Black.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-cde705c113b3@calendar-sync.conwaypto.org
@@ -172,9 +191,9 @@ DTEND;TZID=America/Chicago:20261016T213000
 SUMMARY:Homecoming Dance - A Night in Rio
 CATEGORIES:ACTIVITIES
 LOCATION:CHS Cafeteria
-DESCRIPTION:2026 Homecoming Dance. No freshmen and no students over 20 may
-  attend. Out-of-school dates must be escorted by a current CHS student. Ph
- oto ID required for entry.
+DESCRIPTION:The Conway High School 2026 Homecoming Dance. No freshmen and 
+ no students over 20 may attend. Out-of-school dates must be escorted by a 
+ current CHS student. All students must show photo ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-62945859218c@calendar-sync.conwaypto.org
@@ -184,7 +203,7 @@ DTEND;VALUE=DATE:20261029
 SUMMARY:Jostens In-Person Order Date
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Jostens in-person order date.
+DESCRIPTION:Jostens in-person order date at CHS.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-577d178b8308@calendar-sync.conwaypto.org
