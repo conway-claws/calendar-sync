@@ -23,19 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:orchestra-f0efe6cddf02@calendar-sync.conwaypto.org
-DTSTAMP:20261012T000000Z
-DTSTART;TZID=America/Chicago:20261012T170000
-DTEND;TZID=America/Chicago:20261012T210000
-SUMMARY:South Region Orchestra WBP Auditions
-CATEGORIES:ARTS
-LOCATION:Bob and Betty Courtway Middle School\n1200 Bob Courtway Dr\, Conw
- ay\, AR  72032\, United States
-DESCRIPTION:Join with Google Meet: https://meet.google.com/rop-zkhm-mpf\n\
- nLearn more about Meet at: https://support.google.com/a/users/answer/92827
- 20
-END:VEVENT
-BEGIN:VEVENT
 UID:orchestra-4eb0efd30ab3@calendar-sync.conwaypto.org
 DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014

@@ -23,48 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-2e0a9bf0d68b@calendar-sync.conwaypto.org
-DTSTAMP:20261012T000000Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Homecoming Physical Ticket Sales
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
-DESCRIPTION:Physical tickets ($25) sold in person during lunches on Octobe
- r 12\, 13\, 14\, and 15. No tickets sold after October 15 and none at the 
- door.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-e8cd017ed0c6@calendar-sync.conwaypto.org
-DTSTAMP:20261012T000000Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Homecoming Spirit Week: Airport Fit
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
-DESCRIPTION:Travel in style! Wear your favorite loungewear for Monday of H
- omecoming Spirit Week.
-END:VEVENT
-BEGIN:VEVENT
-UID:ical-c41729aaba69@calendar-sync.conwaypto.org
-DTSTAMP:20261013T000000Z
-DTSTART;TZID=America/Chicago:20261013T180000
-DTEND;TZID=America/Chicago:20261013T200000
-SUMMARY:School Board Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:2220 Prince St\, Conway\, AR 72034\, USA
-DESCRIPTION:<p>School Board Information:Â <a rel="noopener noreferrer no
- follow" href="https://www.google.com/url?q=https://www.conwayschools.org/p
- age/schoolboard&amp\;sa=D&amp\;source=calendar&amp\;ust=1780949568991644&a
- mp\;usg=AOvVaw2E2fnbPhxqMenK157Avz1H" target="_blank">https://www.conwaysc
- hools.org/page/schoolboard</a></p><p>View School Board meetings live at:Â
-  <a rel="noopener noreferrer nofollow" href="https://www.google.com/url?q
- =https://www.youtube.com/@conwaypublicschoolssocialm3021/featured&amp\;sa=
- D&amp\;source=calendar&amp\;ust=1780949568991644&amp\;usg=AOvVaw2ua-Ikn5nS
- caC-hLECNmeX" target="_blank">https://www.youtube.com/@conwaypublicschools
- socialm3021/featured</a></p>
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-7f00de66a6ff@calendar-sync.conwaypto.org
 DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
@@ -117,7 +75,8 @@ DTEND;VALUE=DATE:20261015
 SUMMARY:Homecoming Spirit Week: Birds of a Feather
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Match with your friends and show off your flock!
+DESCRIPTION:Spirit day — match with your friends and show off your flock
+ !
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-921ef0758eb1@calendar-sync.conwaypto.org
@@ -126,8 +85,10 @@ DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Homecoming Dance Physical Ticket Sales
 CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
-DESCRIPTION:Physical tickets ($25) sold in person during lunches.
+LOCATION:Conway High School (during lunches)
+DESCRIPTION:Physical tickets ($25) sold in person during lunches on Octobe
+ r 12\, 13\, 14\, and 15. No tickets sold after October 15 and none at the 
+ door.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-af7e5f03bf33@calendar-sync.conwaypto.org
@@ -147,10 +108,10 @@ DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Deadline: Homecoming Dance Ticket Sales Deadline
 CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
-DESCRIPTION:Last day to buy tickets: physical tickets ($25) sold during lu
- nches and digital tickets ($27.25) available on the GoFan app until midnig
- ht. No tickets sold after October 15 and none at the door.
+LOCATION:Conway High School / GoFan app
+DESCRIPTION:Last day to buy Homecoming tickets. Digital tickets ($27.25) o
+ n GoFan until midnight October 15\; physical tickets ($25) sold during lun
+ ches. No tickets sold at the door\, no refunds.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-2dd1e17a9ca7@calendar-sync.conwaypto.org
@@ -170,7 +131,7 @@ DTEND;VALUE=DATE:20261016
 SUMMARY:Homecoming Spirit Week: Party in Rio
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Go BIG and BOLD in bright & neon colors!
+DESCRIPTION:Spirit day — go BIG and BOLD in bright & neon colors.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-2380dc0f5f23@calendar-sync.conwaypto.org
@@ -180,20 +141,21 @@ DTEND;VALUE=DATE:20261017
 SUMMARY:Homecoming Spirit Week: Grade Wars
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Grade Wars day - 10th Grade: White\, 11th Grade: Blue\, 12th G
- rade: Black.
+DESCRIPTION:Spirit day — Grade Wars: 10th grade wear white\, 11th grade 
+ blue\, 12th grade black.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-cde705c113b3@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=America/Chicago:20261016T203000
 DTEND;TZID=America/Chicago:20261016T213000
-SUMMARY:Homecoming Dance - A Night in Rio
+SUMMARY:Homecoming Dance: A Night in Rio
 CATEGORIES:ACTIVITIES
 LOCATION:CHS Cafeteria
-DESCRIPTION:The Conway High School 2026 Homecoming Dance. No freshmen and 
- no students over 20 may attend. Out-of-school dates must be escorted by a 
- current CHS student. All students must show photo ID to enter.
+DESCRIPTION:Conway High School 2026 Homecoming Dance. No freshmen and no s
+ tudents over 20 may attend. Out-of-school dates must be escorted by a curr
+ ent CHS student (part-time students need administration approval). All stu
+ dents must show photo ID to enter.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-62945859218c@calendar-sync.conwaypto.org
@@ -203,7 +165,7 @@ DTEND;VALUE=DATE:20261029
 SUMMARY:Jostens In-Person Order Date
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Jostens in-person order date at CHS.
+DESCRIPTION:Jostens in-person ordering day.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-577d178b8308@calendar-sync.conwaypto.org
@@ -252,5 +214,24 @@ SUMMARY:Last required day for exempt students
 CATEGORIES:ACTIVITIES
 DESCRIPTION:<p><span>*Students will be notified each period by their teach
  er for exam exemption status.</span></p><p></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-345f1ec3c798@calendar-sync.conwaypto.org
+DTSTAMP:20270112T000000Z
+DTSTART;TZID=America/Chicago:20270112T180000
+DTEND;TZID=America/Chicago:20270112T200000
+SUMMARY:School Board Meeting
+CATEGORIES:ACTIVITIES
+LOCATION:2220 Prince St\, Conway\, AR 72034\, USA
+DESCRIPTION:<p>School Board Information:Â <a rel="noopener noreferrer no
+ follow" href="https://www.google.com/url?q=https://www.conwayschools.org/p
+ age/schoolboard&amp\;sa=D&amp\;source=calendar&amp\;ust=1780949647021493&a
+ mp\;usg=AOvVaw2XUBScutBwo8ECx6q-3sPx" target="_blank">https://www.conwaysc
+ hools.org/page/schoolboard</a></p><p>View School Board meetings live at:Â
+  <a rel="noopener noreferrer nofollow" href="https://www.google.com/url?q
+ =https://www.youtube.com/@conwaypublicschoolssocialm3021/featured&amp\;sa=
+ D&amp\;source=calendar&amp\;ust=1780949647021493&amp\;usg=AOvVaw3AiPO27yp0
+ hqG3J4LsCoi7" target="_blank">https://www.youtube.com/@conwaypublicschools
+ socialm3021/featured</a></p>
 END:VEVENT
 END:VCALENDAR

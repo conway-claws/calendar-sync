@@ -23,57 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-f50d73e749d7@calendar-sync.conwaypto.org
-DTSTAMP:20261012T000000Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Cross Country State Tournament at Burns Park
-CATEGORIES:ATHLETICS
-LOCATION:Burns Park
-DESCRIPTION:Conway High School competes in the state tournament at Burns P
- ark.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-5e88394ec0ed@calendar-sync.conwaypto.org
-DTSTAMP:20261013T000000Z
-DTSTART;TZID=America/Chicago:20261013T153000
-DTEND;TZID=America/Chicago:20261013T183000
-SUMMARY:Boys Varsity Cross Country vs Wampus Cat Invitational
-CATEGORIES:ATHLETICS
-LOCATION:Meadow Tech Park
-DESCRIPTION:Boys Varsity Cross Country vs Wampus Cat Invitational
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-5ecd90baa7c0@calendar-sync.conwaypto.org
-DTSTAMP:20261013T000000Z
-DTSTART;TZID=America/Chicago:20261013T180000
-DTEND;TZID=America/Chicago:20261013T210000
-SUMMARY:Girls Varsity Volleyball vs Central  Pink Night
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls Varsity Volleyball vs Central  Pink Night
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-7c4ae975854e@calendar-sync.conwaypto.org
-DTSTAMP:20261013T000000Z
-DTSTART;TZID=America/Chicago:20261013T170000
-DTEND;TZID=America/Chicago:20261013T200000
-SUMMARY:Girls JV Volleyball vs Central
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls JV Volleyball vs Central
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-e83ad9354325@calendar-sync.conwaypto.org
-DTSTAMP:20261013T000000Z
-DTSTART;TZID=America/Chicago:20261013T153000
-DTEND;TZID=America/Chicago:20261013T183000
-SUMMARY:Girls Varsity Cross Country vs Wampus Cat Invitational
-CATEGORIES:ATHLETICS
-LOCATION:Meadow Tech Park
-DESCRIPTION:Girls Varsity Cross Country vs Wampus Cat Invitational
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-350027bd0d45@calendar-sync.conwaypto.org
 DTSTAMP:20261013T000000Z
 DTSTART;TZID=America/Chicago:20261013T153000
@@ -154,11 +103,11 @@ UID:feed-9aceea604165@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=America/Chicago:20261016T190000
 DTEND;TZID=America/Chicago:20261016T200000
-SUMMARY:Homecoming Football Game vs. Central High School & Coronation
+SUMMARY:Homecoming Game vs. Central High School & Coronation
 CATEGORIES:ATHLETICS
 LOCATION:John McConnell Stadium
-DESCRIPTION:Wampus Cats take on Central High School for Homecoming. Corona
- tion of the Queen at 7 p.m. Theme: A Night in Rio.
+DESCRIPTION:Conway High School Homecoming: Wampus Cats take on Central Hig
+ h School with the Coronation of the Queen at 7 p.m.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-a634f5a6a6a0@calendar-sync.conwaypto.org
@@ -176,11 +125,11 @@ UID:newsletter-66206921a498@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Football Game - Homecoming (Pink & Purple Theme)
+SUMMARY:Homecoming Football Game — Pink & Purple Theme
 CATEGORIES:ATHLETICS
 LOCATION:Home
-DESCRIPTION:Home football game\, Homecoming. Theme: Pink & Purple. Student
- s need their student ID to enter football games.
+DESCRIPTION:Home football game\, Homecoming. Student section theme: Pink &
+  Purple. Students need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-562c228c4e1c@calendar-sync.conwaypto.org
@@ -290,11 +239,11 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Game - Super Hero Theme
+SUMMARY:Football Game — Super Hero Theme
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Away football game. Theme: Super Hero. Students need their stu
- dent ID to enter football games.
+DESCRIPTION:Away football game. Student section theme: Super Hero. Student
+ s need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-54c6e937bb32@calendar-sync.conwaypto.org
@@ -371,11 +320,11 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Game - Frat Theme
+SUMMARY:Football Game — Frat Theme
 CATEGORIES:ATHLETICS
 LOCATION:Home
-DESCRIPTION:Home football game. Theme: Frat. Students need their student I
- D to enter football games.
+DESCRIPTION:Home football game. Student section theme: Frat. Students need
+  their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -436,9 +385,8 @@ SUMMARY:Baseball Tryouts for New Students
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
 DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
- nting to participate in baseball for the 2026-2027 school year. A current 
- physical must be entered in DragonFly Max. Email hardinl@conwayschools.inf
- o to sign up.
+ nting to play baseball in 2026-2027. A current physical must be in DragonF
+ ly Max. Email hardinl@conwayschools.info to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8295f0eae580@calendar-sync.conwaypto.org
@@ -495,11 +443,11 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Game - Whiteout Theme
+SUMMARY:Football Game — Whiteout Theme
 CATEGORIES:ATHLETICS
 LOCATION:Away
-DESCRIPTION:Away football game. Theme: Whiteout. Students need their stude
- nt ID to enter football games.
+DESCRIPTION:Away football game. Student section theme: Whiteout. Students 
+ need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-181efad4c93d@calendar-sync.conwaypto.org
@@ -1384,5 +1332,65 @@ SUMMARY:Boys JV Wrestling at Challenge Matches
 CATEGORIES:ATHLETICS
 LOCATION:Greenbrier
 DESCRIPTION:Boys JV Wrestling at Challenge Matches
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-3ae38dd26339@calendar-sync.conwaypto.org
+DTSTAMP:20270112T000000Z
+DTSTART;TZID=America/Chicago:20270112T164500
+DTEND;TZID=America/Chicago:20270112T194500
+SUMMARY:Girls JV Basketball at Cabot
+CATEGORIES:ATHLETICS
+LOCATION:Cabot HS
+DESCRIPTION:Girls JV Basketball at Cabot
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-8f249daa1b1e@calendar-sync.conwaypto.org
+DTSTAMP:20270112T000000Z
+DTSTART;TZID=America/Chicago:20270112T193000
+DTEND;TZID=America/Chicago:20270112T223000
+SUMMARY:Boys Varsity Basketball at Cabot
+CATEGORIES:ATHLETICS
+LOCATION:Cabot HS
+DESCRIPTION:Boys Varsity Basketball at Cabot
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-a078464200f5@calendar-sync.conwaypto.org
+DTSTAMP:20270112T000000Z
+DTSTART;TZID=America/Chicago:20270112T164500
+DTEND;TZID=America/Chicago:20270112T194500
+SUMMARY:Boys JV Basketball at Cabot
+CATEGORIES:ATHLETICS
+LOCATION:Cabot HS
+DESCRIPTION:Boys JV Basketball at Cabot
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-a525d970dea2@calendar-sync.conwaypto.org
+DTSTAMP:20270112T000000Z
+DTSTART;TZID=America/Chicago:20270112T180000
+DTEND;TZID=America/Chicago:20270112T210000
+SUMMARY:Girls Varsity Wrestling at CBC
+CATEGORIES:ATHLETICS
+LOCATION:Central Baptist
+DESCRIPTION:Girls Varsity Wrestling at CBC
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-f9093bea982f@calendar-sync.conwaypto.org
+DTSTAMP:20270112T000000Z
+DTSTART;TZID=America/Chicago:20270112T164500
+DTEND;TZID=America/Chicago:20270112T194500
+SUMMARY:Girls Varsity Basketball at Cabot
+CATEGORIES:ATHLETICS
+LOCATION:Cabot High School
+DESCRIPTION:Girls Varsity Basketball at Cabot
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-fa689c56cf35@calendar-sync.conwaypto.org
+DTSTAMP:20270112T000000Z
+DTSTART;TZID=America/Chicago:20270112T180000
+DTEND;TZID=America/Chicago:20270112T210000
+SUMMARY:Boys Varsity Wrestling at CBC
+CATEGORIES:ATHLETICS
+LOCATION:Central Baptist
+DESCRIPTION:Boys Varsity Wrestling at CBC
 END:VEVENT
 END:VCALENDAR
