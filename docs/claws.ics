@@ -23,80 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-789733e57081@calendar-sync.conwaypto.org
-DTSTAMP:20261014T000000Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Club America Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:Room A104
-DESCRIPTION:Club America (formerly Young Republicans) meets during WIN in 
- Mr. S's room A104. Get a pass from Mrs. Rice (257)\, Mrs. Glover (364)\, M
- rs. Imboden (109) or Mrs. Hammett (913).
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-7cabd2cb42a1@calendar-sync.conwaypto.org
-DTSTAMP:20261014T000000Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Homecoming Spirit Week: Birds of a Feather
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
-DESCRIPTION:Spirit day — match with your friends and show off your flock
- !
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-921ef0758eb1@calendar-sync.conwaypto.org
-DTSTAMP:20261014T000000Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Homecoming Dance Physical Ticket Sales
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School (during lunches)
-DESCRIPTION:Physical tickets ($25) sold in person during lunches on Octobe
- r 12\, 13\, 14\, and 15. No tickets sold after October 15 and none at the 
- door.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-af7e5f03bf33@calendar-sync.conwaypto.org
-DTSTAMP:20261014T000000Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:FCS Club Meeting (Rescheduled)
-CATEGORIES:ACTIVITIES
-LOCATION:Room 365
-DESCRIPTION:Rescheduled FCS meeting during WIN time due to Sophomore Atlas
-  Testing. Pick up a pass from Mrs. Dunn's room.
-END:VEVENT
-BEGIN:VEVENT
-UID:orchestra-4eb0efd30ab3@calendar-sync.conwaypto.org
-DTSTAMP:20261014T000000Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:"La Fiesta Orquesta" ticket sales and donation drive begin!
-CATEGORIES:ARTS
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-a78340100fa9@calendar-sync.conwaypto.org
-DTSTAMP:20261015T000000Z
-DTSTART;TZID=America/Chicago:20261015T180000
-DTEND;TZID=America/Chicago:20261015T210000
-SUMMARY:Girls Varsity Volleyball at Jonesboro
-CATEGORIES:ATHLETICS
-LOCATION:Jonesboro VB Gym
-DESCRIPTION:Girls Varsity Volleyball at Jonesboro
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-eeaeaa96fcda@calendar-sync.conwaypto.org
-DTSTAMP:20261015T000000Z
-DTSTART;TZID=America/Chicago:20261015T170000
-DTEND;TZID=America/Chicago:20261015T200000
-SUMMARY:Girls JV Volleyball at Jonesboro
-CATEGORIES:ATHLETICS
-LOCATION:Jonesboro High VB Gym
-DESCRIPTION:Girls JV Volleyball at Jonesboro
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-1421b8c8b647@calendar-sync.conwaypto.org
 DTSTAMP:20261015T000000Z
 DTSTART;TZID=America/Chicago:20261015T190000
@@ -176,18 +102,18 @@ DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Deadline: Senior Yearbook Ad Ordering Deadline
 CATEGORIES:ACADEMICS
-DESCRIPTION:Jostens reopened the senior ad ordering link for the CHS yearb
- ook\; ordering closes October 16.
+DESCRIPTION:Jostens reopened the senior ad ordering link\; final chance to
+  purchase a senior yearbook ad before it closes.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-4ff885724d25@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Deadline: CHS Spirit Store 30% Off Tees Sale Ends
+SUMMARY:Deadline: BSN Sports 30% Off Tees Sale Ends
 CATEGORIES:ACADEMICS
-DESCRIPTION:72-hour sale: 30% off tees at the Conway High School West Camp
- us sideline store through 10/16.
+DESCRIPTION:72-hour sale offering 30% off tees at the Conway High School W
+ est Campus online store.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-69c9266f81d8@calendar-sync.conwaypto.org
@@ -206,24 +132,21 @@ UID:feed-70ae7ccf92e1@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Deadline: Homecoming Dance Ticket Sales Deadline
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
-DESCRIPTION:Last chance to buy Homecoming 2026 'A Night in Rio' dance tick
- ets. Paper tickets $25 (cash or check only) end at the end of 2nd lunch\; 
- digital tickets on GoFan $27.25 end at midnight. No tickets sold the day o
- f the dance.
+SUMMARY:Deadline: Homecoming Ticket Sales End (Digital)
+CATEGORIES:ACADEMICS
+DESCRIPTION:Final day to buy tickets for Homecoming 2026: A Night in Rio. 
+ Digital tickets $27.25 on GoFan\; online sales end at midnight. No tickets
+  sold at the door.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-9aceea604165@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
-DTSTART;TZID=America/Chicago:20261016T190000
-DTEND;TZID=America/Chicago:20261016T200000
-SUMMARY:Homecoming Football Game vs. Central & Queen Coronation
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Homecoming Football Game: Conway vs Central
 CATEGORIES:ATHLETICS
-LOCATION:John McConnell Stadium
-DESCRIPTION:Wampus Cats take on Central High School for Homecoming. Corona
- tion of the Homecoming Queen at 7 p.m. with the 2026 Homecoming Court.
+DESCRIPTION:Homecoming football game against Central. Football program ava
+ ilable online.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-a634f5a6a6a0@calendar-sync.conwaypto.org
@@ -241,11 +164,11 @@ UID:newsletter-2380dc0f5f23@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Homecoming Spirit Week: Grade Wars
+SUMMARY:Spirit Week: Grade Wars Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Grade Wars spirit day - 10th Grade: White\, 11th Grade: Blue\,
-  12th Grade: Black.
+DESCRIPTION:Final day of Homecoming Spirit Week - Grade Wars! 10th grade w
+ ears white\, 11th grade blue\, 12th grade black.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-66206921a498@calendar-sync.conwaypto.org
@@ -255,20 +178,21 @@ DTEND;VALUE=DATE:20261017
 SUMMARY:Home Football Game - Homecoming (Pink & Purple Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Homecoming home football game with Pink & Purple student secti
- on theme. Students need their student ID to enter football games.
+DESCRIPTION:Home football game for Homecoming. Student section theme: Pink
+  & Purple. Students need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-cde705c113b3@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=America/Chicago:20261016T203000
-DTEND;TZID=America/Chicago:20261016T213000
+DTEND;TZID=America/Chicago:20261016T235900
 SUMMARY:Homecoming Dance - A Night in Rio
 CATEGORIES:ACTIVITIES
 LOCATION:CHS Cafeteria
-DESCRIPTION:Conway High School 2026 Homecoming Dance. No freshmen and no s
- tudents over 20 may attend. Out-of-school dates must be escorted by a curr
- ent CHS student. All students must show a photo ID to enter.
+DESCRIPTION:The Conway High School 2026 Homecoming Dance\, "A Night in Rio
+ \," in the CHS Cafeteria. No freshmen and no students over 20 may attend. 
+ Out-of-school dates must be escorted by a current CHS student. All student
+ s must show a photo ID to enter. No tickets sold at the door.
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-562c228c4e1c@calendar-sync.conwaypto.org
@@ -281,6 +205,28 @@ LOCATION:John McConnell Stadium
 DESCRIPTION:The Wampus Cats take on Central High School for Homecoming. Co
  ronation of the Queen takes place at 7 p.m. at John McConnell Stadium with
   the 2026 Homecoming Court.
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-6c830e012a70@calendar-sync.conwaypto.org
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Deadline: Marching Band Homecoming Warm-Up and March-In
+CATEGORIES:ARTS
+LOCATION:Conway High School Courtyard / McConnell Stadium
+DESCRIPTION:The Conway Wampus Cat Marching Band warms up at 5:45pm in the 
+ Conway High School Courtyard\, then marches into McConnell Stadium at 6:15
+ pm ahead of the 7pm Homecoming game.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-ac6d29cef649@calendar-sync.conwaypto.org
+DTSTAMP:20261017T000000Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Homecoming Dance 2026: A Night in Rio
+CATEGORIES:ACTIVITIES
+DESCRIPTION:Conway High School Homecoming dance. Tickets must be purchased
+  in advance\; no tickets sold the day of the dance.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
@@ -369,8 +315,9 @@ CATEGORIES:ACADEMICS
 LOCATION:CHS Lecture Hall
 DESCRIPTION:Held in conjunction with Parent/Teacher Conferences. Financial
   aid representatives from local colleges will help parents and students co
- mplete the FAFSA and SAMS application. Create a FAFSA ID at studentaid.gov
-  beforehand and bring parents' 2025 tax returns.
+ mplete the FAFSA and SAMS application (Arkansas Academic Challenge Scholar
+ ship). Create a FAFSA ID at studentaid.gov beforehand and bring parents' 2
+ 025 tax returns.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-efa402f4ce1a@calendar-sync.conwaypto.org
@@ -412,8 +359,8 @@ DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Fall Break – Schools & Offices Closed
 CATEGORIES:ACADEMICS
-DESCRIPTION:Fall Break October 22-23\; schools and offices closed. Student
- s return to school October 26.
+DESCRIPTION:Fall Break on October 22-23\; schools and offices closed. Stud
+ ents return to school October 26.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-854e44651730@calendar-sync.conwaypto.org
@@ -440,8 +387,8 @@ DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Fall Break – Schools & Offices Closed
 CATEGORIES:ACADEMICS
-DESCRIPTION:Second day of Fall Break\; schools and offices closed. Student
- s return to school October 26.
+DESCRIPTION:Fall Break\; schools and offices closed. Students return Octob
+ er 26.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
@@ -450,8 +397,8 @@ DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Away Football Game - Super Hero Theme
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game with Super Hero student section theme. Stud
- ents need their student ID to enter.
+DESCRIPTION:Away football game. Student section theme: Super Hero. Student
+ s need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-54c6e937bb32@calendar-sync.conwaypto.org
@@ -503,9 +450,9 @@ DTEND;TZID=America/Chicago:20261024T160000
 SUMMARY:FAFSA Help Day (Arkansas Asset Builders)
 CATEGORIES:ACADEMICS
 LOCATION:Faulkner County Library\, Program Space 2
-DESCRIPTION:Computer workstations available or bring your own device to ac
- cess the FAFSA. Online registration at https://waitwhile.com/locations/faf
- sahelpday.
+DESCRIPTION:FAFSA Help Day hosted by Arkansas Asset Builders. Computer wor
+ kstations available or bring your own device. Online registration at https
+ ://waitwhile.com/locations/fafsahelpday
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d86ab69c17f1@calendar-sync.conwaypto.org
@@ -534,7 +481,7 @@ DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Students Return to School
 CATEGORIES:ACADEMICS
-DESCRIPTION:Classes resume following the extended October break.
+DESCRIPTION:Classes resume following the extended fall break.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-809f3bea272f@calendar-sync.conwaypto.org
@@ -575,12 +522,12 @@ UID:newsletter-51caf9ce0c53@calendar-sync.conwaypto.org
 DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:Accuplacer Testing for Seniors
+SUMMARY:Accuplacer Test for Seniors
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Free college entrance exam for seniors with morning and aftern
- oon sessions. Sign-up link was emailed October 5\; contact your counselor 
- with questions.
+DESCRIPTION:Seniors can take the Accuplacer college entrance exam for free
+  at CHS. Morning and afternoon sessions available\; sign-up link was email
+ ed October 5th. Contact your counselor with questions.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-62945859218c@calendar-sync.conwaypto.org
@@ -590,7 +537,7 @@ DTEND;VALUE=DATE:20261029
 SUMMARY:Jostens In-Person Order Date
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Jostens will be on campus for in-person orders.
+DESCRIPTION:Jostens in-person order date at CHS.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d6558afcaad8@calendar-sync.conwaypto.org
@@ -609,9 +556,8 @@ DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Deadline: Pink Night Donation Link Closes
 CATEGORIES:ACADEMICS
-DESCRIPTION:Last day to donate via GoFan in support of Pink Night recipien
- t Emmersyn Caldwell and her family. All proceeds go to Emmersyn and her fa
- mily.
+DESCRIPTION:Last day to donate in support of Emmersyn and her family throu
+ gh the GoFan donation link.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
@@ -621,8 +567,8 @@ DTEND;VALUE=DATE:20261031
 SUMMARY:Home Football Game - Frat Theme
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home football game with Frat student section theme. Students n
- eed their student ID to enter.
+DESCRIPTION:Home football game. Student section theme: Frat. Students need
+  their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -683,8 +629,9 @@ SUMMARY:Baseball Tryouts for New Students
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
 DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
- nting to play baseball in 2026-2027. A current physical must be entered in
- to DragonFly Max. Email hardinl@conwayschools.info to sign up.
+ nting to participate in baseball for the 2026-2027 school year. A current 
+ physical must be entered into DragonFly Max. Email hardinl@conwayschools.i
+ nfo to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-2ca722c16d5b@calendar-sync.conwaypto.org
@@ -751,8 +698,8 @@ DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Away Football Game - Whiteout Theme
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game with Whiteout student section theme. Studen
- ts need their student ID to enter.
+DESCRIPTION:Away football game. Student section theme: Whiteout. Students 
+ need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-187c89a7721b@calendar-sync.conwaypto.org
@@ -934,12 +881,12 @@ UID:newsletter-117669b1dcec@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:ASVAB Testing for Seniors
+SUMMARY:ASVAB Test for Seniors
 CATEGORIES:ACADEMICS
 LOCATION:CHS Lecture Hall
-DESCRIPTION:Career exploration test given in the afternoon. Seniors sign u
- p in the Counseling Center\; seats are limited. Bring a fully charged Chro
- mebook.
+DESCRIPTION:Seniors may sign up in the Counseling Center to take the ASVAB
+  career exploration test in the afternoon. Bring a fully charged Chromeboo
+ k. Seats are limited.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-1abd4f542d2b@calendar-sync.conwaypto.org
@@ -1389,11 +1336,11 @@ UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
 DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Deadline: Last Day to Turn In Doctor's Notes for Exam Exemption
+SUMMARY:Deadline: Last Day to Turn in Doctor's Notes for Exam Exemption
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Last day to turn in doctor's notes toward exemption status\; n
- otes accepted for credit until 12/18.
+DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
+ s. Notes will be accepted for credit until 12/18.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-6dc2ef650520@calendar-sync.conwaypto.org
@@ -1587,7 +1534,8 @@ DTEND;VALUE=DATE:20261216
 SUMMARY:Fall Semester Exams - Day 1
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day with a modified bell schedule (TBD).
+DESCRIPTION:Semester exam day\; a modified bell schedule will be run (TBD)
+ .
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-1698bb095b37@calendar-sync.conwaypto.org
@@ -1605,7 +1553,8 @@ DTEND;VALUE=DATE:20261217
 SUMMARY:Fall Semester Exams - Day 2
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day with a modified bell schedule (TBD).
+DESCRIPTION:Semester exam day\; a modified bell schedule will be run (TBD)
+ .
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-bc9027022add@calendar-sync.conwaypto.org
@@ -2075,6 +2024,56 @@ DTSTAMP:20270113T000000Z
 DTSTART;TZID=America/Chicago:20270113T154500
 DTEND;TZID=America/Chicago:20270113T173000
 SUMMARY:CHS Symphonic Orchestra Rehearsal
+CATEGORIES:ARTS
+LOCATION:James H. Clark Auditorium\n2300 Prince St\, Conway\, AR  72034\, 
+ United States
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-074089a6911d@calendar-sync.conwaypto.org
+DTSTAMP:20270114T000000Z
+DTSTART;TZID=America/Chicago:20270114T170000
+DTEND;TZID=America/Chicago:20270114T200000
+SUMMARY:Girls Varsity Wrestling vs Catholic\, Jonesboro
+CATEGORIES:ATHLETICS
+LOCATION:Conway
+DESCRIPTION:Girls Varsity Wrestling vs Catholic\, Jonesboro
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-6269602c23a6@calendar-sync.conwaypto.org
+DTSTAMP:20270114T000000Z
+DTSTART;TZID=America/Chicago:20270114T170000
+DTEND;TZID=America/Chicago:20270114T200000
+SUMMARY:Boys Varsity Wrestling vs Catholic\, Jonesboro
+CATEGORIES:ATHLETICS
+LOCATION:Conway
+DESCRIPTION:Boys Varsity Wrestling vs Catholic\, Jonesboro
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-9b9dff79060f@calendar-sync.conwaypto.org
+DTSTAMP:20270114T000000Z
+DTSTART;TZID=America/Chicago:20270114T000000
+DTEND;TZID=America/Chicago:20270114T030000
+SUMMARY:Girls Varsity Swim and Dive at Texarkana
+CATEGORIES:ATHLETICS
+LOCATION:Texarkana College
+DESCRIPTION:Girls Varsity Swim and Dive at Texarkana
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-fb5c033395b5@calendar-sync.conwaypto.org
+DTSTAMP:20270114T000000Z
+DTSTART;TZID=America/Chicago:20270114T000000
+DTEND;TZID=America/Chicago:20270114T030000
+SUMMARY:Boys Varsity Swim and Dive at Texarkana
+CATEGORIES:ATHLETICS
+LOCATION:Texarkana College
+DESCRIPTION:Boys Varsity Swim and Dive at Texarkana
+END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-24a259b12187@calendar-sync.conwaypto.org
+DTSTAMP:20270114T000000Z
+DTSTART;TZID=America/Chicago:20270114T183000
+DTEND;TZID=America/Chicago:20270114T193000
+SUMMARY:CHS Symphonic Orchestra Concert
 CATEGORIES:ARTS
 LOCATION:James H. Clark Auditorium\n2300 Prince St\, Conway\, AR  72034\, 
  United States

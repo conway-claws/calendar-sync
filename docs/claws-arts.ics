@@ -23,12 +23,16 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:orchestra-4eb0efd30ab3@calendar-sync.conwaypto.org
-DTSTAMP:20261014T000000Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:"La Fiesta Orquesta" ticket sales and donation drive begin!
+UID:rss-6c830e012a70@calendar-sync.conwaypto.org
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Deadline: Marching Band Homecoming Warm-Up and March-In
 CATEGORIES:ARTS
+LOCATION:Conway High School Courtyard / McConnell Stadium
+DESCRIPTION:The Conway Wampus Cat Marching Band warms up at 5:45pm in the 
+ Conway High School Courtyard\, then marches into McConnell Stadium at 6:15
+ pm ahead of the 7pm Homecoming game.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-2ca722c16d5b@calendar-sync.conwaypto.org
@@ -168,6 +172,16 @@ DTSTAMP:20270113T000000Z
 DTSTART;TZID=America/Chicago:20270113T154500
 DTEND;TZID=America/Chicago:20270113T173000
 SUMMARY:CHS Symphonic Orchestra Rehearsal
+CATEGORIES:ARTS
+LOCATION:James H. Clark Auditorium\n2300 Prince St\, Conway\, AR  72034\, 
+ United States
+END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-24a259b12187@calendar-sync.conwaypto.org
+DTSTAMP:20270114T000000Z
+DTSTART;TZID=America/Chicago:20270114T183000
+DTEND;TZID=America/Chicago:20270114T193000
+SUMMARY:CHS Symphonic Orchestra Concert
 CATEGORIES:ARTS
 LOCATION:James H. Clark Auditorium\n2300 Prince St\, Conway\, AR  72034\, 
  United States

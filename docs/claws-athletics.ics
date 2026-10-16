@@ -23,26 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:athletics-a78340100fa9@calendar-sync.conwaypto.org
-DTSTAMP:20261015T000000Z
-DTSTART;TZID=America/Chicago:20261015T180000
-DTEND;TZID=America/Chicago:20261015T210000
-SUMMARY:Girls Varsity Volleyball at Jonesboro
-CATEGORIES:ATHLETICS
-LOCATION:Jonesboro VB Gym
-DESCRIPTION:Girls Varsity Volleyball at Jonesboro
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-eeaeaa96fcda@calendar-sync.conwaypto.org
-DTSTAMP:20261015T000000Z
-DTSTART;TZID=America/Chicago:20261015T170000
-DTEND;TZID=America/Chicago:20261015T200000
-SUMMARY:Girls JV Volleyball at Jonesboro
-CATEGORIES:ATHLETICS
-LOCATION:Jonesboro High VB Gym
-DESCRIPTION:Girls JV Volleyball at Jonesboro
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-1421b8c8b647@calendar-sync.conwaypto.org
 DTSTAMP:20261015T000000Z
 DTSTART;TZID=America/Chicago:20261015T190000
@@ -78,13 +58,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:feed-9aceea604165@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
-DTSTART;TZID=America/Chicago:20261016T190000
-DTEND;TZID=America/Chicago:20261016T200000
-SUMMARY:Homecoming Football Game vs. Central & Queen Coronation
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Homecoming Football Game: Conway vs Central
 CATEGORIES:ATHLETICS
-LOCATION:John McConnell Stadium
-DESCRIPTION:Wampus Cats take on Central High School for Homecoming. Corona
- tion of the Homecoming Queen at 7 p.m. with the 2026 Homecoming Court.
+DESCRIPTION:Homecoming football game against Central. Football program ava
+ ilable online.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-a634f5a6a6a0@calendar-sync.conwaypto.org
@@ -105,8 +84,8 @@ DTEND;VALUE=DATE:20261017
 SUMMARY:Home Football Game - Homecoming (Pink & Purple Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Homecoming home football game with Pink & Purple student secti
- on theme. Students need their student ID to enter football games.
+DESCRIPTION:Home football game for Homecoming. Student section theme: Pink
+  & Purple. Students need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-562c228c4e1c@calendar-sync.conwaypto.org
@@ -218,8 +197,8 @@ DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Away Football Game - Super Hero Theme
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game with Super Hero student section theme. Stud
- ents need their student ID to enter.
+DESCRIPTION:Away football game. Student section theme: Super Hero. Student
+ s need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-54c6e937bb32@calendar-sync.conwaypto.org
@@ -299,8 +278,8 @@ DTEND;VALUE=DATE:20261031
 SUMMARY:Home Football Game - Frat Theme
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home football game with Frat student section theme. Students n
- eed their student ID to enter.
+DESCRIPTION:Home football game. Student section theme: Frat. Students need
+  their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -361,8 +340,9 @@ SUMMARY:Baseball Tryouts for New Students
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
 DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
- nting to play baseball in 2026-2027. A current physical must be entered in
- to DragonFly Max. Email hardinl@conwayschools.info to sign up.
+ nting to participate in baseball for the 2026-2027 school year. A current 
+ physical must be entered into DragonFly Max. Email hardinl@conwayschools.i
+ nfo to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8295f0eae580@calendar-sync.conwaypto.org
@@ -421,8 +401,8 @@ DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Away Football Game - Whiteout Theme
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game with Whiteout student section theme. Studen
- ts need their student ID to enter.
+DESCRIPTION:Away football game. Student section theme: Whiteout. Students 
+ need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-181efad4c93d@calendar-sync.conwaypto.org
@@ -1367,5 +1347,45 @@ SUMMARY:Boys Varsity Wrestling at CBC
 CATEGORIES:ATHLETICS
 LOCATION:Central Baptist
 DESCRIPTION:Boys Varsity Wrestling at CBC
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-074089a6911d@calendar-sync.conwaypto.org
+DTSTAMP:20270114T000000Z
+DTSTART;TZID=America/Chicago:20270114T170000
+DTEND;TZID=America/Chicago:20270114T200000
+SUMMARY:Girls Varsity Wrestling vs Catholic\, Jonesboro
+CATEGORIES:ATHLETICS
+LOCATION:Conway
+DESCRIPTION:Girls Varsity Wrestling vs Catholic\, Jonesboro
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-6269602c23a6@calendar-sync.conwaypto.org
+DTSTAMP:20270114T000000Z
+DTSTART;TZID=America/Chicago:20270114T170000
+DTEND;TZID=America/Chicago:20270114T200000
+SUMMARY:Boys Varsity Wrestling vs Catholic\, Jonesboro
+CATEGORIES:ATHLETICS
+LOCATION:Conway
+DESCRIPTION:Boys Varsity Wrestling vs Catholic\, Jonesboro
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-9b9dff79060f@calendar-sync.conwaypto.org
+DTSTAMP:20270114T000000Z
+DTSTART;TZID=America/Chicago:20270114T000000
+DTEND;TZID=America/Chicago:20270114T030000
+SUMMARY:Girls Varsity Swim and Dive at Texarkana
+CATEGORIES:ATHLETICS
+LOCATION:Texarkana College
+DESCRIPTION:Girls Varsity Swim and Dive at Texarkana
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-fb5c033395b5@calendar-sync.conwaypto.org
+DTSTAMP:20270114T000000Z
+DTSTART;TZID=America/Chicago:20270114T000000
+DTEND;TZID=America/Chicago:20270114T030000
+SUMMARY:Boys Varsity Swim and Dive at Texarkana
+CATEGORIES:ATHLETICS
+LOCATION:Texarkana College
+DESCRIPTION:Boys Varsity Swim and Dive at Texarkana
 END:VEVENT
 END:VCALENDAR

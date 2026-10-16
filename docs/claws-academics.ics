@@ -49,18 +49,29 @@ DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Deadline: Senior Yearbook Ad Ordering Deadline
 CATEGORIES:ACADEMICS
-DESCRIPTION:Jostens reopened the senior ad ordering link for the CHS yearb
- ook\; ordering closes October 16.
+DESCRIPTION:Jostens reopened the senior ad ordering link\; final chance to
+  purchase a senior yearbook ad before it closes.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-4ff885724d25@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-SUMMARY:Deadline: CHS Spirit Store 30% Off Tees Sale Ends
+SUMMARY:Deadline: BSN Sports 30% Off Tees Sale Ends
 CATEGORIES:ACADEMICS
-DESCRIPTION:72-hour sale: 30% off tees at the Conway High School West Camp
- us sideline store through 10/16.
+DESCRIPTION:72-hour sale offering 30% off tees at the Conway High School W
+ est Campus online store.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-70ae7ccf92e1@calendar-sync.conwaypto.org
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Deadline: Homecoming Ticket Sales End (Digital)
+CATEGORIES:ACADEMICS
+DESCRIPTION:Final day to buy tickets for Homecoming 2026: A Night in Rio. 
+ Digital tickets $27.25 on GoFan\; online sales end at midnight. No tickets
+  sold at the door.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-180b882db40c@calendar-sync.conwaypto.org
@@ -88,8 +99,9 @@ CATEGORIES:ACADEMICS
 LOCATION:CHS Lecture Hall
 DESCRIPTION:Held in conjunction with Parent/Teacher Conferences. Financial
   aid representatives from local colleges will help parents and students co
- mplete the FAFSA and SAMS application. Create a FAFSA ID at studentaid.gov
-  beforehand and bring parents' 2025 tax returns.
+ mplete the FAFSA and SAMS application (Arkansas Academic Challenge Scholar
+ ship). Create a FAFSA ID at studentaid.gov beforehand and bring parents' 2
+ 025 tax returns.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-efa402f4ce1a@calendar-sync.conwaypto.org
@@ -111,8 +123,8 @@ DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Fall Break – Schools & Offices Closed
 CATEGORIES:ACADEMICS
-DESCRIPTION:Fall Break October 22-23\; schools and offices closed. Student
- s return to school October 26.
+DESCRIPTION:Fall Break on October 22-23\; schools and offices closed. Stud
+ ents return to school October 26.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-854e44651730@calendar-sync.conwaypto.org
@@ -129,8 +141,8 @@ DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Fall Break – Schools & Offices Closed
 CATEGORIES:ACADEMICS
-DESCRIPTION:Second day of Fall Break\; schools and offices closed. Student
- s return to school October 26.
+DESCRIPTION:Fall Break\; schools and offices closed. Students return Octob
+ er 26.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-2b2ef9f0345f@calendar-sync.conwaypto.org
@@ -152,9 +164,9 @@ DTEND;TZID=America/Chicago:20261024T160000
 SUMMARY:FAFSA Help Day (Arkansas Asset Builders)
 CATEGORIES:ACADEMICS
 LOCATION:Faulkner County Library\, Program Space 2
-DESCRIPTION:Computer workstations available or bring your own device to ac
- cess the FAFSA. Online registration at https://waitwhile.com/locations/faf
- sahelpday.
+DESCRIPTION:FAFSA Help Day hosted by Arkansas Asset Builders. Computer wor
+ kstations available or bring your own device. Online registration at https
+ ://waitwhile.com/locations/fafsahelpday
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-689e5824824e@calendar-sync.conwaypto.org
@@ -163,7 +175,7 @@ DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Students Return to School
 CATEGORIES:ACADEMICS
-DESCRIPTION:Classes resume following the extended October break.
+DESCRIPTION:Classes resume following the extended fall break.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-809f3bea272f@calendar-sync.conwaypto.org
@@ -194,12 +206,12 @@ UID:newsletter-51caf9ce0c53@calendar-sync.conwaypto.org
 DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:Accuplacer Testing for Seniors
+SUMMARY:Accuplacer Test for Seniors
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Free college entrance exam for seniors with morning and aftern
- oon sessions. Sign-up link was emailed October 5\; contact your counselor 
- with questions.
+DESCRIPTION:Seniors can take the Accuplacer college entrance exam for free
+  at CHS. Morning and afternoon sessions available\; sign-up link was email
+ ed October 5th. Contact your counselor with questions.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-b2058567d680@calendar-sync.conwaypto.org
@@ -208,21 +220,20 @@ DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Deadline: Pink Night Donation Link Closes
 CATEGORIES:ACADEMICS
-DESCRIPTION:Last day to donate via GoFan in support of Pink Night recipien
- t Emmersyn Caldwell and her family. All proceeds go to Emmersyn and her fa
- mily.
+DESCRIPTION:Last day to donate in support of Emmersyn and her family throu
+ gh the GoFan donation link.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-117669b1dcec@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:ASVAB Testing for Seniors
+SUMMARY:ASVAB Test for Seniors
 CATEGORIES:ACADEMICS
 LOCATION:CHS Lecture Hall
-DESCRIPTION:Career exploration test given in the afternoon. Seniors sign u
- p in the Counseling Center\; seats are limited. Bring a fully charged Chro
- mebook.
+DESCRIPTION:Seniors may sign up in the Counseling Center to take the ASVAB
+  career exploration test in the afternoon. Bring a fully charged Chromeboo
+ k. Seats are limited.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-1abd4f542d2b@calendar-sync.conwaypto.org
@@ -259,11 +270,11 @@ UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
 DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Deadline: Last Day to Turn In Doctor's Notes for Exam Exemption
+SUMMARY:Deadline: Last Day to Turn in Doctor's Notes for Exam Exemption
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Last day to turn in doctor's notes toward exemption status\; n
- otes accepted for credit until 12/18.
+DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
+ s. Notes will be accepted for credit until 12/18.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-64acd1399778@calendar-sync.conwaypto.org
@@ -311,7 +322,8 @@ DTEND;VALUE=DATE:20261216
 SUMMARY:Fall Semester Exams - Day 1
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day with a modified bell schedule (TBD).
+DESCRIPTION:Semester exam day\; a modified bell schedule will be run (TBD)
+ .
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-1698bb095b37@calendar-sync.conwaypto.org
@@ -329,7 +341,8 @@ DTEND;VALUE=DATE:20261217
 SUMMARY:Fall Semester Exams - Day 2
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day with a modified bell schedule (TBD).
+DESCRIPTION:Semester exam day\; a modified bell schedule will be run (TBD)
+ .
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-bc9027022add@calendar-sync.conwaypto.org
