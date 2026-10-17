@@ -23,27 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-1421b8c8b647@calendar-sync.conwaypto.org
-DTSTAMP:20261015T000000Z
-DTSTART;TZID=America/Chicago:20261015T190000
-DTEND;TZID=America/Chicago:20261015T200000
-SUMMARY:JV Football at Cabot
-CATEGORIES:ATHLETICS
-LOCATION:Cabot
-DESCRIPTION:JV football game at Cabot with a 7:00 kickoff. Tickets availab
- le online through Vanco Events.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-9240e9684426@calendar-sync.conwaypto.org
-DTSTAMP:20261016T000000Z
-DTSTART;TZID=America/Chicago:20261016T190000
-DTEND;TZID=America/Chicago:20261016T220000
-SUMMARY:Boys Varsity Football vs Little Rock Central High  Homecoming
-CATEGORIES:ATHLETICS
-LOCATION:John McConnell Stadium
-DESCRIPTION:Boys Varsity Football vs Little Rock Central High  Homecoming
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-69c9266f81d8@calendar-sync.conwaypto.org
 DTSTAMP:20261016T000000Z
 DTSTART;TZID=America/Chicago:20261016T170000
@@ -195,10 +174,10 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Away Football Game - Super Hero Theme
+SUMMARY:Football Game - Away: Super Hero Theme
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game. Student section theme: Super Hero. Student
- s need their student ID to enter football games.
+DESCRIPTION:Away football game with Super Hero dress-up theme. Students ne
+ ed their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-54c6e937bb32@calendar-sync.conwaypto.org
@@ -275,11 +254,11 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Home Football Game - Frat Theme
+SUMMARY:Football Game - Home: Frat Theme
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home football game. Student section theme: Frat. Students need
-  their student ID to enter football games.
+DESCRIPTION:Home football game with Frat dress-up theme. Students need the
+ ir student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -332,11 +311,25 @@ LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls JV Basketball vs Basketball Madness
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-b7f4a9cc059a@calendar-sync.conwaypto.org
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Conway Baseball 9th-12th Grade Tryouts
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School
+DESCRIPTION:Tryouts for students new to Conway High School (and Conway Jun
+ ior High) wanting to participate in baseball for the 2026-2027 school year
+ \, held November 2-5. A current physical must be entered into DragonFly Ma
+ x in order to participate. Email hardinl@conwayschools.info to sign up and
+  for additional information.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-e32b5fa97b4a@calendar-sync.conwaypto.org
 DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:Baseball Tryouts for New Students
+SUMMARY:Baseball Tryouts for Students New to CHS
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
 DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
@@ -399,10 +392,10 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Away Football Game - Whiteout Theme
+SUMMARY:Football Game - Away: Whiteout Theme
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game. Student section theme: Whiteout. Students 
- need their student ID to enter football games.
+DESCRIPTION:Away football game with Whiteout dress-up theme. Students need
+  their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-181efad4c93d@calendar-sync.conwaypto.org
@@ -777,6 +770,26 @@ LOCATION:Buzz Bolding Arena
 DESCRIPTION:Boys Varsity Basketball vs Fort Smith Southside
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-21556622c260@calendar-sync.conwaypto.org
+DTSTAMP:20261203T000000Z
+DTSTART;TZID=America/Chicago:20261203T033000
+DTEND;TZID=America/Chicago:20261203T063000
+SUMMARY:Girls Varsity Bowling at Benton
+CATEGORIES:ATHLETICS
+LOCATION:Central Bowling Lanes
+DESCRIPTION:Girls Varsity Bowling at Benton
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-80b5b6be48bf@calendar-sync.conwaypto.org
+DTSTAMP:20261203T000000Z
+DTSTART;TZID=America/Chicago:20261203T160000
+DTEND;TZID=America/Chicago:20261203T190000
+SUMMARY:Girls Varsity Bowling vs Vilonia
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Girls Varsity Bowling vs Vilonia
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-926440ecdd10@calendar-sync.conwaypto.org
 DTSTAMP:20261203T000000Z
 DTSTART;TZID=America/Chicago:20261203T000000
@@ -797,6 +810,16 @@ LOCATION:Vilonia HS
 DESCRIPTION:Boys Varsity Basketball at Sylvan Hills
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-be35b88c2e43@calendar-sync.conwaypto.org
+DTSTAMP:20261203T000000Z
+DTSTART;TZID=America/Chicago:20261203T160000
+DTEND;TZID=America/Chicago:20261203T190000
+SUMMARY:Boys Varsity Bowling vs Vilonia
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Boys Varsity Bowling vs Vilonia
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-c36ad742df6d@calendar-sync.conwaypto.org
 DTSTAMP:20261203T000000Z
 DTSTART;TZID=America/Chicago:20261203T000000
@@ -805,6 +828,16 @@ SUMMARY:Boys Varsity Swim and Dive at Bixby
 CATEGORIES:ATHLETICS
 LOCATION:Bixby High School
 DESCRIPTION:Boys Varsity Swim and Dive at Bixby
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-d425de250569@calendar-sync.conwaypto.org
+DTSTAMP:20261203T000000Z
+DTSTART;TZID=America/Chicago:20261203T033000
+DTEND;TZID=America/Chicago:20261203T063000
+SUMMARY:Boys Varsity Bowling at Benton
+CATEGORIES:ATHLETICS
+LOCATION:Central Bowling Lanes
+DESCRIPTION:Boys Varsity Bowling at Benton
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0345fe46c4e5@calendar-sync.conwaypto.org
@@ -887,6 +920,16 @@ LOCATION:Springdale High School
 DESCRIPTION:Girls Varsity Basketball at Van Buren  Reddog Classic
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-630cc1fd1c11@calendar-sync.conwaypto.org
+DTSTAMP:20261210T000000Z
+DTSTART;TZID=America/Chicago:20261210T160000
+DTEND;TZID=America/Chicago:20261210T190000
+SUMMARY:Girls Varsity Bowling vs Quitman
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Girls Varsity Bowling vs Quitman
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-85f0bcf2082c@calendar-sync.conwaypto.org
 DTSTAMP:20261210T000000Z
 DTSTART;TZID=America/Chicago:20261210T000000
@@ -895,6 +938,16 @@ SUMMARY:Girls Varsity Swim and Dive vs Conway Meet
 CATEGORIES:ATHLETICS
 LOCATION:Hendrix Pool
 DESCRIPTION:Girls Varsity Swim and Dive vs Conway Meet
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-aa8d42d6fd3b@calendar-sync.conwaypto.org
+DTSTAMP:20261210T000000Z
+DTSTART;TZID=America/Chicago:20261210T160000
+DTEND;TZID=America/Chicago:20261210T190000
+SUMMARY:Boys Varsity Bowling vs Quitman
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Boys Varsity Bowling vs Quitman
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-eb215cc526b1@calendar-sync.conwaypto.org
@@ -955,6 +1008,26 @@ SUMMARY:Boys Varsity Basketball at TBA Arvest Hoopfest
 CATEGORIES:ATHLETICS
 LOCATION:Rogers HS
 DESCRIPTION:Boys Varsity Basketball at TBA Arvest Hoopfest
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-46f49a3c8e4d@calendar-sync.conwaypto.org
+DTSTAMP:20261214T000000Z
+DTSTART;TZID=America/Chicago:20261214T160000
+DTEND;TZID=America/Chicago:20261214T190000
+SUMMARY:Girls Varsity Bowling vs Varsity Total Pin
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Girls Varsity Bowling vs Varsity Total Pin
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-56d9b3c7622b@calendar-sync.conwaypto.org
+DTSTAMP:20261214T000000Z
+DTSTART;TZID=America/Chicago:20261214T160000
+DTEND;TZID=America/Chicago:20261214T190000
+SUMMARY:Boys Varsity Bowling vs Varsity Total Pin
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Boys Varsity Bowling vs Varsity Total Pin
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-7edcef5fd79b@calendar-sync.conwaypto.org
@@ -1209,6 +1282,26 @@ LOCATION:Buzz Bolding Arena
 DESCRIPTION:Girls JV Basketball vs Little Rock Southwest
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-431a627bd2e6@calendar-sync.conwaypto.org
+DTSTAMP:20270106T000000Z
+DTSTART;TZID=America/Chicago:20270106T160000
+DTEND;TZID=America/Chicago:20270106T190000
+SUMMARY:Girls Varsity Bowling vs Russellville
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Girls Varsity Bowling vs Russellville
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-694ab39c67ac@calendar-sync.conwaypto.org
+DTSTAMP:20270106T000000Z
+DTSTART;TZID=America/Chicago:20270106T160000
+DTEND;TZID=America/Chicago:20270106T190000
+SUMMARY:Boys Varsity Bowling vs Russellville
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Boys Varsity Bowling vs Russellville
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-1effcd9a7319@calendar-sync.conwaypto.org
 DTSTAMP:20270107T000000Z
 DTSTART;TZID=America/Chicago:20270107T000000
@@ -1277,6 +1370,26 @@ SUMMARY:Boys Varsity Wrestling at Bryant Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Bryant High
 DESCRIPTION:Boys Varsity Wrestling at Bryant Tournament
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-6a0f1a072f82@calendar-sync.conwaypto.org
+DTSTAMP:20270111T000000Z
+DTSTART;TZID=America/Chicago:20270111T160000
+DTEND;TZID=America/Chicago:20270111T190000
+SUMMARY:Girls Varsity Bowling at Cabot
+CATEGORIES:ATHLETICS
+LOCATION:AllFam Bowling Center
+DESCRIPTION:Girls Varsity Bowling at Cabot
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-8eb735052632@calendar-sync.conwaypto.org
+DTSTAMP:20270111T000000Z
+DTSTART;TZID=America/Chicago:20270111T160000
+DTEND;TZID=America/Chicago:20270111T190000
+SUMMARY:Boys Varsity Bowling at Cabot
+CATEGORIES:ATHLETICS
+LOCATION:AllFam Bowling Center
+DESCRIPTION:Boys Varsity Bowling at Cabot
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-c630ed68b856@calendar-sync.conwaypto.org
@@ -1349,6 +1462,26 @@ LOCATION:Central Baptist
 DESCRIPTION:Boys Varsity Wrestling at CBC
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-9e3fed6db244@calendar-sync.conwaypto.org
+DTSTAMP:20270113T000000Z
+DTSTART;TZID=America/Chicago:20270113T160000
+DTEND;TZID=America/Chicago:20270113T190000
+SUMMARY:Boys Varsity Bowling vs Benton
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Boys Varsity Bowling vs Benton
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-b37304f99e72@calendar-sync.conwaypto.org
+DTSTAMP:20270113T000000Z
+DTSTART;TZID=America/Chicago:20270113T160000
+DTEND;TZID=America/Chicago:20270113T190000
+SUMMARY:Girls Varsity Bowling vs Benton
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Girls Varsity Bowling vs Benton
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-074089a6911d@calendar-sync.conwaypto.org
 DTSTAMP:20270114T000000Z
 DTSTART;TZID=America/Chicago:20270114T170000
@@ -1387,5 +1520,35 @@ SUMMARY:Boys Varsity Swim and Dive at Texarkana
 CATEGORIES:ATHLETICS
 LOCATION:Texarkana College
 DESCRIPTION:Boys Varsity Swim and Dive at Texarkana
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-1537e8d1cc8f@calendar-sync.conwaypto.org
+DTSTAMP:20270115T000000Z
+DTSTART;TZID=America/Chicago:20270115T160000
+DTEND;TZID=America/Chicago:20270115T190000
+SUMMARY:Boys Varsity Wrestling at Searcy Duals
+CATEGORIES:ATHLETICS
+LOCATION:Searcy High
+DESCRIPTION:Boys Varsity Wrestling at Searcy Duals
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-3dbec9a8f285@calendar-sync.conwaypto.org
+DTSTAMP:20270115T000000Z
+DTSTART;TZID=America/Chicago:20270115T160000
+DTEND;TZID=America/Chicago:20270115T190000
+SUMMARY:Boys Varsity Bowling vs Mayflower
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Boys Varsity Bowling vs Mayflower
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-d74724cbcd41@calendar-sync.conwaypto.org
+DTSTAMP:20270115T000000Z
+DTSTART;TZID=America/Chicago:20270115T160000
+DTEND;TZID=America/Chicago:20270115T190000
+SUMMARY:Girls Varsity Bowling vs Mayflower
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Girls Varsity Bowling vs Mayflower
 END:VEVENT
 END:VCALENDAR
