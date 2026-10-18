@@ -23,62 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-69c9266f81d8@calendar-sync.conwaypto.org
-DTSTAMP:20261016T000000Z
-DTSTART;TZID=America/Chicago:20261016T170000
-DTEND;TZID=America/Chicago:20261016T180000
-SUMMARY:Lady Cats Pink Night Volleyball Game
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Pink Night volleyball match supporting recipient Emmersyn Cald
- well. JV match starts at 5 p.m. Tickets via GoFan with a live stream avail
- able.
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-9aceea604165@calendar-sync.conwaypto.org
-DTSTAMP:20261016T000000Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Homecoming Football Game: Conway vs Central
-CATEGORIES:ATHLETICS
-DESCRIPTION:Homecoming football game against Central. Football program ava
- ilable online.
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-a634f5a6a6a0@calendar-sync.conwaypto.org
-DTSTAMP:20261016T000000Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Football at Cabot
-CATEGORIES:ATHLETICS
-LOCATION:Cabot
-DESCRIPTION:Wampus Cat football game at Cabot. Tickets available for purch
- ase online through Vanco Events.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-66206921a498@calendar-sync.conwaypto.org
-DTSTAMP:20261016T000000Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Home Football Game - Homecoming (Pink & Purple Theme)
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Home football game for Homecoming. Student section theme: Pink
-  & Purple. Students need their student ID to enter football games.
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-562c228c4e1c@calendar-sync.conwaypto.org
-DTSTAMP:20261016T000000Z
-DTSTART;TZID=America/Chicago:20261016T190000
-DTEND;TZID=America/Chicago:20261016T200000
-SUMMARY:Conway High School Homecoming: Coronation & Football vs. Central
-CATEGORIES:ATHLETICS
-LOCATION:John McConnell Stadium
-DESCRIPTION:The Wampus Cats take on Central High School for Homecoming. Co
- ronation of the Queen takes place at 7 p.m. at John McConnell Stadium with
-  the 2026 Homecoming Court.
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
 DTSTAMP:20261019T000000Z
 DTSTART;TZID=America/Chicago:20261019T190000
@@ -174,10 +118,10 @@ UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-SUMMARY:Football Game - Away: Super Hero Theme
+SUMMARY:Football Game - Away (Super Hero Theme)
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game with Super Hero dress-up theme. Students ne
- ed their student ID to enter football games.
+DESCRIPTION:Away football game with Super Hero student section theme. Stud
+ ents need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-54c6e937bb32@calendar-sync.conwaypto.org
@@ -254,11 +198,11 @@ UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Football Game - Home: Frat Theme
+SUMMARY:Football Game - Home (Frat Theme)
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Home football game with Frat dress-up theme. Students need the
- ir student ID to enter football games.
+DESCRIPTION:Home football game with Frat student section theme. Students n
+ eed their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -318,24 +262,24 @@ DTEND;VALUE=DATE:20261103
 SUMMARY:Conway Baseball 9th-12th Grade Tryouts
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Tryouts for students new to Conway High School (and Conway Jun
- ior High) wanting to participate in baseball for the 2026-2027 school year
- \, held November 2-5. A current physical must be entered into DragonFly Ma
- x in order to participate. Email hardinl@conwayschools.info to sign up and
-  for additional information.
+DESCRIPTION:Tryouts (November 2-5) for students new to Conway High School 
+ and Conway Junior High School wanting to participate in baseball for the 2
+ 026-2027 school year. A current physical must be entered into DragonFly Ma
+ x to participate. Email hardinl@conwayschools.info to sign up and for addi
+ tional information.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-e32b5fa97b4a@calendar-sync.conwaypto.org
 DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:Baseball Tryouts for Students New to CHS
+SUMMARY:Baseball Tryouts for New Students
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
- nting to participate in baseball for the 2026-2027 school year. A current 
- physical must be entered into DragonFly Max. Email hardinl@conwayschools.i
- nfo to sign up.
+DESCRIPTION:Tryouts November 2-5 for students new to Conway High School (a
+ nd Conway Junior High School) wanting to participate in baseball for the 2
+ 026-2027 school year. A current physical must be entered into DragonFly Ma
+ x to participate. Email hardinl@conwayschools.info to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8295f0eae580@calendar-sync.conwaypto.org
@@ -392,10 +336,10 @@ UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:Football Game - Away: Whiteout Theme
+SUMMARY:Football Game - Away (Whiteout Theme)
 CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game with Whiteout dress-up theme. Students need
-  their student ID to enter football games.
+DESCRIPTION:Away football game with Whiteout student section theme. Studen
+ ts need their student ID to enter football games.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-181efad4c93d@calendar-sync.conwaypto.org
@@ -1550,5 +1494,15 @@ SUMMARY:Girls Varsity Bowling vs Mayflower
 CATEGORIES:ATHLETICS
 LOCATION:Conway Family Bowl
 DESCRIPTION:Girls Varsity Bowling vs Mayflower
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-d35f8dea619b@calendar-sync.conwaypto.org
+DTSTAMP:20270116T000000Z
+DTSTART;TZID=America/Chicago:20270116T090000
+DTEND;TZID=America/Chicago:20270116T120000
+SUMMARY:Girls Varsity Wrestling at Lady Lion Invite
+CATEGORIES:ATHLETICS
+LOCATION:Searcy High
+DESCRIPTION:Girls Varsity Wrestling at Lady Lion Invite
 END:VEVENT
 END:VCALENDAR

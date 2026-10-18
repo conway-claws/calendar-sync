@@ -23,18 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:rss-6c830e012a70@calendar-sync.conwaypto.org
-DTSTAMP:20261016T000000Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Deadline: Marching Band Homecoming Warm-Up and March-In
-CATEGORIES:ARTS
-LOCATION:Conway High School Courtyard / McConnell Stadium
-DESCRIPTION:The Conway Wampus Cat Marching Band warms up at 5:45pm in the 
- Conway High School Courtyard\, then marches into McConnell Stadium at 6:15
- pm ahead of the 7pm Homecoming game.
-END:VEVENT
-BEGIN:VEVENT
 UID:orchestra-2ca722c16d5b@calendar-sync.conwaypto.org
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
