@@ -261,12 +261,11 @@ DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Conway Baseball 9th-12th Grade Tryouts
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Tryouts (November 2-5) for students new to Conway High School 
- and Conway Junior High School wanting to participate in baseball for the 2
- 026-2027 school year. A current physical must be entered into DragonFly Ma
- x to participate. Email hardinl@conwayschools.info to sign up and for addi
- tional information.
+DESCRIPTION:Tryouts November 2-5 for students new to Conway High School an
+ d Conway Junior High School wanting to participate in baseball for the 202
+ 6-2027 school year. A current physical must be entered into DragonFly Max 
+ to participate. Email hardinl@conwayschools.info to sign up and for additi
+ onal information.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-e32b5fa97b4a@calendar-sync.conwaypto.org
@@ -276,10 +275,10 @@ DTEND;VALUE=DATE:20261103
 SUMMARY:Baseball Tryouts for New Students
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Tryouts November 2-5 for students new to Conway High School (a
- nd Conway Junior High School) wanting to participate in baseball for the 2
- 026-2027 school year. A current physical must be entered into DragonFly Ma
- x to participate. Email hardinl@conwayschools.info to sign up.
+DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
+ nting to participate in baseball for the 2026-2027 school year. A current 
+ physical must be entered into DragonFly Max. Email hardinl@conwayschools.i
+ nfo to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8295f0eae580@calendar-sync.conwaypto.org

@@ -49,8 +49,8 @@ LOCATION:CHS Lecture Hall
 DESCRIPTION:Conway High School hosts a FAFSA Parent Night in conjunction w
  ith Parent/Teacher Conferences. Financial aid representatives from local c
  olleges will help parents and students complete the FAFSA and the SAMS app
- lication (Arkansas Academic Challenge Scholarship). Create a FAFSA ID befo
- rehand at studentaid.gov and bring parents' 2025 tax returns.
+ lication (Arkansas Academic Challenge Scholarship). Create a FAFSA ID in a
+ dvance at studentaid.gov and bring parents' 2025 tax returns.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-efa402f4ce1a@calendar-sync.conwaypto.org
@@ -115,7 +115,7 @@ CATEGORIES:ACADEMICS
 LOCATION:Faulkner County Library\, Program Space 2
 DESCRIPTION:FAFSA Help Day hosted by Arkansas Asset Builders. Computer wor
  kstations available or bring your own device. Online registration at https
- ://waitwhile.com/locations/fafsahelpday
+ ://waitwhile.com/locations/fafsahelpday.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-689e5824824e@calendar-sync.conwaypto.org
@@ -155,10 +155,10 @@ UID:newsletter-51caf9ce0c53@calendar-sync.conwaypto.org
 DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:Accuplacer Testing for Seniors
+SUMMARY:Accuplacer Test for Seniors
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Seniors may take the Accuplacer college entrance exam for free
+DESCRIPTION:Seniors can take the Accuplacer college entrance exam for free
   at CHS. Morning and afternoon sessions available\; sign-up link was email
  ed October 5. Contact your counselor with questions.
 END:VEVENT
@@ -167,10 +167,11 @@ UID:feed-b2058567d680@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Deadline: Pink Night Donation Link Closes
+SUMMARY:Deadline: Pink Night Donation Deadline for Emmersyn
 CATEGORIES:ACADEMICS
-DESCRIPTION:Last day to donate in support of Emmersyn and her family via t
- he GoFan donation link\; all proceeds go to Emmersyn and her family.
+DESCRIPTION:Last day to donate in support of Emmersyn and her family. All 
+ proceeds go to Emmersyn's family to help in her fight. Donation link close
+ s October 30th.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-117669b1dcec@calendar-sync.conwaypto.org
@@ -180,10 +181,9 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:ASVAB Testing for Seniors
 CATEGORIES:ACADEMICS
 LOCATION:CHS Lecture Hall
-DESCRIPTION:Seniors can sign up in the Counseling Center to take the ASVAB
+DESCRIPTION:Seniors may sign up in the Counseling Center to take the ASVAB
   career exploration test in the afternoon. Bring a fully charged Chromeboo
- k. Seats are limited. All juniors will also be given the opportunity to ta
- ke the ASVAB this year.
+ k. Seats are limited.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-1abd4f542d2b@calendar-sync.conwaypto.org
@@ -220,11 +220,11 @@ UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
 DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Deadline: Last Day to Turn In Doctor's Notes for Exam Exemption
+SUMMARY:Deadline: Last Day to Turn in Doctor's Notes for Exam Exemption
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
- s. Notes will still be accepted for credit until 12/18.
+ s. Notes will be accepted for credit until 12/18.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-64acd1399778@calendar-sync.conwaypto.org

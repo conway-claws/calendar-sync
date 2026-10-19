@@ -23,16 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-ac6d29cef649@calendar-sync.conwaypto.org
-DTSTAMP:20261017T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:Homecoming Dance 2026: A Night in Rio
-CATEGORIES:ACTIVITIES
-DESCRIPTION:Conway High School Homecoming dance. Tickets must be purchased
-  in advance\; no tickets sold the day of the dance.
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-227e777feff0@calendar-sync.conwaypto.org
 DTSTAMP:20261019T000000Z
 DTSTART;TZID=America/Chicago:20261019T190000
@@ -120,8 +110,8 @@ LOCATION:CHS Lecture Hall
 DESCRIPTION:Conway High School hosts a FAFSA Parent Night in conjunction w
  ith Parent/Teacher Conferences. Financial aid representatives from local c
  olleges will help parents and students complete the FAFSA and the SAMS app
- lication (Arkansas Academic Challenge Scholarship). Create a FAFSA ID befo
- rehand at studentaid.gov and bring parents' 2025 tax returns.
+ lication (Arkansas Academic Challenge Scholarship). Create a FAFSA ID in a
+ dvance at studentaid.gov and bring parents' 2025 tax returns.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-efa402f4ce1a@calendar-sync.conwaypto.org
@@ -256,7 +246,7 @@ CATEGORIES:ACADEMICS
 LOCATION:Faulkner County Library\, Program Space 2
 DESCRIPTION:FAFSA Help Day hosted by Arkansas Asset Builders. Computer wor
  kstations available or bring your own device. Online registration at https
- ://waitwhile.com/locations/fafsahelpday
+ ://waitwhile.com/locations/fafsahelpday.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d86ab69c17f1@calendar-sync.conwaypto.org
@@ -326,10 +316,10 @@ UID:newsletter-51caf9ce0c53@calendar-sync.conwaypto.org
 DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:Accuplacer Testing for Seniors
+SUMMARY:Accuplacer Test for Seniors
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Seniors may take the Accuplacer college entrance exam for free
+DESCRIPTION:Seniors can take the Accuplacer college entrance exam for free
   at CHS. Morning and afternoon sessions available\; sign-up link was email
  ed October 5. Contact your counselor with questions.
 END:VEVENT
@@ -341,8 +331,7 @@ DTEND;VALUE=DATE:20261029
 SUMMARY:Jostens In-Person Order Date
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Jostens in-person order date for class rings\, graduation item
- s\, and other products.
+DESCRIPTION:Jostens in-person order date at CHS.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d6558afcaad8@calendar-sync.conwaypto.org
@@ -359,10 +348,11 @@ UID:feed-b2058567d680@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Deadline: Pink Night Donation Link Closes
+SUMMARY:Deadline: Pink Night Donation Deadline for Emmersyn
 CATEGORIES:ACADEMICS
-DESCRIPTION:Last day to donate in support of Emmersyn and her family via t
- he GoFan donation link\; all proceeds go to Emmersyn and her family.
+DESCRIPTION:Last day to donate in support of Emmersyn and her family. All 
+ proceeds go to Emmersyn's family to help in her fight. Donation link close
+ s October 30th.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
@@ -432,12 +422,11 @@ DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Conway Baseball 9th-12th Grade Tryouts
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Tryouts (November 2-5) for students new to Conway High School 
- and Conway Junior High School wanting to participate in baseball for the 2
- 026-2027 school year. A current physical must be entered into DragonFly Ma
- x to participate. Email hardinl@conwayschools.info to sign up and for addi
- tional information.
+DESCRIPTION:Tryouts November 2-5 for students new to Conway High School an
+ d Conway Junior High School wanting to participate in baseball for the 202
+ 6-2027 school year. A current physical must be entered into DragonFly Max 
+ to participate. Email hardinl@conwayschools.info to sign up and for additi
+ onal information.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-e32b5fa97b4a@calendar-sync.conwaypto.org
@@ -447,10 +436,10 @@ DTEND;VALUE=DATE:20261103
 SUMMARY:Baseball Tryouts for New Students
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Tryouts November 2-5 for students new to Conway High School (a
- nd Conway Junior High School) wanting to participate in baseball for the 2
- 026-2027 school year. A current physical must be entered into DragonFly Ma
- x to participate. Email hardinl@conwayschools.info to sign up.
+DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
+ nting to participate in baseball for the 2026-2027 school year. A current 
+ physical must be entered into DragonFly Max. Email hardinl@conwayschools.i
+ nfo to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-2ca722c16d5b@calendar-sync.conwaypto.org
@@ -703,10 +692,9 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:ASVAB Testing for Seniors
 CATEGORIES:ACADEMICS
 LOCATION:CHS Lecture Hall
-DESCRIPTION:Seniors can sign up in the Counseling Center to take the ASVAB
+DESCRIPTION:Seniors may sign up in the Counseling Center to take the ASVAB
   career exploration test in the afternoon. Bring a fully charged Chromeboo
- k. Seats are limited. All juniors will also be given the opportunity to ta
- ke the ASVAB this year.
+ k. Seats are limited.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-1abd4f542d2b@calendar-sync.conwaypto.org
@@ -1188,11 +1176,11 @@ UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
 DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Deadline: Last Day to Turn In Doctor's Notes for Exam Exemption
+SUMMARY:Deadline: Last Day to Turn in Doctor's Notes for Exam Exemption
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
- s. Notes will still be accepted for credit until 12/18.
+ s. Notes will be accepted for credit until 12/18.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-6dc2ef650520@calendar-sync.conwaypto.org
