@@ -23,36 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:athletics-227e777feff0@calendar-sync.conwaypto.org
-DTSTAMP:20261019T000000Z
-DTSTART;TZID=America/Chicago:20261019T190000
-DTEND;TZID=America/Chicago:20261019T220000
-SUMMARY:Boys JV Football at Cabot- Sophomore
-CATEGORIES:ATHLETICS
-LOCATION:Panther Stadium
-DESCRIPTION:Boys JV Football at Cabot- Sophomore
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-4bbc105af5bf@calendar-sync.conwaypto.org
-DTSTAMP:20261019T000000Z
-DTSTART;TZID=America/Chicago:20261019T000000
-DTEND;TZID=America/Chicago:20261019T030000
-SUMMARY:Girls Varsity Tennis at Overall Tournament
-CATEGORIES:ATHLETICS
-LOCATION:TBA
-DESCRIPTION:Girls Varsity Tennis at Overall Tournament
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-7d8a58a1e3a4@calendar-sync.conwaypto.org
-DTSTAMP:20261019T000000Z
-DTSTART;TZID=America/Chicago:20261019T000000
-DTEND;TZID=America/Chicago:20261019T030000
-SUMMARY:Boys Varsity Tennis at Overall Tournament
-CATEGORIES:ATHLETICS
-LOCATION:TBA
-DESCRIPTION:Boys Varsity Tennis at Overall Tournament
-END:VEVENT
-BEGIN:VEVENT
 UID:rss-546bdee8b848@calendar-sync.conwaypto.org
 DTSTAMP:20261019T000000Z
 DTSTART;VALUE=DATE:20261019
@@ -275,10 +245,10 @@ DTEND;VALUE=DATE:20261103
 SUMMARY:Baseball Tryouts for New Students
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
- nting to participate in baseball for the 2026-2027 school year. A current 
- physical must be entered into DragonFly Max. Email hardinl@conwayschools.i
- nfo to sign up.
+DESCRIPTION:Tryouts November 2-5 for students new to Conway High School (a
+ nd Conway Junior High) wanting to play baseball in 2026-2027. A current ph
+ ysical must be entered into DragonFly Max. Email hardinl@conwayschools.inf
+ o to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8295f0eae580@calendar-sync.conwaypto.org
@@ -713,16 +683,6 @@ LOCATION:Buzz Bolding Arena
 DESCRIPTION:Boys Varsity Basketball vs Fort Smith Southside
 END:VEVENT
 BEGIN:VEVENT
-UID:athletics-21556622c260@calendar-sync.conwaypto.org
-DTSTAMP:20261203T000000Z
-DTSTART;TZID=America/Chicago:20261203T033000
-DTEND;TZID=America/Chicago:20261203T063000
-SUMMARY:Girls Varsity Bowling at Benton
-CATEGORIES:ATHLETICS
-LOCATION:Central Bowling Lanes
-DESCRIPTION:Girls Varsity Bowling at Benton
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-80b5b6be48bf@calendar-sync.conwaypto.org
 DTSTAMP:20261203T000000Z
 DTSTART;TZID=America/Chicago:20261203T160000
@@ -771,16 +731,6 @@ SUMMARY:Boys Varsity Swim and Dive at Bixby
 CATEGORIES:ATHLETICS
 LOCATION:Bixby High School
 DESCRIPTION:Boys Varsity Swim and Dive at Bixby
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-d425de250569@calendar-sync.conwaypto.org
-DTSTAMP:20261203T000000Z
-DTSTART;TZID=America/Chicago:20261203T033000
-DTEND;TZID=America/Chicago:20261203T063000
-SUMMARY:Boys Varsity Bowling at Benton
-CATEGORIES:ATHLETICS
-LOCATION:Central Bowling Lanes
-DESCRIPTION:Boys Varsity Bowling at Benton
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0345fe46c4e5@calendar-sync.conwaypto.org
@@ -833,6 +783,16 @@ LOCATION:Buzz Bolding Arena
 DESCRIPTION:Boys Varsity Basketball vs Bentonville
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-99faf54cc4ee@calendar-sync.conwaypto.org
+DTSTAMP:20261208T000000Z
+DTSTART;TZID=America/Chicago:20261208T033000
+DTEND;TZID=America/Chicago:20261208T063000
+SUMMARY:Boys Varsity Bowling at Benton
+CATEGORIES:ATHLETICS
+LOCATION:Central Bowling Lanes
+DESCRIPTION:Boys Varsity Bowling at Benton
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-b156dac290e3@calendar-sync.conwaypto.org
 DTSTAMP:20261208T000000Z
 DTSTART;TZID=America/Chicago:20261208T170000
@@ -841,6 +801,16 @@ SUMMARY:Boys JV Basketball vs Bentonville
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
 DESCRIPTION:Boys JV Basketball vs Bentonville
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-bed6870b9528@calendar-sync.conwaypto.org
+DTSTAMP:20261208T000000Z
+DTSTART;TZID=America/Chicago:20261208T033000
+DTEND;TZID=America/Chicago:20261208T063000
+SUMMARY:Girls Varsity Bowling at Benton
+CATEGORIES:ATHLETICS
+LOCATION:Central Bowling Lanes
+DESCRIPTION:Girls Varsity Bowling at Benton
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-437f895e9ea1@calendar-sync.conwaypto.org
