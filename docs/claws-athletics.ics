@@ -23,37 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:rss-546bdee8b848@calendar-sync.conwaypto.org
-DTSTAMP:20261019T000000Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Cross Country State Tournament
-CATEGORIES:ATHLETICS
-LOCATION:Burns Park
-DESCRIPTION:Conway High School competes in the state tournament at Burns P
- ark.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-887d93484ba9@calendar-sync.conwaypto.org
-DTSTAMP:20261020T000000Z
-DTSTART;TZID=America/Chicago:20261020T170000
-DTEND;TZID=America/Chicago:20261020T200000
-SUMMARY:Girls JV Volleyball vs Bryant
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls JV Volleyball vs Bryant
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-ba12ee851618@calendar-sync.conwaypto.org
-DTSTAMP:20261020T000000Z
-DTSTART;TZID=America/Chicago:20261020T180000
-DTEND;TZID=America/Chicago:20261020T210000
-SUMMARY:Girls Varsity Volleyball vs Bryant  Senior Night
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls Varsity Volleyball vs Bryant  Senior Night
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-2673cb6061c2@calendar-sync.conwaypto.org
 DTSTAMP:20261022T000000Z
 DTSTART;TZID=America/Chicago:20261022T170000
@@ -231,11 +200,11 @@ DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Conway Baseball 9th-12th Grade Tryouts
 CATEGORIES:ATHLETICS
-DESCRIPTION:Tryouts November 2-5 for students new to Conway High School an
- d Conway Junior High School wanting to participate in baseball for the 202
- 6-2027 school year. A current physical must be entered into DragonFly Max 
- to participate. Email hardinl@conwayschools.info to sign up and for additi
- onal information.
+LOCATION:Conway High School
+DESCRIPTION:Tryouts for students new to Conway High School wanting to part
+ icipate in baseball for the 2026-2027 school year\, November 2-5. A curren
+ t physical must be entered into DragonFly Max to participate. Email hardin
+ l@conwayschools.info to sign up and for additional information.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-e32b5fa97b4a@calendar-sync.conwaypto.org
@@ -245,10 +214,10 @@ DTEND;VALUE=DATE:20261103
 SUMMARY:Baseball Tryouts for New Students
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Tryouts November 2-5 for students new to Conway High School (a
- nd Conway Junior High) wanting to play baseball in 2026-2027. A current ph
- ysical must be entered into DragonFly Max. Email hardinl@conwayschools.inf
- o to sign up.
+DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
+ nting to participate in baseball for the 2026-2027 school year. A current 
+ physical must be entered into DragonFly Max. Email hardinl@conwayschools.i
+ nfo to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8295f0eae580@calendar-sync.conwaypto.org
@@ -1473,5 +1442,85 @@ SUMMARY:Girls Varsity Wrestling at Lady Lion Invite
 CATEGORIES:ATHLETICS
 LOCATION:Searcy High
 DESCRIPTION:Girls Varsity Wrestling at Lady Lion Invite
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-14eb17e8a8d1@calendar-sync.conwaypto.org
+DTSTAMP:20270119T000000Z
+DTSTART;TZID=America/Chicago:20270119T170000
+DTEND;TZID=America/Chicago:20270119T200000
+SUMMARY:Girls Varsity Wrestling at Cabot
+CATEGORIES:ATHLETICS
+LOCATION:Cabot High
+DESCRIPTION:Girls Varsity Wrestling at Cabot
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-407a052a75dc@calendar-sync.conwaypto.org
+DTSTAMP:20270119T000000Z
+DTSTART;TZID=America/Chicago:20270119T193000
+DTEND;TZID=America/Chicago:20270119T223000
+SUMMARY:Boys Varsity Basketball at Little Rock Central
+CATEGORIES:ATHLETICS
+LOCATION:Central HS
+DESCRIPTION:Boys Varsity Basketball at Little Rock Central
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-562671ab9d42@calendar-sync.conwaypto.org
+DTSTAMP:20270119T000000Z
+DTSTART;TZID=America/Chicago:20270119T163000
+DTEND;TZID=America/Chicago:20270119T193000
+SUMMARY:Boys Varsity Basketball vs Benton
+CATEGORIES:ATHLETICS
+LOCATION:Courtway
+DESCRIPTION:Boys Varsity Basketball vs Benton
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-62c4486676d4@calendar-sync.conwaypto.org
+DTSTAMP:20270119T000000Z
+DTSTART;TZID=America/Chicago:20270119T170000
+DTEND;TZID=America/Chicago:20270119T200000
+SUMMARY:Boys JV Basketball at Little Rock Central
+CATEGORIES:ATHLETICS
+LOCATION:Central HS
+DESCRIPTION:Boys JV Basketball at Little Rock Central
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-7c909ff035b5@calendar-sync.conwaypto.org
+DTSTAMP:20270119T000000Z
+DTSTART;TZID=America/Chicago:20270119T170000
+DTEND;TZID=America/Chicago:20270119T200000
+SUMMARY:Boys Varsity Wrestling at Cabot
+CATEGORIES:ATHLETICS
+LOCATION:Cabot High
+DESCRIPTION:Boys Varsity Wrestling at Cabot
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-9ec13d0c58a0@calendar-sync.conwaypto.org
+DTSTAMP:20270119T000000Z
+DTSTART;TZID=America/Chicago:20270119T164500
+DTEND;TZID=America/Chicago:20270119T194500
+SUMMARY:Girls Varsity Basketball at Central
+CATEGORIES:ATHLETICS
+LOCATION:Central High School
+DESCRIPTION:Girls Varsity Basketball at Central
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-d0a772b540de@calendar-sync.conwaypto.org
+DTSTAMP:20270119T000000Z
+DTSTART;TZID=America/Chicago:20270119T160000
+DTEND;TZID=America/Chicago:20270119T190000
+SUMMARY:Girls Varsity Bowling at Russellville
+CATEGORIES:ATHLETICS
+LOCATION:Strikers Bowling Lane
+DESCRIPTION:Girls Varsity Bowling at Russellville
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-e06a37ad4065@calendar-sync.conwaypto.org
+DTSTAMP:20270119T000000Z
+DTSTART;TZID=America/Chicago:20270119T160000
+DTEND;TZID=America/Chicago:20270119T190000
+SUMMARY:Boys Varsity Bowling at Russellville
+CATEGORIES:ATHLETICS
+LOCATION:Strikers Bowling Lane
+DESCRIPTION:Boys Varsity Bowling at Russellville
 END:VEVENT
 END:VCALENDAR

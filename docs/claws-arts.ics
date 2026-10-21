@@ -40,6 +40,16 @@ CATEGORIES:ARTS
 LOCATION:Conway High School
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-25391af6cc5d@calendar-sync.conwaypto.org
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:South Region Orchestra Clinic (by audition)
+CATEGORIES:ARTS
+LOCATION:Conway High School
+DESCRIPTION:Second day of the South Region Orchestra Clinic\, by audition.
+END:VEVENT
+BEGIN:VEVENT
 UID:orchestra-b0e9f95a8488@calendar-sync.conwaypto.org
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=America/Chicago:20261110T133000
