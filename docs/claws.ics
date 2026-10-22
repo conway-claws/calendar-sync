@@ -23,14 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ical-0324eb394b60@calendar-sync.conwaypto.org
-DTSTAMP:20261021T000000Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Parent Teacher Conferences (Students Dimissed)
-CATEGORIES:ACADEMICS
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-6884c7b2162c@calendar-sync.conwaypto.org
 DTSTAMP:20261021T000000Z
 DTSTART;TZID=America/Chicago:20261021T160000
@@ -163,9 +155,9 @@ DTEND;TZID=America/Chicago:20261024T160000
 SUMMARY:FAFSA Help Day
 CATEGORIES:ACADEMICS
 LOCATION:Faulkner County Library\, Program Space 2
-DESCRIPTION:Arkansas Asset Builders FAFSA Help Day. Computer workstations 
- available or bring your own device. Online registration at https://waitwhi
- le.com/locations/fafsahelpday.
+DESCRIPTION:Arkansas Asset Builders hosts a FAFSA Help Day. Computer works
+ tations available or bring your own device. Online registration at https:/
+ /waitwhile.com/locations/fafsahelpday.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-f49ea6c1c589@calendar-sync.conwaypto.org
@@ -247,10 +239,10 @@ UID:newsletter-51caf9ce0c53@calendar-sync.conwaypto.org
 DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:Accuplacer Test for Seniors
+SUMMARY:Accuplacer Testing for Seniors
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Seniors may take the Accuplacer college entrance exam for free
+DESCRIPTION:Seniors can take the Accuplacer college entrance exam for free
   at CHS. Morning and afternoon sessions available\; sign-up link was email
  ed October 5th. Contact your counselor with questions.
 END:VEVENT
@@ -259,11 +251,25 @@ UID:newsletter-62945859218c@calendar-sync.conwaypto.org
 DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:Deadline: Jostens In-Person Order Deadline
+SUMMARY:Deadline: Jostens Order Deadline (In-Person)
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Last day to place a Jostens order in person\; paper forms may 
- also be turned in.
+ also be turned in. Jostens contact: (479) 968-3269\, harrelloffice@jostens
+ .com.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-5681ca5c17e8@calendar-sync.conwaypto.org
+DTSTAMP:20261029T000000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Library Closed
+CATEGORIES:ACADEMICS
+LOCATION:CHS Library
+DESCRIPTION:The Library will be fully closed. Students returning books may
+  use the book drop in the main lobby across from the front office. Chromeb
+ ook assistance will not be available. Library expected to reopen Friday\, 
+ October 30.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d6558afcaad8@calendar-sync.conwaypto.org
@@ -280,10 +286,10 @@ UID:feed-b2058567d680@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
-SUMMARY:Deadline: Donation Deadline: Support Emmersyn
-CATEGORIES:ACADEMICS
-DESCRIPTION:Last day to donate in support of Emmersyn in her fight. The do
- nation link closes October 30.
+SUMMARY:Deadline to Donate: Support Emmersyn Fundraiser
+CATEGORIES:ACTIVITIES
+DESCRIPTION:Last day to donate through the GoFan link supporting Emmersyn 
+ in her fight. The donation link closes October 30th.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-f979a27f11b7@calendar-sync.conwaypto.org
@@ -381,6 +387,17 @@ DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
  nting to participate in baseball for the 2026-2027 school year. A current 
  physical must be entered into DragonFly Max. Email hardinl@conwayschools.i
  nfo to sign up.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-c01ba7bccc36@calendar-sync.conwaypto.org
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:WorkKeys Testing
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:WorkKeys testing. Contact Ms. Smith for more information at sm
+ ithka@conwayschools.info.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-2ca722c16d5b@calendar-sync.conwaypto.org
@@ -640,12 +657,12 @@ UID:newsletter-117669b1dcec@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:ASVAB Test for Seniors
+SUMMARY:ASVAB Testing for Seniors
 CATEGORIES:ACADEMICS
 LOCATION:CHS Lecture Hall
-DESCRIPTION:Seniors may sign up in the Counseling Center to take the ASVAB
-  career exploration test in the afternoon. Bring a fully charged Chromeboo
- k. Seats are limited.
+DESCRIPTION:Seniors may stop by the Counseling Center to sign up to take t
+ he ASVAB in the Lecture Hall in the afternoon. Bring a fully charged Chrom
+ ebook. Seats are limited.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-1abd4f542d2b@calendar-sync.conwaypto.org
@@ -817,6 +834,18 @@ SUMMARY:Girls Varsity Wrestling at Lady Wildcat
 CATEGORIES:ATHLETICS
 LOCATION:Harber High
 DESCRIPTION:Girls Varsity Wrestling at Lady Wildcat
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-95363f756319@calendar-sync.conwaypto.org
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Beta Club Brain Brawl Trivia Tournament
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School
+DESCRIPTION:Teams of up to six students compete in trivia\, including Name
+  That Tune\, during 7th and 8th periods. Participants excused from class\;
+  snack bar and prizes. Register at https://forms.gle/LGQyo3tJ4iZASNhXA.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0c4a9bd48c5d@calendar-sync.conwaypto.org
@@ -1141,7 +1170,7 @@ SUMMARY:Deadline: Last Day to Turn In Doctor's Notes for Exam Exemption
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Last day to turn in doctor's notes toward exemption status for
-  fall semester exams. Notes accepted for credit until 12/18.
+  fall semester exams. Notes will be accepted for credit until 12/18.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-6dc2ef650520@calendar-sync.conwaypto.org
@@ -1372,11 +1401,10 @@ UID:newsletter-de8a4d654c99@calendar-sync.conwaypto.org
 DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Fall Semester Exams
+SUMMARY:Semester Exam Day
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day\; school will run a modified bell schedule (
- TBD).
+DESCRIPTION:Fall semester exams\; modified bell schedule (TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-1698bb095b37@calendar-sync.conwaypto.org
@@ -1391,11 +1419,10 @@ UID:newsletter-5a6f5007818b@calendar-sync.conwaypto.org
 DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:Fall Semester Exams
+SUMMARY:Semester Exam Day
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day\; school will run a modified bell schedule (
- TBD).
+DESCRIPTION:Fall semester exams\; modified bell schedule (TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-bc9027022add@calendar-sync.conwaypto.org
@@ -2106,5 +2133,23 @@ SUMMARY:Boys Varsity Bowling at Russellville
 CATEGORIES:ATHLETICS
 LOCATION:Strikers Bowling Lane
 DESCRIPTION:Boys Varsity Bowling at Russellville
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-57c1c87cc032@calendar-sync.conwaypto.org
+DTSTAMP:20270120T000000Z
+DTSTART;TZID=America/Chicago:20270120T170000
+DTEND;TZID=America/Chicago:20270120T200000
+SUMMARY:Boys JV Wrestling at Challenge Matches
+CATEGORIES:ATHLETICS
+LOCATION:Searcy
+DESCRIPTION:Boys JV Wrestling at Challenge Matches
+END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-662b96066c2a@calendar-sync.conwaypto.org
+DTSTAMP:20270120T000000Z
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:CHS Trip Payment #2 Due ($150 or remaining balance)
+CATEGORIES:ARTS
 END:VEVENT
 END:VCALENDAR

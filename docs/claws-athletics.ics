@@ -551,6 +551,18 @@ LOCATION:Harber High
 DESCRIPTION:Girls Varsity Wrestling at Lady Wildcat
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-95363f756319@calendar-sync.conwaypto.org
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Beta Club Brain Brawl Trivia Tournament
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School
+DESCRIPTION:Teams of up to six students compete in trivia\, including Name
+  That Tune\, during 7th and 8th periods. Participants excused from class\;
+  snack bar and prizes. Register at https://forms.gle/LGQyo3tJ4iZASNhXA.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-0c4a9bd48c5d@calendar-sync.conwaypto.org
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=America/Chicago:20261121T153000
@@ -1522,5 +1534,15 @@ SUMMARY:Boys Varsity Bowling at Russellville
 CATEGORIES:ATHLETICS
 LOCATION:Strikers Bowling Lane
 DESCRIPTION:Boys Varsity Bowling at Russellville
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-57c1c87cc032@calendar-sync.conwaypto.org
+DTSTAMP:20270120T000000Z
+DTSTART;TZID=America/Chicago:20270120T170000
+DTEND;TZID=America/Chicago:20270120T200000
+SUMMARY:Boys JV Wrestling at Challenge Matches
+CATEGORIES:ATHLETICS
+LOCATION:Searcy
+DESCRIPTION:Boys JV Wrestling at Challenge Matches
 END:VEVENT
 END:VCALENDAR
