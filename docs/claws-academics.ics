@@ -23,33 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-6884c7b2162c@calendar-sync.conwaypto.org
-DTSTAMP:20261021T000000Z
-DTSTART;TZID=America/Chicago:20261021T160000
-DTEND;TZID=America/Chicago:20261021T180000
-SUMMARY:FAFSA Parent Night
-CATEGORIES:ACADEMICS
-LOCATION:CHS Lecture Hall
-DESCRIPTION:Held in conjunction with Parent/Teacher Conferences. Financial
-  aid representatives from local colleges will help parents and students co
- mplete the FAFSA and the SAMS application (Arkansas Academic Challenge Sch
- olarship). Create a FAFSA ID in advance at studentaid.gov and bring parent
- s' 2025 tax returns.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-efa402f4ce1a@calendar-sync.conwaypto.org
-DTSTAMP:20261021T000000Z
-DTSTART;TZID=America/Chicago:20261021T160000
-DTEND;TZID=America/Chicago:20261021T180000
-SUMMARY:FAFSA Parent Night (with Parent/Teacher Conferences)
-CATEGORIES:ACADEMICS
-LOCATION:CHS Lecture Hall
-DESCRIPTION:Financial aid representatives from local colleges will help pa
- rents and students complete the FAFSA and SAMS application (Arkansas Acade
- mic Challenge Scholarship). Create a FAFSA ID beforehand at studentaid.gov
-  and bring parents' 2025 tax returns.
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-5b5c5af23e90@calendar-sync.conwaypto.org
 DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
@@ -97,9 +70,9 @@ DTEND;TZID=America/Chicago:20261024T160000
 SUMMARY:FAFSA Help Day (Arkansas Asset Builders)
 CATEGORIES:ACADEMICS
 LOCATION:Faulkner County Library\, Program Space 2
-DESCRIPTION:Computer workstations available or bring your own device to ac
- cess the FAFSA. Online registration available at https://waitwhile.com/loc
- ations/fafsahelpday
+DESCRIPTION:FAFSA Help Day hosted by Arkansas Asset Builders. Computer wor
+ kstations available or bring your own device. Online registration at https
+ ://waitwhile.com/locations/fafsahelpday.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-689e5824824e@calendar-sync.conwaypto.org
@@ -139,10 +112,10 @@ UID:newsletter-51caf9ce0c53@calendar-sync.conwaypto.org
 DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:Accuplacer Testing for Seniors
+SUMMARY:Accuplacer Test for Seniors
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Seniors can take the Accuplacer college entrance exam for free
+DESCRIPTION:Seniors may take the Accuplacer college entrance exam for free
   at CHS. Morning and afternoon sessions available\; sign-up link was email
  ed October 5th. Contact your counselor with questions.
 END:VEVENT
@@ -151,7 +124,7 @@ UID:newsletter-62945859218c@calendar-sync.conwaypto.org
 DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:Deadline: Jostens Order Deadline (In-Person)
+SUMMARY:Deadline: Jostens In-Person Order Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Last day to place a Jostens order in person\; paper forms may 
@@ -163,13 +136,23 @@ UID:newsletter-5681ca5c17e8@calendar-sync.conwaypto.org
 DTSTAMP:20261029T000000Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-SUMMARY:Library Closed
+SUMMARY:Library Fully Closed
 CATEGORIES:ACADEMICS
 LOCATION:CHS Library
-DESCRIPTION:The Library will be fully closed. Students returning books may
+DESCRIPTION:The library will be fully closed. Students returning books may
   use the book drop in the main lobby across from the front office. Chromeb
- ook assistance will not be available. Library expected to reopen Friday\, 
- October 30.
+ ook assistance unavailable. Library expected to reopen Friday\, October 30
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-b2058567d680@calendar-sync.conwaypto.org
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Deadline to Donate in Support of Emmersyn
+CATEGORIES:ACADEMICS
+DESCRIPTION:The donation link supporting Emmersyn in her fight closes on O
+ ctober 30. Donations accepted through the GoFan link.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-f979a27f11b7@calendar-sync.conwaypto.org
@@ -189,20 +172,20 @@ DTEND;VALUE=DATE:20261104
 SUMMARY:WorkKeys Testing
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:WorkKeys testing. Contact Ms. Smith for more information at sm
- ithka@conwayschools.info.
+DESCRIPTION:WorkKeys assessment. Contact Ms. Smith (smithka@conwayschools.
+ info) for more information.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-117669b1dcec@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:ASVAB Testing for Seniors
+SUMMARY:ASVAB Test for Seniors
 CATEGORIES:ACADEMICS
 LOCATION:CHS Lecture Hall
-DESCRIPTION:Seniors may stop by the Counseling Center to sign up to take t
- he ASVAB in the Lecture Hall in the afternoon. Bring a fully charged Chrom
- ebook. Seats are limited.
+DESCRIPTION:Seniors may sign up in the Counseling Center to take the ASVAB
+  career exploration test in the afternoon. Bring a fully charged Chromeboo
+ k. Seats are limited.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-1abd4f542d2b@calendar-sync.conwaypto.org
@@ -298,10 +281,10 @@ UID:newsletter-de8a4d654c99@calendar-sync.conwaypto.org
 DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Semester Exam Day
+SUMMARY:Fall Semester Exams - Day 1
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Fall semester exams\; modified bell schedule (TBD).
+DESCRIPTION:Semester exam day\; modified bell schedule (TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-1698bb095b37@calendar-sync.conwaypto.org
@@ -316,10 +299,10 @@ UID:newsletter-5a6f5007818b@calendar-sync.conwaypto.org
 DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:Semester Exam Day
+SUMMARY:Fall Semester Exams - Day 2
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Fall semester exams\; modified bell schedule (TBD).
+DESCRIPTION:Semester exam day\; modified bell schedule (TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-bc9027022add@calendar-sync.conwaypto.org

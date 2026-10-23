@@ -23,26 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:athletics-2673cb6061c2@calendar-sync.conwaypto.org
-DTSTAMP:20261022T000000Z
-DTSTART;TZID=America/Chicago:20261022T170000
-DTEND;TZID=America/Chicago:20261022T200000
-SUMMARY:Girls JV Volleyball at Benton
-CATEGORIES:ATHLETICS
-LOCATION:Benton HS Gym
-DESCRIPTION:Girls JV Volleyball at Benton
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-ea2f034a69ca@calendar-sync.conwaypto.org
-DTSTAMP:20261022T000000Z
-DTSTART;TZID=America/Chicago:20261022T180000
-DTEND;TZID=America/Chicago:20261022T210000
-SUMMARY:Girls Varsity Volleyball at Benton
-CATEGORIES:ATHLETICS
-LOCATION:Benton HS Gym
-DESCRIPTION:Girls Varsity Volleyball at Benton
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-f3ccc6dd6ef5@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;TZID=America/Chicago:20261023T190000
@@ -558,9 +538,10 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Teams of up to six students compete in trivia\, including Name
-  That Tune\, during 7th and 8th periods. Participants excused from class\;
-  snack bar and prizes. Register at https://forms.gle/LGQyo3tJ4iZASNhXA.
+DESCRIPTION:Beta Club invites all students to compete in a trivia tourname
+ nt during 7th and 8th periods\, including Name That Tune. Teams of up to s
+ ix students\; participants excused from class with snack bar and prizes. R
+ egister at https://forms.gle/LGQyo3tJ4iZASNhXA.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0c4a9bd48c5d@calendar-sync.conwaypto.org
@@ -1544,5 +1525,65 @@ SUMMARY:Boys JV Wrestling at Challenge Matches
 CATEGORIES:ATHLETICS
 LOCATION:Searcy
 DESCRIPTION:Boys JV Wrestling at Challenge Matches
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-06e083afe893@calendar-sync.conwaypto.org
+DTSTAMP:20270121T000000Z
+DTSTART;TZID=America/Chicago:20270121T180000
+DTEND;TZID=America/Chicago:20270121T210000
+SUMMARY:Girls Varsity Wrestling vs Bryant
+CATEGORIES:ATHLETICS
+LOCATION:Conway
+DESCRIPTION:Girls Varsity Wrestling vs Bryant
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-1b6e94688770@calendar-sync.conwaypto.org
+DTSTAMP:20270121T000000Z
+DTSTART;TZID=America/Chicago:20270121T000000
+DTEND;TZID=America/Chicago:20270121T030000
+SUMMARY:Girls Varsity Swim and Dive vs Conway Meet
+CATEGORIES:ATHLETICS
+LOCATION:Hendrix Pool
+DESCRIPTION:Girls Varsity Swim and Dive vs Conway Meet
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-3b290e6cec46@calendar-sync.conwaypto.org
+DTSTAMP:20270121T000000Z
+DTSTART;TZID=America/Chicago:20270121T000000
+DTEND;TZID=America/Chicago:20270121T030000
+SUMMARY:Boys Varsity Swim and Dive vs Conway Meet
+CATEGORIES:ATHLETICS
+LOCATION:Hendrix Pool
+DESCRIPTION:Boys Varsity Swim and Dive vs Conway Meet
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-5957412b74ef@calendar-sync.conwaypto.org
+DTSTAMP:20270121T000000Z
+DTSTART;TZID=America/Chicago:20270121T160000
+DTEND;TZID=America/Chicago:20270121T190000
+SUMMARY:Girls Varsity Bowling vs Conway Christian
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Girls Varsity Bowling vs Conway Christian
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-5b2824a3ccc6@calendar-sync.conwaypto.org
+DTSTAMP:20270121T000000Z
+DTSTART;TZID=America/Chicago:20270121T160000
+DTEND;TZID=America/Chicago:20270121T190000
+SUMMARY:Boys Varsity Bowling vs Conway Christian
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Boys Varsity Bowling vs Conway Christian
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-75bca308a386@calendar-sync.conwaypto.org
+DTSTAMP:20270121T000000Z
+DTSTART;TZID=America/Chicago:20270121T180000
+DTEND;TZID=America/Chicago:20270121T210000
+SUMMARY:Boys Varsity Wrestling vs Bryant
+CATEGORIES:ATHLETICS
+LOCATION:Conway
+DESCRIPTION:Boys Varsity Wrestling vs Bryant
 END:VEVENT
 END:VCALENDAR
