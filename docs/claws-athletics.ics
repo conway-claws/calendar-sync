@@ -23,16 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:athletics-f3ccc6dd6ef5@calendar-sync.conwaypto.org
-DTSTAMP:20261023T000000Z
-DTSTART;TZID=America/Chicago:20261023T190000
-DTEND;TZID=America/Chicago:20261023T220000
-SUMMARY:Boys Varsity Football at Pulaski Academy
-CATEGORIES:ATHLETICS
-LOCATION:Pulaski Academy Field
-DESCRIPTION:Boys Varsity Football at Pulaski Academy
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
@@ -195,9 +185,8 @@ SUMMARY:Baseball Tryouts for New Students
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
 DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
- nting to participate in baseball for the 2026-2027 school year. A current 
- physical must be entered into DragonFly Max. Email hardinl@conwayschools.i
- nfo to sign up.
+ nting to play baseball in 2026-2027. A current physical must be entered in
+  DragonFly Max. Email hardinl@conwayschools.info to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8295f0eae580@calendar-sync.conwaypto.org
@@ -538,10 +527,10 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Beta Club invites all students to compete in a trivia tourname
- nt during 7th and 8th periods\, including Name That Tune. Teams of up to s
- ix students\; participants excused from class with snack bar and prizes. R
- egister at https://forms.gle/LGQyo3tJ4iZASNhXA.
+DESCRIPTION:Open to all students during 7th and 8th periods. Form a team o
+ f up to six students for trivia including Name That Tune. Participants exc
+ used from class\; snack bar and prizes. Register at https://forms.gle/LGQy
+ o3tJ4iZASNhXA
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0c4a9bd48c5d@calendar-sync.conwaypto.org
