@@ -23,46 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-12c4ab5946e1@calendar-sync.conwaypto.org
-DTSTAMP:20261023T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Football Game - Away (Super Hero Theme)
-CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game with Super Hero student section theme. Stud
- ents need their student ID to enter football games.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-54c6e937bb32@calendar-sync.conwaypto.org
-DTSTAMP:20261024T000000Z
-DTSTART;TZID=America/Chicago:20261024T070000
-DTEND;TZID=America/Chicago:20261024T100000
-SUMMARY:Boys Varsity Wrestling at Boo Bash
-CATEGORIES:ATHLETICS
-LOCATION:Harber High
-DESCRIPTION:Boys Varsity Wrestling at Boo Bash
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-95841e463d02@calendar-sync.conwaypto.org
-DTSTAMP:20261024T000000Z
-DTSTART;TZID=America/Chicago:20261024T070000
-DTEND;TZID=America/Chicago:20261024T100000
-SUMMARY:Girls Varsity Wrestling at Boo Bash
-CATEGORIES:ATHLETICS
-LOCATION:Harber High
-DESCRIPTION:Girls Varsity Wrestling at Boo Bash
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-b5bc1f7cb0d3@calendar-sync.conwaypto.org
-DTSTAMP:20261024T000000Z
-DTSTART;TZID=America/Chicago:20261024T000000
-DTEND;TZID=America/Chicago:20261024T030000
-SUMMARY:Girls Varsity Competitive Dance at Alma Competition
-CATEGORIES:ATHLETICS
-LOCATION:Alma
-DESCRIPTION:Girls Varsity Competitive Dance at Alma Competition
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-d86ab69c17f1@calendar-sync.conwaypto.org
 DTSTAMP:20261026T000000Z
 DTSTART;TZID=America/Chicago:20261026T000000
@@ -185,8 +145,9 @@ SUMMARY:Baseball Tryouts for New Students
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
 DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
- nting to play baseball in 2026-2027. A current physical must be entered in
-  DragonFly Max. Email hardinl@conwayschools.info to sign up.
+ nting to participate in baseball for the 2026-2027 school year. A current 
+ physical must be entered into DragonFly Max. Email hardinl@conwayschools.i
+ nfo to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8295f0eae580@calendar-sync.conwaypto.org
@@ -527,10 +488,10 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Open to all students during 7th and 8th periods. Form a team o
- f up to six students for trivia including Name That Tune. Participants exc
- used from class\; snack bar and prizes. Register at https://forms.gle/LGQy
- o3tJ4iZASNhXA
+DESCRIPTION:Open to all students during 7th and 8th periods. Teams of up t
+ o six students compete in trivia\, including Name That Tune. Participants 
+ excused from class\; snack bar and prizes. Register at https://forms.gle/L
+ GQyo3tJ4iZASNhXA
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0c4a9bd48c5d@calendar-sync.conwaypto.org
@@ -1574,5 +1535,25 @@ SUMMARY:Boys Varsity Wrestling vs Bryant
 CATEGORIES:ATHLETICS
 LOCATION:Conway
 DESCRIPTION:Boys Varsity Wrestling vs Bryant
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-4814a9e51404@calendar-sync.conwaypto.org
+DTSTAMP:20270123T000000Z
+DTSTART;TZID=America/Chicago:20270123T000000
+DTEND;TZID=America/Chicago:20270123T030000
+SUMMARY:Boys Varsity Wrestling at Dual State
+CATEGORIES:ATHLETICS
+LOCATION:TBA
+DESCRIPTION:Boys Varsity Wrestling at Dual State
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-c0c034ceb1b2@calendar-sync.conwaypto.org
+DTSTAMP:20270123T000000Z
+DTSTART;TZID=America/Chicago:20270123T000000
+DTEND;TZID=America/Chicago:20270123T030000
+SUMMARY:Girls Varsity Wrestling at Dual State
+CATEGORIES:ATHLETICS
+LOCATION:TBA
+DESCRIPTION:Girls Varsity Wrestling at Dual State
 END:VEVENT
 END:VCALENDAR
