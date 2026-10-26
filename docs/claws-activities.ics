@@ -23,6 +23,47 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:newsletter-1f485f5b8375@calendar-sync.conwaypto.org
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Red Ribbon Week: Wear Red Day
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Red Ribbon Week dress-up day — wear red to show you're "red-
+ y" to make good choices.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-2cb7eef2c9fe@calendar-sync.conwaypto.org
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Red Ribbon Week: Hawaiian Day
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Red Ribbon Week dress-up day — Aloha to a drug-free life!
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-882d6f5face3@calendar-sync.conwaypto.org
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Red Ribbon Week: Hat Day
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Red Ribbon Week dress-up day — Hats off to good choices!
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-65549f40ec67@calendar-sync.conwaypto.org
+DTSTAMP:20261029T000000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Red Ribbon Week: Crazy Sock Day
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Red Ribbon Week dress-up day — Sock it to bad choices!
+END:VEVENT
+BEGIN:VEVENT
 UID:feed-7b5a68101729@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
@@ -31,6 +72,18 @@ SUMMARY:Deadline: Emmersyn Fundraiser Donation Deadline
 CATEGORIES:ACTIVITIES
 DESCRIPTION:Last day to donate in support of Emmersyn's fight. Donation li
  nk closes October 30th.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-52d31a3053b3@calendar-sync.conwaypto.org
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Red Ribbon Week: Costume Day
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Red Ribbon Week dress-up day — Say boo to drugs! Costumes mu
+ st follow dress code\; no weapons\, masks\, or full-body inflatable costum
+ es.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-577d178b8308@calendar-sync.conwaypto.org
