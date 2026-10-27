@@ -65,14 +65,14 @@ CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Seniors may take the Accuplacer college entrance exam for free
   at CHS. Morning and afternoon sessions available\; sign-up link was email
- ed October 5. Questions: see your counselor.
+ ed October 5. Contact your counselor with questions.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-62945859218c@calendar-sync.conwaypto.org
 DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:Deadline: Jostens In-Person Order Deadline
+SUMMARY:Deadline: Jostens Order Deadline (In-Person)
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Last day to place a Jostens order in person\; paper forms may 
@@ -96,13 +96,13 @@ UID:newsletter-5681ca5c17e8@calendar-sync.conwaypto.org
 DTSTAMP:20261029T000000Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-SUMMARY:Library Closed
+SUMMARY:Library Fully Closed
 CATEGORIES:ACADEMICS
-LOCATION:Conway High School Library
-DESCRIPTION:The Library will be fully closed. Students returning books may
-  use the book drop in the main lobby across from the front office. No Chro
- mebook assistance available. Library expected to reopen Friday\, October 3
- 0.
+LOCATION:CHS Library
+DESCRIPTION:The library will be fully closed. Students returning books may
+  use the book drop in the main lobby across from the front office. Chromeb
+ ook assistance will not be available. The library is expected to reopen Fr
+ iday\, October 30.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-b2058567d680@calendar-sync.conwaypto.org
@@ -133,10 +133,11 @@ SUMMARY:ACT WorkKeys Assessment for Seniors
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Conway High School will offer the ACT WorkKeys assessment to a
- ny senior who wishes to participate. The three core assessments (applied m
- ath\, graphic literacy\, workplace documents) may qualify students for the
-  ACT WorkKeys National Career Readiness Certificate. Interested seniors sh
- ould contact Ms. Kerry Smith at Smithka@conwayschools.info.
+ ny senior who wishes to participate. The three core assessments cover appl
+ ied math\, graphic literacy\, and workplace documents\, and may qualify st
+ udents for the ACT WorkKeys National Career Readiness Certificate (NCRC). 
+ Interested seniors should contact Ms. Kerry Smith at Smithka@conwayschools
+ .info.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-c01ba7bccc36@calendar-sync.conwaypto.org
@@ -146,20 +147,20 @@ DTEND;VALUE=DATE:20261104
 SUMMARY:WorkKeys Testing
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:WorkKeys assessment. Contact Ms. Smith at smithka@conwayschool
- s.info for more information.
+DESCRIPTION:WorkKeys assessment. Contact Ms. Smith for more information: s
+ mithka@conwayschools.info
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-117669b1dcec@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:ASVAB Testing
+SUMMARY:ASVAB Test for Seniors
 CATEGORIES:ACADEMICS
-LOCATION:Conway High School Lecture Hall
-DESCRIPTION:Career exploration and military aptitude test offered in the a
- fternoon. Seniors must sign up in the Counseling Center\; seats are limite
- d. Bring a fully charged Chromebook.
+LOCATION:CHS Lecture Hall
+DESCRIPTION:Seniors may sign up in the Counseling Center to take the ASVAB
+  career exploration test in the afternoon. Bring a fully charged Chromeboo
+ k. Seats are limited.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-1abd4f542d2b@calendar-sync.conwaypto.org
@@ -209,15 +210,15 @@ DTEND;VALUE=DATE:20261210
 SUMMARY:Deadline: Last Day to Turn In Doctor's Notes for Exam Exemption
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Last day to turn in doctor's notes toward semester exam exempt
- ion status. Notes accepted for credit until 12/18.
+DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
+ s. Notes will still be accepted for credit until 12/18.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-64acd1399778@calendar-sync.conwaypto.org
 DTSTAMP:20261211T000000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-SUMMARY:Exam Exemption Notification / Last Day for Exempt Students
+SUMMARY:Exam Exemption Notification Day
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Students will be notified each period by their teacher of exem
@@ -255,10 +256,11 @@ UID:newsletter-de8a4d654c99@calendar-sync.conwaypto.org
 DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Fall Semester Exams - Day 1
+SUMMARY:Fall Semester Exams (Day 1)
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day\; modified bell schedule (TBD).
+DESCRIPTION:Semester exam day\; school will run a modified bell schedule (
+ TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-1698bb095b37@calendar-sync.conwaypto.org
@@ -273,10 +275,11 @@ UID:newsletter-5a6f5007818b@calendar-sync.conwaypto.org
 DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:Fall Semester Exams - Day 2
+SUMMARY:Fall Semester Exams (Day 2)
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day\; modified bell schedule (TBD).
+DESCRIPTION:Semester exam day\; school will run a modified bell schedule (
+ TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-bc9027022add@calendar-sync.conwaypto.org

@@ -44,10 +44,11 @@ UID:newsletter-25391af6cc5d@calendar-sync.conwaypto.org
 DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:South Region Orchestra Clinic (by audition)
+SUMMARY:South Region Orchestra Clinic (Day 2)
 CATEGORIES:ARTS
 LOCATION:Conway High School
-DESCRIPTION:Second day of the South Region Orchestra Clinic\, by audition.
+DESCRIPTION:South Region Orchestra Clinic (by audition) held at Conway Hig
+ h School\, November 6-7.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-b0e9f95a8488@calendar-sync.conwaypto.org

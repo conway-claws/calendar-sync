@@ -23,24 +23,14 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:athletics-d86ab69c17f1@calendar-sync.conwaypto.org
-DTSTAMP:20261026T000000Z
-DTSTART;TZID=America/Chicago:20261026T000000
-DTEND;TZID=America/Chicago:20261026T030000
-SUMMARY:Girls Varsity Volleyball at State Tourney 10/26-10/29
+UID:rss-731e24a58ef6@calendar-sync.conwaypto.org
+DTSTAMP:20261027T000000Z
+DTSTART;TZID=America/Chicago:20261027T180000
+DTEND;TZID=America/Chicago:20261027T190000
+SUMMARY:6A State Volleyball Tournament: Lady Cats vs. Bentonville West
 CATEGORIES:ATHLETICS
-LOCATION:TBA
-DESCRIPTION:Girls Varsity Volleyball at State Tourney 10/26-10/29
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-dc44d0cb30b7@calendar-sync.conwaypto.org
-DTSTAMP:20261026T000000Z
-DTSTART;TZID=America/Chicago:20261026T153000
-DTEND;TZID=America/Chicago:20261026T183000
-SUMMARY:Boys Varsity Cross Country at 6A Conference
-CATEGORIES:ATHLETICS
-LOCATION:Burns Park
-DESCRIPTION:Boys Varsity Cross Country at 6A Conference
+DESCRIPTION:Conway Lady Cats take on Bentonville West in the 6A State Voll
+ eyball Tournament.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0ffc018fd5de@calendar-sync.conwaypto.org
@@ -145,8 +135,9 @@ SUMMARY:Baseball Tryouts for New Students
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
 DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
- nting to play baseball in 2026-2027. A current physical must be entered in
-  DragonFly Max. Email hardinl@conwayschools.info to sign up.
+ nting to participate in baseball for the 2026-2027 school year. A current 
+ physical must be entered into DragonFly Max. Email hardinl@conwayschools.i
+ nfo to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8295f0eae580@calendar-sync.conwaypto.org
@@ -487,10 +478,10 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Open to all students during 7th and 8th periods. Form a team o
- f up to six students for trivia including Name That Tune. Participants exc
- used from class\; snack bar and prizes. Register at https://forms.gle/LGQy
- o3tJ4iZASNhXA
+DESCRIPTION:Beta Club invites all students to compete in trivia during 7th
+  and 8th periods\, including Name That Tune. Teams of up to six students\;
+  participants excused from class. Snack bar and prizes. Register at https:
+ //forms.gle/LGQyo3tJ4iZASNhXA
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0c4a9bd48c5d@calendar-sync.conwaypto.org
@@ -1554,5 +1545,15 @@ SUMMARY:Girls Varsity Wrestling at Dual State
 CATEGORIES:ATHLETICS
 LOCATION:TBA
 DESCRIPTION:Girls Varsity Wrestling at Dual State
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-e0853dc7fa36@calendar-sync.conwaypto.org
+DTSTAMP:20270125T000000Z
+DTSTART;TZID=America/Chicago:20270125T170000
+DTEND;TZID=America/Chicago:20270125T200000
+SUMMARY:Boys JV Wrestling at Challenge Matches
+CATEGORIES:ATHLETICS
+LOCATION:Bryant
+DESCRIPTION:Boys JV Wrestling at Challenge Matches
 END:VEVENT
 END:VCALENDAR
