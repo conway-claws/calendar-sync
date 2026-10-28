@@ -23,17 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-1f485f5b8375@calendar-sync.conwaypto.org
-DTSTAMP:20261026T000000Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:Red Ribbon Week: Wear Red Day
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
-DESCRIPTION:Red Ribbon Week dress-up day — wear red to show you're "red-
- y" to make good choices.
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-2cb7eef2c9fe@calendar-sync.conwaypto.org
 DTSTAMP:20261027T000000Z
 DTSTART;VALUE=DATE:20261027
@@ -52,8 +41,8 @@ DTEND;VALUE=DATE:20261029
 SUMMARY:Red Ribbon Week: Hat Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Red Ribbon Week dress-up day — wear a hat: 'Hats off to good
-  choices!'
+DESCRIPTION:Red Ribbon Week dress-up day — Hat Day: "Hats off to good ch
+ oices!" Costumes/dress must follow the school dress code.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-65549f40ec67@calendar-sync.conwaypto.org
@@ -63,8 +52,8 @@ DTEND;VALUE=DATE:20261030
 SUMMARY:Red Ribbon Week: Crazy Sock Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Red Ribbon Week dress-up day — wear crazy socks: 'Sock it to
-  bad choices!'
+DESCRIPTION:Red Ribbon Week dress-up day — Crazy Sock Day: "Sock it to b
+ ad choices!"
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-7b5a68101729@calendar-sync.conwaypto.org
@@ -84,9 +73,20 @@ DTEND;VALUE=DATE:20261031
 SUMMARY:Red Ribbon Week: Costume Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Red Ribbon Week dress-up day — wear a costume: 'Say boo to d
- rugs!' Costumes must follow the school dress code\; no weapons\, masks\, o
- r full-body inflatable costumes.
+DESCRIPTION:Red Ribbon Week dress-up day — Costume Day: "Say boo to drug
+ s!" Costumes must follow the dress code\; no weapons\, masks\, or full-bod
+ y inflatable costumes.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-25a0e68d104a@calendar-sync.conwaypto.org
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:ALLiance Club Meeting
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:ALLiance Club meeting. Stop by room 217 to get a WIN pass to a
+ ttend.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-577d178b8308@calendar-sync.conwaypto.org
@@ -106,6 +106,29 @@ DESCRIPTION:<p>School Board Information:Â <a rel="noopener noreferrer no
  D&amp\;source=calendar&amp\;ust=1780949614691010&amp\;usg=AOvVaw1onNZnrixR
  bJzp6gqqXNjg" target="_blank">https://www.youtube.com/@conwaypublicschools
  socialm3021/featured</a></p>
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-c0444bd501f8@calendar-sync.conwaypto.org
+DTSTAMP:20261117T000000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Deadline: CATS in Community Food Drive Donation Deadline
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School and other drop-off locations
+DESCRIPTION:Last day to donate non-perishable food items to support Conway
+  school families. Drop-off at Conway High School\, Kroger on Prince Street
+ \, Walmart on Hwy 65\, and United Way. Donations must be sealed and within
+  expiration dates.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-b3a8e71a4788@calendar-sync.conwaypto.org
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=America/Chicago:20261120T100000
+DTEND;TZID=America/Chicago:20261120T120000
+SUMMARY:CATS in Community Food Drive Distribution Day
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School Roundabout
+DESCRIPTION:Distribution day for the CATS in Community Food Drive.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-7f3cb531ed6a@calendar-sync.conwaypto.org

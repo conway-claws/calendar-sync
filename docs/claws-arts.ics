@@ -23,6 +23,18 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:rss-0de3d42d5d3b@calendar-sync.conwaypto.org
+DTSTAMP:20261029T000000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Conway High School Marching Band departs for Memphis
+CATEGORIES:ARTS
+LOCATION:Memphis
+DESCRIPTION:Buses roll out bright and early to take the Conway High School
+  Marching Band to Memphis to perform. Fans are invited to come cheer them 
+ on.
+END:VEVENT
+BEGIN:VEVENT
 UID:orchestra-2ca722c16d5b@calendar-sync.conwaypto.org
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
@@ -47,8 +59,8 @@ DTEND;VALUE=DATE:20261108
 SUMMARY:South Region Orchestra Clinic (Day 2)
 CATEGORIES:ARTS
 LOCATION:Conway High School
-DESCRIPTION:South Region Orchestra Clinic (by audition) held at Conway Hig
- h School\, November 6-7.
+DESCRIPTION:Second day of the South Region Orchestra Clinic (by audition) 
+ at Conway High School.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-b0e9f95a8488@calendar-sync.conwaypto.org
@@ -66,6 +78,49 @@ DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:"La Fiesta Orquesta" tickets go home
 CATEGORIES:ARTS
+END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-c979fc286bca@calendar-sync.conwaypto.org
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=America/Chicago:20261111T090000
+DTEND;TZID=America/Chicago:20261111T100000
+SUMMARY:New Event
+CATEGORIES:ARTS
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-34b40d89f96b@calendar-sync.conwaypto.org
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=America/Chicago:20261112T190000
+DTEND;TZID=America/Chicago:20261112T200000
+SUMMARY:CHS Theatre Presents "Puffs"
+CATEGORIES:ARTS
+LOCATION:Junior High School Auditorium
+DESCRIPTION:Conway High School Theatre presents "Puffs (Or Seven Increasin
+ gly Eventful Years At A Certain School of Magic and Magic)" by Matt Cox\, 
+ directed by Ms. Heather Hooten. Tickets $5 students/CPS faculty and staff\
+ , $10 adults.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-0d836b2d2180@calendar-sync.conwaypto.org
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=America/Chicago:20261113T190000
+DTEND;TZID=America/Chicago:20261113T200000
+SUMMARY:CHS Theatre Presents "Puffs"
+CATEGORIES:ARTS
+LOCATION:Junior High School Auditorium
+DESCRIPTION:Conway High School Theatre presents "Puffs" by Matt Cox. Ticke
+ ts $5 students/CPS faculty and staff\, $10 adults.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-8b870baf0417@calendar-sync.conwaypto.org
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=America/Chicago:20261114T190000
+DTEND;TZID=America/Chicago:20261114T200000
+SUMMARY:CHS Theatre Presents "Puffs"
+CATEGORIES:ARTS
+LOCATION:Junior High School Auditorium
+DESCRIPTION:Conway High School Theatre presents "Puffs" by Matt Cox. Ticke
+ ts $5 students/CPS faculty and staff\, $10 adults.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-29a56778bfc8@calendar-sync.conwaypto.org

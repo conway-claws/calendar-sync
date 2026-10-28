@@ -43,6 +43,26 @@ LOCATION:Burns Park
 DESCRIPTION:Girls Varsity Cross Country at 6A Conference
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-130f072ed55b@calendar-sync.conwaypto.org
+DTSTAMP:20261028T000000Z
+DTSTART;TZID=America/Chicago:20261028T160000
+DTEND;TZID=America/Chicago:20261028T190000
+SUMMARY:Girls Varsity Volleyball at Fayetteville State Tournament
+CATEGORIES:ATHLETICS
+LOCATION:Northisde
+DESCRIPTION:Girls Varsity Volleyball at Fayetteville State Tournament
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-83c186b686b5@calendar-sync.conwaypto.org
+DTSTAMP:20261028T000000Z
+DTSTART;TZID=America/Chicago:20261028T160000
+DTEND;TZID=America/Chicago:20261028T170000
+SUMMARY:6A State Volleyball Semifinals: Lady Cats vs. Fayetteville
+CATEGORIES:ATHLETICS
+DESCRIPTION:Conway Lady Cats take on the Fayetteville Lady Bulldogs in the
+  semifinals of the 6A State Volleyball Tournament.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-d6558afcaad8@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=America/Chicago:20261030T190000
@@ -134,10 +154,9 @@ DTEND;VALUE=DATE:20261103
 SUMMARY:Baseball Tryouts for New Students
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
- nting to participate in baseball for the 2026-2027 school year. A current 
- physical must be entered into DragonFly Max. Email hardinl@conwayschools.i
- nfo to sign up.
+DESCRIPTION:Tryouts for students new to Conway High School wanting to play
+  baseball in 2026-2027\, held November 2-5. A current physical must be ent
+ ered into DragonFly Max. Email hardinl@conwayschools.info to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8295f0eae580@calendar-sync.conwaypto.org
@@ -478,10 +497,10 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Beta Club invites all students to compete in trivia during 7th
-  and 8th periods\, including Name That Tune. Teams of up to six students\;
-  participants excused from class. Snack bar and prizes. Register at https:
- //forms.gle/LGQyo3tJ4iZASNhXA
+DESCRIPTION:Beta Club invites all students to compete during 7th and 8th p
+ eriods in teams of up to six. Trivia includes Name That Tune. Participants
+  excused from class\; snack bar and prizes. Register at https://forms.gle/
+ LGQyo3tJ4iZASNhXA
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0c4a9bd48c5d@calendar-sync.conwaypto.org
@@ -1555,5 +1574,65 @@ SUMMARY:Boys JV Wrestling at Challenge Matches
 CATEGORIES:ATHLETICS
 LOCATION:Bryant
 DESCRIPTION:Boys JV Wrestling at Challenge Matches
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-0022cc57df67@calendar-sync.conwaypto.org
+DTSTAMP:20270126T000000Z
+DTSTART;TZID=America/Chicago:20270126T160000
+DTEND;TZID=America/Chicago:20270126T190000
+SUMMARY:Boys Varsity Bowling vs Varsity 6 Game Baker Competition
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Boys Varsity Bowling vs Varsity 6 Game Baker Competition
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-27ff64692fbd@calendar-sync.conwaypto.org
+DTSTAMP:20270126T000000Z
+DTSTART;TZID=America/Chicago:20270126T160000
+DTEND;TZID=America/Chicago:20270126T190000
+SUMMARY:Girls Varsity Bowling vs Varsity 6 Game Baker Competition
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Girls Varsity Bowling vs Varsity 6 Game Baker Competition
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-2e9bfe5e1f9d@calendar-sync.conwaypto.org
+DTSTAMP:20270126T000000Z
+DTSTART;TZID=America/Chicago:20270126T164500
+DTEND;TZID=America/Chicago:20270126T194500
+SUMMARY:Girls JV Basketball vs Jonesboro
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Girls JV Basketball vs Jonesboro
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-4d16afea1f9b@calendar-sync.conwaypto.org
+DTSTAMP:20270126T000000Z
+DTSTART;TZID=America/Chicago:20270126T193000
+DTEND;TZID=America/Chicago:20270126T223000
+SUMMARY:Boys Varsity Basketball vs Jonesboro
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Boys Varsity Basketball vs Jonesboro
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-4edbc91290d1@calendar-sync.conwaypto.org
+DTSTAMP:20270126T000000Z
+DTSTART;TZID=America/Chicago:20270126T164500
+DTEND;TZID=America/Chicago:20270126T194500
+SUMMARY:Girls Varsity Basketball vs Jonesboro Alumni Night
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Girls Varsity Basketball vs Jonesboro Alumni Night
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-bf2299b603ea@calendar-sync.conwaypto.org
+DTSTAMP:20270126T000000Z
+DTSTART;TZID=America/Chicago:20270126T164500
+DTEND;TZID=America/Chicago:20270126T194500
+SUMMARY:Boys JV Basketball vs Jonesboro
+CATEGORIES:ATHLETICS
+LOCATION:CHS PE Gym
+DESCRIPTION:Boys JV Basketball vs Jonesboro
 END:VEVENT
 END:VCALENDAR

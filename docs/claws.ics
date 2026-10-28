@@ -23,26 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-689e5824824e@calendar-sync.conwaypto.org
-DTSTAMP:20261026T000000Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:Students Return to School
-CATEGORIES:ACADEMICS
-DESCRIPTION:Classes resume following the extended October break.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-1f485f5b8375@calendar-sync.conwaypto.org
-DTSTAMP:20261026T000000Z
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-SUMMARY:Red Ribbon Week: Wear Red Day
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
-DESCRIPTION:Red Ribbon Week dress-up day — wear red to show you're "red-
- y" to make good choices.
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-809f3bea272f@calendar-sync.conwaypto.org
 DTSTAMP:20261027T000000Z
 DTSTART;VALUE=DATE:20261027
@@ -53,18 +33,6 @@ LOCATION:Conway High School
 DESCRIPTION:CHS juniors who take the PSAT/NMSQT and earn a Selection Index
   score of 213 or higher will be awarded $500\; National Merit Semifinalist
  s receive an additional $1\,000.
-END:VEVENT
-BEGIN:VEVENT
-UID:ical-59c03f067cba@calendar-sync.conwaypto.org
-DTSTAMP:20261027T000000Z
-DTSTART;TZID=America/Chicago:20261027T080000
-DTEND;TZID=America/Chicago:20261027T153500
-SUMMARY:PSAT Testing
-CATEGORIES:ACADEMICS
-DESCRIPTION:<p>10th grade students test and some Juniors (who signed up).<
- /p><p>All non-testing Juniors and Seniors have the opportunity to have a c
- ollege visit day\, do community service (family choice) or attend AP Test 
- Review sessions on campus. (Excused absence for NON testing students)</p>
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-2cb7eef2c9fe@calendar-sync.conwaypto.org
@@ -98,6 +66,16 @@ LOCATION:Burns Park
 DESCRIPTION:Girls Varsity Cross Country at 6A Conference
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-130f072ed55b@calendar-sync.conwaypto.org
+DTSTAMP:20261028T000000Z
+DTSTART;TZID=America/Chicago:20261028T160000
+DTEND;TZID=America/Chicago:20261028T190000
+SUMMARY:Girls Varsity Volleyball at Fayetteville State Tournament
+CATEGORIES:ATHLETICS
+LOCATION:Northisde
+DESCRIPTION:Girls Varsity Volleyball at Fayetteville State Tournament
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-51caf9ce0c53@calendar-sync.conwaypto.org
 DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
@@ -114,7 +92,7 @@ UID:newsletter-62945859218c@calendar-sync.conwaypto.org
 DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:Deadline: Jostens Order Deadline (In-Person)
+SUMMARY:Deadline: Jostens Order Deadline (in-person/paper forms)
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Last day to place a Jostens order in person\; paper forms may 
@@ -131,7 +109,7 @@ CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Seniors may take the Accuplacer college entrance exam for free
   at CHS. Morning and afternoon sessions available\; sign-up link was email
- ed October 5th. Contact your counselor with questions.
+ ed October 5. Questions: see your counselor.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-882d6f5face3@calendar-sync.conwaypto.org
@@ -141,8 +119,18 @@ DTEND;VALUE=DATE:20261029
 SUMMARY:Red Ribbon Week: Hat Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Red Ribbon Week dress-up day — wear a hat: 'Hats off to good
-  choices!'
+DESCRIPTION:Red Ribbon Week dress-up day — Hat Day: "Hats off to good ch
+ oices!" Costumes/dress must follow the school dress code.
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-83c186b686b5@calendar-sync.conwaypto.org
+DTSTAMP:20261028T000000Z
+DTSTART;TZID=America/Chicago:20261028T160000
+DTEND;TZID=America/Chicago:20261028T170000
+SUMMARY:6A State Volleyball Semifinals: Lady Cats vs. Fayetteville
+CATEGORIES:ATHLETICS
+DESCRIPTION:Conway Lady Cats take on the Fayetteville Lady Bulldogs in the
+  semifinals of the 6A State Volleyball Tournament.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-5681ca5c17e8@calendar-sync.conwaypto.org
@@ -152,10 +140,10 @@ DTEND;VALUE=DATE:20261030
 SUMMARY:Library Fully Closed
 CATEGORIES:ACADEMICS
 LOCATION:CHS Library
-DESCRIPTION:The library will be fully closed. Students returning books may
+DESCRIPTION:The Library will be fully closed. Students returning books may
   use the book drop in the main lobby across from the front office. Chromeb
- ook assistance will not be available. The library is expected to reopen Fr
- iday\, October 30.
+ ook assistance unavailable. Library expected to reopen Friday\, October 30
+ .
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-65549f40ec67@calendar-sync.conwaypto.org
@@ -165,8 +153,20 @@ DTEND;VALUE=DATE:20261030
 SUMMARY:Red Ribbon Week: Crazy Sock Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Red Ribbon Week dress-up day — wear crazy socks: 'Sock it to
-  bad choices!'
+DESCRIPTION:Red Ribbon Week dress-up day — Crazy Sock Day: "Sock it to b
+ ad choices!"
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-0de3d42d5d3b@calendar-sync.conwaypto.org
+DTSTAMP:20261029T000000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Conway High School Marching Band departs for Memphis
+CATEGORIES:ARTS
+LOCATION:Memphis
+DESCRIPTION:Buses roll out bright and early to take the Conway High School
+  Marching Band to Memphis to perform. Fans are invited to come cheer them 
+ on.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d6558afcaad8@calendar-sync.conwaypto.org
@@ -216,9 +216,9 @@ DTEND;VALUE=DATE:20261031
 SUMMARY:Red Ribbon Week: Costume Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Red Ribbon Week dress-up day — wear a costume: 'Say boo to d
- rugs!' Costumes must follow the school dress code\; no weapons\, masks\, o
- r full-body inflatable costumes.
+DESCRIPTION:Red Ribbon Week dress-up day — Costume Day: "Say boo to drug
+ s!" Costumes must follow the dress code\; no weapons\, masks\, or full-bod
+ y inflatable costumes.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
@@ -295,6 +295,17 @@ DESCRIPTION:Tryouts for students new to Conway High School wanting to part
  l@conwayschools.info to sign up and for additional information.
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-25a0e68d104a@calendar-sync.conwaypto.org
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:ALLiance Club Meeting
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:ALLiance Club meeting. Stop by room 217 to get a WIN pass to a
+ ttend.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-e32b5fa97b4a@calendar-sync.conwaypto.org
 DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261102
@@ -302,10 +313,9 @@ DTEND;VALUE=DATE:20261103
 SUMMARY:Baseball Tryouts for New Students
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
- nting to participate in baseball for the 2026-2027 school year. A current 
- physical must be entered into DragonFly Max. Email hardinl@conwayschools.i
- nfo to sign up.
+DESCRIPTION:Tryouts for students new to Conway High School wanting to play
+  baseball in 2026-2027\, held November 2-5. A current physical must be ent
+ ered into DragonFly Max. Email hardinl@conwayschools.info to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-45a508b98535@calendar-sync.conwaypto.org
@@ -316,11 +326,10 @@ SUMMARY:ACT WorkKeys Assessment for Seniors
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Conway High School will offer the ACT WorkKeys assessment to a
- ny senior who wishes to participate. The three core assessments cover appl
- ied math\, graphic literacy\, and workplace documents\, and may qualify st
- udents for the ACT WorkKeys National Career Readiness Certificate (NCRC). 
- Interested seniors should contact Ms. Kerry Smith at Smithka@conwayschools
- .info.
+ ny senior who wishes to participate. The three core assessments (applied m
+ ath\, graphic literacy\, workplace documents) may qualify students for the
+  ACT WorkKeys National Career Readiness Certificate. Interested seniors sh
+ ould contact Ms. Kerry Smith at Smithka@conwayschools.info.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-c01ba7bccc36@calendar-sync.conwaypto.org
@@ -458,8 +467,8 @@ DTEND;VALUE=DATE:20261108
 SUMMARY:South Region Orchestra Clinic (Day 2)
 CATEGORIES:ARTS
 LOCATION:Conway High School
-DESCRIPTION:South Region Orchestra Clinic (by audition) held at Conway Hig
- h School\, November 6-7.
+DESCRIPTION:Second day of the South Region Orchestra Clinic (by audition) 
+ at Conway High School.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-1f56dbf9229d@calendar-sync.conwaypto.org
@@ -538,6 +547,14 @@ SUMMARY:"La Fiesta Orquesta" tickets go home
 CATEGORIES:ARTS
 END:VEVENT
 BEGIN:VEVENT
+UID:orchestra-c979fc286bca@calendar-sync.conwaypto.org
+DTSTAMP:20261111T000000Z
+DTSTART;TZID=America/Chicago:20261111T090000
+DTEND;TZID=America/Chicago:20261111T100000
+SUMMARY:New Event
+CATEGORIES:ARTS
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-379a2cbdda3e@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;TZID=America/Chicago:20261112T190000
@@ -592,7 +609,7 @@ UID:newsletter-117669b1dcec@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:ASVAB Test for Seniors
+SUMMARY:ASVAB Test (Seniors)
 CATEGORIES:ACADEMICS
 LOCATION:CHS Lecture Hall
 DESCRIPTION:Seniors may sign up in the Counseling Center to take the ASVAB
@@ -610,6 +627,30 @@ LOCATION:Lecture Hall
 DESCRIPTION:Juniors and seniors can take the Armed Services Vocational Apt
  itude Battery as a career exploration tool. Sign up in the Counseling Cent
  er\; seats are limited. Bring a fully charged Chromebook.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-34b40d89f96b@calendar-sync.conwaypto.org
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=America/Chicago:20261112T190000
+DTEND;TZID=America/Chicago:20261112T200000
+SUMMARY:CHS Theatre Presents "Puffs"
+CATEGORIES:ARTS
+LOCATION:Junior High School Auditorium
+DESCRIPTION:Conway High School Theatre presents "Puffs (Or Seven Increasin
+ gly Eventful Years At A Certain School of Magic and Magic)" by Matt Cox\, 
+ directed by Ms. Heather Hooten. Tickets $5 students/CPS faculty and staff\
+ , $10 adults.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-0d836b2d2180@calendar-sync.conwaypto.org
+DTSTAMP:20261113T000000Z
+DTSTART;TZID=America/Chicago:20261113T190000
+DTEND;TZID=America/Chicago:20261113T200000
+SUMMARY:CHS Theatre Presents "Puffs"
+CATEGORIES:ARTS
+LOCATION:Junior High School Auditorium
+DESCRIPTION:Conway High School Theatre presents "Puffs" by Matt Cox. Ticke
+ ts $5 students/CPS faculty and staff\, $10 adults.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-87458867308d@calendar-sync.conwaypto.org
@@ -630,6 +671,17 @@ SUMMARY:Girls Varsity Cheer at Hot Springs
 CATEGORIES:ATHLETICS
 LOCATION:Hot Springs
 DESCRIPTION:Girls Varsity Cheer at Hot Springs
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-8b870baf0417@calendar-sync.conwaypto.org
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=America/Chicago:20261114T190000
+DTEND;TZID=America/Chicago:20261114T200000
+SUMMARY:CHS Theatre Presents "Puffs"
+CATEGORIES:ARTS
+LOCATION:Junior High School Auditorium
+DESCRIPTION:Conway High School Theatre presents "Puffs" by Matt Cox. Ticke
+ ts $5 students/CPS faculty and staff\, $10 adults.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-246682348d02@calendar-sync.conwaypto.org
@@ -680,6 +732,19 @@ SUMMARY:Girls Varsity Basketball at Springdale
 CATEGORIES:ATHLETICS
 LOCATION:Springdale High School
 DESCRIPTION:Girls Varsity Basketball at Springdale
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-c0444bd501f8@calendar-sync.conwaypto.org
+DTSTAMP:20261117T000000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Deadline: CATS in Community Food Drive Donation Deadline
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School and other drop-off locations
+DESCRIPTION:Last day to donate non-perishable food items to support Conway
+  school families. Drop-off at Conway High School\, Kroger on Prince Street
+ \, Walmart on Hwy 65\, and United Way. Donations must be sealed and within
+  expiration dates.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-29a56778bfc8@calendar-sync.conwaypto.org
@@ -778,10 +843,20 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Beta Club invites all students to compete in trivia during 7th
-  and 8th periods\, including Name That Tune. Teams of up to six students\;
-  participants excused from class. Snack bar and prizes. Register at https:
- //forms.gle/LGQyo3tJ4iZASNhXA
+DESCRIPTION:Beta Club invites all students to compete during 7th and 8th p
+ eriods in teams of up to six. Trivia includes Name That Tune. Participants
+  excused from class\; snack bar and prizes. Register at https://forms.gle/
+ LGQyo3tJ4iZASNhXA
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-b3a8e71a4788@calendar-sync.conwaypto.org
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=America/Chicago:20261120T100000
+DTEND;TZID=America/Chicago:20261120T120000
+SUMMARY:CATS in Community Food Drive Distribution Day
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School Roundabout
+DESCRIPTION:Distribution day for the CATS in Community Food Drive.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0c4a9bd48c5d@calendar-sync.conwaypto.org
@@ -1098,6 +1173,17 @@ CATEGORIES:ACADEMICS
 DESCRIPTION:<p>*All notes are subject to verification.</p>
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-82f95ed7253a@calendar-sync.conwaypto.org
+DTSTAMP:20261209T000000Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Deadline: Exam Exemption Doctor's Note Deadline
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
+ s. Notes will be accepted for credit until 12/18.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
 DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
@@ -1337,11 +1423,10 @@ UID:newsletter-de8a4d654c99@calendar-sync.conwaypto.org
 DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Fall Semester Exams (Day 1)
+SUMMARY:Fall Semester Exams
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day\; school will run a modified bell schedule (
- TBD).
+DESCRIPTION:Semester exam day (modified bell schedule TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-1698bb095b37@calendar-sync.conwaypto.org
@@ -1356,11 +1441,10 @@ UID:newsletter-5a6f5007818b@calendar-sync.conwaypto.org
 DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:Fall Semester Exams (Day 2)
+SUMMARY:Fall Semester Exams
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day\; school will run a modified bell schedule (
- TBD).
+DESCRIPTION:Semester exam day (modified bell schedule TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-bc9027022add@calendar-sync.conwaypto.org
@@ -2179,5 +2263,76 @@ SUMMARY:Boys JV Wrestling at Challenge Matches
 CATEGORIES:ATHLETICS
 LOCATION:Bryant
 DESCRIPTION:Boys JV Wrestling at Challenge Matches
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-0022cc57df67@calendar-sync.conwaypto.org
+DTSTAMP:20270126T000000Z
+DTSTART;TZID=America/Chicago:20270126T160000
+DTEND;TZID=America/Chicago:20270126T190000
+SUMMARY:Boys Varsity Bowling vs Varsity 6 Game Baker Competition
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Boys Varsity Bowling vs Varsity 6 Game Baker Competition
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-27ff64692fbd@calendar-sync.conwaypto.org
+DTSTAMP:20270126T000000Z
+DTSTART;TZID=America/Chicago:20270126T160000
+DTEND;TZID=America/Chicago:20270126T190000
+SUMMARY:Girls Varsity Bowling vs Varsity 6 Game Baker Competition
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Girls Varsity Bowling vs Varsity 6 Game Baker Competition
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-2e9bfe5e1f9d@calendar-sync.conwaypto.org
+DTSTAMP:20270126T000000Z
+DTSTART;TZID=America/Chicago:20270126T164500
+DTEND;TZID=America/Chicago:20270126T194500
+SUMMARY:Girls JV Basketball vs Jonesboro
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Girls JV Basketball vs Jonesboro
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-4d16afea1f9b@calendar-sync.conwaypto.org
+DTSTAMP:20270126T000000Z
+DTSTART;TZID=America/Chicago:20270126T193000
+DTEND;TZID=America/Chicago:20270126T223000
+SUMMARY:Boys Varsity Basketball vs Jonesboro
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Boys Varsity Basketball vs Jonesboro
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-4edbc91290d1@calendar-sync.conwaypto.org
+DTSTAMP:20270126T000000Z
+DTSTART;TZID=America/Chicago:20270126T164500
+DTEND;TZID=America/Chicago:20270126T194500
+SUMMARY:Girls Varsity Basketball vs Jonesboro Alumni Night
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Girls Varsity Basketball vs Jonesboro Alumni Night
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-bf2299b603ea@calendar-sync.conwaypto.org
+DTSTAMP:20270126T000000Z
+DTSTART;TZID=America/Chicago:20270126T164500
+DTEND;TZID=America/Chicago:20270126T194500
+SUMMARY:Boys JV Basketball vs Jonesboro
+CATEGORIES:ATHLETICS
+LOCATION:CHS PE Gym
+DESCRIPTION:Boys JV Basketball vs Jonesboro
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-a1014a78fb06@calendar-sync.conwaypto.org
+DTSTAMP:20270126T000000Z
+DTSTART;TZID=America/Chicago:20270126T080000
+DTEND;TZID=America/Chicago:20270126T153500
+SUMMARY:ATLAS Interim #2
+CATEGORIES:ACADEMICS
+DESCRIPTION:<p><span>10th grade students and some Juniors will test (Geome
+ try\, Biology\, English\, Writing) * Students who miss testing are require
+ d to do make-ups</span></p>
 END:VEVENT
 END:VCALENDAR
