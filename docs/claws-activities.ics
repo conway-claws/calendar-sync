@@ -23,17 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-2cb7eef2c9fe@calendar-sync.conwaypto.org
-DTSTAMP:20261027T000000Z
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-SUMMARY:Red Ribbon Week: Hawaiian Day
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
-DESCRIPTION:Red Ribbon Week dress-up day — wear Hawaiian attire: 'Aloha 
- to a drug-free life!' Costumes/outfits must follow the school dress code.
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-882d6f5face3@calendar-sync.conwaypto.org
 DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
@@ -52,8 +41,8 @@ DTEND;VALUE=DATE:20261030
 SUMMARY:Red Ribbon Week: Crazy Sock Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Red Ribbon Week dress-up day — Crazy Sock Day: "Sock it to b
- ad choices!"
+DESCRIPTION:Red Ribbon Week dress-up day — wear crazy socks to "sock it 
+ to bad choices."
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-7b5a68101729@calendar-sync.conwaypto.org
@@ -73,9 +62,9 @@ DTEND;VALUE=DATE:20261031
 SUMMARY:Red Ribbon Week: Costume Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Red Ribbon Week dress-up day — Costume Day: "Say boo to drug
- s!" Costumes must follow the dress code\; no weapons\, masks\, or full-bod
- y inflatable costumes.
+DESCRIPTION:Red Ribbon Week dress-up day — wear a costume to "say boo to
+  drugs." Costumes must follow the school dress code\; no weapons\, masks\,
+  or full-body inflatable costumes.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-25a0e68d104a@calendar-sync.conwaypto.org
@@ -85,8 +74,19 @@ DTEND;VALUE=DATE:20261103
 SUMMARY:ALLiance Club Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:ALLiance Club meeting. Stop by room 217 to get a WIN pass to a
- ttend.
+DESCRIPTION:ALLiance Club meeting. Stop by room 217 to get a WIN pass for 
+ the meeting.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-74379a4f1fa7@calendar-sync.conwaypto.org
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Young Democrats Club Meeting
+CATEGORIES:ACTIVITIES
+LOCATION:Room 263
+DESCRIPTION:The Young Democrats club meets during 1st and 2nd lunches to d
+ iscuss Election Day events around the city\, state\, and nation.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-577d178b8308@calendar-sync.conwaypto.org
@@ -112,13 +112,13 @@ UID:newsletter-c0444bd501f8@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Deadline: CATS in Community Food Drive Donation Deadline
+SUMMARY:Deadline: CATS in Community Food Drive - Last Day to Donate
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School and other drop-off locations
-DESCRIPTION:Last day to donate non-perishable food items to support Conway
-  school families. Drop-off at Conway High School\, Kroger on Prince Street
- \, Walmart on Hwy 65\, and United Way. Donations must be sealed and within
-  expiration dates.
+DESCRIPTION:Final day to donate non-perishable food items to support Conwa
+ y school families. Drop-off locations include Conway High School\, Kroger 
+ on Prince Street\, Walmart on Hwy 65\, and United Way. Donations must be s
+ ealed and within expiration dates.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-b3a8e71a4788@calendar-sync.conwaypto.org
@@ -128,7 +128,7 @@ DTEND;TZID=America/Chicago:20261120T120000
 SUMMARY:CATS in Community Food Drive Distribution Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School Roundabout
-DESCRIPTION:Distribution day for the CATS in Community Food Drive.
+DESCRIPTION:Distribution of donated food items to Conway school families.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-7f3cb531ed6a@calendar-sync.conwaypto.org

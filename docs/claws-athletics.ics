@@ -23,36 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:rss-731e24a58ef6@calendar-sync.conwaypto.org
-DTSTAMP:20261027T000000Z
-DTSTART;TZID=America/Chicago:20261027T180000
-DTEND;TZID=America/Chicago:20261027T190000
-SUMMARY:6A State Volleyball Tournament: Lady Cats vs. Bentonville West
-CATEGORIES:ATHLETICS
-DESCRIPTION:Conway Lady Cats take on Bentonville West in the 6A State Voll
- eyball Tournament.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-0ffc018fd5de@calendar-sync.conwaypto.org
-DTSTAMP:20261028T000000Z
-DTSTART;TZID=America/Chicago:20261028T153000
-DTEND;TZID=America/Chicago:20261028T183000
-SUMMARY:Girls Varsity Cross Country at 6A Conference
-CATEGORIES:ATHLETICS
-LOCATION:Burns Park
-DESCRIPTION:Girls Varsity Cross Country at 6A Conference
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-130f072ed55b@calendar-sync.conwaypto.org
-DTSTAMP:20261028T000000Z
-DTSTART;TZID=America/Chicago:20261028T160000
-DTEND;TZID=America/Chicago:20261028T190000
-SUMMARY:Girls Varsity Volleyball at Fayetteville State Tournament
-CATEGORIES:ATHLETICS
-LOCATION:Northisde
-DESCRIPTION:Girls Varsity Volleyball at Fayetteville State Tournament
-END:VEVENT
-BEGIN:VEVENT
 UID:rss-83c186b686b5@calendar-sync.conwaypto.org
 DTSTAMP:20261028T000000Z
 DTSTART;TZID=America/Chicago:20261028T160000
@@ -154,9 +124,10 @@ DTEND;VALUE=DATE:20261103
 SUMMARY:Baseball Tryouts for New Students
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Tryouts for students new to Conway High School wanting to play
-  baseball in 2026-2027\, held November 2-5. A current physical must be ent
- ered into DragonFly Max. Email hardinl@conwayschools.info to sign up.
+DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
+ nting to participate in baseball for the 2026-2027 school year. A current 
+ physical must be entered into DragonFly Max. Email hardinl@conwayschools.i
+ nfo to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8295f0eae580@calendar-sync.conwaypto.org
@@ -497,10 +468,9 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Beta Club invites all students to compete during 7th and 8th p
- eriods in teams of up to six. Trivia includes Name That Tune. Participants
-  excused from class\; snack bar and prizes. Register at https://forms.gle/
- LGQyo3tJ4iZASNhXA
+DESCRIPTION:Trivia tournament during 7th and 8th periods\, including Name 
+ That Tune. Teams of up to six students\; participants excused from class w
+ ith snack bar and prizes. Register at https://forms.gle/LGQyo3tJ4iZASNhXA
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0c4a9bd48c5d@calendar-sync.conwaypto.org
@@ -786,12 +756,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:athletics-eb215cc526b1@calendar-sync.conwaypto.org
 DTSTAMP:20261210T000000Z
-DTSTART;TZID=America/Chicago:20261210T000000
-DTEND;TZID=America/Chicago:20261210T030000
-SUMMARY:Boys Varsity Basketball at TBA Arvest Hoopfest
+DTSTART;TZID=America/Chicago:20261210T203000
+DTEND;TZID=America/Chicago:20261210T233000
+SUMMARY:Boys Varsity Basketball at Southmore\, OK Arvest Hoopfest
 CATEGORIES:ATHLETICS
 LOCATION:Rogers HS
-DESCRIPTION:Boys Varsity Basketball at TBA Arvest Hoopfest
+DESCRIPTION:Boys Varsity Basketball at Southmore\, OK Arvest Hoopfest
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-f6909d2d3d77@calendar-sync.conwaypto.org
@@ -806,12 +776,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:athletics-23b2b5ef4636@calendar-sync.conwaypto.org
 DTSTAMP:20261211T000000Z
-DTSTART;TZID=America/Chicago:20261211T000000
-DTEND;TZID=America/Chicago:20261211T030000
-SUMMARY:Boys Varsity Basketball at TBA Arvest Hoopfest
+DTSTART;TZID=America/Chicago:20261211T203000
+DTEND;TZID=America/Chicago:20261211T233000
+SUMMARY:Boys Varsity Basketball at Nettleton Arvest Hoopfest
 CATEGORIES:ATHLETICS
 LOCATION:Rogers HS
-DESCRIPTION:Boys Varsity Basketball at TBA Arvest Hoopfest
+DESCRIPTION:Boys Varsity Basketball at Nettleton Arvest Hoopfest
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-358952d5c65d@calendar-sync.conwaypto.org
@@ -836,12 +806,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:athletics-939909eeb1f7@calendar-sync.conwaypto.org
 DTSTAMP:20261212T000000Z
-DTSTART;TZID=America/Chicago:20261212T000000
-DTEND;TZID=America/Chicago:20261212T030000
-SUMMARY:Boys Varsity Basketball at TBA Arvest Hoopfest
+DTSTART;TZID=America/Chicago:20261212T153000
+DTEND;TZID=America/Chicago:20261212T183000
+SUMMARY:Boys Varsity Basketball at Rogers Arvest Hoopfest
 CATEGORIES:ATHLETICS
 LOCATION:Rogers HS
-DESCRIPTION:Boys Varsity Basketball at TBA Arvest Hoopfest
+DESCRIPTION:Boys Varsity Basketball at Rogers Arvest Hoopfest
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-46f49a3c8e4d@calendar-sync.conwaypto.org
