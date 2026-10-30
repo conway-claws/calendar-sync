@@ -23,16 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:rss-83c186b686b5@calendar-sync.conwaypto.org
-DTSTAMP:20261028T000000Z
-DTSTART;TZID=America/Chicago:20261028T160000
-DTEND;TZID=America/Chicago:20261028T170000
-SUMMARY:6A State Volleyball Semifinals: Lady Cats vs. Fayetteville
-CATEGORIES:ATHLETICS
-DESCRIPTION:Conway Lady Cats take on the Fayetteville Lady Bulldogs in the
-  semifinals of the 6A State Volleyball Tournament.
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-d6558afcaad8@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;TZID=America/Chicago:20261030T190000
@@ -52,6 +42,18 @@ CATEGORIES:ATHLETICS
 LOCATION:Conway High School
 DESCRIPTION:Home football game with Frat student section theme. Students n
  eed their student ID to enter football games.
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-b0aeb982b37a@calendar-sync.conwaypto.org
+DTSTAMP:20261030T000000Z
+DTSTART;TZID=America/Chicago:20261030T160000
+DTEND;TZID=America/Chicago:20261030T170000
+SUMMARY:6A State Volleyball Semifinals vs. Fayetteville
+CATEGORIES:ATHLETICS
+LOCATION:Fort Smith
+DESCRIPTION:Lady Cats take on the Fayetteville Lady Bulldogs in the semifi
+ nals of the 6A State Volleyball Tournament. Live stream available via Hudl
+ .
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-d789d3854597@calendar-sync.conwaypto.org
@@ -125,9 +127,8 @@ SUMMARY:Baseball Tryouts for New Students
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
 DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
- nting to participate in baseball for the 2026-2027 school year. A current 
- physical must be entered into DragonFly Max. Email hardinl@conwayschools.i
- nfo to sign up.
+ nting to play baseball in 2026-2027. A current physical must be entered in
+ to DragonFly Max. Email hardinl@conwayschools.info to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8295f0eae580@calendar-sync.conwaypto.org

@@ -23,17 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-882d6f5face3@calendar-sync.conwaypto.org
-DTSTAMP:20261028T000000Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Red Ribbon Week: Hat Day
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
-DESCRIPTION:Red Ribbon Week dress-up day — Hat Day: "Hats off to good ch
- oices!" Costumes/dress must follow the school dress code.
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-65549f40ec67@calendar-sync.conwaypto.org
 DTSTAMP:20261029T000000Z
 DTSTART;VALUE=DATE:20261029
@@ -55,6 +44,16 @@ DESCRIPTION:Last day to donate in support of Emmersyn's fight. Donation li
  nk closes October 30th.
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-02a144b5452c@calendar-sync.conwaypto.org
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:FCS Club Meeting
+CATEGORIES:ACTIVITIES
+LOCATION:Room 204 (1st lunch) / Room 365 (2nd lunch)
+DESCRIPTION:FCS will meet during both lunches.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-52d31a3053b3@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
@@ -62,9 +61,20 @@ DTEND;VALUE=DATE:20261031
 SUMMARY:Red Ribbon Week: Costume Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Red Ribbon Week dress-up day — wear a costume to "say boo to
-  drugs." Costumes must follow the school dress code\; no weapons\, masks\,
-  or full-body inflatable costumes.
+DESCRIPTION:Final Red Ribbon Week spirit day - wear a costume to 'say boo 
+ to drugs.' Costumes must follow dress code\; no weapons\, masks\, or full-
+ body inflatable costumes.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-e311165d76b5@calendar-sync.conwaypto.org
+DTSTAMP:20261030T000000Z
+DTSTART;TZID=America/Chicago:20261030T154500
+DTEND;TZID=America/Chicago:20261030T173000
+SUMMARY:Key Club Talent Show Tryouts
+CATEGORIES:ACTIVITIES
+LOCATION:Choir Room
+DESCRIPTION:Auditions for the 2nd annual school-wide Key Club Talent Show.
+  Complete the Talent Show Audition Form.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-25a0e68d104a@calendar-sync.conwaypto.org
@@ -73,9 +83,9 @@ DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:ALLiance Club Meeting
 CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
-DESCRIPTION:ALLiance Club meeting. Stop by room 217 to get a WIN pass for 
- the meeting.
+LOCATION:Room 217
+DESCRIPTION:Stop by room 217 to get a WIN pass for the ALLiance Club meeti
+ ng.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-74379a4f1fa7@calendar-sync.conwaypto.org
@@ -85,8 +95,20 @@ DTEND;VALUE=DATE:20261104
 SUMMARY:Young Democrats Club Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Room 263
-DESCRIPTION:The Young Democrats club meets during 1st and 2nd lunches to d
- iscuss Election Day events around the city\, state\, and nation.
+DESCRIPTION:Meeting during 1st and 2nd lunches to discuss Election Day eve
+ nts around the city\, state\, and nation.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-22e74e0c96fa@calendar-sync.conwaypto.org
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Club America Meeting
+CATEGORIES:ACTIVITIES
+LOCATION:Mr. Glover's Room 364
+DESCRIPTION:Club America (formerly Young Republicans) meeting with guest s
+ peaker state representative David Ray. Students need a pass from Mrs. Rice
+  (257)\, Mrs. Glover (364)\, Mrs. Imboden (109)\, or Mrs. Hammett (913).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-577d178b8308@calendar-sync.conwaypto.org
@@ -112,13 +134,22 @@ UID:newsletter-c0444bd501f8@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Deadline: CATS in Community Food Drive - Last Day to Donate
+SUMMARY:Deadline: CATS in Community Food Drive Ends
 CATEGORIES:ACTIVITIES
-LOCATION:Conway High School and other drop-off locations
-DESCRIPTION:Final day to donate non-perishable food items to support Conwa
- y school families. Drop-off locations include Conway High School\, Kroger 
- on Prince Street\, Walmart on Hwy 65\, and United Way. Donations must be s
- ealed and within expiration dates.
+LOCATION:Conway High School and other community drop-off locations
+DESCRIPTION:Last day to donate non-perishable food items to support Conway
+  school families. Donations must be sealed and within expiration dates.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-0b7ef3b9d661@calendar-sync.conwaypto.org
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Key Club Talent Show
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:2nd annual school-wide Key Club Talent Show. $5 tickets sold t
+ he week before in the cafeteria.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-b3a8e71a4788@calendar-sync.conwaypto.org
@@ -128,7 +159,7 @@ DTEND;TZID=America/Chicago:20261120T120000
 SUMMARY:CATS in Community Food Drive Distribution Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School Roundabout
-DESCRIPTION:Distribution of donated food items to Conway school families.
+DESCRIPTION:Distribution of donated food to Conway school families.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-7f3cb531ed6a@calendar-sync.conwaypto.org

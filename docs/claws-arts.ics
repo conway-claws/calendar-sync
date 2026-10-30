@@ -42,9 +42,9 @@ DTEND;VALUE=DATE:20261103
 SUMMARY:Marching Band State Send-Off
 CATEGORIES:ARTS
 LOCATION:Buzz Bolding Arena
-DESCRIPTION:Line the street in front of Buzz Bolding Arena to cheer on the
-  Wampus Cat Marching Band as the buses roll out for the State marching com
- petition.
+DESCRIPTION:Join the community in lining the street in front of Buzz Boldi
+ ng Arena to cheer on the Wampus Cat Marching Band as the buses roll out fo
+ r the State competition.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-2ca722c16d5b@calendar-sync.conwaypto.org
@@ -104,11 +104,11 @@ UID:newsletter-34b40d89f96b@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;TZID=America/Chicago:20261112T190000
 DTEND;TZID=America/Chicago:20261112T200000
-SUMMARY:CHS Theatre Presents "Puffs"
+SUMMARY:CHS Theatre presents 'Puffs'
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
-DESCRIPTION:Conway High School Theatre presents "Puffs (Or Seven Increasin
- gly Eventful Years At A Certain School of Magic and Magic)" by Matt Cox\, 
+DESCRIPTION:Conway High School Theatre presents 'Puffs (Or Seven Increasin
+ gly Eventful Years At A Certain School of Magic and Magic)' by Matt Cox\, 
  directed by Ms. Heather Hooten. Tickets $5 students/CPS faculty and staff\
  , $10 adults.
 END:VEVENT
@@ -130,10 +130,10 @@ UID:newsletter-0d836b2d2180@calendar-sync.conwaypto.org
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=America/Chicago:20261113T190000
 DTEND;TZID=America/Chicago:20261113T200000
-SUMMARY:CHS Theatre Presents "Puffs"
+SUMMARY:CHS Theatre presents 'Puffs'
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
-DESCRIPTION:Conway High School Theatre presents "Puffs" by Matt Cox. Ticke
+DESCRIPTION:Conway High School Theatre presents 'Puffs' by Matt Cox. Ticke
  ts $5 students/CPS faculty and staff\, $10 adults.
 END:VEVENT
 BEGIN:VEVENT
@@ -152,10 +152,10 @@ UID:newsletter-8b870baf0417@calendar-sync.conwaypto.org
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=America/Chicago:20261114T190000
 DTEND;TZID=America/Chicago:20261114T200000
-SUMMARY:CHS Theatre Presents "Puffs"
+SUMMARY:CHS Theatre presents 'Puffs'
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
-DESCRIPTION:Conway High School Theatre presents "Puffs" by Matt Cox. Ticke
+DESCRIPTION:Conway High School Theatre presents 'Puffs' by Matt Cox. Ticke
  ts $5 students/CPS faculty and staff\, $10 adults.
 END:VEVENT
 BEGIN:VEVENT
@@ -174,12 +174,12 @@ UID:newsletter-d660e0cb1096@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Sister Act Spring Musical Auditions
+SUMMARY:Spring Musical 'Sister Act' Auditions
 CATEGORIES:ARTS
 LOCATION:Music Building
-DESCRIPTION:Conway High School Theatre auditions for the spring musical Si
- ster Act. Use Schoology GROUP code SF6Z-T7NS-8KDP9 for information. Questi
- ons: spiridigliozzia@conwayschools.info
+DESCRIPTION:Auditions for the spring musical Sister Act. Use Schoology GRO
+ UP code SF6Z-T7NS-8KDP9 for information. Email spiridigliozzia@conwayschoo
+ ls.info with questions.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-29a56778bfc8@calendar-sync.conwaypto.org
