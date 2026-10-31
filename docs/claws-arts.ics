@@ -23,28 +23,16 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:rss-0de3d42d5d3b@calendar-sync.conwaypto.org
-DTSTAMP:20261029T000000Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Conway High School Marching Band departs for Memphis
-CATEGORIES:ARTS
-LOCATION:Memphis
-DESCRIPTION:Buses roll out bright and early to take the Conway High School
-  Marching Band to Memphis to perform. Fans are invited to come cheer them 
- on.
-END:VEVENT
-BEGIN:VEVENT
 UID:rss-83fd3581ae3c@calendar-sync.conwaypto.org
 DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-SUMMARY:Marching Band State Send-Off
+SUMMARY:Marching Band State Competition Send-Off
 CATEGORIES:ARTS
 LOCATION:Buzz Bolding Arena
-DESCRIPTION:Join the community in lining the street in front of Buzz Boldi
- ng Arena to cheer on the Wampus Cat Marching Band as the buses roll out fo
- r the State competition.
+DESCRIPTION:Line the street in front of Buzz Bolding Arena to cheer on the
+  Conway High School Wampus Cat Marching Band as the buses roll out for the
+  state marching competition. Show your Wampus Cat Pride!
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-2ca722c16d5b@calendar-sync.conwaypto.org
@@ -104,13 +92,13 @@ UID:newsletter-34b40d89f96b@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;TZID=America/Chicago:20261112T190000
 DTEND;TZID=America/Chicago:20261112T200000
-SUMMARY:CHS Theatre presents 'Puffs'
+SUMMARY:CHS Theatre Presents "Puffs"
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
-DESCRIPTION:Conway High School Theatre presents 'Puffs (Or Seven Increasin
- gly Eventful Years At A Certain School of Magic and Magic)' by Matt Cox\, 
- directed by Ms. Heather Hooten. Tickets $5 students/CPS faculty and staff\
- , $10 adults.
+DESCRIPTION:Conway High School Theatre presents the play Puffs (Or Seven I
+ ncreasingly Eventful Years At A Certain School of Magic and Magic) by Matt
+  Cox\, directed by Ms. Heather Hooten\, featuring students in grades 8-12.
+  Tickets are $5 for students/CPS faculty and staff and $10 for adults.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-94feecd78be3@calendar-sync.conwaypto.org
@@ -130,11 +118,11 @@ UID:newsletter-0d836b2d2180@calendar-sync.conwaypto.org
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=America/Chicago:20261113T190000
 DTEND;TZID=America/Chicago:20261113T200000
-SUMMARY:CHS Theatre presents 'Puffs'
+SUMMARY:CHS Theatre Presents "Puffs"
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
-DESCRIPTION:Conway High School Theatre presents 'Puffs' by Matt Cox. Ticke
- ts $5 students/CPS faculty and staff\, $10 adults.
+DESCRIPTION:Conway High School Theatre presents the play Puffs by Matt Cox
+ . Tickets are $5 for students/CPS faculty and staff and $10 for adults.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-728ed73d3568@calendar-sync.conwaypto.org
@@ -152,11 +140,11 @@ UID:newsletter-8b870baf0417@calendar-sync.conwaypto.org
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=America/Chicago:20261114T190000
 DTEND;TZID=America/Chicago:20261114T200000
-SUMMARY:CHS Theatre presents 'Puffs'
+SUMMARY:CHS Theatre Presents "Puffs"
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
-DESCRIPTION:Conway High School Theatre presents 'Puffs' by Matt Cox. Ticke
- ts $5 students/CPS faculty and staff\, $10 adults.
+DESCRIPTION:Conway High School Theatre presents the play Puffs by Matt Cox
+ . Tickets are $5 for students/CPS faculty and staff and $10 for adults.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-ce5d46f9892a@calendar-sync.conwaypto.org
@@ -174,12 +162,12 @@ UID:newsletter-d660e0cb1096@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Spring Musical 'Sister Act' Auditions
+SUMMARY:Spring Musical "Sister Act" Auditions
 CATEGORIES:ARTS
 LOCATION:Music Building
-DESCRIPTION:Auditions for the spring musical Sister Act. Use Schoology GRO
- UP code SF6Z-T7NS-8KDP9 for information. Email spiridigliozzia@conwayschoo
- ls.info with questions.
+DESCRIPTION:Conway High School Theatre auditions for the spring musical Si
+ ster Act. Use Schoology GROUP code SF6Z-T7NS-8KDP9 for information or emai
+ l spiridigliozzia@conwayschools.info.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-29a56778bfc8@calendar-sync.conwaypto.org

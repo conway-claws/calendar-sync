@@ -23,16 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:athletics-d6558afcaad8@calendar-sync.conwaypto.org
-DTSTAMP:20261030T000000Z
-DTSTART;TZID=America/Chicago:20261030T190000
-DTEND;TZID=America/Chicago:20261030T220000
-SUMMARY:Boys Varsity Football vs Little Rock Christian
-CATEGORIES:ATHLETICS
-LOCATION:John McConnell Stadium
-DESCRIPTION:Boys Varsity Football vs Little Rock Christian
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
 DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
@@ -64,6 +54,21 @@ SUMMARY:Girls Varsity Volleyball at State Finals
 CATEGORIES:ATHLETICS
 LOCATION:Bank OZK Arena
 DESCRIPTION:Girls Varsity Volleyball at State Finals
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-4be757303cf7@calendar-sync.conwaypto.org
+DTSTAMP:20261031T000000Z
+DTSTART;TZID=America/Chicago:20261031T190000
+DTEND;TZID=America/Chicago:20261031T200000
+SUMMARY:Conway Wampus Cats vs. Little Rock Christian (Football Senior Nigh
+ t)
+CATEGORIES:ATHLETICS
+LOCATION:McConnell Stadium
+DESCRIPTION:Wampus Cats take on the Little Rock Christian Warriors at home
+ . It's also Senior Night for the Conway Wampus Cat Marching Band\, with gr
+ aduating seniors honored during pregame festivities. Online concession ord
+ ering with pickup or delivery is available through the Conway Band Foundat
+ ion at conwaybandfood.com.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0def4db56064@calendar-sync.conwaypto.org
@@ -127,8 +132,9 @@ SUMMARY:Baseball Tryouts for New Students
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
 DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
- nting to play baseball in 2026-2027. A current physical must be entered in
- to DragonFly Max. Email hardinl@conwayschools.info to sign up.
+ nting to participate in baseball for the 2026-2027 school year. A current 
+ physical must be entered into DragonFly Max. Email hardinl@conwayschools.i
+ nfo to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8295f0eae580@calendar-sync.conwaypto.org
@@ -469,9 +475,10 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Trivia tournament during 7th and 8th periods\, including Name 
- That Tune. Teams of up to six students\; participants excused from class w
- ith snack bar and prizes. Register at https://forms.gle/LGQyo3tJ4iZASNhXA
+DESCRIPTION:Beta Club invites all students to compete in a trivia tourname
+ nt during 7th and 8th periods\, including Name That Tune. Teams of up to s
+ ix students\; participants excused from class with snack bar and prizes. R
+ egister at https://forms.gle/LGQyo3tJ4iZASNhXA
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0c4a9bd48c5d@calendar-sync.conwaypto.org
@@ -1605,5 +1612,45 @@ SUMMARY:Boys JV Basketball vs Jonesboro
 CATEGORIES:ATHLETICS
 LOCATION:CHS PE Gym
 DESCRIPTION:Boys JV Basketball vs Jonesboro
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-90b8a333993e@calendar-sync.conwaypto.org
+DTSTAMP:20270129T000000Z
+DTSTART;TZID=America/Chicago:20270129T170000
+DTEND;TZID=America/Chicago:20270129T200000
+SUMMARY:Girls JV Basketball at Bryant
+CATEGORIES:ATHLETICS
+LOCATION:Bryant HS
+DESCRIPTION:Girls JV Basketball at Bryant
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-d6320d7973a0@calendar-sync.conwaypto.org
+DTSTAMP:20270129T000000Z
+DTSTART;TZID=America/Chicago:20270129T193000
+DTEND;TZID=America/Chicago:20270129T223000
+SUMMARY:Boys Varsity Basketball at Bryant
+CATEGORIES:ATHLETICS
+LOCATION:Bryant HS
+DESCRIPTION:Boys Varsity Basketball at Bryant
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-e82173bd2595@calendar-sync.conwaypto.org
+DTSTAMP:20270129T000000Z
+DTSTART;TZID=America/Chicago:20270129T164500
+DTEND;TZID=America/Chicago:20270129T194500
+SUMMARY:Girls Varsity Basketball at Bryant
+CATEGORIES:ATHLETICS
+LOCATION:Bryant High School
+DESCRIPTION:Girls Varsity Basketball at Bryant
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-ffed84824577@calendar-sync.conwaypto.org
+DTSTAMP:20270129T000000Z
+DTSTART;TZID=America/Chicago:20270129T170000
+DTEND;TZID=America/Chicago:20270129T200000
+SUMMARY:Boys JV Basketball at Bryant
+CATEGORIES:ATHLETICS
+LOCATION:Bryant HS
+DESCRIPTION:Boys JV Basketball at Bryant
 END:VEVENT
 END:VCALENDAR
