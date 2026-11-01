@@ -23,39 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-e95c17783da0@calendar-sync.conwaypto.org
-DTSTAMP:20261030T000000Z
-DTSTART;VALUE=DATE:20261030
-DTEND;VALUE=DATE:20261031
-SUMMARY:Football Game - Home (Frat Theme)
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Home football game with Frat student section theme. Students n
- eed their student ID to enter football games.
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-b0aeb982b37a@calendar-sync.conwaypto.org
-DTSTAMP:20261030T000000Z
-DTSTART;TZID=America/Chicago:20261030T160000
-DTEND;TZID=America/Chicago:20261030T170000
-SUMMARY:6A State Volleyball Semifinals vs. Fayetteville
-CATEGORIES:ATHLETICS
-LOCATION:Fort Smith
-DESCRIPTION:Lady Cats take on the Fayetteville Lady Bulldogs in the semifi
- nals of the 6A State Volleyball Tournament. Live stream available via Hudl
- .
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-d789d3854597@calendar-sync.conwaypto.org
-DTSTAMP:20261031T000000Z
-DTSTART;TZID=America/Chicago:20261031T000000
-DTEND;TZID=America/Chicago:20261031T030000
-SUMMARY:Girls Varsity Volleyball at State Finals
-CATEGORIES:ATHLETICS
-LOCATION:Bank OZK Arena
-DESCRIPTION:Girls Varsity Volleyball at State Finals
-END:VEVENT
-BEGIN:VEVENT
 UID:rss-4be757303cf7@calendar-sync.conwaypto.org
 DTSTAMP:20261031T000000Z
 DTSTART;TZID=America/Chicago:20261031T190000
@@ -132,9 +99,8 @@ SUMMARY:Baseball Tryouts for New Students
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
 DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
- nting to participate in baseball for the 2026-2027 school year. A current 
- physical must be entered into DragonFly Max. Email hardinl@conwayschools.i
- nfo to sign up.
+ nting to play baseball in 2026-2027. A current physical must be entered in
+ to DragonFly Max. Email hardinl@conwayschools.info to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8295f0eae580@calendar-sync.conwaypto.org
@@ -475,10 +441,10 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Beta Club invites all students to compete in a trivia tourname
- nt during 7th and 8th periods\, including Name That Tune. Teams of up to s
- ix students\; participants excused from class with snack bar and prizes. R
- egister at https://forms.gle/LGQyo3tJ4iZASNhXA
+DESCRIPTION:Beta Club trivia tournament during 7th and 8th periods\, open 
+ to teams of up to six students. Includes Name That Tune\, snack bar\, and 
+ prizes. Participants excused from class. Register at https://forms.gle/LGQ
+ yo3tJ4iZASNhXA
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0c4a9bd48c5d@calendar-sync.conwaypto.org
