@@ -23,21 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:rss-4be757303cf7@calendar-sync.conwaypto.org
-DTSTAMP:20261031T000000Z
-DTSTART;TZID=America/Chicago:20261031T190000
-DTEND;TZID=America/Chicago:20261031T200000
-SUMMARY:Conway Wampus Cats vs. Little Rock Christian (Football Senior Nigh
- t)
-CATEGORIES:ATHLETICS
-LOCATION:McConnell Stadium
-DESCRIPTION:Wampus Cats take on the Little Rock Christian Warriors at home
- . It's also Senior Night for the Conway Wampus Cat Marching Band\, with gr
- aduating seniors honored during pregame festivities. Online concession ord
- ering with pickup or delivery is available through the Conway Band Foundat
- ion at conwaybandfood.com.
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-0def4db56064@calendar-sync.conwaypto.org
 DTSTAMP:20261102T000000Z
 DTSTART;TZID=America/Chicago:20261102T000000
@@ -99,8 +84,8 @@ SUMMARY:Baseball Tryouts for New Students
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
 DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
- nting to play baseball in 2026-2027. A current physical must be entered in
- to DragonFly Max. Email hardinl@conwayschools.info to sign up.
+ nting to play baseball in 2026-2027. A current physical must be in DragonF
+ ly Max. Email hardinl@conwayschools.info to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8295f0eae580@calendar-sync.conwaypto.org
@@ -415,8 +400,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:athletics-90fbd853c4b4@calendar-sync.conwaypto.org
 DTSTAMP:20261120T000000Z
-DTSTART;TZID=America/Chicago:20261120T173000
-DTEND;TZID=America/Chicago:20261120T203000
+DTSTART;TZID=America/Chicago:20261120T170000
+DTEND;TZID=America/Chicago:20261120T200000
 SUMMARY:Girls Varsity Basketball at Joe T. Robinson DA Matchup Showcase
 CATEGORIES:ATHLETICS
 LOCATION:LR Christian High School
@@ -441,10 +426,9 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Beta Club trivia tournament during 7th and 8th periods\, open 
- to teams of up to six students. Includes Name That Tune\, snack bar\, and 
- prizes. Participants excused from class. Register at https://forms.gle/LGQ
- yo3tJ4iZASNhXA
+DESCRIPTION:Trivia tournament during 7th and 8th periods\, including Name 
+ That Tune. Teams of up to six students\; participants excused from class w
+ ith snack bar and prizes. Register at https://forms.gle/LGQyo3tJ4iZASNhXA
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0c4a9bd48c5d@calendar-sync.conwaypto.org
@@ -608,6 +592,26 @@ LOCATION:Central High
 DESCRIPTION:Girls Varsity Wrestling at Central Classic
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-96bf86d6c274@calendar-sync.conwaypto.org
+DTSTAMP:20261204T000000Z
+DTSTART;TZID=America/Chicago:20261204T183000
+DTEND;TZID=America/Chicago:20261204T213000
+SUMMARY:Girls Varsity Basketball at Duncanville\, TX
+CATEGORIES:ATHLETICS
+LOCATION:Texas High School
+DESCRIPTION:Girls Varsity Basketball at Duncanville\, TX
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-385dae6e649c@calendar-sync.conwaypto.org
+DTSTAMP:20261205T000000Z
+DTSTART;TZID=America/Chicago:20261205T153000
+DTEND;TZID=America/Chicago:20261205T183000
+SUMMARY:Girls Varsity Basketball at Muskogee\, OK
+CATEGORIES:ATHLETICS
+LOCATION:Texas High School
+DESCRIPTION:Girls Varsity Basketball at Muskogee\, OK
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-bdc30d88d225@calendar-sync.conwaypto.org
 DTSTAMP:20261205T000000Z
 DTSTART;TZID=America/Chicago:20261205T000000
@@ -766,6 +770,16 @@ SUMMARY:Girls Varsity Wrestling vs Conway Invite
 CATEGORIES:ATHLETICS
 LOCATION:Conway
 DESCRIPTION:Girls Varsity Wrestling vs Conway Invite
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-dc1af9937825@calendar-sync.conwaypto.org
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=America/Chicago:20261211T193000
+DTEND;TZID=America/Chicago:20261211T223000
+SUMMARY:Girls Varsity Basketball at Springdale
+CATEGORIES:ATHLETICS
+LOCATION:Springdale High School
+DESCRIPTION:Girls Varsity Basketball at Springdale
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8617a1e96422@calendar-sync.conwaypto.org
