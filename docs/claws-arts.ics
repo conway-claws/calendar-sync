@@ -43,16 +43,6 @@ SUMMARY:"La Fiesta Orquesta" ticket sales and donations due!
 CATEGORIES:ARTS
 END:VEVENT
 BEGIN:VEVENT
-UID:newsletter-022028a29cb5@calendar-sync.conwaypto.org
-DTSTAMP:20261106T000000Z
-DTSTART;TZID=America/Chicago:20261106T154500
-DTEND;TZID=America/Chicago:20261106T173000
-SUMMARY:Key Club Talent Show Tryouts
-CATEGORIES:ARTS
-LOCATION:Choir Room
-DESCRIPTION:Tryouts for the 2nd annual school-wide Key Club Talent Show.
-END:VEVENT
-BEGIN:VEVENT
 UID:orchestra-187c89a7721b@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
@@ -66,24 +56,23 @@ UID:newsletter-25391af6cc5d@calendar-sync.conwaypto.org
 DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:South Region Orchestra Clinic (by audition)
+SUMMARY:South Region Orchestra Clinic (Day 2)
 CATEGORIES:ARTS
 LOCATION:Conway High School
-DESCRIPTION:Second day of the South Region Orchestra Clinic at Conway High
-  School\, by audition.
+DESCRIPTION:South Region Orchestra Clinic by audition.
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-3798f3410b6b@calendar-sync.conwaypto.org
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:Marching Band State Competition Send-Off
+SUMMARY:Conway High School Marching Band State Send-Off
 CATEGORIES:ARTS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Updated date: with State Competition pushed back one week due 
- to potential weather\, the send-off is now on the 9th. Line the street in 
- front of Buzz Bolding Arena to cheer on the Conway High School Marching Ba
- nd as the buses roll out for State.
+LOCATION:Street in front of Buzz Bolding Arena
+DESCRIPTION:Join the community to cheer on the Conway High School Marching
+  Band as they head to State Competition by lining the street in front of B
+ uzz Bolding Arena as the buses roll out. Date updated to the 9th since Sta
+ te Competition was pushed back.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-b0e9f95a8488@calendar-sync.conwaypto.org
@@ -129,11 +118,23 @@ DESCRIPTION:Conway High School Theatre presents Puffs (Or Seven Increasing
  $10 adults.
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-ac0883a44c0e@calendar-sync.conwaypto.org
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=America/Chicago:20261112T190000
+DTEND;TZID=America/Chicago:20261112T200000
+SUMMARY:Theatre Production: Puffs (Opening Night)
+CATEGORIES:ARTS
+LOCATION:Junior High School Auditorium
+DESCRIPTION:Conway High School Theatre presents Puffs by Matt Cox\, direct
+ ed by Ms. Heather Hooten. Tickets $5 students/CPS faculty and staff\, $10 
+ adults.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-0d836b2d2180@calendar-sync.conwaypto.org
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=America/Chicago:20261113T190000
 DTEND;TZID=America/Chicago:20261113T200000
-SUMMARY:CHS Theatre Presents: Puffs
+SUMMARY:Theatre Production: Puffs
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
 DESCRIPTION:Conway High School Theatre presents Puffs by Matt Cox. Tickets
@@ -174,6 +175,17 @@ DESCRIPTION:Conway High School Theatre presents Puffs by Matt Cox. Tickets
   $5 students/CPS faculty and staff\, $10 adults.
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-e843cc927e25@calendar-sync.conwaypto.org
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=America/Chicago:20261114T190000
+DTEND;TZID=America/Chicago:20261114T200000
+SUMMARY:Theatre Production: Puffs (Final Performance)
+CATEGORIES:ARTS
+LOCATION:Junior High School Auditorium
+DESCRIPTION:Conway High School Theatre presents Puffs by Matt Cox. Tickets
+  $5 students/CPS faculty and staff\, $10 adults.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-d660e0cb1096@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
@@ -182,19 +194,8 @@ SUMMARY:Sister Act Spring Musical Auditions
 CATEGORIES:ARTS
 LOCATION:Music Building
 DESCRIPTION:Conway High School Theatre auditions for the spring musical Si
- ster Act. Use Schoology group code SF6Z-T7NS-8KDP9 for information\; email
-  spiridigliozzia@conwayschools.info with questions.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-0b7ef3b9d661@calendar-sync.conwaypto.org
-DTSTAMP:20261118T000000Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Key Club Talent Show
-CATEGORIES:ARTS
-LOCATION:Conway High School
-DESCRIPTION:2nd annual school-wide Key Club Talent Show. $5 tickets sold t
- he week before in the cafeteria.
+ ster Act. Use Schoology group code SF6Z-T7NS-8KDP9\; questions to spiridig
+ liozzia@conwayschools.info.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-29a56778bfc8@calendar-sync.conwaypto.org

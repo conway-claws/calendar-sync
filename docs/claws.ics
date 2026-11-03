@@ -23,56 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:rss-8ae9317bf476@calendar-sync.conwaypto.org
-DTSTAMP:20261101T000000Z
-DTSTART;VALUE=DATE:20261101
-DTEND;VALUE=DATE:20261102
-SUMMARY:Deadline: GoFan Donation Link for Emmersyn Caldwell Closes
-CATEGORIES:ACADEMICS
-DESCRIPTION:Last day to donate to Emmersyn Caldwell through the GoFan dona
- tion link: https://gofan.co/event/6934068
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-0def4db56064@calendar-sync.conwaypto.org
-DTSTAMP:20261102T000000Z
-DTSTART;TZID=America/Chicago:20261102T000000
-DTEND;TZID=America/Chicago:20261102T030000
-SUMMARY:Girls Varsity Basketball vs Basketball Madness
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls Varsity Basketball vs Basketball Madness
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-18e2240dadf9@calendar-sync.conwaypto.org
-DTSTAMP:20261102T000000Z
-DTSTART;TZID=America/Chicago:20261102T000000
-DTEND;TZID=America/Chicago:20261102T030000
-SUMMARY:Boys JV Basketball vs Basketball Madness
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Boys JV Basketball vs Basketball Madness
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-44b0052be671@calendar-sync.conwaypto.org
-DTSTAMP:20261102T000000Z
-DTSTART;TZID=America/Chicago:20261102T000000
-DTEND;TZID=America/Chicago:20261102T030000
-SUMMARY:Boys Varsity Basketball vs Basketball Madness
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Boys Varsity Basketball vs Basketball Madness
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-4b9795c18037@calendar-sync.conwaypto.org
-DTSTAMP:20261102T000000Z
-DTSTART;TZID=America/Chicago:20261102T000000
-DTEND;TZID=America/Chicago:20261102T030000
-SUMMARY:Girls JV Basketball vs Basketball Madness
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls JV Basketball vs Basketball Madness
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-b7f4a9cc059a@calendar-sync.conwaypto.org
 DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261102
@@ -164,8 +114,20 @@ DTEND;VALUE=DATE:20261104
 SUMMARY:WorkKeys Testing
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:WorkKeys assessment. Contact Ms. Smith at smithka@conwayschool
- s.info for more information.
+DESCRIPTION:WorkKeys assessment. Contact Ms. Smith (smithka@conwayschools.
+ info) for more information.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-f030a869d9c1@calendar-sync.conwaypto.org
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Baseball Tryouts for New Students
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School
+DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
+ nting to play baseball in 2026-2027. A current physical must be entered in
+ to DragonFly Max. Email hardinl@conwayschools.info to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-309eee374047@calendar-sync.conwaypto.org
@@ -185,8 +147,8 @@ DTEND;VALUE=DATE:20261105
 SUMMARY:FCS Mandatory Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:FCS meets during WIN time. Mandatory meeting\; email Mrs. Dunn
-  at dunnr@conwayschools.info if you cannot attend.
+DESCRIPTION:FCS meets during WIN time. Attendance is mandatory\; email Mrs
+ . Dunn at dunnr@conwayschools.info if you cannot attend.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-2ca722c16d5b@calendar-sync.conwaypto.org
@@ -224,9 +186,9 @@ DTEND;VALUE=DATE:20261106
 SUMMARY:Club America Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Mr. Glover's room 364
-DESCRIPTION:Club America (formerly Young Republicans) meeting with guest s
- peaker state rep David Ray. WIN pass required from Mrs. Rice (257)\, Mrs. 
- Glover (364)\, Mrs. Imboden (109)\, or Mrs. Hammett (913).
+DESCRIPTION:Club America (formerly Young Republicans) meets with guest spe
+ aker state rep David Ray. A pass is required from Mrs. Rice (257)\, Mrs. G
+ lover (364)\, Mrs. Imboden (109) or Mrs. Hammett (913).
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-914332cb6148@calendar-sync.conwaypto.org
@@ -275,9 +237,10 @@ DTSTAMP:20261106T000000Z
 DTSTART;TZID=America/Chicago:20261106T154500
 DTEND;TZID=America/Chicago:20261106T173000
 SUMMARY:Key Club Talent Show Tryouts
-CATEGORIES:ARTS
+CATEGORIES:ACTIVITIES
 LOCATION:Choir Room
-DESCRIPTION:Tryouts for the 2nd annual school-wide Key Club Talent Show.
+DESCRIPTION:Tryouts for the 2nd annual school-wide Key Club Talent Show. A
+ udition form available online.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
@@ -343,11 +306,10 @@ UID:newsletter-25391af6cc5d@calendar-sync.conwaypto.org
 DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-SUMMARY:South Region Orchestra Clinic (by audition)
+SUMMARY:South Region Orchestra Clinic (Day 2)
 CATEGORIES:ARTS
 LOCATION:Conway High School
-DESCRIPTION:Second day of the South Region Orchestra Clinic at Conway High
-  School\, by audition.
+DESCRIPTION:South Region Orchestra Clinic by audition.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-8b5160d0da11@calendar-sync.conwaypto.org
@@ -356,22 +318,22 @@ DTSTART;TZID=America/Chicago:20261109T163000
 DTEND;TZID=America/Chicago:20261109T173000
 SUMMARY:ACT Prep Class - English and Reading
 CATEGORIES:ACADEMICS
-LOCATION:Room 114 (Mr. Johnson)
-DESCRIPTION:ACT Prep class focusing on English and Reading with Mr. Johnso
- n.
+LOCATION:Room 114
+DESCRIPTION:ACT Prep Class with Mr. Johnson focusing on English and Readin
+ g.
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-3798f3410b6b@calendar-sync.conwaypto.org
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
-SUMMARY:Marching Band State Competition Send-Off
+SUMMARY:Conway High School Marching Band State Send-Off
 CATEGORIES:ARTS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Updated date: with State Competition pushed back one week due 
- to potential weather\, the send-off is now on the 9th. Line the street in 
- front of Buzz Bolding Arena to cheer on the Conway High School Marching Ba
- nd as the buses roll out for State.
+LOCATION:Street in front of Buzz Bolding Arena
+DESCRIPTION:Join the community to cheer on the Conway High School Marching
+  Band as they head to State Competition by lining the street in front of B
+ uzz Bolding Arena as the buses roll out. Date updated to the 9th since Sta
+ te Competition was pushed back.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-1f56dbf9229d@calendar-sync.conwaypto.org
@@ -504,12 +466,11 @@ UID:newsletter-117669b1dcec@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-SUMMARY:ASVAB Testing for Seniors
+SUMMARY:ASVAB Test for Seniors
 CATEGORIES:ACADEMICS
 LOCATION:Lecture Hall
 DESCRIPTION:Seniors may sign up in the Counseling Center to take the ASVAB
-  career exploration test in the afternoon. Bring a fully charged Chromeboo
- k. Seats are limited.
+  in the afternoon. Bring a fully charged Chromebook. Seats are limited.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-1abd4f542d2b@calendar-sync.conwaypto.org
@@ -550,11 +511,23 @@ DESCRIPTION:Conway High School Theatre presents Puffs (Or Seven Increasing
  $10 adults.
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-ac0883a44c0e@calendar-sync.conwaypto.org
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=America/Chicago:20261112T190000
+DTEND;TZID=America/Chicago:20261112T200000
+SUMMARY:Theatre Production: Puffs (Opening Night)
+CATEGORIES:ARTS
+LOCATION:Junior High School Auditorium
+DESCRIPTION:Conway High School Theatre presents Puffs by Matt Cox\, direct
+ ed by Ms. Heather Hooten. Tickets $5 students/CPS faculty and staff\, $10 
+ adults.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-0d836b2d2180@calendar-sync.conwaypto.org
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=America/Chicago:20261113T190000
 DTEND;TZID=America/Chicago:20261113T200000
-SUMMARY:CHS Theatre Presents: Puffs
+SUMMARY:Theatre Production: Puffs
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
 DESCRIPTION:Conway High School Theatre presents Puffs by Matt Cox. Tickets
@@ -625,15 +598,26 @@ DESCRIPTION:Conway High School Theatre presents Puffs by Matt Cox. Tickets
   $5 students/CPS faculty and staff\, $10 adults.
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-e843cc927e25@calendar-sync.conwaypto.org
+DTSTAMP:20261114T000000Z
+DTSTART;TZID=America/Chicago:20261114T190000
+DTEND;TZID=America/Chicago:20261114T200000
+SUMMARY:Theatre Production: Puffs (Final Performance)
+CATEGORIES:ARTS
+LOCATION:Junior High School Auditorium
+DESCRIPTION:Conway High School Theatre presents Puffs by Matt Cox. Tickets
+  $5 students/CPS faculty and staff\, $10 adults.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-bb7b860133b0@calendar-sync.conwaypto.org
 DTSTAMP:20261116T000000Z
 DTSTART;TZID=America/Chicago:20261116T163000
 DTEND;TZID=America/Chicago:20261116T173000
 SUMMARY:ACT Prep Class - English and Reading
 CATEGORIES:ACADEMICS
-LOCATION:Room 114 (Mr. Johnson)
-DESCRIPTION:ACT Prep class focusing on English and Reading with Mr. Johnso
- n.
+LOCATION:Room 114
+DESCRIPTION:ACT Prep Class with Mr. Johnson focusing on English and Readin
+ g.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-246682348d02@calendar-sync.conwaypto.org
@@ -692,7 +676,7 @@ DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Deadline: CATS in Community Food Drive - Final Collection Day
 CATEGORIES:ACTIVITIES
-LOCATION:Conway High School and other community drop-off locations
+LOCATION:Conway High School and community drop-off locations
 DESCRIPTION:Last day to donate non-perishable food items to support Conway
   school families. Drop-off at Conway High School\, Kroger on Prince Street
  \, Walmart on Hwy 65\, and United Way.
@@ -706,8 +690,8 @@ SUMMARY:Sister Act Spring Musical Auditions
 CATEGORIES:ARTS
 LOCATION:Music Building
 DESCRIPTION:Conway High School Theatre auditions for the spring musical Si
- ster Act. Use Schoology group code SF6Z-T7NS-8KDP9 for information\; email
-  spiridigliozzia@conwayschools.info with questions.
+ ster Act. Use Schoology group code SF6Z-T7NS-8KDP9\; questions to spiridig
+ liozzia@conwayschools.info.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-0b7ef3b9d661@calendar-sync.conwaypto.org
@@ -715,7 +699,7 @@ DTSTAMP:20261118T000000Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Key Club Talent Show
-CATEGORIES:ARTS
+CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:2nd annual school-wide Key Club Talent Show. $5 tickets sold t
  he week before in the cafeteria.
@@ -817,9 +801,9 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Trivia tournament during 7th and 8th periods\, including Name 
- That Tune. Teams of up to six students\; participants excused from class w
- ith snack bar and prizes. Register at https://forms.gle/LGQyo3tJ4iZASNhXA
+DESCRIPTION:Teams of up to six students compete in trivia\, including Name
+  That Tune\, during 7th and 8th periods. Snack bar and prizes. Register on
+ line.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-b3a8e71a4788@calendar-sync.conwaypto.org
@@ -949,8 +933,8 @@ SUMMARY:Deadline: Jostens Paper Order Form Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Deadline to turn in Jostens paper order forms for cap\, gown\,
-  and graduation items. Contact: (479) 968-3269 or harrelloffice@jostens.co
- m
+  and graduation items. Contact: (479) 968-3269\, harrelloffice@jostens.com
+ .
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-19dae3c61c96@calendar-sync.conwaypto.org
@@ -1112,8 +1096,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:athletics-bed6870b9528@calendar-sync.conwaypto.org
 DTSTAMP:20261208T000000Z
-DTSTART;TZID=America/Chicago:20261208T033000
-DTEND;TZID=America/Chicago:20261208T063000
+DTSTART;TZID=America/Chicago:20261208T153000
+DTEND;TZID=America/Chicago:20261208T183000
 SUMMARY:Girls Varsity Bowling at Benton
 CATEGORIES:ATHLETICS
 LOCATION:Central Bowling Lanes
@@ -1186,8 +1170,8 @@ DTEND;VALUE=DATE:20261210
 SUMMARY:Deadline: Last Day to Turn in Doctor's Notes for Exam Exemption
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Last day to turn in doctor's notes toward semester exam exempt
- ion status. Notes accepted for credit until 12/18.
+DESCRIPTION:Last day to turn in doctor's notes towards exam exemption stat
+ us.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-6dc2ef650520@calendar-sync.conwaypto.org
@@ -1428,10 +1412,10 @@ UID:newsletter-de8a4d654c99@calendar-sync.conwaypto.org
 DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Fall Semester Exams
+SUMMARY:Fall Semester Exams (Day 1)
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day\; modified bell schedule TBD.
+DESCRIPTION:Semester exam day with a modified bell schedule (TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-1698bb095b37@calendar-sync.conwaypto.org
@@ -1446,10 +1430,10 @@ UID:newsletter-5a6f5007818b@calendar-sync.conwaypto.org
 DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:Fall Semester Exams
+SUMMARY:Fall Semester Exams (Day 2)
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Second semester exam day\; modified bell schedule TBD.
+DESCRIPTION:Semester exam day with a modified bell schedule (TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-bc9027022add@calendar-sync.conwaypto.org
@@ -1521,12 +1505,12 @@ UID:newsletter-850c4e16f1b2@calendar-sync.conwaypto.org
 DTSTAMP:20261218T000000Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-SUMMARY:Deadline: Make-up Semester Exams / Last Day for Doctor's Notes for
-  Credit
+SUMMARY:Deadline: Make-up Semester Exams (Day 2) / Last Day for Doctor's N
+ otes for Credit
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Make-up semester exams. Also the last day doctor's notes will 
- be accepted for credit.
+DESCRIPTION:Final make-up day for fall semester exams\; doctor's notes acc
+ epted for credit until this date.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-a31dc9932cb9@calendar-sync.conwaypto.org
@@ -1655,9 +1639,9 @@ DTSTART;TZID=America/Chicago:20261230T163000
 DTEND;TZID=America/Chicago:20261230T173000
 SUMMARY:ACT Prep Class - English and Reading
 CATEGORIES:ACADEMICS
-LOCATION:Room 114 (Mr. Johnson)
-DESCRIPTION:ACT Prep class focusing on English and Reading with Mr. Johnso
- n.
+LOCATION:Room 114
+DESCRIPTION:ACT Prep Class with Mr. Johnson focusing on English and Readin
+ g.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0a97f9a52496@calendar-sync.conwaypto.org
@@ -2153,26 +2137,6 @@ LOCATION:Central High School
 DESCRIPTION:Girls Varsity Basketball at Central
 END:VEVENT
 BEGIN:VEVENT
-UID:athletics-d0a772b540de@calendar-sync.conwaypto.org
-DTSTAMP:20270119T000000Z
-DTSTART;TZID=America/Chicago:20270119T160000
-DTEND;TZID=America/Chicago:20270119T190000
-SUMMARY:Girls Varsity Bowling at Russellville
-CATEGORIES:ATHLETICS
-LOCATION:Strikers Bowling Lane
-DESCRIPTION:Girls Varsity Bowling at Russellville
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-e06a37ad4065@calendar-sync.conwaypto.org
-DTSTAMP:20270119T000000Z
-DTSTART;TZID=America/Chicago:20270119T160000
-DTEND;TZID=America/Chicago:20270119T190000
-SUMMARY:Boys Varsity Bowling at Russellville
-CATEGORIES:ATHLETICS
-LOCATION:Strikers Bowling Lane
-DESCRIPTION:Boys Varsity Bowling at Russellville
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-57c1c87cc032@calendar-sync.conwaypto.org
 DTSTAMP:20270120T000000Z
 DTSTART;TZID=America/Chicago:20270120T170000
@@ -2225,20 +2189,20 @@ UID:athletics-5957412b74ef@calendar-sync.conwaypto.org
 DTSTAMP:20270121T000000Z
 DTSTART;TZID=America/Chicago:20270121T160000
 DTEND;TZID=America/Chicago:20270121T190000
-SUMMARY:Girls Varsity Bowling vs Conway Christian
+SUMMARY:Boys Varsity Bowling vs Conway Christian Senior Night
 CATEGORIES:ATHLETICS
 LOCATION:Conway Family Bowl
-DESCRIPTION:Girls Varsity Bowling vs Conway Christian
+DESCRIPTION:Boys Varsity Bowling vs Conway Christian Senior Night
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-5b2824a3ccc6@calendar-sync.conwaypto.org
 DTSTAMP:20270121T000000Z
 DTSTART;TZID=America/Chicago:20270121T160000
 DTEND;TZID=America/Chicago:20270121T190000
-SUMMARY:Boys Varsity Bowling vs Conway Christian
+SUMMARY:Girls Varsity Bowling vs Conway Christian Senior Night
 CATEGORIES:ATHLETICS
 LOCATION:Conway Family Bowl
-DESCRIPTION:Boys Varsity Bowling vs Conway Christian
+DESCRIPTION:Girls Varsity Bowling vs Conway Christian Senior Night
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-75bca308a386@calendar-sync.conwaypto.org
@@ -2417,5 +2381,15 @@ DTSTART;TZID=America/Chicago:20270129T080000
 DTEND;TZID=America/Chicago:20270129T153500
 SUMMARY:Makeup ATLAS Interim #2
 CATEGORIES:ACADEMICS
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-9160a1c2863c@calendar-sync.conwaypto.org
+DTSTAMP:20270201T000000Z
+DTSTART;TZID=America/Chicago:20270201T170000
+DTEND;TZID=America/Chicago:20270201T200000
+SUMMARY:Boys JV Wrestling at Challenge Matches
+CATEGORIES:ATHLETICS
+LOCATION:Bryant
+DESCRIPTION:Boys JV Wrestling at Challenge Matches
 END:VEVENT
 END:VCALENDAR

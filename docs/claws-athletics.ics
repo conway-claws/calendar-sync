@@ -23,46 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:athletics-0def4db56064@calendar-sync.conwaypto.org
-DTSTAMP:20261102T000000Z
-DTSTART;TZID=America/Chicago:20261102T000000
-DTEND;TZID=America/Chicago:20261102T030000
-SUMMARY:Girls Varsity Basketball vs Basketball Madness
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls Varsity Basketball vs Basketball Madness
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-18e2240dadf9@calendar-sync.conwaypto.org
-DTSTAMP:20261102T000000Z
-DTSTART;TZID=America/Chicago:20261102T000000
-DTEND;TZID=America/Chicago:20261102T030000
-SUMMARY:Boys JV Basketball vs Basketball Madness
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Boys JV Basketball vs Basketball Madness
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-44b0052be671@calendar-sync.conwaypto.org
-DTSTAMP:20261102T000000Z
-DTSTART;TZID=America/Chicago:20261102T000000
-DTEND;TZID=America/Chicago:20261102T030000
-SUMMARY:Boys Varsity Basketball vs Basketball Madness
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Boys Varsity Basketball vs Basketball Madness
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-4b9795c18037@calendar-sync.conwaypto.org
-DTSTAMP:20261102T000000Z
-DTSTART;TZID=America/Chicago:20261102T000000
-DTEND;TZID=America/Chicago:20261102T030000
-SUMMARY:Girls JV Basketball vs Basketball Madness
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls JV Basketball vs Basketball Madness
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-b7f4a9cc059a@calendar-sync.conwaypto.org
 DTSTAMP:20261102T000000Z
 DTSTART;VALUE=DATE:20261102
@@ -86,6 +46,18 @@ LOCATION:Conway High School
 DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
  nting to play baseball in 2026-2027. A current physical must be in DragonF
  ly Max. Email hardinl@conwayschools.info to sign up.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-f030a869d9c1@calendar-sync.conwaypto.org
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Baseball Tryouts for New Students
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School
+DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
+ nting to play baseball in 2026-2027. A current physical must be entered in
+ to DragonFly Max. Email hardinl@conwayschools.info to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8295f0eae580@calendar-sync.conwaypto.org
@@ -426,9 +398,9 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Trivia tournament during 7th and 8th periods\, including Name 
- That Tune. Teams of up to six students\; participants excused from class w
- ith snack bar and prizes. Register at https://forms.gle/LGQyo3tJ4iZASNhXA
+DESCRIPTION:Teams of up to six students compete in trivia\, including Name
+  That Tune\, during 7th and 8th periods. Snack bar and prizes. Register on
+ line.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0c4a9bd48c5d@calendar-sync.conwaypto.org
@@ -674,8 +646,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:athletics-bed6870b9528@calendar-sync.conwaypto.org
 DTSTAMP:20261208T000000Z
-DTSTART;TZID=America/Chicago:20261208T033000
-DTEND;TZID=America/Chicago:20261208T063000
+DTSTART;TZID=America/Chicago:20261208T153000
+DTEND;TZID=America/Chicago:20261208T183000
 SUMMARY:Girls Varsity Bowling at Benton
 CATEGORIES:ATHLETICS
 LOCATION:Central Bowling Lanes
@@ -1414,26 +1386,6 @@ LOCATION:Central High School
 DESCRIPTION:Girls Varsity Basketball at Central
 END:VEVENT
 BEGIN:VEVENT
-UID:athletics-d0a772b540de@calendar-sync.conwaypto.org
-DTSTAMP:20270119T000000Z
-DTSTART;TZID=America/Chicago:20270119T160000
-DTEND;TZID=America/Chicago:20270119T190000
-SUMMARY:Girls Varsity Bowling at Russellville
-CATEGORIES:ATHLETICS
-LOCATION:Strikers Bowling Lane
-DESCRIPTION:Girls Varsity Bowling at Russellville
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-e06a37ad4065@calendar-sync.conwaypto.org
-DTSTAMP:20270119T000000Z
-DTSTART;TZID=America/Chicago:20270119T160000
-DTEND;TZID=America/Chicago:20270119T190000
-SUMMARY:Boys Varsity Bowling at Russellville
-CATEGORIES:ATHLETICS
-LOCATION:Strikers Bowling Lane
-DESCRIPTION:Boys Varsity Bowling at Russellville
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-57c1c87cc032@calendar-sync.conwaypto.org
 DTSTAMP:20270120T000000Z
 DTSTART;TZID=America/Chicago:20270120T170000
@@ -1478,20 +1430,20 @@ UID:athletics-5957412b74ef@calendar-sync.conwaypto.org
 DTSTAMP:20270121T000000Z
 DTSTART;TZID=America/Chicago:20270121T160000
 DTEND;TZID=America/Chicago:20270121T190000
-SUMMARY:Girls Varsity Bowling vs Conway Christian
+SUMMARY:Boys Varsity Bowling vs Conway Christian Senior Night
 CATEGORIES:ATHLETICS
 LOCATION:Conway Family Bowl
-DESCRIPTION:Girls Varsity Bowling vs Conway Christian
+DESCRIPTION:Boys Varsity Bowling vs Conway Christian Senior Night
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-5b2824a3ccc6@calendar-sync.conwaypto.org
 DTSTAMP:20270121T000000Z
 DTSTART;TZID=America/Chicago:20270121T160000
 DTEND;TZID=America/Chicago:20270121T190000
-SUMMARY:Boys Varsity Bowling vs Conway Christian
+SUMMARY:Girls Varsity Bowling vs Conway Christian Senior Night
 CATEGORIES:ATHLETICS
 LOCATION:Conway Family Bowl
-DESCRIPTION:Boys Varsity Bowling vs Conway Christian
+DESCRIPTION:Girls Varsity Bowling vs Conway Christian Senior Night
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-75bca308a386@calendar-sync.conwaypto.org
@@ -1632,5 +1584,15 @@ SUMMARY:Boys JV Basketball at Bryant
 CATEGORIES:ATHLETICS
 LOCATION:Bryant HS
 DESCRIPTION:Boys JV Basketball at Bryant
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-9160a1c2863c@calendar-sync.conwaypto.org
+DTSTAMP:20270201T000000Z
+DTSTART;TZID=America/Chicago:20270201T170000
+DTEND;TZID=America/Chicago:20270201T200000
+SUMMARY:Boys JV Wrestling at Challenge Matches
+CATEGORIES:ATHLETICS
+LOCATION:Bryant
+DESCRIPTION:Boys JV Wrestling at Challenge Matches
 END:VEVENT
 END:VCALENDAR
