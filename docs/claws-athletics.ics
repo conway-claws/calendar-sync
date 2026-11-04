@@ -23,31 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-b7f4a9cc059a@calendar-sync.conwaypto.org
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Conway Baseball 9th-12th Grade Tryouts
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Tryouts for students new to Conway High School wanting to part
- icipate in baseball for the 2026-2027 school year\, November 2-5. A curren
- t physical must be entered into DragonFly Max to participate. Email hardin
- l@conwayschools.info to sign up and for additional information.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-e32b5fa97b4a@calendar-sync.conwaypto.org
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261103
-SUMMARY:Baseball Tryouts for New Students
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
- nting to play baseball in 2026-2027. A current physical must be in DragonF
- ly Max. Email hardinl@conwayschools.info to sign up.
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-f030a869d9c1@calendar-sync.conwaypto.org
 DTSTAMP:20261103T000000Z
 DTSTART;VALUE=DATE:20261103
@@ -58,6 +33,16 @@ LOCATION:Conway High School
 DESCRIPTION:Tryouts November 2-5 for students new to Conway High School wa
  nting to play baseball in 2026-2027. A current physical must be entered in
  to DragonFly Max. Email hardinl@conwayschools.info to sign up.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-4f4a6068c029@calendar-sync.conwaypto.org
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Wampus Cats vs. Little Rock Christian Warriors
+CATEGORIES:ATHLETICS
+DESCRIPTION:Conway Wampus Cats take on the Little Rock Christian Warriors.
+  A live stream link is available for those who cannot attend in person.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-8295f0eae580@calendar-sync.conwaypto.org
@@ -78,6 +63,19 @@ SUMMARY:Boys Varsity Swim and Dive vs Conway Meet
 CATEGORIES:ATHLETICS
 LOCATION:Hendrix Pool
 DESCRIPTION:Boys Varsity Swim and Dive vs Conway Meet
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-41c3e0a5a504@calendar-sync.conwaypto.org
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Baseball Tryouts for Students New to Conway
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School
+DESCRIPTION:Tryouts (November 2-5) for students new to Conway High School 
+ wanting to participate in baseball for the 2026-2027 school year. A curren
+ t physical must be entered into DragonFly Max to participate. Email hardin
+ l@conwayschools.info to sign up.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-04e4dbd2b11a@calendar-sync.conwaypto.org
@@ -118,6 +116,17 @@ SUMMARY:Football Game - Away (Whiteout Theme)
 CATEGORIES:ATHLETICS
 DESCRIPTION:Away football game with Whiteout student section theme. Studen
  ts need their student ID to enter football games.
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-e524252ed1e9@calendar-sync.conwaypto.org
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Deadline: Conway Boys Basketball Shirt Order Deadline
+CATEGORIES:ATHLETICS
+DESCRIPTION:Last day to order Conway Basketball shirts or crewneck sweatsh
+ irts to support the Conway Boys Basketball program. Order online at https:
+ //conwaybball26.itemorder.com/shop/sale/
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-181efad4c93d@calendar-sync.conwaypto.org
@@ -399,8 +408,8 @@ SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
 DESCRIPTION:Teams of up to six students compete in trivia\, including Name
-  That Tune\, during 7th and 8th periods. Snack bar and prizes. Register on
- line.
+  That Tune\, during 7th and 8th periods. Participants excused from class\;
+  snack bar and prizes. Register at https://forms.gle/LGQyo3tJ4iZASNhXA
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0c4a9bd48c5d@calendar-sync.conwaypto.org
@@ -1386,6 +1395,26 @@ LOCATION:Central High School
 DESCRIPTION:Girls Varsity Basketball at Central
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-d0a772b540de@calendar-sync.conwaypto.org
+DTSTAMP:20270119T000000Z
+DTSTART;TZID=America/Chicago:20270119T160000
+DTEND;TZID=America/Chicago:20270119T190000
+SUMMARY:Girls Varsity Bowling at Russellville
+CATEGORIES:ATHLETICS
+LOCATION:Strikers Bowling Alley
+DESCRIPTION:Girls Varsity Bowling at Russellville
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-e06a37ad4065@calendar-sync.conwaypto.org
+DTSTAMP:20270119T000000Z
+DTSTART;TZID=America/Chicago:20270119T160000
+DTEND;TZID=America/Chicago:20270119T190000
+SUMMARY:Boys Varsity Bowling at Russellville
+CATEGORIES:ATHLETICS
+LOCATION:Strikers Bowling Alley
+DESCRIPTION:Boys Varsity Bowling at Russellville
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-57c1c87cc032@calendar-sync.conwaypto.org
 DTSTAMP:20270120T000000Z
 DTSTART;TZID=America/Chicago:20270120T170000
@@ -1594,5 +1623,65 @@ SUMMARY:Boys JV Wrestling at Challenge Matches
 CATEGORIES:ATHLETICS
 LOCATION:Bryant
 DESCRIPTION:Boys JV Wrestling at Challenge Matches
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-40d28b30c725@calendar-sync.conwaypto.org
+DTSTAMP:20270202T000000Z
+DTSTART;TZID=America/Chicago:20270202T110000
+DTEND;TZID=America/Chicago:20270202T140000
+SUMMARY:Boys Varsity Bowling at 6A Central Conference
+CATEGORIES:ATHLETICS
+LOCATION:Strikers Bowling Alley
+DESCRIPTION:Boys Varsity Bowling at 6A Central Conference
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-717505b81be0@calendar-sync.conwaypto.org
+DTSTAMP:20270202T000000Z
+DTSTART;TZID=America/Chicago:20270202T170000
+DTEND;TZID=America/Chicago:20270202T200000
+SUMMARY:Girls JV Basketball at Little Rock Southwest
+CATEGORIES:ATHLETICS
+LOCATION:Southwest HS
+DESCRIPTION:Girls JV Basketball at Little Rock Southwest
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-b34185b8c411@calendar-sync.conwaypto.org
+DTSTAMP:20270202T000000Z
+DTSTART;TZID=America/Chicago:20270202T180000
+DTEND;TZID=America/Chicago:20270202T210000
+SUMMARY:Girls Varsity Basketball at Southwest
+CATEGORIES:ATHLETICS
+LOCATION:Southwest High School
+DESCRIPTION:Girls Varsity Basketball at Southwest
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-c14e4869b3ac@calendar-sync.conwaypto.org
+DTSTAMP:20270202T000000Z
+DTSTART;TZID=America/Chicago:20270202T110000
+DTEND;TZID=America/Chicago:20270202T140000
+SUMMARY:Girls Varsity Bowling at 6A Central Conference
+CATEGORIES:ATHLETICS
+LOCATION:Strikers Bowling Alley
+DESCRIPTION:Girls Varsity Bowling at 6A Central Conference
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-c4bfdfc12551@calendar-sync.conwaypto.org
+DTSTAMP:20270202T000000Z
+DTSTART;TZID=America/Chicago:20270202T170000
+DTEND;TZID=America/Chicago:20270202T200000
+SUMMARY:Boys JV Basketball at Little Rock Southwest
+CATEGORIES:ATHLETICS
+LOCATION:Southwest HS
+DESCRIPTION:Boys JV Basketball at Little Rock Southwest
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-d62eee23e8b2@calendar-sync.conwaypto.org
+DTSTAMP:20270202T000000Z
+DTSTART;TZID=America/Chicago:20270202T193000
+DTEND;TZID=America/Chicago:20270202T223000
+SUMMARY:Boys Varsity Basketball at Little Rock Southwest
+CATEGORIES:ATHLETICS
+LOCATION:Southwest HS
+DESCRIPTION:Boys Varsity Basketball at Little Rock Southwest
 END:VEVENT
 END:VCALENDAR
