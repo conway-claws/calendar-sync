@@ -47,8 +47,8 @@ DTEND;VALUE=DATE:20261108
 SUMMARY:South Region Orchestra Clinic (by audition)
 CATEGORIES:ARTS
 LOCATION:Conway High School
-DESCRIPTION:Second day of the South Region Orchestra Clinic (November 6-7)
-  for students who qualified by audition.
+DESCRIPTION:South Region Orchestra Clinic for students who qualified by au
+ dition.
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-3798f3410b6b@calendar-sync.conwaypto.org
@@ -57,10 +57,9 @@ DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Marching Band State Competition Send-Off
 CATEGORIES:ARTS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Updated date: line the street in front of Buzz Bolding Arena t
- o cheer on the Conway High School Marching Band as the buses roll out for 
- State Competition.
+LOCATION:Street in front of Buzz Bolding Arena
+DESCRIPTION:Line the street to cheer on the Conway High School Marching Ba
+ nd as the buses roll out to State Competition (date updated to the 9th).
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-b0e9f95a8488@calendar-sync.conwaypto.org
@@ -87,10 +86,10 @@ DTEND;TZID=America/Chicago:20261112T200000
 SUMMARY:CHS Theatre Presents "Puffs"
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
-DESCRIPTION:Conway High School Theatre presents "Puffs (Or Seven Increasin
- gly Eventful Years At A Certain School of Magic and Magic)" by Matt Cox\, 
- directed by Ms. Heather Hooten. Tickets are $5 for students/CPS faculty an
- d staff\, $10 for adults.
+DESCRIPTION:Conway High School Theatre presents Puffs (Or Seven Increasing
+ ly Eventful Years At A Certain School of Magic and Magic) by Matt Cox\, di
+ rected by Ms. Heather Hooten. Tickets $5 students/CPS faculty and staff\, 
+ $10 adults.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-94feecd78be3@calendar-sync.conwaypto.org
@@ -125,8 +124,8 @@ DTEND;TZID=America/Chicago:20261113T200000
 SUMMARY:CHS Theatre Presents "Puffs"
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
-DESCRIPTION:Conway High School Theatre presents "Puffs" by Matt Cox. Ticke
- ts are $5 for students/CPS faculty and staff\, $10 for adults.
+DESCRIPTION:Conway High School Theatre presents Puffs by Matt Cox. Tickets
+  $5 students/CPS faculty and staff\, $10 adults.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-728ed73d3568@calendar-sync.conwaypto.org
@@ -147,9 +146,8 @@ DTEND;TZID=America/Chicago:20261114T200000
 SUMMARY:CHS Theatre Presents "Puffs"
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
-DESCRIPTION:Final performance of "Puffs" by Matt Cox\, presented by Conway
-  High School Theatre. Tickets are $5 for students/CPS faculty and staff\, 
- $10 for adults.
+DESCRIPTION:Conway High School Theatre presents Puffs by Matt Cox. Tickets
+  $5 students/CPS faculty and staff\, $10 adults.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-ce5d46f9892a@calendar-sync.conwaypto.org
@@ -178,12 +176,12 @@ UID:newsletter-d660e0cb1096@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Sister Act Spring Musical Auditions
+SUMMARY:Spring Musical "Sister Act" Auditions
 CATEGORIES:ARTS
 LOCATION:Music Building\, Conway High School
-DESCRIPTION:Conway High School Theatre auditions for the spring musical Si
- ster Act. Use Schoology GROUP code SF6Z-T7NS-8KDP9 for information. Email 
- spiridigliozzia@conwayschools.info with questions.
+DESCRIPTION:Auditions for the spring musical Sister Act. Use Schoology gro
+ up code SF6Z-T7NS-8KDP9 for information\; contact Mr. S at spiridigliozzia
+ @conwayschools.info.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-29a56778bfc8@calendar-sync.conwaypto.org

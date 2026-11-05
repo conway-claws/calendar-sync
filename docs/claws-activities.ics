@@ -23,17 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-74379a4f1fa7@calendar-sync.conwaypto.org
-DTSTAMP:20261103T000000Z
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-SUMMARY:Young Democrats Club Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:Room 263
-DESCRIPTION:Young Democrats meet during 1st and 2nd lunches to discuss Ele
- ction Day events around the city\, state\, and nation.
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-5500ae35eb6b@calendar-sync.conwaypto.org
 DTSTAMP:20261104T000000Z
 DTSTART;VALUE=DATE:20261104
@@ -51,11 +40,21 @@ DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Club America Meeting
 CATEGORIES:ACTIVITIES
-LOCATION:Mr. Glover's Room 364\, Conway High School
-DESCRIPTION:CLUB AMERICA (formerly Young Republicans) meets with guest spe
- aker State Rep. David Ray. Students need a pass from Mrs. Rice (257)\, Mrs
- . Glover (364)\, Mrs. Imboden (109) or Mrs. Hammett (913) to give to their
-  WIN teacher. Fellowship and snacks provided.
+LOCATION:Mr. Glover's room 364\, Conway High School
+DESCRIPTION:Club America (formerly Young Republicans) meeting with guest s
+ peaker state rep David Ray. A pass from Mrs. Rice (257)\, Mrs. Glover (364
+ )\, Mrs. Imboden (109)\, or Mrs. Hammett (913) is required for your WIN te
+ acher.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-6d420a0531d0@calendar-sync.conwaypto.org
+DTSTAMP:20261105T000000Z
+DTSTART;TZID=America/Chicago:20261105T154500
+DTEND;TZID=America/Chicago:20261105T173000
+SUMMARY:Key Club Talent Show Tryouts
+CATEGORIES:ACTIVITIES
+LOCATION:Choir Room\, Conway High School
+DESCRIPTION:Auditions for the 2nd annual school-wide Key Club Talent Show.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-022028a29cb5@calendar-sync.conwaypto.org
@@ -92,13 +91,12 @@ UID:newsletter-c0444bd501f8@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Deadline: CATS in Community Food Drive - Last Day to Donate
+SUMMARY:Deadline: CATS in Community Food Drive Collection Ends
 CATEGORIES:ACTIVITIES
-LOCATION:Conway High School\, Kroger on Prince Street\, Walmart on Hwy 65\
- , United Way
-DESCRIPTION:Final day to donate non-perishable food items to support Conwa
- y school families. All donations must be sealed and within expiration date
- s.
+LOCATION:Conway High School and other community drop-off locations
+DESCRIPTION:Last day to donate non-perishable food items to support Conway
+  school families. Drop-off at Conway High School\, Kroger on Prince Street
+ \, Walmart on Hwy 65\, United Way\, and other listed sites.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-0b7ef3b9d661@calendar-sync.conwaypto.org
