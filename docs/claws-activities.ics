@@ -23,17 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-5500ae35eb6b@calendar-sync.conwaypto.org
-DTSTAMP:20261104T000000Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:FCS Mandatory Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
-DESCRIPTION:FCS meets during WIN time. Attendance is mandatory\; email Mrs
- . Dunn at dunnr@conwayschools.info if you cannot attend.
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-22e74e0c96fa@calendar-sync.conwaypto.org
 DTSTAMP:20261105T000000Z
 DTSTART;VALUE=DATE:20261105
@@ -87,6 +76,17 @@ DESCRIPTION:<p>School Board Information:Â <a rel="noopener noreferrer no
  socialm3021/featured</a></p>
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-f4146ef3d022@calendar-sync.conwaypto.org
+DTSTAMP:20261111T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Talent Show Ticket Sales Begin
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School
+DESCRIPTION:Key Club will sell Talent Show tickets during both lunches\, b
+ eginning Wednesday\, Nov. 11 and running through Tuesday\, Nov. 17.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-c0444bd501f8@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
@@ -95,8 +95,9 @@ SUMMARY:Deadline: CATS in Community Food Drive Collection Ends
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School and other community drop-off locations
 DESCRIPTION:Last day to donate non-perishable food items to support Conway
-  school families. Drop-off at Conway High School\, Kroger on Prince Street
- \, Walmart on Hwy 65\, United Way\, and other listed sites.
+  school families. Drop-off locations include Conway High School\, Kroger o
+ n Prince Street\, Walmart on Hwy 65\, and United Way. Donations must be se
+ aled and within expiration dates.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-0b7ef3b9d661@calendar-sync.conwaypto.org
