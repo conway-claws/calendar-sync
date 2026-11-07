@@ -23,48 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-41c3e0a5a504@calendar-sync.conwaypto.org
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Baseball Tryouts for Students New to Conway
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Final day of tryouts (Nov 2-5) for students new to Conway High
-  School wanting to play baseball in 2026-2027. A current physical must be 
- in DragonFly Max. Email hardinl@conwayschools.info to sign up.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-04e4dbd2b11a@calendar-sync.conwaypto.org
-DTSTAMP:20261106T000000Z
-DTSTART;TZID=America/Chicago:20261106T000000
-DTEND;TZID=America/Chicago:20261106T030000
-SUMMARY:Girls Varsity Cross Country at State Meet
-CATEGORIES:ATHLETICS
-LOCATION:Oaklawn
-DESCRIPTION:Girls Varsity Cross Country at State Meet
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-205f73530eff@calendar-sync.conwaypto.org
-DTSTAMP:20261106T000000Z
-DTSTART;TZID=America/Chicago:20261106T000000
-DTEND;TZID=America/Chicago:20261106T030000
-SUMMARY:Boys Varsity Cross Country at 6A State Meet
-CATEGORIES:ATHLETICS
-LOCATION:Oaklawn
-DESCRIPTION:Boys Varsity Cross Country at 6A State Meet
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-fa9b1a27d58d@calendar-sync.conwaypto.org
-DTSTAMP:20261106T000000Z
-DTSTART;TZID=America/Chicago:20261106T190000
-DTEND;TZID=America/Chicago:20261106T220000
-SUMMARY:Boys Varsity Football at Bryant
-CATEGORIES:ATHLETICS
-LOCATION:Bryant Field
-DESCRIPTION:Boys Varsity Football at Bryant
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
 DTSTAMP:20261106T000000Z
 DTSTART;VALUE=DATE:20261106
@@ -222,9 +180,10 @@ DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Lady Cat Invitational - Day 1
 CATEGORIES:ATHLETICS
-DESCRIPTION:Lady Cat Invitational presented by Dyermark\, featuring teams 
- from across Arkansas. Thursday tickets available via GoFan: https://gofan.
- co/event/6970039?schoolId=AR4663
+LOCATION:Conway High School
+DESCRIPTION:Opening day of the Lady Cat Invitational basketball tournament
+  presented by Dyermark\, welcoming teams from across Arkansas. Tickets ava
+ ilable online through GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-a29a43d6001a@calendar-sync.conwaypto.org
@@ -233,8 +192,9 @@ DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Lady Cat Invitational - Day 2
 CATEGORIES:ATHLETICS
-DESCRIPTION:Lady Cat Invitational presented by Dyermark. Friday tickets av
- ailable via GoFan: https://gofan.co/event/6970040?schoolId=AR4663
+LOCATION:Conway High School
+DESCRIPTION:Second day of the Lady Cat Invitational basketball tournament 
+ presented by Dyermark. Tickets available online through GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-87458867308d@calendar-sync.conwaypto.org
@@ -263,8 +223,9 @@ DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Lady Cat Invitational - Day 3
 CATEGORIES:ATHLETICS
-DESCRIPTION:Lady Cat Invitational presented by Dyermark. Saturday tickets 
- available via GoFan: https://gofan.co/event/6970052?schoolId=AR4663
+LOCATION:Conway High School
+DESCRIPTION:Final day of the Lady Cat Invitational basketball tournament p
+ resented by Dyermark. Tickets available online through GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-246682348d02@calendar-sync.conwaypto.org
@@ -392,13 +353,23 @@ UID:newsletter-95363f756319@calendar-sync.conwaypto.org
 DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Brain Brawl Trivia Tournament
+SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Beta Club invites all students to compete in a trivia tourname
- nt during 7th and 8th periods. Teams of up to six students\; includes Name
-  That Tune\, snack bar\, and prizes. Register at https://forms.gle/LGQyo3t
- J4iZASNhXA
+DESCRIPTION:Beta Club trivia tournament during 7th and 8th periods. Teams 
+ of up to six students\; includes Name That Tune\, snack bar\, and prizes. 
+ Participants excused from class. Register at https://forms.gle/LGQyo3tJ4iZ
+ ASNhXA
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-6b9992eef017@calendar-sync.conwaypto.org
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:7A State Playoffs Begin - Wampus Cats Football
+CATEGORIES:ATHLETICS
+DESCRIPTION:The Wampus Cats begin the 7A Playoffs after clinching the outr
+ ight 7A Central Championship.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0c4a9bd48c5d@calendar-sync.conwaypto.org
@@ -436,11 +407,11 @@ UID:feed-48965f2d60ed@calendar-sync.conwaypto.org
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=America/Chicago:20261121T160000
 DTEND;TZID=America/Chicago:20261121T170000
-SUMMARY:ARVCA All Star Game - Braylin Merritt
+SUMMARY:2026 ARVCA All Star Game (Braylin Merritt)
 CATEGORIES:ATHLETICS
 LOCATION:Greenbrier High School
-DESCRIPTION:Braylin Merritt was selected to play in the 2026 ARVCA All Sta
- r game.
+DESCRIPTION:Conway's Braylin Merritt was selected to play in the 2026 ARVC
+ A All Star game\, taking place at Greenbrier High School.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-96f23bda67a7@calendar-sync.conwaypto.org
@@ -1703,5 +1674,45 @@ SUMMARY:Boys Varsity Swim and Dive at Bentonville
 CATEGORIES:ATHLETICS
 LOCATION:Bentonville Community Center
 DESCRIPTION:Boys Varsity Swim and Dive at Bentonville
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-0dd2e0b9fc2e@calendar-sync.conwaypto.org
+DTSTAMP:20270205T000000Z
+DTSTART;TZID=America/Chicago:20270205T193000
+DTEND;TZID=America/Chicago:20270205T223000
+SUMMARY:Boys Varsity Basketball at North Little Rock
+CATEGORIES:ATHLETICS
+LOCATION:North Little Rock HS
+DESCRIPTION:Boys Varsity Basketball at North Little Rock
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-2c5d76c59c98@calendar-sync.conwaypto.org
+DTSTAMP:20270205T000000Z
+DTSTART;TZID=America/Chicago:20270205T170000
+DTEND;TZID=America/Chicago:20270205T200000
+SUMMARY:Boys JV Basketball at North Little Rock
+CATEGORIES:ATHLETICS
+LOCATION:North Little Rock HS
+DESCRIPTION:Boys JV Basketball at North Little Rock
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-5df6834bb8e3@calendar-sync.conwaypto.org
+DTSTAMP:20270205T000000Z
+DTSTART;TZID=America/Chicago:20270205T180000
+DTEND;TZID=America/Chicago:20270205T210000
+SUMMARY:Girls Varsity Basketball at North Little Rock
+CATEGORIES:ATHLETICS
+LOCATION:North Little Rock High School
+DESCRIPTION:Girls Varsity Basketball at North Little Rock
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-85f1d6c06212@calendar-sync.conwaypto.org
+DTSTAMP:20270205T000000Z
+DTSTART;TZID=America/Chicago:20270205T160000
+DTEND;TZID=America/Chicago:20270205T190000
+SUMMARY:Boys JV Wrestling vs JV Tournament
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Boys JV Wrestling vs JV Tournament
 END:VEVENT
 END:VCALENDAR

@@ -23,27 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-e4cb1f49b279@calendar-sync.conwaypto.org
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Deadline: Emmersyn Caldwell GoFan Donation Link Closes
-CATEGORIES:ACADEMICS
-DESCRIPTION:Last day to donate to Emmersyn Caldwell through the GoFan dona
- tion link before it closes.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-914332cb6148@calendar-sync.conwaypto.org
-DTSTAMP:20261105T000000Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-SUMMARY:Arkansas Governor's School 2027 Information Meeting
-CATEGORIES:ACADEMICS
-LOCATION:Conway High School
-DESCRIPTION:Meeting during WIN for any junior interested in attending Arka
- nsas Governor's School and learning about the application process.
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-8b5160d0da11@calendar-sync.conwaypto.org
 DTSTAMP:20261109T000000Z
 DTSTART;TZID=America/Chicago:20261109T163000
@@ -51,7 +30,7 @@ DTEND;TZID=America/Chicago:20261109T173000
 SUMMARY:ACT Prep Class - English and Reading
 CATEGORIES:ACADEMICS
 LOCATION:Room 114
-DESCRIPTION:ACT Prep class with Mr. Johnson focusing on English and Readin
+DESCRIPTION:ACT Prep Class with Mr. Johnson focusing on English and Readin
  g.
 END:VEVENT
 BEGIN:VEVENT
@@ -86,7 +65,7 @@ DTEND;VALUE=DATE:20261114
 SUMMARY:Interim Reports Distributed
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Interim reports will be distributed during WIN time.
+DESCRIPTION:Interim reports distributed during WIN time.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-bb7b860133b0@calendar-sync.conwaypto.org
@@ -96,7 +75,7 @@ DTEND;TZID=America/Chicago:20261116T173000
 SUMMARY:ACT Prep Class - English and Reading
 CATEGORIES:ACADEMICS
 LOCATION:Room 114
-DESCRIPTION:ACT Prep class with Mr. Johnson focusing on English and Readin
+DESCRIPTION:ACT Prep Class with Mr. Johnson focusing on English and Readin
  g.
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +86,8 @@ DTEND;VALUE=DATE:20261118
 SUMMARY:Deadline: Last Day for Talent Show Ticket Sales
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Final day Key Club will sell Talent Show tickets during both l
- unches.
+DESCRIPTION:Final day Key Club sells Talent Show tickets during both lunch
+ es.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-b5c0750885eb@calendar-sync.conwaypto.org
@@ -126,7 +105,7 @@ DTEND;TZID=America/Chicago:20261130T173000
 SUMMARY:ACT Prep Class - English and Reading
 CATEGORIES:ACADEMICS
 LOCATION:Room 114
-DESCRIPTION:ACT Prep class with Mr. Johnson focusing on English and Readin
+DESCRIPTION:ACT Prep Class with Mr. Johnson focusing on English and Readin
  g.
 END:VEVENT
 BEGIN:VEVENT
@@ -137,9 +116,9 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: Jostens Paper Order Form Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Deadline to turn in Jostens paper order forms for caps\, gowns
- \, and graduation items. Contact: (479) 968-3269 or harrelloffice@jostens.
- com
+DESCRIPTION:Deadline to turn in Jostens paper order forms for cap\, gown\,
+  and graduation items. Contact Jostens at (479) 968-3269 or harrelloffice@
+ jostens.com.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-4f0eb2fbbefc@calendar-sync.conwaypto.org
@@ -167,11 +146,11 @@ UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
 DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Deadline: Last Day to Turn in Doctor's Notes for Exam Exemption
+SUMMARY:Deadline: Last Day to Turn In Doctor's Notes for Exam Exemption
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Last day to turn in doctor's notes toward semester exam exempt
- ion status. Notes will still be accepted for credit until 12/18.
+DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
+ s. Notes will still be accepted for credit until 12/18.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-64acd1399778@calendar-sync.conwaypto.org
