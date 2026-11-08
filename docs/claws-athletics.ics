@@ -23,67 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-b687bde1e774@calendar-sync.conwaypto.org
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Football Game - Away (Whiteout Theme)
-CATEGORIES:ATHLETICS
-DESCRIPTION:Away football game with Whiteout student section theme. Studen
- ts need their student ID to enter football games.
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-e524252ed1e9@calendar-sync.conwaypto.org
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Deadline: Conway Boys Basketball Shirt Order Deadline
-CATEGORIES:ATHLETICS
-DESCRIPTION:Last day to order Conway Basketball shirts\, youth/adult cotto
- n tees and crewneck sweatshirts\, with proceeds benefiting Conway Boys Bas
- ketball.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-181efad4c93d@calendar-sync.conwaypto.org
-DTSTAMP:20261107T000000Z
-DTSTART;TZID=America/Chicago:20261107T070000
-DTEND;TZID=America/Chicago:20261107T100000
-SUMMARY:Girls Varsity Wrestling at Rogers Open
-CATEGORIES:ATHLETICS
-LOCATION:Rogers High
-DESCRIPTION:Girls Varsity Wrestling at Rogers Open
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-b9df0c729781@calendar-sync.conwaypto.org
-DTSTAMP:20261107T000000Z
-DTSTART;TZID=America/Chicago:20261107T070000
-DTEND;TZID=America/Chicago:20261107T100000
-SUMMARY:Boys Varsity Wrestling at Rogers Open
-CATEGORIES:ATHLETICS
-LOCATION:Rogers High
-DESCRIPTION:Boys Varsity Wrestling at Rogers Open
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-d7fcc4fa289b@calendar-sync.conwaypto.org
-DTSTAMP:20261107T000000Z
-DTSTART;TZID=America/Chicago:20261107T000000
-DTEND;TZID=America/Chicago:20261107T030000
-SUMMARY:Girls Varsity Competitive Dance at Brooklyn
-CATEGORIES:ATHLETICS
-LOCATION:Brooklyn
-DESCRIPTION:Girls Varsity Competitive Dance at Brooklyn
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-f9e18e30af15@calendar-sync.conwaypto.org
-DTSTAMP:20261107T000000Z
-DTSTART;TZID=America/Chicago:20261107T000000
-DTEND;TZID=America/Chicago:20261107T030000
-SUMMARY:Girls Varsity Cheer at Brooklyn
-CATEGORIES:ATHLETICS
-LOCATION:Brooklyn
-DESCRIPTION:Girls Varsity Cheer at Brooklyn
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-1f56dbf9229d@calendar-sync.conwaypto.org
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=America/Chicago:20261110T170000
@@ -182,8 +121,8 @@ SUMMARY:Lady Cat Invitational - Day 1
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
 DESCRIPTION:Opening day of the Lady Cat Invitational basketball tournament
-  presented by Dyermark\, welcoming teams from across Arkansas. Tickets ava
- ilable online through GoFan.
+ \, presented by Dyermark\, featuring teams from across Arkansas. Tickets a
+ vailable via GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-a29a43d6001a@calendar-sync.conwaypto.org
@@ -193,8 +132,8 @@ DTEND;VALUE=DATE:20261114
 SUMMARY:Lady Cat Invitational - Day 2
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Second day of the Lady Cat Invitational basketball tournament 
- presented by Dyermark. Tickets available online through GoFan.
+DESCRIPTION:Second day of the Lady Cat Invitational basketball tournament\
+ , presented by Dyermark. Tickets available via GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-87458867308d@calendar-sync.conwaypto.org
@@ -224,8 +163,8 @@ DTEND;VALUE=DATE:20261115
 SUMMARY:Lady Cat Invitational - Day 3
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Final day of the Lady Cat Invitational basketball tournament p
- resented by Dyermark. Tickets available online through GoFan.
+DESCRIPTION:Final day of the Lady Cat Invitational basketball tournament\,
+  presented by Dyermark. Tickets available via GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-246682348d02@calendar-sync.conwaypto.org
@@ -356,10 +295,9 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Beta Club trivia tournament during 7th and 8th periods. Teams 
- of up to six students\; includes Name That Tune\, snack bar\, and prizes. 
- Participants excused from class. Register at https://forms.gle/LGQyo3tJ4iZ
- ASNhXA
+DESCRIPTION:Trivia tournament during 7th and 8th periods with teams of up 
+ to six students\, including Name That Tune. Snack bar and prizes\; partici
+ pants excused from class. Register at https://forms.gle/LGQyo3tJ4iZASNhXA
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-6b9992eef017@calendar-sync.conwaypto.org
@@ -411,7 +349,7 @@ SUMMARY:2026 ARVCA All Star Game (Braylin Merritt)
 CATEGORIES:ATHLETICS
 LOCATION:Greenbrier High School
 DESCRIPTION:Conway's Braylin Merritt was selected to play in the 2026 ARVC
- A All Star game\, taking place at Greenbrier High School.
+ A All Star game.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-96f23bda67a7@calendar-sync.conwaypto.org
@@ -1714,5 +1652,25 @@ SUMMARY:Boys JV Wrestling vs JV Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
 DESCRIPTION:Boys JV Wrestling vs JV Tournament
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-c66734cbe102@calendar-sync.conwaypto.org
+DTSTAMP:20270206T000000Z
+DTSTART;TZID=America/Chicago:20270206T000000
+DTEND;TZID=America/Chicago:20270206T030000
+SUMMARY:Boys Varsity Wrestling vs Regionals
+CATEGORIES:ATHLETICS
+LOCATION:Conway
+DESCRIPTION:Boys Varsity Wrestling vs Regionals
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-d3f94b176e08@calendar-sync.conwaypto.org
+DTSTAMP:20270206T000000Z
+DTSTART;TZID=America/Chicago:20270206T000000
+DTEND;TZID=America/Chicago:20270206T030000
+SUMMARY:Girls Varsity Wrestling vs Regionals
+CATEGORIES:ATHLETICS
+LOCATION:Conway
+DESCRIPTION:Girls Varsity Wrestling vs Regionals
 END:VEVENT
 END:VCALENDAR

@@ -23,15 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:orchestra-187c89a7721b@calendar-sync.conwaypto.org
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261108
-SUMMARY:South Region Orchestra Clinic
-CATEGORIES:ARTS
-LOCATION:Conway High School
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-25391af6cc5d@calendar-sync.conwaypto.org
 DTSTAMP:20261107T000000Z
 DTSTART;VALUE=DATE:20261107
@@ -75,13 +66,13 @@ UID:newsletter-34b40d89f96b@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;TZID=America/Chicago:20261112T190000
 DTEND;TZID=America/Chicago:20261112T200000
-SUMMARY:Theatre Presents 'Puffs'
+SUMMARY:Theatre Production: Puffs
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
-DESCRIPTION:Conway High School Theatre presents 'Puffs (Or Seven Increasin
- gly Eventful Years At A Certain School of Magic and Magic)' by Matt Cox\, 
- directed by Ms. Heather Hooten. Tickets $5 students/CPS faculty and staff\
- , $10 adults.
+DESCRIPTION:Conway High School Theatre presents Puffs (Or Seven Increasing
+ ly Eventful Years At A Certain School of Magic and Magic) by Matt Cox\, di
+ rected by Ms. Heather Hooten. Tickets $5 students/CPS faculty and staff\, 
+ $10 adults.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-94feecd78be3@calendar-sync.conwaypto.org
@@ -113,11 +104,11 @@ UID:newsletter-0d836b2d2180@calendar-sync.conwaypto.org
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=America/Chicago:20261113T190000
 DTEND;TZID=America/Chicago:20261113T200000
-SUMMARY:Theatre Presents 'Puffs'
+SUMMARY:Theatre Production: Puffs
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
-DESCRIPTION:Conway High School Theatre presents 'Puffs' by Matt Cox. Ticke
- ts $5 students/CPS faculty and staff\, $10 adults.
+DESCRIPTION:Conway High School Theatre presents Puffs by Matt Cox. Tickets
+  $5 students/CPS faculty and staff\, $10 adults.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-728ed73d3568@calendar-sync.conwaypto.org
@@ -135,11 +126,11 @@ UID:newsletter-8b870baf0417@calendar-sync.conwaypto.org
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=America/Chicago:20261114T190000
 DTEND;TZID=America/Chicago:20261114T200000
-SUMMARY:Theatre Presents 'Puffs'
+SUMMARY:Theatre Production: Puffs
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
-DESCRIPTION:Conway High School Theatre presents 'Puffs' by Matt Cox. Ticke
- ts $5 students/CPS faculty and staff\, $10 adults.
+DESCRIPTION:Final performance of Puffs by Matt Cox\, presented by Conway H
+ igh School Theatre.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-ce5d46f9892a@calendar-sync.conwaypto.org
@@ -168,12 +159,12 @@ UID:newsletter-d660e0cb1096@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Spring Musical 'Sister Act' Auditions
+SUMMARY:Spring Musical Auditions: Sister Act
 CATEGORIES:ARTS
-LOCATION:Music Building
+LOCATION:Music Building\, Conway High School
 DESCRIPTION:Conway High School Theatre auditions for the spring musical Si
- ster Act. Use Schoology group code SF6Z-T7NS-8KDP9 for information\; email
-  Mr. S at spiridigliozzia@conwayschools.info with questions.
+ ster Act. Use Schoology group code SF6Z-T7NS-8KDP9 for information\; quest
+ ions to Mr. S at spiridigliozzia@conwayschools.info.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-29a56778bfc8@calendar-sync.conwaypto.org
@@ -302,5 +293,14 @@ SUMMARY:All-State Choir Tryouts
 CATEGORIES:ARTS
 LOCATION:Henderson State University
 DESCRIPTION:All-State Choir tryouts\, all day.
+END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-c374efd4b992@calendar-sync.conwaypto.org
+DTSTAMP:20270206T000000Z
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:All-State Orchestra Auditions
+CATEGORIES:ARTS
+LOCATION:Henderson State University\, Arkadephia
 END:VEVENT
 END:VCALENDAR
