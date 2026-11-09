@@ -23,17 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-25391af6cc5d@calendar-sync.conwaypto.org
-DTSTAMP:20261107T000000Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:South Region Orchestra Clinic (by audition)
-CATEGORIES:ARTS
-LOCATION:Conway High School
-DESCRIPTION:South Region Orchestra Clinic for students who qualified by au
- dition\, held November 6-7 at Conway High School.
-END:VEVENT
-BEGIN:VEVENT
 UID:rss-3798f3410b6b@calendar-sync.conwaypto.org
 DTSTAMP:20261109T000000Z
 DTSTART;VALUE=DATE:20261109
@@ -66,7 +55,7 @@ UID:newsletter-34b40d89f96b@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;TZID=America/Chicago:20261112T190000
 DTEND;TZID=America/Chicago:20261112T200000
-SUMMARY:Theatre Production: Puffs
+SUMMARY:Theatre Presents: Puffs
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
 DESCRIPTION:Conway High School Theatre presents Puffs (Or Seven Increasing
@@ -104,7 +93,7 @@ UID:newsletter-0d836b2d2180@calendar-sync.conwaypto.org
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=America/Chicago:20261113T190000
 DTEND;TZID=America/Chicago:20261113T200000
-SUMMARY:Theatre Production: Puffs
+SUMMARY:Theatre Presents: Puffs
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
 DESCRIPTION:Conway High School Theatre presents Puffs by Matt Cox. Tickets
@@ -126,11 +115,11 @@ UID:newsletter-8b870baf0417@calendar-sync.conwaypto.org
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=America/Chicago:20261114T190000
 DTEND;TZID=America/Chicago:20261114T200000
-SUMMARY:Theatre Production: Puffs
+SUMMARY:Theatre Presents: Puffs
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
-DESCRIPTION:Final performance of Puffs by Matt Cox\, presented by Conway H
- igh School Theatre.
+DESCRIPTION:Conway High School Theatre presents Puffs by Matt Cox. Tickets
+  $5 students/CPS faculty and staff\, $10 adults.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-ce5d46f9892a@calendar-sync.conwaypto.org
@@ -159,12 +148,12 @@ UID:newsletter-d660e0cb1096@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Spring Musical Auditions: Sister Act
+SUMMARY:Sister Act Spring Musical Auditions
 CATEGORIES:ARTS
-LOCATION:Music Building\, Conway High School
+LOCATION:Music Building
 DESCRIPTION:Conway High School Theatre auditions for the spring musical Si
- ster Act. Use Schoology group code SF6Z-T7NS-8KDP9 for information\; quest
- ions to Mr. S at spiridigliozzia@conwayschools.info.
+ ster Act. Use Schoology GROUP code SF6Z-T7NS-8KDP9 for information\; email
+  Mr. S at spiridigliozzia@conwayschools.info with questions.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-29a56778bfc8@calendar-sync.conwaypto.org
