@@ -41,7 +41,7 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:ASVAB Test for Seniors
 CATEGORIES:ACADEMICS
 LOCATION:Lecture Hall
-DESCRIPTION:Seniors can sign up in the Counseling Center to take the ASVAB
+DESCRIPTION:Seniors may sign up in the Counseling Center to take the ASVAB
   career exploration test in the afternoon. Bring a fully charged Chromeboo
  k. Seats are limited.
 END:VEVENT
@@ -65,9 +65,9 @@ DTEND;VALUE=DATE:20261113
 SUMMARY:Library Closed - No Chromebook Repair
 CATEGORIES:ACADEMICS
 LOCATION:CHS Library
-DESCRIPTION:The library will be closed all day. Chromebook repair unavaila
- ble. Students may return books in the library book drop across from the ma
- in office.
+DESCRIPTION:The library will be closed all day\; Chromebook repair unavail
+ able. Book returns may be placed in the book drop across from the main off
+ ice.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-3c135e3e2f71@calendar-sync.conwaypto.org
@@ -87,7 +87,7 @@ DTEND;TZID=America/Chicago:20261116T173000
 SUMMARY:ACT Prep Class - English and Reading
 CATEGORIES:ACADEMICS
 LOCATION:Room 114
-DESCRIPTION:ACT Prep Class with Mr. Johnson focusing on English and Readin
+DESCRIPTION:ACT prep class with Mr. Johnson focusing on English and Readin
  g.
 END:VEVENT
 BEGIN:VEVENT
@@ -98,8 +98,8 @@ DTEND;VALUE=DATE:20261118
 SUMMARY:Deadline: Last Day for Talent Show Ticket Sales
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Final day of Key Club Talent Show ticket sales during both lun
- ches.
+DESCRIPTION:Final day Key Club sells Talent Show tickets during both lunch
+ es.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-b5c0750885eb@calendar-sync.conwaypto.org
@@ -117,7 +117,7 @@ DTEND;TZID=America/Chicago:20261130T173000
 SUMMARY:ACT Prep Class - English and Reading
 CATEGORIES:ACADEMICS
 LOCATION:Room 114
-DESCRIPTION:ACT Prep Class with Mr. Johnson focusing on English and Readin
+DESCRIPTION:ACT prep class with Mr. Johnson focusing on English and Readin
  g.
 END:VEVENT
 BEGIN:VEVENT
@@ -128,8 +128,8 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: Jostens Paper Order Form Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Deadline to turn in Jostens paper order forms for caps\, gowns
- \, and other orders. Contact: (479) 968-3269 or harrelloffice@jostens.com
+DESCRIPTION:Deadline to turn in Jostens paper order forms. Contact: (479) 
+ 968-3269 or harrelloffice@jostens.com
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-4f0eb2fbbefc@calendar-sync.conwaypto.org
@@ -160,8 +160,8 @@ DTEND;VALUE=DATE:20261210
 SUMMARY:Deadline: Last Day to Turn in Doctor's Notes for Exam Exemption
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Last day to turn in doctor's notes toward semester exam exempt
- ion status.
+DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
+ s. Notes accepted for credit until 12/18.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-64acd1399778@calendar-sync.conwaypto.org

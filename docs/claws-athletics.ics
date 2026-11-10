@@ -257,6 +257,17 @@ LOCATION:Hendrix Pool
 DESCRIPTION:Girls Varsity Swim and Dive vs Conway Meet
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-a3368bad2bd0@calendar-sync.conwaypto.org
+DTSTAMP:20261119T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Lady Cat Invitational - Day 1
+CATEGORIES:ATHLETICS
+DESCRIPTION:Day one of the Lady Cat Invitational basketball tournament pre
+ sented by Dyermark\, featuring teams from across Arkansas. Tickets availab
+ le via GoFan.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-907bdb9a3527@calendar-sync.conwaypto.org
 DTSTAMP:20261120T000000Z
 DTSTART;TZID=America/Chicago:20261120T160000
@@ -288,6 +299,16 @@ LOCATION:Harber High
 DESCRIPTION:Girls Varsity Wrestling at Lady Wildcat
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-0be65123d5ed@calendar-sync.conwaypto.org
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Lady Cat Invitational - Day 2
+CATEGORIES:ATHLETICS
+DESCRIPTION:Day two of the Lady Cat Invitational basketball tournament pre
+ sented by Dyermark. Tickets available via GoFan.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-95363f756319@calendar-sync.conwaypto.org
 DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
@@ -295,9 +316,9 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Teams of up to six students compete in trivia\, including Name
-  That Tune\, during 7th and 8th periods. Participants excused from class\;
-  snack bar and prizes. Register at https://forms.gle/LGQyo3tJ4iZASNhXA
+DESCRIPTION:Trivia tournament during 7th and 8th periods\, including Name 
+ That Tune. Teams of up to six students\; participants excused from class. 
+ Snack bar and prizes. Register at https://forms.gle/LGQyo3tJ4iZASNhXA
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-6b9992eef017@calendar-sync.conwaypto.org
@@ -345,11 +366,21 @@ UID:feed-48965f2d60ed@calendar-sync.conwaypto.org
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=America/Chicago:20261121T160000
 DTEND;TZID=America/Chicago:20261121T170000
-SUMMARY:2026 ARVCA All Star Game - Braylin Merritt
+SUMMARY:2026 ARVCA All Star Game
 CATEGORIES:ATHLETICS
 LOCATION:Greenbrier High School
-DESCRIPTION:Braylin Merritt of Conway High School will play in the 2026 AR
- VCA All Star game.
+DESCRIPTION:CHS student-athlete Braylin Merritt was selected to play in th
+ e 2026 ARVCA All Star game.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-908dbdf67485@calendar-sync.conwaypto.org
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Lady Cat Invitational - Day 3
+CATEGORIES:ATHLETICS
+DESCRIPTION:Final day of the Lady Cat Invitational basketball tournament p
+ resented by Dyermark. Tickets available via GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-96f23bda67a7@calendar-sync.conwaypto.org
