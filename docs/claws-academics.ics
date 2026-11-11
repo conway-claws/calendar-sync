@@ -23,17 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-8b5160d0da11@calendar-sync.conwaypto.org
-DTSTAMP:20261109T000000Z
-DTSTART;TZID=America/Chicago:20261109T163000
-DTEND;TZID=America/Chicago:20261109T173000
-SUMMARY:ACT Prep Class - English and Reading
-CATEGORIES:ACADEMICS
-LOCATION:Room 114
-DESCRIPTION:ACT Prep Class with Mr. Johnson focusing on English and Readin
- g.
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-117669b1dcec@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
@@ -66,8 +55,8 @@ SUMMARY:Library Closed - No Chromebook Repair
 CATEGORIES:ACADEMICS
 LOCATION:CHS Library
 DESCRIPTION:The library will be closed all day\; Chromebook repair unavail
- able. Book returns may be placed in the book drop across from the main off
- ice.
+ able. Students returning books may use the book drop across from the main 
+ office.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-3c135e3e2f71@calendar-sync.conwaypto.org
@@ -77,7 +66,7 @@ DTEND;VALUE=DATE:20261114
 SUMMARY:Interim Reports Distributed
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Interim reports will be distributed during WIN time.
+DESCRIPTION:Interim reports distributed during WIN time.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-bb7b860133b0@calendar-sync.conwaypto.org
@@ -87,7 +76,7 @@ DTEND;TZID=America/Chicago:20261116T173000
 SUMMARY:ACT Prep Class - English and Reading
 CATEGORIES:ACADEMICS
 LOCATION:Room 114
-DESCRIPTION:ACT prep class with Mr. Johnson focusing on English and Readin
+DESCRIPTION:ACT Prep class with Mr. Johnson focusing on English and Readin
  g.
 END:VEVENT
 BEGIN:VEVENT
@@ -95,11 +84,11 @@ UID:newsletter-06b5b98678cc@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Deadline: Last Day for Talent Show Ticket Sales
+SUMMARY:Deadline: Last Day to Buy Talent Show Tickets
 CATEGORIES:ACADEMICS
-LOCATION:Conway High School
-DESCRIPTION:Final day Key Club sells Talent Show tickets during both lunch
- es.
+LOCATION:Conway High School (both lunches)
+DESCRIPTION:Final day of Key Club Talent Show ticket sales during both lun
+ ches.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-b5c0750885eb@calendar-sync.conwaypto.org
@@ -117,7 +106,7 @@ DTEND;TZID=America/Chicago:20261130T173000
 SUMMARY:ACT Prep Class - English and Reading
 CATEGORIES:ACADEMICS
 LOCATION:Room 114
-DESCRIPTION:ACT prep class with Mr. Johnson focusing on English and Readin
+DESCRIPTION:ACT Prep class with Mr. Johnson focusing on English and Readin
  g.
 END:VEVENT
 BEGIN:VEVENT
@@ -128,8 +117,8 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: Jostens Paper Order Form Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Deadline to turn in Jostens paper order forms. Contact: (479) 
- 968-3269 or harrelloffice@jostens.com
+DESCRIPTION:Last day to place a Jostens order in person or turn in paper o
+ rder forms. Contact: (479) 968-3269 or harrelloffice@jostens.com.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-4f0eb2fbbefc@calendar-sync.conwaypto.org
@@ -150,7 +139,7 @@ SUMMARY:Deadline: Exam Exemption Doctor's Note Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
- s. Notes will be accepted for credit until 12/18.
+ s. Notes will still be accepted for credit until 12/18.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org

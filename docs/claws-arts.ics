@@ -23,17 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:rss-3798f3410b6b@calendar-sync.conwaypto.org
-DTSTAMP:20261109T000000Z
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:Marching Band State Competition Send-Off
-CATEGORIES:ARTS
-LOCATION:Street in front of Buzz Bolding Arena
-DESCRIPTION:Line the street to cheer on the Conway High School Marching Ba
- nd as the buses roll out to State Competition (date updated to the 9th).
-END:VEVENT
-BEGIN:VEVENT
 UID:orchestra-b0e9f95a8488@calendar-sync.conwaypto.org
 DTSTAMP:20261110T000000Z
 DTSTART;TZID=America/Chicago:20261110T120000
@@ -71,10 +60,10 @@ DTEND;TZID=America/Chicago:20261112T200000
 SUMMARY:Puffs - CHS Theatre Performance
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
-DESCRIPTION:Conway High School Theatre presents Puffs (Or Seven Increasing
- ly Eventful Years At A Certain School of Magic and Magic) by Matt Cox\, di
- rected by Ms. Heather Hooten. Tickets $5 students/CPS faculty and staff\, 
- $10 adults.
+DESCRIPTION:Conway High School Theatre presents 'Puffs (Or Seven Increasin
+ gly Eventful Years At A Certain School of Magic and Magic)' by Matt Cox\, 
+ directed by Ms. Heather Hooten. Tickets $5 students/CPS faculty and staff\
+ , $10 adults.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-ac0883a44c0e@calendar-sync.conwaypto.org
@@ -107,8 +96,8 @@ DTEND;TZID=America/Chicago:20261113T200000
 SUMMARY:Puffs - CHS Theatre Performance
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
-DESCRIPTION:Conway High School Theatre presents Puffs by Matt Cox. Tickets
-  $5 students/CPS faculty and staff\, $10 adults.
+DESCRIPTION:Conway High School Theatre presents 'Puffs' by Matt Cox. Ticke
+ ts $5 students/CPS faculty and staff\, $10 adults.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-8b870baf0417@calendar-sync.conwaypto.org
@@ -129,8 +118,9 @@ DTEND;TZID=America/Chicago:20261114T200000
 SUMMARY:Puffs - CHS Theatre Performance
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
-DESCRIPTION:Conway High School Theatre presents Puffs by Matt Cox. Tickets
-  $5 students/CPS faculty and staff\, $10 adults.
+DESCRIPTION:Final performance of 'Puffs' by Matt Cox\, presented by Conway
+  High School Theatre. Tickets $5 students/CPS faculty and staff\, $10 adul
+ ts.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-e843cc927e25@calendar-sync.conwaypto.org
@@ -144,16 +134,28 @@ DESCRIPTION:Conway High School Theatre presents Puffs by Matt Cox. Tickets
   $5 students/CPS faculty and staff\, $10 adults.
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-62d1b2aa0ee5@calendar-sync.conwaypto.org
+DTSTAMP:20261116T000000Z
+DTSTART;TZID=America/Chicago:20261116T180000
+DTEND;TZID=America/Chicago:20261116T190000
+SUMMARY:Winter Guard Parent Informational Meeting
+CATEGORIES:ARTS
+LOCATION:Conway High Band Room
+DESCRIPTION:Parent informational meeting for Winter Guard. No experience n
+ eeded\; learn flag\, rifle\, baton or dance. Information packets available
+  in the CHS band room or from Mrs. Grinder in room 606.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-d660e0cb1096@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Spring Musical 'Sister Act' Auditions
+SUMMARY:Sister Act Spring Musical Auditions
 CATEGORIES:ARTS
 LOCATION:Music Building
 DESCRIPTION:Conway High School Theatre auditions for the spring musical Si
- ster Act. Use Schoology GROUP code SF6Z-T7NS-8KDP9 for information. Questi
- ons: spiridigliozzia@conwayschools.info
+ ster Act. Use Schoology group code SF6Z-T7NS-8KDP9 for information\; quest
+ ions to Mr. S at spiridigliozzia@conwayschools.info.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-29a56778bfc8@calendar-sync.conwaypto.org
@@ -163,6 +165,17 @@ DTEND;TZID=America/Chicago:20261118T173000
 SUMMARY:CHS Symphonic Orchestra Rehearsal - WBP Only
 CATEGORIES:ARTS
 LOCATION:CHS Large Ensemble Room
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-cd65b993c1bf@calendar-sync.conwaypto.org
+DTSTAMP:20261119T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Winter Guard Practices Begin
+CATEGORIES:ARTS
+LOCATION:Conway High Band Room
+DESCRIPTION:First day of Winter Guard practices. Information packets avail
+ able in the CHS band room or from Mrs. Grinder in room 606.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-76e63c618431@calendar-sync.conwaypto.org
