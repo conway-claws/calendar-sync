@@ -85,6 +85,17 @@ LOCATION:Russellville Aquatic Center
 DESCRIPTION:Boys Varsity Swim and Dive at Russellville
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-25f25a739d73@calendar-sync.conwaypto.org
+DTSTAMP:20261112T000000Z
+DTSTART;TZID=America/Chicago:20261112T190000
+DTEND;TZID=America/Chicago:20261112T200000
+SUMMARY:Lady Cats Basketball vs. Jacksonville
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Lady Cats tip off the 2026-27 season against Jacksonville. Tic
+ kets available on GoFan\; livestream available on YouTube.
+END:VEVENT
+BEGIN:VEVENT
 UID:feed-47529661d9a2@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;VALUE=DATE:20261112
@@ -196,8 +207,8 @@ DTEND;TZID=America/Chicago:20261117T190000
 SUMMARY:Wrestling Blue/White Dual
 CATEGORIES:ATHLETICS
 LOCATION:Old Gym
-DESCRIPTION:Conway High School wrestling hosts their Blue/White intersquad
-  dual. Tickets available only on GoFan.
+DESCRIPTION:Wrestling hosts their Blue/White Dual. Tickets only available 
+ on GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-4a92a657b740@calendar-sync.conwaypto.org
@@ -299,9 +310,9 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Trivia tournament during 7th and 8th periods\, including Name 
- That Tune. Teams of up to six students\; participants excused from class w
- ith snack bar and prizes. Register at https://forms.gle/LGQyo3tJ4iZASNhXA
+DESCRIPTION:Trivia tournament during 7th and 8th periods with teams of up 
+ to six students\, including Name That Tune. Snack bar and prizes. Register
+  at https://forms.gle/LGQyo3tJ4iZASNhXA.
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-6b9992eef017@calendar-sync.conwaypto.org
@@ -736,6 +747,17 @@ LOCATION:Conway (Arena)
 DESCRIPTION:Boys JV Wrestling vs Challenge Matches
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-a38b93e83ca6@calendar-sync.conwaypto.org
+DTSTAMP:20261214T000000Z
+DTSTART;TZID=America/Chicago:20261214T160000
+DTEND;TZID=America/Chicago:20261214T173000
+SUMMARY:Boys Soccer Tryouts
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School field
+DESCRIPTION:Student-athletes must have a physical uploaded to DragonFly be
+ fore attending. Questions: pagem@conwayschools.info.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-0588200f022a@calendar-sync.conwaypto.org
 DTSTAMP:20261215T000000Z
 DTSTART;TZID=America/Chicago:20261215T173000
@@ -754,6 +776,17 @@ SUMMARY:Boys Varsity Basketball at Maumelle
 CATEGORIES:ATHLETICS
 LOCATION:Maumelle HS
 DESCRIPTION:Boys Varsity Basketball at Maumelle
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-fa88d750d2a3@calendar-sync.conwaypto.org
+DTSTAMP:20261215T000000Z
+DTSTART;TZID=America/Chicago:20261215T160000
+DTEND;TZID=America/Chicago:20261215T173000
+SUMMARY:Boys Soccer Tryouts
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School field
+DESCRIPTION:Student-athletes must have a physical uploaded to DragonFly be
+ fore attending. Questions: pagem@conwayschools.info.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-228af9fa9ea4@calendar-sync.conwaypto.org
@@ -1726,5 +1759,25 @@ SUMMARY:Boys JV Basketball vs Cabot
 CATEGORIES:ATHLETICS
 LOCATION:CHS PE Gym
 DESCRIPTION:Boys JV Basketball vs Cabot
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-42886848b124@calendar-sync.conwaypto.org
+DTSTAMP:20270210T000000Z
+DTSTART;TZID=America/Chicago:20270210T110000
+DTEND;TZID=America/Chicago:20270210T140000
+SUMMARY:Girls Varsity Bowling vs State Top 4 from each Conference
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Girls Varsity Bowling vs State Top 4 from each Conference
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-f0a66c4a378f@calendar-sync.conwaypto.org
+DTSTAMP:20270210T000000Z
+DTSTART;TZID=America/Chicago:20270210T110000
+DTEND;TZID=America/Chicago:20270210T140000
+SUMMARY:Boys Varsity Bowling vs State Top 4 from each Conference
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Boys Varsity Bowling vs State Top 4 from each Conference
 END:VEVENT
 END:VCALENDAR
