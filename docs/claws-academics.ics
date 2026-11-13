@@ -66,29 +66,29 @@ DTEND;VALUE=DATE:20261114
 SUMMARY:Interim Reports Distributed
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Interim reports distributed during WIN time.
+DESCRIPTION:Interim reports will be distributed during WIN time.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-bb7b860133b0@calendar-sync.conwaypto.org
 DTSTAMP:20261116T000000Z
 DTSTART;TZID=America/Chicago:20261116T163000
 DTEND;TZID=America/Chicago:20261116T173000
-SUMMARY:ACT Prep Class – English and Reading
+SUMMARY:ACT Prep Class (English and Reading)
 CATEGORIES:ACADEMICS
 LOCATION:Room 114
-DESCRIPTION:ACT Prep class with Mr. Johnson focusing on English and Readin
- g.
+DESCRIPTION:ACT Prep Class focusing on English and Reading with Mr. Johnso
+ n.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-06b5b98678cc@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Deadline: Talent Show Ticket Sales End
+SUMMARY:Deadline: Last Day for Talent Show Ticket Sales
 CATEGORIES:ACADEMICS
-LOCATION:Conway High School (both lunches)
-DESCRIPTION:Last day for Key Club talent show ticket sales\, which run dur
- ing both lunches.
+LOCATION:Conway High School
+DESCRIPTION:Key Club Talent Show ticket sales run through Tuesday\, Novemb
+ er 17\, during both lunches.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-b5c0750885eb@calendar-sync.conwaypto.org
@@ -103,11 +103,11 @@ UID:newsletter-456efcf3acc8@calendar-sync.conwaypto.org
 DTSTAMP:20261130T000000Z
 DTSTART;TZID=America/Chicago:20261130T163000
 DTEND;TZID=America/Chicago:20261130T173000
-SUMMARY:ACT Prep Class – English and Reading
+SUMMARY:ACT Prep Class (English and Reading)
 CATEGORIES:ACADEMICS
 LOCATION:Room 114
-DESCRIPTION:ACT Prep class with Mr. Johnson focusing on English and Readin
- g.
+DESCRIPTION:ACT Prep Class focusing on English and Reading with Mr. Johnso
+ n.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-d97f32cbc139@calendar-sync.conwaypto.org
@@ -119,7 +119,7 @@ CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Deadline to turn in Jostens paper order forms for caps\, gowns
   and graduation items. Contact: (479) 968-3269 or harrelloffice@jostens.co
- m.
+ m
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-4f0eb2fbbefc@calendar-sync.conwaypto.org
@@ -199,7 +199,8 @@ DTEND;VALUE=DATE:20261216
 SUMMARY:Fall Semester Exams
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day\; modified bell schedule TBD.
+DESCRIPTION:Semester exam day\; a modified bell schedule will be used (TBD
+ ).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-1698bb095b37@calendar-sync.conwaypto.org
@@ -217,7 +218,8 @@ DTEND;VALUE=DATE:20261217
 SUMMARY:Fall Semester Exams
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day\; modified bell schedule TBD.
+DESCRIPTION:Semester exam day\; a modified bell schedule will be used (TBD
+ ).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-bc9027022add@calendar-sync.conwaypto.org
@@ -351,6 +353,14 @@ DTSTAMP:20270210T000000Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 SUMMARY:Teacher Work Day  (Students Dismissed)
+CATEGORIES:ACADEMICS
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-bee3282c5db0@calendar-sync.conwaypto.org
+DTSTAMP:20270211T000000Z
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:Parent Teacher Conferences (Students Dimissed)
 CATEGORIES:ACADEMICS
 END:VEVENT
 END:VCALENDAR

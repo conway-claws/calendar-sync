@@ -23,68 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-c78e808e2ed8@calendar-sync.conwaypto.org
-DTSTAMP:20261111T000000Z
-DTSTART;TZID=America/Chicago:20261111T160000
-DTEND;TZID=America/Chicago:20261111T170000
-SUMMARY:Lady Cats College Signing Celebration
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Celebrate three Lady Cats signing to continue their basketball
-  careers: Libby Counts (Hendrix College)\, Mi'Raiyh Wilson (Three Rivers C
- ollege)\, and Traniyah Weston (Three Rivers College).
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-379a2cbdda3e@calendar-sync.conwaypto.org
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=America/Chicago:20261112T190000
-DTEND;TZID=America/Chicago:20261112T220000
-SUMMARY:Girls Varsity Basketball vs TBA MC Invitational
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Girls Varsity Basketball vs TBA MC Invitational
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-a265d35c84ba@calendar-sync.conwaypto.org
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=America/Chicago:20261112T000000
-DTEND;TZID=America/Chicago:20261112T030000
-SUMMARY:Girls Varsity Swim and Dive at Russellville
-CATEGORIES:ATHLETICS
-LOCATION:Russellville Aquatic Center
-DESCRIPTION:Girls Varsity Swim and Dive at Russellville
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-b809e5cc1359@calendar-sync.conwaypto.org
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=America/Chicago:20261112T173000
-DTEND;TZID=America/Chicago:20261112T203000
-SUMMARY:Boys Varsity Basketball at Fayetteville
-CATEGORIES:ATHLETICS
-LOCATION:Fayetteville HS
-DESCRIPTION:Boys Varsity Basketball at Fayetteville
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-c0e3faf0a569@calendar-sync.conwaypto.org
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=America/Chicago:20261112T163000
-DTEND;TZID=America/Chicago:20261112T193000
-SUMMARY:Boys JV Basketball at Fayetteville
-CATEGORIES:ATHLETICS
-LOCATION:Fayetteville HS
-DESCRIPTION:Boys JV Basketball at Fayetteville
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-f6dfc7a2a9ac@calendar-sync.conwaypto.org
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=America/Chicago:20261112T000000
-DTEND;TZID=America/Chicago:20261112T030000
-SUMMARY:Boys Varsity Swim and Dive at Russellville
-CATEGORIES:ATHLETICS
-LOCATION:Russellville Aquatic Center
-DESCRIPTION:Boys Varsity Swim and Dive at Russellville
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-25f25a739d73@calendar-sync.conwaypto.org
 DTSTAMP:20261112T000000Z
 DTSTART;TZID=America/Chicago:20261112T190000
@@ -110,13 +48,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:feed-a29a43d6001a@calendar-sync.conwaypto.org
 DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Lady Cat Invitational (Day 2)
+DTSTART;TZID=America/Chicago:20261113T190000
+DTEND;TZID=America/Chicago:20261113T200000
+SUMMARY:Lady Cat Invitational Day 2: Conway vs. Bentonville
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Day two of the Lady Cat Invitational basketball tournament pre
- sented by Dyermark. Tickets available via GoFan.
+DESCRIPTION:Day 2 of the Lady Cat Invitational. Conway faces Bentonville a
+ t 7:00 PM. Other matchups: 4:00 PM Nashville vs. LR Christian\, 5:30 PM Ja
+ cksonville vs. Parkview\, 8:30 PM Har-Ber vs. Greenland. Livestream availa
+ ble on YouTube. Main sponsor: Dyermark.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-87458867308d@calendar-sync.conwaypto.org
@@ -207,8 +146,8 @@ DTEND;TZID=America/Chicago:20261117T190000
 SUMMARY:Wrestling Blue/White Dual
 CATEGORIES:ATHLETICS
 LOCATION:Old Gym
-DESCRIPTION:Wrestling hosts their Blue/White Dual. Tickets only available 
- on GoFan.
+DESCRIPTION:Conway wrestling hosts its Blue/White Dual. Tickets are only a
+ vailable on GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-4a92a657b740@calendar-sync.conwaypto.org
@@ -310,9 +249,9 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Trivia tournament during 7th and 8th periods with teams of up 
- to six students\, including Name That Tune. Snack bar and prizes. Register
-  at https://forms.gle/LGQyo3tJ4iZASNhXA.
+DESCRIPTION:Form a team of up to six students for trivia including Name Th
+ at Tune. Participants excused from class during 7th and 8th periods\, with
+  snack bar and prizes. Register at https://forms.gle/LGQyo3tJ4iZASNhXA
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-6b9992eef017@calendar-sync.conwaypto.org
@@ -754,8 +693,8 @@ DTEND;TZID=America/Chicago:20261214T173000
 SUMMARY:Boys Soccer Tryouts
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School field
-DESCRIPTION:Student-athletes must have a physical uploaded to DragonFly be
- fore attending. Questions: pagem@conwayschools.info.
+DESCRIPTION:Boys soccer tryouts. Student-athletes must have a physical upl
+ oaded to DragonFly before attending. Questions: pagem@conwayschools.info
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0588200f022a@calendar-sync.conwaypto.org
@@ -785,8 +724,8 @@ DTEND;TZID=America/Chicago:20261215T173000
 SUMMARY:Boys Soccer Tryouts
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School field
-DESCRIPTION:Student-athletes must have a physical uploaded to DragonFly be
- fore attending. Questions: pagem@conwayschools.info.
+DESCRIPTION:Boys soccer tryouts. Student-athletes must have a physical upl
+ oaded to DragonFly before attending. Questions: pagem@conwayschools.info
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-228af9fa9ea4@calendar-sync.conwaypto.org
@@ -1779,5 +1718,25 @@ SUMMARY:Boys Varsity Bowling vs State Top 4 from each Conference
 CATEGORIES:ATHLETICS
 LOCATION:Conway Family Bowl
 DESCRIPTION:Boys Varsity Bowling vs State Top 4 from each Conference
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-7c5eb783984b@calendar-sync.conwaypto.org
+DTSTAMP:20270211T000000Z
+DTSTART;TZID=America/Chicago:20270211T000000
+DTEND;TZID=America/Chicago:20270211T030000
+SUMMARY:Girls Varsity Swim and Dive vs Conference
+CATEGORIES:ATHLETICS
+LOCATION:Hendrix Pool
+DESCRIPTION:Girls Varsity Swim and Dive vs Conference
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-ff0115cf001d@calendar-sync.conwaypto.org
+DTSTAMP:20270211T000000Z
+DTSTART;TZID=America/Chicago:20270211T000000
+DTEND;TZID=America/Chicago:20270211T030000
+SUMMARY:Boys Varsity Swim and Dive vs Conference
+CATEGORIES:ATHLETICS
+LOCATION:Hendrix Pool
+DESCRIPTION:Boys Varsity Swim and Dive vs Conference
 END:VEVENT
 END:VCALENDAR
