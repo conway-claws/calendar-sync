@@ -29,9 +29,9 @@ DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:ALLiance Club Meeting
 CATEGORIES:ACTIVITIES
-LOCATION:Conway High School
-DESCRIPTION:ALLiance Club meeting. Stop by room 217 to get a WIN pass. Bri
- ng non-expired foods for the food drive.
+LOCATION:Room 217
+DESCRIPTION:ALLiance Club meeting\; get a WIN pass in room 217 beforehand.
+  Bring non-expired food donations for the food drive.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-62d1b2aa0ee5@calendar-sync.conwaypto.org
@@ -40,10 +40,10 @@ DTSTART;TZID=America/Chicago:20261116T180000
 DTEND;TZID=America/Chicago:20261116T190000
 SUMMARY:Winter Guard Parent Informational Meeting
 CATEGORIES:ACTIVITIES
-LOCATION:Conway High School Band Room
+LOCATION:Conway High Band Room
 DESCRIPTION:Parent informational meeting for Winter Guard. No experience n
- eeded\; learn flag\, rifle\, baton or dance. Information packets available
-  in the CHS band room or from Mrs. Grinder in room 606.
+ eeded\; learn flag\, rifle\, baton or dance. Info packets available in the
+  CHS band room or from Mrs. Grinder in room 606.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-07bc39be097c@calendar-sync.conwaypto.org
@@ -53,20 +53,21 @@ DTEND;VALUE=DATE:20261118
 SUMMARY:Young Democrats Club Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Room 263
-DESCRIPTION:The Young Democrats club will meet during 1st and 2nd lunches 
- with a special guest speaker.
+DESCRIPTION:Young Democrats club meets during 1st and 2nd lunches with a s
+ pecial guest speaker.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-c0444bd501f8@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Deadline: CATS in Community Food Drive Ends
+SUMMARY:Deadline: CATS in Community Food Drive - Final Collection Day
 CATEGORIES:ACTIVITIES
-LOCATION:Conway High School and community drop-off locations
+LOCATION:Conway High School and other community drop-off locations
 DESCRIPTION:Last day to donate non-perishable food items to support Conway
-  school families. Drop-off locations include Conway High School\, Kroger o
- n Prince Street\, Walmart on Hwy 65\, and United Way.
+  school families. Drop-off at Conway High School\, Kroger on Prince Street
+ \, Walmart on Hwy 65\, and United Way. Donations must be sealed and unexpi
+ red.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-0b7ef3b9d661@calendar-sync.conwaypto.org
@@ -86,10 +87,22 @@ DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Winter Guard Practices Begin
 CATEGORIES:ACTIVITIES
-LOCATION:Conway High School Band Room
-DESCRIPTION:First day of Winter Guard practices. Information packets with 
- guidelines and schedules available in the CHS band room or from Mrs. Grind
- er in room 606.
+LOCATION:Conway High School
+DESCRIPTION:First day of Winter Guard practices. Email grinders@conwayscho
+ ols.info with questions.
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-a9aef68e3a5e@calendar-sync.conwaypto.org
+DTSTAMP:20261119T000000Z
+DTSTART;TZID=America/Chicago:20261119T170000
+DTEND;TZID=America/Chicago:20261119T200000
+SUMMARY:Taco Supper Fundraiser – La Fiesta Orquesta
+CATEGORIES:ACTIVITIES
+LOCATION:Conway High School Cafeteria
+DESCRIPTION:Taco supper fundraiser catered by Make-a-Meal supporting the o
+ rchestra program. $15 adult taco salad plate\, $10 child soft taco plate. 
+ Tickets available at the door\; donations accepted at conwayorch.square.si
+ te.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-b3a8e71a4788@calendar-sync.conwaypto.org
@@ -99,7 +112,8 @@ DTEND;TZID=America/Chicago:20261120T120000
 SUMMARY:CATS in Community Food Drive Distribution Day
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School Roundabout
-DESCRIPTION:Distribution of donated food items to Conway school families.
+DESCRIPTION:Distribution of collected food items to support Conway school 
+ families.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-223e2645d9a8@calendar-sync.conwaypto.org
@@ -110,17 +124,18 @@ SUMMARY:Angel Paws Spirit Week: Christmas Morning Monday
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Wear your comfy clothes and bring shampoo\, body wash\, or soa
- p.
+ p for Angel Paws.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-64592dc616a2@calendar-sync.conwaypto.org
 DTSTAMP:20261201T000000Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-SUMMARY:Angel Paws Spirit Week: Sock It to Me\, Santa!
+SUMMARY:Angel Paws Spirit Week: Sock It to Me\, Santa
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Wear crazy Christmas socks and bring hats and gloves.
+DESCRIPTION:Wear crazy Christmas socks and bring hats and gloves for Angel
+  Paws.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-46e4040120e4@calendar-sync.conwaypto.org
@@ -130,7 +145,8 @@ DTEND;VALUE=DATE:20261203
 SUMMARY:Angel Paws Spirit Week: Have a "Blue" Christmas
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Wear Conway Blue and bring deodorant or face wash.
+DESCRIPTION:Wear Conway Blue and bring deodorant or face wash for Angel Pa
+ ws.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-a4c29c685c8a@calendar-sync.conwaypto.org
@@ -141,7 +157,7 @@ SUMMARY:Angel Paws Spirit Week: Ugly Sweater Party
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Wear your ugliest Christmas sweater and bring toothbrushes and
-  toothpaste.
+  toothpaste for Angel Paws.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-55fdda4c7ba7@calendar-sync.conwaypto.org
@@ -151,8 +167,8 @@ DTEND;VALUE=DATE:20261205
 SUMMARY:Angel Paws Spirit Week: Christmas with the Cats
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Wear your Caring Cat shirt and Santa hat\, bring gifts. Last d
- ay to pick up a paw.
+DESCRIPTION:Wear your Caring Cat shirt and Santa hat and bring gifts. Last
+  day to pick up a paw!
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-7f3cb531ed6a@calendar-sync.conwaypto.org

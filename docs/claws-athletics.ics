@@ -23,29 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-25f25a739d73@calendar-sync.conwaypto.org
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=America/Chicago:20261112T190000
-DTEND;TZID=America/Chicago:20261112T200000
-SUMMARY:Lady Cats Basketball vs. Jacksonville
-CATEGORIES:ATHLETICS
-LOCATION:Buzz Bolding Arena
-DESCRIPTION:Lady Cats tip off the 2026-27 season against Jacksonville. Tic
- kets available on GoFan\; livestream available on YouTube.
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-47529661d9a2@calendar-sync.conwaypto.org
-DTSTAMP:20261112T000000Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Lady Cat Invitational (Day 1)
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Day one of the three-day Lady Cat Invitational basketball tour
- nament presented by Dyermark\, featuring teams from across Arkansas. Ticke
- ts available via GoFan.
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-a29a43d6001a@calendar-sync.conwaypto.org
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=America/Chicago:20261113T190000
@@ -80,13 +57,13 @@ END:VEVENT
 BEGIN:VEVENT
 UID:feed-47a91f13172c@calendar-sync.conwaypto.org
 DTSTAMP:20261114T000000Z
-DTSTART;VALUE=DATE:20261114
-DTEND;VALUE=DATE:20261115
-SUMMARY:Lady Cat Invitational (Day 3)
+DTSTART;TZID=America/Chicago:20261114T130000
+DTEND;TZID=America/Chicago:20261114T140000
+SUMMARY:Dyermark Lady Cat Invitational – Championship Saturday
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Final day of the Lady Cat Invitational basketball tournament p
- resented by Dyermark. Tickets available via GoFan.
+DESCRIPTION:Final day of the 2026 Dyermark Lady Cat Invitational with four
+  placement games: 1:00 PM 7th Place\, 2:30 PM 5th Place\, 4:00 PM 3rd Plac
+ e\, and 5:30 PM Championship. Main sponsor: Dyermark.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-246682348d02@calendar-sync.conwaypto.org
@@ -146,8 +123,8 @@ DTEND;TZID=America/Chicago:20261117T190000
 SUMMARY:Wrestling Blue/White Dual
 CATEGORIES:ATHLETICS
 LOCATION:Old Gym
-DESCRIPTION:Conway wrestling hosts its Blue/White Dual. Tickets are only a
- vailable on GoFan.
+DESCRIPTION:Conway wrestling hosts their Blue/White Dual. Tickets availabl
+ e only on GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-4a92a657b740@calendar-sync.conwaypto.org
@@ -249,9 +226,10 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Form a team of up to six students for trivia including Name Th
- at Tune. Participants excused from class during 7th and 8th periods\, with
-  snack bar and prizes. Register at https://forms.gle/LGQyo3tJ4iZASNhXA
+DESCRIPTION:Beta Club trivia tournament during 7th and 8th periods. Teams 
+ of up to six students compete in trivia including Name That Tune. Snack ba
+ r and prizes\; participants excused from class. Register at https://forms.
+ gle/LGQyo3tJ4iZASNhXA
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-6b9992eef017@calendar-sync.conwaypto.org
@@ -694,7 +672,7 @@ SUMMARY:Boys Soccer Tryouts
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School field
 DESCRIPTION:Boys soccer tryouts. Student-athletes must have a physical upl
- oaded to DragonFly before attending. Questions: pagem@conwayschools.info
+ oaded to DragonFly before attending. Questions: pagem@conwayschools.info.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0588200f022a@calendar-sync.conwaypto.org
@@ -725,7 +703,7 @@ SUMMARY:Boys Soccer Tryouts
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School field
 DESCRIPTION:Boys soccer tryouts. Student-athletes must have a physical upl
- oaded to DragonFly before attending. Questions: pagem@conwayschools.info
+ oaded to DragonFly before attending. Questions: pagem@conwayschools.info.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-228af9fa9ea4@calendar-sync.conwaypto.org
@@ -1738,5 +1716,45 @@ SUMMARY:Boys Varsity Swim and Dive vs Conference
 CATEGORIES:ATHLETICS
 LOCATION:Hendrix Pool
 DESCRIPTION:Boys Varsity Swim and Dive vs Conference
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-0e5b4cd0c6f0@calendar-sync.conwaypto.org
+DTSTAMP:20270212T000000Z
+DTSTART;TZID=America/Chicago:20270212T163000
+DTEND;TZID=America/Chicago:20270212T193000
+SUMMARY:Girls Varsity Basketball vs Lake Hamilton Black History Night
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Girls Varsity Basketball vs Lake Hamilton Black History Night
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-631d93ff460f@calendar-sync.conwaypto.org
+DTSTAMP:20270212T000000Z
+DTSTART;TZID=America/Chicago:20270212T193000
+DTEND;TZID=America/Chicago:20270212T223000
+SUMMARY:Boys Varsity Basketball vs Lake Hamilton
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Boys Varsity Basketball vs Lake Hamilton
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-8da9e7d7bd97@calendar-sync.conwaypto.org
+DTSTAMP:20270212T000000Z
+DTSTART;TZID=America/Chicago:20270212T164500
+DTEND;TZID=America/Chicago:20270212T194500
+SUMMARY:Girls JV Basketball vs Lake Hamilton
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Girls JV Basketball vs Lake Hamilton
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-a04a0f97be54@calendar-sync.conwaypto.org
+DTSTAMP:20270212T000000Z
+DTSTART;TZID=America/Chicago:20270212T164500
+DTEND;TZID=America/Chicago:20270212T194500
+SUMMARY:Boys JV Basketball vs Lake Hamilton
+CATEGORIES:ATHLETICS
+LOCATION:CHS PE Gym
+DESCRIPTION:Boys JV Basketball vs Lake Hamilton
 END:VEVENT
 END:VCALENDAR

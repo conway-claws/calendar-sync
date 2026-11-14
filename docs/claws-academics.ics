@@ -23,42 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-117669b1dcec@calendar-sync.conwaypto.org
-DTSTAMP:20261112T000000Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:ASVAB Test for Seniors
-CATEGORIES:ACADEMICS
-LOCATION:Lecture Hall
-DESCRIPTION:Seniors may sign up in the Counseling Center to take the ASVAB
-  career exploration test in the afternoon. Bring a fully charged Chromeboo
- k. Seats are limited.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-1abd4f542d2b@calendar-sync.conwaypto.org
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=America/Chicago:20261112T080000
-DTEND;TZID=America/Chicago:20261112T090000
-SUMMARY:ASVAB Test
-CATEGORIES:ACADEMICS
-LOCATION:Lecture Hall
-DESCRIPTION:Juniors and seniors can take the Armed Services Vocational Apt
- itude Battery as a career exploration tool. Sign up in the Counseling Cent
- er\; seats are limited. Bring a fully charged Chromebook.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-e2733a1863c1@calendar-sync.conwaypto.org
-DTSTAMP:20261112T000000Z
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-SUMMARY:Library Closed – No Chromebook Repair
-CATEGORIES:ACADEMICS
-LOCATION:CHS Library
-DESCRIPTION:The library will be closed all day\; Chromebook repair unavail
- able. Students may return books in the library book drop across from the m
- ain office.
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-3c135e3e2f71@calendar-sync.conwaypto.org
 DTSTAMP:20261113T000000Z
 DTSTART;VALUE=DATE:20261113
@@ -73,11 +37,11 @@ UID:newsletter-bb7b860133b0@calendar-sync.conwaypto.org
 DTSTAMP:20261116T000000Z
 DTSTART;TZID=America/Chicago:20261116T163000
 DTEND;TZID=America/Chicago:20261116T173000
-SUMMARY:ACT Prep Class (English and Reading)
+SUMMARY:ACT Prep Class - English and Reading
 CATEGORIES:ACADEMICS
 LOCATION:Room 114
-DESCRIPTION:ACT Prep Class focusing on English and Reading with Mr. Johnso
- n.
+DESCRIPTION:ACT Prep class with Mr. Johnson focusing on English and Readin
+ g.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-06b5b98678cc@calendar-sync.conwaypto.org
@@ -87,8 +51,8 @@ DTEND;VALUE=DATE:20261118
 SUMMARY:Deadline: Last Day for Talent Show Ticket Sales
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Key Club Talent Show ticket sales run through Tuesday\, Novemb
- er 17\, during both lunches.
+DESCRIPTION:Key Club sells Talent Show tickets during both lunches\; sales
+  run through Tuesday\, November 17.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-b5c0750885eb@calendar-sync.conwaypto.org
@@ -103,11 +67,11 @@ UID:newsletter-456efcf3acc8@calendar-sync.conwaypto.org
 DTSTAMP:20261130T000000Z
 DTSTART;TZID=America/Chicago:20261130T163000
 DTEND;TZID=America/Chicago:20261130T173000
-SUMMARY:ACT Prep Class (English and Reading)
+SUMMARY:ACT Prep Class - English and Reading
 CATEGORIES:ACADEMICS
 LOCATION:Room 114
-DESCRIPTION:ACT Prep Class focusing on English and Reading with Mr. Johnso
- n.
+DESCRIPTION:ACT Prep class with Mr. Johnson focusing on English and Readin
+ g.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-d97f32cbc139@calendar-sync.conwaypto.org
@@ -117,9 +81,9 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: Jostens Paper Order Form Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Deadline to turn in Jostens paper order forms for caps\, gowns
+DESCRIPTION:Deadline to turn in Jostens paper order forms for cap\, gown\,
   and graduation items. Contact: (479) 968-3269 or harrelloffice@jostens.co
- m
+ m.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-4f0eb2fbbefc@calendar-sync.conwaypto.org
@@ -147,11 +111,11 @@ UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
 DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Deadline: Last Day to Turn In Doctor's Notes for Exam Exemption
+SUMMARY:Deadline: Doctor's Notes for Exam Exemption Status
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
- s. Notes accepted for credit until 12/18.
+ s. Notes will be accepted for credit until 12/18.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-64acd1399778@calendar-sync.conwaypto.org
@@ -199,8 +163,7 @@ DTEND;VALUE=DATE:20261216
 SUMMARY:Fall Semester Exams
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day\; a modified bell schedule will be used (TBD
- ).
+DESCRIPTION:Semester exam day\; modified bell schedule TBD.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-1698bb095b37@calendar-sync.conwaypto.org
@@ -218,8 +181,7 @@ DTEND;VALUE=DATE:20261217
 SUMMARY:Fall Semester Exams
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day\; a modified bell schedule will be used (TBD
- ).
+DESCRIPTION:Semester exam day\; modified bell schedule TBD.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-bc9027022add@calendar-sync.conwaypto.org
@@ -361,6 +323,14 @@ DTSTAMP:20270211T000000Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
 SUMMARY:Parent Teacher Conferences (Students Dimissed)
+CATEGORIES:ACADEMICS
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-3a421d336dd8@calendar-sync.conwaypto.org
+DTSTAMP:20270212T000000Z
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:Winter Break (Students & Staff Dismissed)
 CATEGORIES:ACADEMICS
 END:VEVENT
 END:VCALENDAR

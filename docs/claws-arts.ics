@@ -23,44 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-34b40d89f96b@calendar-sync.conwaypto.org
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=America/Chicago:20261112T190000
-DTEND;TZID=America/Chicago:20261112T200000
-SUMMARY:Theatre Presents "Puffs"
-CATEGORIES:ARTS
-LOCATION:Junior High School Auditorium
-DESCRIPTION:Conway High School Theatre presents "Puffs (Or Seven Increasin
- gly Eventful Years At A Certain School of Magic and Magic)" by Matt Cox\, 
- directed by Ms. Heather Hooten. Tickets $5 students/CPS faculty and staff\
- , $10 adults.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-94feecd78be3@calendar-sync.conwaypto.org
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=America/Chicago:20261112T190000
-DTEND;TZID=America/Chicago:20261112T200000
-SUMMARY:Puffs - CHS Theatre Performance
-CATEGORIES:ARTS
-LOCATION:Junior High School Auditorium
-DESCRIPTION:Conway High School Theatre presents 'Puffs (Or Seven Increasin
- gly Eventful Years At A Certain School of Magic and Magic)' by Matt Cox\, 
- directed by Ms. Heather Hooten. Tickets $5 students/CPS faculty and staff\
- , $10 adults.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-ac0883a44c0e@calendar-sync.conwaypto.org
-DTSTAMP:20261112T000000Z
-DTSTART;TZID=America/Chicago:20261112T190000
-DTEND;TZID=America/Chicago:20261112T200000
-SUMMARY:Theatre Production: Puffs (Opening Night)
-CATEGORIES:ARTS
-LOCATION:Junior High School Auditorium
-DESCRIPTION:Conway High School Theatre presents Puffs by Matt Cox\, direct
- ed by Ms. Heather Hooten. Tickets $5 students/CPS faculty and staff\, $10 
- adults.
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-0d836b2d2180@calendar-sync.conwaypto.org
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=America/Chicago:20261113T190000
@@ -92,9 +54,10 @@ DTEND;TZID=America/Chicago:20261114T200000
 SUMMARY:CHS Theatre Presents "Puffs"
 CATEGORIES:ARTS
 LOCATION:Junior High School Auditorium
-DESCRIPTION:Final performance of Puffs by Matt Cox\, presented by Conway H
- igh School Theatre. Tickets are $5 for students/CPS faculty and staff\, $1
- 0 for adults.
+DESCRIPTION:Conway High School Theatre presents the play Puffs (Or Seven I
+ ncreasingly Eventful Years At A Certain School of Magic and Magic) by Matt
+  Cox\, directed by Ms. Heather Hooten. Tickets are $5 for students/CPS fac
+ ulty and staff\, $10 adults.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-ce5d46f9892a@calendar-sync.conwaypto.org
@@ -128,8 +91,8 @@ SUMMARY:Sister Act Spring Musical Auditions
 CATEGORIES:ARTS
 LOCATION:Music Building
 DESCRIPTION:Conway High School Theatre auditions for the spring musical Si
- ster Act. Use Schoology GROUP code SF6Z-T7NS-8KDP9 for information. Questi
- ons: spiridigliozzia@conwayschools.info
+ ster Act. Use Schoology GROUP code SF6Z-T7NS-8KDP9 for information\; conta
+ ct Mr. S at spiridigliozzia@conwayschools.info.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-29a56778bfc8@calendar-sync.conwaypto.org
@@ -150,8 +113,8 @@ CATEGORIES:ARTS
 LOCATION:Conway High School Cafeteria
 DESCRIPTION:Taco supper fundraiser catered by Make-a-Meal in partnership w
  ith the orchestra program. $15 adult taco salad plate\, $10 child soft tac
- o plate. Tickets available at the door\; donations online at conwayorch.sq
- uare.site.
+ o plate. Tickets available at the door\; donations accepted online at conw
+ ayorch.square.site.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-76e63c618431@calendar-sync.conwaypto.org
@@ -178,6 +141,19 @@ DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:CHS trip deposit due ($150 non-refundable)
 CATEGORIES:ARTS
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-dc95329c608c@calendar-sync.conwaypto.org
+DTSTAMP:20261205T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:2026 State Dance Championships
+CATEGORIES:ARTS
+LOCATION:Alma High School
+DESCRIPTION:The State Dance Championships\, postponed due to nationwide tr
+ avel issues\, will now be held Dec. 5 at Alma High School. Previously purc
+ hased tickets will be valid on the new date\; a full schedule will be rele
+ ased later.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-e7a85b1f1531@calendar-sync.conwaypto.org
