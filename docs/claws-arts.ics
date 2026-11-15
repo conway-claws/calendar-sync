@@ -23,30 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-0d836b2d2180@calendar-sync.conwaypto.org
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=America/Chicago:20261113T190000
-DTEND;TZID=America/Chicago:20261113T200000
-SUMMARY:CHS Theatre Presents "Puffs"
-CATEGORIES:ARTS
-LOCATION:Junior High School Auditorium
-DESCRIPTION:Conway High School Theatre presents Puffs (Or Seven Increasing
- ly Eventful Years At A Certain School of Magic and Magic) by Matt Cox\, di
- rected by Ms. Heather Hooten. Tickets are $5 for students/CPS faculty and 
- staff\, $10 for adults.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-728ed73d3568@calendar-sync.conwaypto.org
-DTSTAMP:20261113T000000Z
-DTSTART;TZID=America/Chicago:20261113T190000
-DTEND;TZID=America/Chicago:20261113T200000
-SUMMARY:Puffs - CHS Theatre Performance
-CATEGORIES:ARTS
-LOCATION:Junior High School Auditorium
-DESCRIPTION:Conway High School Theatre presents 'Puffs' by Matt Cox. Ticke
- ts $5 students/CPS faculty and staff\, $10 adults.
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-8b870baf0417@calendar-sync.conwaypto.org
 DTSTAMP:20261114T000000Z
 DTSTART;TZID=America/Chicago:20261114T190000
@@ -83,6 +59,18 @@ DESCRIPTION:Conway High School Theatre presents Puffs by Matt Cox. Tickets
   $5 students/CPS faculty and staff\, $10 adults.
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-62d1b2aa0ee5@calendar-sync.conwaypto.org
+DTSTAMP:20261116T000000Z
+DTSTART;TZID=America/Chicago:20261116T180000
+DTEND;TZID=America/Chicago:20261116T190000
+SUMMARY:Winter Guard Parent Informational Meeting
+CATEGORIES:ARTS
+LOCATION:Conway High band room
+DESCRIPTION:Parent informational meeting for students interested in joinin
+ g Winter Guard. No experience needed\; flag\, rifle\, baton or dance. Cont
+ act grinders@conwayschools.info.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-d660e0cb1096@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
@@ -91,8 +79,8 @@ SUMMARY:Sister Act Spring Musical Auditions
 CATEGORIES:ARTS
 LOCATION:Music Building
 DESCRIPTION:Conway High School Theatre auditions for the spring musical Si
- ster Act. Use Schoology GROUP code SF6Z-T7NS-8KDP9 for information\; conta
- ct Mr. S at spiridigliozzia@conwayschools.info.
+ ster Act. Use Schoology group code SF6Z-T7NS-8KDP9 for information\; quest
+ ions to spiridigliozzia@conwayschools.info.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-29a56778bfc8@calendar-sync.conwaypto.org
@@ -111,10 +99,20 @@ DTEND;TZID=America/Chicago:20261119T200000
 SUMMARY:Orchestra Taco Supper Fundraiser
 CATEGORIES:ARTS
 LOCATION:Conway High School Cafeteria
-DESCRIPTION:Taco supper fundraiser catered by Make-a-Meal in partnership w
- ith the orchestra program. $15 adult taco salad plate\, $10 child soft tac
- o plate. Tickets available at the door\; donations accepted online at conw
- ayorch.square.site.
+DESCRIPTION:Taco supper fundraiser catered by Make-a-Meal. $15 adult taco 
+ salad plate\, $10 child soft taco plate. Tickets available at the door\; d
+ onations online at conwayorch.square.site.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-cd65b993c1bf@calendar-sync.conwaypto.org
+DTSTAMP:20261119T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Winter Guard Practices Begin
+CATEGORIES:ARTS
+LOCATION:Conway High band room
+DESCRIPTION:First Winter Guard practice. Information packets available in 
+ the CHS band room or from Mrs. Grinder in room 606.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-76e63c618431@calendar-sync.conwaypto.org
@@ -141,19 +139,6 @@ DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:CHS trip deposit due ($150 non-refundable)
 CATEGORIES:ARTS
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-dc95329c608c@calendar-sync.conwaypto.org
-DTSTAMP:20261205T000000Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:2026 State Dance Championships
-CATEGORIES:ARTS
-LOCATION:Alma High School
-DESCRIPTION:The State Dance Championships\, postponed due to nationwide tr
- avel issues\, will now be held Dec. 5 at Alma High School. Previously purc
- hased tickets will be valid on the new date\; a full schedule will be rele
- ased later.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-e7a85b1f1531@calendar-sync.conwaypto.org

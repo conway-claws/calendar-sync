@@ -23,21 +23,11 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-3c135e3e2f71@calendar-sync.conwaypto.org
-DTSTAMP:20261113T000000Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:Interim Reports Distributed
-CATEGORIES:ACADEMICS
-LOCATION:Conway High School
-DESCRIPTION:Interim reports will be distributed during WIN time.
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-bb7b860133b0@calendar-sync.conwaypto.org
 DTSTAMP:20261116T000000Z
 DTSTART;TZID=America/Chicago:20261116T163000
 DTEND;TZID=America/Chicago:20261116T173000
-SUMMARY:ACT Prep Class - English and Reading
+SUMMARY:ACT Prep Class (English & Reading)
 CATEGORIES:ACADEMICS
 LOCATION:Room 114
 DESCRIPTION:ACT Prep class with Mr. Johnson focusing on English and Readin
@@ -52,7 +42,7 @@ SUMMARY:Deadline: Last Day for Talent Show Ticket Sales
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Key Club sells Talent Show tickets during both lunches\; sales
-  run through Tuesday\, November 17.
+  end this day.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-b5c0750885eb@calendar-sync.conwaypto.org
@@ -67,7 +57,7 @@ UID:newsletter-456efcf3acc8@calendar-sync.conwaypto.org
 DTSTAMP:20261130T000000Z
 DTSTART;TZID=America/Chicago:20261130T163000
 DTEND;TZID=America/Chicago:20261130T173000
-SUMMARY:ACT Prep Class - English and Reading
+SUMMARY:ACT Prep Class (English & Reading)
 CATEGORIES:ACADEMICS
 LOCATION:Room 114
 DESCRIPTION:ACT Prep class with Mr. Johnson focusing on English and Readin
@@ -111,11 +101,11 @@ UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
 DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Deadline: Doctor's Notes for Exam Exemption Status
+SUMMARY:Deadline: Last Day to Turn in Doctor's Notes for Exam Exemption
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
- s. Notes will be accepted for credit until 12/18.
+ s (notes accepted for credit until 12/18).
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-64acd1399778@calendar-sync.conwaypto.org
@@ -225,8 +215,8 @@ SUMMARY:Deadline: Make-up Semester Exams / Final Day for Doctor's Notes fo
  r Credit
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Make-up semester exams\; last day doctor's notes will be accep
- ted for credit.
+DESCRIPTION:Make-up semester exams\; last day doctor's notes accepted for 
+ credit.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-91dcfda6b16a@calendar-sync.conwaypto.org
