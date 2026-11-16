@@ -23,17 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-47a91f13172c@calendar-sync.conwaypto.org
-DTSTAMP:20261114T000000Z
-DTSTART;TZID=America/Chicago:20261114T130000
-DTEND;TZID=America/Chicago:20261114T140000
-SUMMARY:Dyermark Lady Cat Invitational – Championship Saturday
-CATEGORIES:ATHLETICS
-DESCRIPTION:Final day of the 2026 Dyermark Lady Cat Invitational with four
-  placement games: 1:00 PM 7th Place\, 2:30 PM 5th Place\, 4:00 PM 3rd Plac
- e\, and 5:30 PM Championship. Main sponsor: Dyermark.
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-246682348d02@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;TZID=America/Chicago:20261117T180000
@@ -90,9 +79,9 @@ DTSTART;TZID=America/Chicago:20261117T180000
 DTEND;TZID=America/Chicago:20261117T190000
 SUMMARY:Wrestling Blue/White Dual
 CATEGORIES:ATHLETICS
-LOCATION:Old Gym
-DESCRIPTION:Conway wrestling hosts their Blue/White Dual. Tickets availabl
- e only on GoFan.
+LOCATION:Old Gym\, Conway High School
+DESCRIPTION:Conway wrestling hosts its Blue/White Dual. Tickets available 
+ only on GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-4a92a657b740@calendar-sync.conwaypto.org
@@ -167,6 +156,16 @@ DESCRIPTION:Girls Varsity Basketball at Joe T. Robinson DA Matchup Showcas
  e
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-9a7e5e1f6cf7@calendar-sync.conwaypto.org
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=America/Chicago:20261120T190000
+DTEND;TZID=America/Chicago:20261120T220000
+SUMMARY:Boys Varsity Football vs Bentonville West  7A State Playoffs
+CATEGORIES:ATHLETICS
+LOCATION:John McConnell Stadium
+DESCRIPTION:Boys Varsity Football vs Bentonville West  7A State Playoffs
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-e0dc673883e8@calendar-sync.conwaypto.org
 DTSTAMP:20261120T000000Z
 DTSTART;TZID=America/Chicago:20261120T160000
@@ -187,6 +186,19 @@ DESCRIPTION:Day two of the Lady Cat Invitational basketball tournament pre
  sented by Dyermark. Tickets available via GoFan.
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-6bdcb58ebe21@calendar-sync.conwaypto.org
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Football Playoffs: Wampus Cats vs. Bentonville West
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School
+DESCRIPTION:Conway hosts Bentonville West in the playoffs. Tickets must be
+  purchased online via GoFan — no cash accepted at the gates\, and only A
+ AA issued passes accepted. Children 5 and up require a ticket. Media reque
+ sts go through AAA.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-95363f756319@calendar-sync.conwaypto.org
 DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
@@ -194,9 +206,10 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Trivia tournament during 7th and 8th periods with teams of up 
- to six students\, including Name That Tune. Snack bar and prizes\; partici
- pants excused from class. Register at https://forms.gle/LGQyo3tJ4iZASNhXA
+DESCRIPTION:Beta Club trivia tournament during 7th and 8th periods. Form a
+  team of up to six students\; includes Name That Tune\, snack bar\, and pr
+ izes. Participants excused from class. Register: https://forms.gle/LGQyo3t
+ J4iZASNhXA
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-6b9992eef017@calendar-sync.conwaypto.org
@@ -244,11 +257,11 @@ UID:feed-48965f2d60ed@calendar-sync.conwaypto.org
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=America/Chicago:20261121T160000
 DTEND;TZID=America/Chicago:20261121T170000
-SUMMARY:2026 ARVCA All Star Game
+SUMMARY:ARVCA All Star Game (Addy Swindle)
 CATEGORIES:ATHLETICS
 LOCATION:Greenbrier High School
-DESCRIPTION:CHS student-athlete Braylin Merritt was selected to play in th
- e 2026 ARVCA All Star game.
+DESCRIPTION:Conway's Addy Swindle was selected to play in the 2026 ARVCA A
+ ll Star game.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-908dbdf67485@calendar-sync.conwaypto.org
@@ -429,18 +442,6 @@ SUMMARY:Boys Varsity Wrestling at Central Classic
 CATEGORIES:ATHLETICS
 LOCATION:Central High
 DESCRIPTION:Boys Varsity Wrestling at Central Classic
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-dc95329c608c@calendar-sync.conwaypto.org
-DTSTAMP:20261205T000000Z
-DTSTART;VALUE=DATE:20261205
-DTEND;VALUE=DATE:20261206
-SUMMARY:State Dance Championships (Rescheduled)
-CATEGORIES:ATHLETICS
-LOCATION:Alma High School
-DESCRIPTION:The 2026 State Dance Championships have been postponed and wil
- l now be held Dec. 5 at Alma High School. Tickets already purchased will b
- e valid on the new date. A full schedule will be released later.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-027f37acf49b@calendar-sync.conwaypto.org
@@ -650,8 +651,8 @@ DTEND;TZID=America/Chicago:20261214T173000
 SUMMARY:Boys Soccer Tryouts
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School field
-DESCRIPTION:Student-athletes must have a physical uploaded to DragonFly be
- fore attending tryouts. Questions: pagem@conwayschools.info.
+DESCRIPTION:Boys soccer tryouts. Student-athletes must have a physical upl
+ oaded to DragonFly before attending. Questions: pagem@conwayschools.info
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0588200f022a@calendar-sync.conwaypto.org
@@ -681,8 +682,8 @@ DTEND;TZID=America/Chicago:20261215T173000
 SUMMARY:Boys Soccer Tryouts
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School field
-DESCRIPTION:Student-athletes must have a physical uploaded to DragonFly be
- fore attending tryouts. Questions: pagem@conwayschools.info.
+DESCRIPTION:Boys soccer tryouts. Student-athletes must have a physical upl
+ oaded to DragonFly before attending. Questions: pagem@conwayschools.info
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-228af9fa9ea4@calendar-sync.conwaypto.org
