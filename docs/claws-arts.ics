@@ -40,12 +40,12 @@ UID:newsletter-d660e0cb1096@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
-SUMMARY:Spring Musical 'Sister Act' Auditions
+SUMMARY:Spring Musical Auditions - Sister Act
 CATEGORIES:ARTS
-LOCATION:Music Building
+LOCATION:Music Building\, Conway High School
 DESCRIPTION:Conway High School Theatre auditions for the spring musical Si
- ster Act. Use Schoology GROUP code SF6Z-T7NS-8KDP9 for information. Questi
- ons: spiridigliozzia@conwayschools.info
+ ster Act. Use Schoology group code SF6Z-T7NS-8KDP9 for information\; conta
+ ct Mr. S at spiridigliozzia@conwayschools.info.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-29a56778bfc8@calendar-sync.conwaypto.org
@@ -114,10 +114,9 @@ DTEND;TZID=America/Chicago:20261204T200000
 SUMMARY:CHS Choir: Home for the Holidays
 CATEGORIES:ARTS
 LOCATION:Conway High School Cafeteria
-DESCRIPTION:The 2nd annual Home for the Holidays concert featuring CHS cho
- ir singers performing traditional carols and contemporary seasonal favorit
- es\, with dessert hors d'oeuvres in a vintage holiday setting. Tickets ava
- ilable online only through GoFan\; all attendees must have a ticket.
+DESCRIPTION:2nd annual Home for the Holidays holiday concert featuring CHS
+  singers with dessert hors d'oeuvres. Tickets available online only throug
+ h GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-744ed7d5d147@calendar-sync.conwaypto.org
@@ -127,10 +126,9 @@ DTEND;TZID=America/Chicago:20261205T200000
 SUMMARY:CHS Choir: Home for the Holidays
 CATEGORIES:ARTS
 LOCATION:Conway High School Cafeteria
-DESCRIPTION:The 2nd annual Home for the Holidays concert featuring CHS cho
- ir singers performing traditional carols and contemporary seasonal favorit
- es\, with dessert hors d'oeuvres in a vintage holiday setting. Tickets ava
- ilable online only through GoFan\; all attendees must have a ticket.
+DESCRIPTION:2nd annual Home for the Holidays holiday concert featuring CHS
+  singers with dessert hors d'oeuvres. Tickets available online only throug
+ h GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-dc95329c608c@calendar-sync.conwaypto.org

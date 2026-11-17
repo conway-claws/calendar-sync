@@ -84,6 +84,17 @@ DESCRIPTION:Conway wrestling hosts its Blue/White Dual. Tickets available
  only on GoFan.
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-a2ef24915c3c@calendar-sync.conwaypto.org
+DTSTAMP:20261118T000000Z
+DTSTART;TZID=America/Chicago:20261118T180000
+DTEND;TZID=America/Chicago:20261118T190000
+SUMMARY:Wrestling Blue/White Dual
+CATEGORIES:ATHLETICS
+LOCATION:Old Gym\, Conway High School
+DESCRIPTION:Wrestling hosts their Blue/White Dual. Tickets available only 
+ on GoFan.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-4a92a657b740@calendar-sync.conwaypto.org
 DTSTAMP:20261119T000000Z
 DTSTART;TZID=America/Chicago:20261119T170000
@@ -193,10 +204,9 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Football Playoffs: Wampus Cats vs. Bentonville West
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Conway hosts Bentonville West in the playoffs. Tickets must be
-  purchased online via GoFan — no cash accepted at the gates\, and only A
- AA issued passes accepted. Children 5 and up require a ticket. Media reque
- sts go through AAA.
+DESCRIPTION:Playoff home game against Bentonville West. Tickets must be pu
+ rchased online through GoFan\; no cash accepted at the gates. Only AAA iss
+ ued passes accepted. Children 5 and up require a ticket.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-95363f756319@calendar-sync.conwaypto.org
@@ -206,10 +216,10 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Beta Club trivia tournament during 7th and 8th periods. Form a
-  team of up to six students\; includes Name That Tune\, snack bar\, and pr
- izes. Participants excused from class. Register: https://forms.gle/LGQyo3t
- J4iZASNhXA
+DESCRIPTION:Beta Club trivia tournament during 7th and 8th periods. Teams 
+ of up to six students compete\, including Name That Tune. Snack bar and pr
+ izes\; participants excused from class. Register at https://forms.gle/LGQy
+ o3tJ4iZASNhXA
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-6b9992eef017@calendar-sync.conwaypto.org
@@ -257,11 +267,10 @@ UID:feed-48965f2d60ed@calendar-sync.conwaypto.org
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=America/Chicago:20261121T160000
 DTEND;TZID=America/Chicago:20261121T170000
-SUMMARY:ARVCA All Star Game (Addy Swindle)
+SUMMARY:2026 ARVCA All Star Game
 CATEGORIES:ATHLETICS
 LOCATION:Greenbrier High School
-DESCRIPTION:Conway's Addy Swindle was selected to play in the 2026 ARVCA A
- ll Star game.
+DESCRIPTION:Addy Swindle selected to play in the 2026 ARVCA All Star game.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-908dbdf67485@calendar-sync.conwaypto.org
@@ -514,16 +523,6 @@ LOCATION:Springdale High School
 DESCRIPTION:Girls Varsity Basketball at Van Buren  Reddog Classic
 END:VEVENT
 BEGIN:VEVENT
-UID:athletics-630cc1fd1c11@calendar-sync.conwaypto.org
-DTSTAMP:20261210T000000Z
-DTSTART;TZID=America/Chicago:20261210T160000
-DTEND;TZID=America/Chicago:20261210T190000
-SUMMARY:Girls Varsity Bowling vs Quitman
-CATEGORIES:ATHLETICS
-LOCATION:Conway Family Bowl
-DESCRIPTION:Girls Varsity Bowling vs Quitman
-END:VEVENT
-BEGIN:VEVENT
 UID:athletics-85f0bcf2082c@calendar-sync.conwaypto.org
 DTSTAMP:20261210T000000Z
 DTSTART;TZID=America/Chicago:20261210T000000
@@ -532,16 +531,6 @@ SUMMARY:Girls Varsity Swim and Dive vs Conway Meet
 CATEGORIES:ATHLETICS
 LOCATION:Hendrix Pool
 DESCRIPTION:Girls Varsity Swim and Dive vs Conway Meet
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-aa8d42d6fd3b@calendar-sync.conwaypto.org
-DTSTAMP:20261210T000000Z
-DTSTART;TZID=America/Chicago:20261210T160000
-DTEND;TZID=America/Chicago:20261210T190000
-SUMMARY:Boys Varsity Bowling vs Quitman
-CATEGORIES:ATHLETICS
-LOCATION:Conway Family Bowl
-DESCRIPTION:Boys Varsity Bowling vs Quitman
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-eb215cc526b1@calendar-sync.conwaypto.org
@@ -564,6 +553,16 @@ LOCATION:Hendrix Pool
 DESCRIPTION:Boys Varsity Swim and Dive vs Conway Meet
 END:VEVENT
 BEGIN:VEVENT
+UID:athletics-0d7bea834ef3@calendar-sync.conwaypto.org
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=America/Chicago:20261211T160000
+DTEND;TZID=America/Chicago:20261211T190000
+SUMMARY:Boys Varsity Bowling vs Quitman
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Boys Varsity Bowling vs Quitman
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-23b2b5ef4636@calendar-sync.conwaypto.org
 DTSTAMP:20261211T000000Z
 DTSTART;TZID=America/Chicago:20261211T203000
@@ -582,6 +581,16 @@ SUMMARY:Girls Varsity Wrestling vs Conway Invite
 CATEGORIES:ATHLETICS
 LOCATION:Conway
 DESCRIPTION:Girls Varsity Wrestling vs Conway Invite
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-427825cdacf2@calendar-sync.conwaypto.org
+DTSTAMP:20261211T000000Z
+DTSTART;TZID=America/Chicago:20261211T160000
+DTEND;TZID=America/Chicago:20261211T190000
+SUMMARY:Girls Varsity Bowling vs Quitman
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Girls Varsity Bowling vs Quitman
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-dc1af9937825@calendar-sync.conwaypto.org
@@ -612,26 +621,6 @@ SUMMARY:Boys Varsity Basketball at Rogers Arvest Hoopfest
 CATEGORIES:ATHLETICS
 LOCATION:Rogers HS
 DESCRIPTION:Boys Varsity Basketball at Rogers Arvest Hoopfest
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-46f49a3c8e4d@calendar-sync.conwaypto.org
-DTSTAMP:20261214T000000Z
-DTSTART;TZID=America/Chicago:20261214T160000
-DTEND;TZID=America/Chicago:20261214T190000
-SUMMARY:Girls Varsity Bowling vs Varsity Total Pin
-CATEGORIES:ATHLETICS
-LOCATION:Conway Family Bowl
-DESCRIPTION:Girls Varsity Bowling vs Varsity Total Pin
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-56d9b3c7622b@calendar-sync.conwaypto.org
-DTSTAMP:20261214T000000Z
-DTSTART;TZID=America/Chicago:20261214T160000
-DTEND;TZID=America/Chicago:20261214T190000
-SUMMARY:Boys Varsity Bowling vs Varsity Total Pin
-CATEGORIES:ATHLETICS
-LOCATION:Conway Family Bowl
-DESCRIPTION:Boys Varsity Bowling vs Varsity Total Pin
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-7edcef5fd79b@calendar-sync.conwaypto.org
@@ -684,6 +673,26 @@ CATEGORIES:ATHLETICS
 LOCATION:Conway High School field
 DESCRIPTION:Boys soccer tryouts. Student-athletes must have a physical upl
  oaded to DragonFly before attending. Questions: pagem@conwayschools.info
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-a0bda2a38f14@calendar-sync.conwaypto.org
+DTSTAMP:20261217T000000Z
+DTSTART;TZID=America/Chicago:20261217T160000
+DTEND;TZID=America/Chicago:20261217T190000
+SUMMARY:Boys Varsity Bowling vs Varsity Total Pin
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Boys Varsity Bowling vs Varsity Total Pin
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-e99a13d623d0@calendar-sync.conwaypto.org
+DTSTAMP:20261217T000000Z
+DTSTART;TZID=America/Chicago:20261217T160000
+DTEND;TZID=America/Chicago:20261217T190000
+SUMMARY:Girls Varsity Bowling vs Varsity Total Pin
+CATEGORIES:ATHLETICS
+LOCATION:Conway Family Bowl
+DESCRIPTION:Girls Varsity Bowling vs Varsity Total Pin
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-228af9fa9ea4@calendar-sync.conwaypto.org
