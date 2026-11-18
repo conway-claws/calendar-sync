@@ -23,19 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:newsletter-62d1b2aa0ee5@calendar-sync.conwaypto.org
-DTSTAMP:20261116T000000Z
-DTSTART;TZID=America/Chicago:20261116T180000
-DTEND;TZID=America/Chicago:20261116T190000
-SUMMARY:Winter Guard Parent Informational Meeting
-CATEGORIES:ARTS
-LOCATION:Conway High School Band Room
-DESCRIPTION:Parent informational meeting for Winter Guard. No experience n
- eeded\; learn flag\, rifle\, baton or dance. Information packets available
-  in the CHS band room or from Mrs. Grinder in room 606. Questions: grinder
- s@conwayschools.info
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-d660e0cb1096@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;VALUE=DATE:20261117
@@ -114,9 +101,9 @@ DTEND;TZID=America/Chicago:20261204T200000
 SUMMARY:CHS Choir: Home for the Holidays
 CATEGORIES:ARTS
 LOCATION:Conway High School Cafeteria
-DESCRIPTION:2nd annual Home for the Holidays holiday concert featuring CHS
-  singers with dessert hors d'oeuvres. Tickets available online only throug
- h GoFan.
+DESCRIPTION:The 2nd annual Home for the Holidays holiday concert featuring
+  CHS Choir\, with festive decor and dessert hors d'oeuvres. Tickets availa
+ ble online only through GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-744ed7d5d147@calendar-sync.conwaypto.org
@@ -126,9 +113,9 @@ DTEND;TZID=America/Chicago:20261205T200000
 SUMMARY:CHS Choir: Home for the Holidays
 CATEGORIES:ARTS
 LOCATION:Conway High School Cafeteria
-DESCRIPTION:2nd annual Home for the Holidays holiday concert featuring CHS
-  singers with dessert hors d'oeuvres. Tickets available online only throug
- h GoFan.
+DESCRIPTION:The 2nd annual Home for the Holidays holiday concert featuring
+  CHS Choir\, with festive decor and dessert hors d'oeuvres. Tickets availa
+ ble online only through GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-dc95329c608c@calendar-sync.conwaypto.org

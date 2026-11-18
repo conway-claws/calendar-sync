@@ -23,56 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:athletics-246682348d02@calendar-sync.conwaypto.org
-DTSTAMP:20261117T000000Z
-DTSTART;TZID=America/Chicago:20261117T180000
-DTEND;TZID=America/Chicago:20261117T210000
-SUMMARY:Girls Varsity Wrestling vs Intersquad Dual Fundraiser
-CATEGORIES:ATHLETICS
-LOCATION:Conway
-DESCRIPTION:Girls Varsity Wrestling vs Intersquad Dual Fundraiser
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-39f94fbd058e@calendar-sync.conwaypto.org
-DTSTAMP:20261117T000000Z
-DTSTART;TZID=America/Chicago:20261117T180000
-DTEND;TZID=America/Chicago:20261117T210000
-SUMMARY:Boys Varsity Basketball at Springdale
-CATEGORIES:ATHLETICS
-LOCATION:Springdale HS
-DESCRIPTION:Boys Varsity Basketball at Springdale
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-3eda28b1420d@calendar-sync.conwaypto.org
-DTSTAMP:20261117T000000Z
-DTSTART;TZID=America/Chicago:20261117T170000
-DTEND;TZID=America/Chicago:20261117T200000
-SUMMARY:Boys JV Basketball at Springdale
-CATEGORIES:ATHLETICS
-LOCATION:Springdale HS
-DESCRIPTION:Boys JV Basketball at Springdale
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-e8d557a2d82e@calendar-sync.conwaypto.org
-DTSTAMP:20261117T000000Z
-DTSTART;TZID=America/Chicago:20261117T180000
-DTEND;TZID=America/Chicago:20261117T210000
-SUMMARY:Boys Varsity Wrestling vs Intersquad Dual Fundraiser
-CATEGORIES:ATHLETICS
-LOCATION:Conway
-DESCRIPTION:Boys Varsity Wrestling vs Intersquad Dual Fundraiser
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-ebf0a3a7ec92@calendar-sync.conwaypto.org
-DTSTAMP:20261117T000000Z
-DTSTART;TZID=America/Chicago:20261117T163000
-DTEND;TZID=America/Chicago:20261117T193000
-SUMMARY:Girls Varsity Basketball at Springdale
-CATEGORIES:ATHLETICS
-LOCATION:Springdale High School
-DESCRIPTION:Girls Varsity Basketball at Springdale
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-1b8ad50ddf3f@calendar-sync.conwaypto.org
 DTSTAMP:20261117T000000Z
 DTSTART;TZID=America/Chicago:20261117T180000
@@ -146,6 +96,17 @@ DESCRIPTION:Day one of the Lady Cat Invitational basketball tournament pre
  le via GoFan.
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-b4d3e0596bf0@calendar-sync.conwaypto.org
+DTSTAMP:20261119T000000Z
+DTSTART;TZID=America/Chicago:20261119T180000
+DTEND;TZID=America/Chicago:20261119T190000
+SUMMARY:Wrestling Blue/White Dual
+CATEGORIES:ATHLETICS
+LOCATION:Old Gym\, Conway High School
+DESCRIPTION:Conway High School wrestling hosts its Blue/White Dual. Ticket
+ s available only through GoFan.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-907bdb9a3527@calendar-sync.conwaypto.org
 DTSTAMP:20261120T000000Z
 DTSTART;TZID=America/Chicago:20261120T160000
@@ -204,9 +165,9 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Football Playoffs: Wampus Cats vs. Bentonville West
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Playoff home game against Bentonville West. Tickets must be pu
- rchased online through GoFan\; no cash accepted at the gates. Only AAA iss
- ued passes accepted. Children 5 and up require a ticket.
+DESCRIPTION:The Wampus Cats host Bentonville West in the playoffs. Tickets
+  must be purchased online via GoFan\; no cash accepted at the gates. Child
+ ren 5 and up require a ticket.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-95363f756319@calendar-sync.conwaypto.org
@@ -216,10 +177,9 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Beta Club trivia tournament during 7th and 8th periods. Teams 
- of up to six students compete\, including Name That Tune. Snack bar and pr
- izes\; participants excused from class. Register at https://forms.gle/LGQy
- o3tJ4iZASNhXA
+DESCRIPTION:Beta Club invites all students to compete in a trivia tourname
+ nt during 7th and 8th periods\, including Name That Tune. Teams of up to s
+ ix students\; snack bar and prizes. Register teams online.
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-6b9992eef017@calendar-sync.conwaypto.org
@@ -270,7 +230,8 @@ DTEND;TZID=America/Chicago:20261121T170000
 SUMMARY:2026 ARVCA All Star Game
 CATEGORIES:ATHLETICS
 LOCATION:Greenbrier High School
-DESCRIPTION:Addy Swindle selected to play in the 2026 ARVCA All Star game.
+DESCRIPTION:Addy Swindle of Conway High School was selected to play in the
+  2026 ARVCA All Star game.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-908dbdf67485@calendar-sync.conwaypto.org
@@ -641,7 +602,7 @@ SUMMARY:Boys Soccer Tryouts
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School field
 DESCRIPTION:Boys soccer tryouts. Student-athletes must have a physical upl
- oaded to DragonFly before attending. Questions: pagem@conwayschools.info
+ oaded to DragonFly before attending. Questions: pagem@conwayschools.info.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0588200f022a@calendar-sync.conwaypto.org
@@ -672,7 +633,7 @@ SUMMARY:Boys Soccer Tryouts
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School field
 DESCRIPTION:Boys soccer tryouts. Student-athletes must have a physical upl
- oaded to DragonFly before attending. Questions: pagem@conwayschools.info
+ oaded to DragonFly before attending. Questions: pagem@conwayschools.info.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-a0bda2a38f14@calendar-sync.conwaypto.org
@@ -735,6 +696,17 @@ LOCATION:Cabot High
 DESCRIPTION:Boys Varsity Wrestling at Bring the Hammer
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-51c3b2da9c5f@calendar-sync.conwaypto.org
+DTSTAMP:20261218T000000Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:The John Stanton Classic presented by Bank OZK
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Basketball tournament featuring the Wampus Cats and several ot
+ her top teams from around the state.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-a31dc9932cb9@calendar-sync.conwaypto.org
 DTSTAMP:20261219T000000Z
 DTSTART;TZID=America/Chicago:20261219T070000
@@ -763,6 +735,17 @@ SUMMARY:Boys Varsity Basketball vs LR Catholic  The Classic
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
 DESCRIPTION:Boys Varsity Basketball vs LR Catholic  The Classic
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-a80c68a28a50@calendar-sync.conwaypto.org
+DTSTAMP:20261219T000000Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:The John Stanton Classic presented by Bank OZK
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Basketball tournament featuring the Wampus Cats and several ot
+ her top teams from around the state.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-1cd7e5f54d66@calendar-sync.conwaypto.org
@@ -1215,16 +1198,6 @@ SUMMARY:Boys Varsity Basketball at Little Rock Central
 CATEGORIES:ATHLETICS
 LOCATION:Central HS
 DESCRIPTION:Boys Varsity Basketball at Little Rock Central
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-562671ab9d42@calendar-sync.conwaypto.org
-DTSTAMP:20270119T000000Z
-DTSTART;TZID=America/Chicago:20270119T163000
-DTEND;TZID=America/Chicago:20270119T193000
-SUMMARY:Boys Varsity Basketball vs Benton
-CATEGORIES:ATHLETICS
-LOCATION:Courtway
-DESCRIPTION:Boys Varsity Basketball vs Benton
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-62c4486676d4@calendar-sync.conwaypto.org
@@ -1745,5 +1718,35 @@ SUMMARY:Boys JV Basketball vs Lake Hamilton
 CATEGORIES:ATHLETICS
 LOCATION:CHS PE Gym
 DESCRIPTION:Boys JV Basketball vs Lake Hamilton
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-2b42ef1f3d49@calendar-sync.conwaypto.org
+DTSTAMP:20270216T000000Z
+DTSTART;TZID=America/Chicago:20270216T110000
+DTEND;TZID=America/Chicago:20270216T140000
+SUMMARY:Girls Varsity Bowling at Overall State 1st Place Teams
+CATEGORIES:ATHLETICS
+LOCATION:Ozark Lanes
+DESCRIPTION:Girls Varsity Bowling at Overall State 1st Place Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-9f1ee553fd2b@calendar-sync.conwaypto.org
+DTSTAMP:20270216T000000Z
+DTSTART;TZID=America/Chicago:20270216T110000
+DTEND;TZID=America/Chicago:20270216T140000
+SUMMARY:Boys Varsity Bowling at Overall State 1st Place Teams
+CATEGORIES:ATHLETICS
+LOCATION:Ozark Lanes
+DESCRIPTION:Boys Varsity Bowling at Overall State 1st Place Teams
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-b441c3be4943@calendar-sync.conwaypto.org
+DTSTAMP:20270216T000000Z
+DTSTART;TZID=America/Chicago:20270216T170000
+DTEND;TZID=America/Chicago:20270216T200000
+SUMMARY:Girls Varsity Soccer vs Blue vs White Match
+CATEGORIES:ATHLETICS
+LOCATION:John McConnell Stadium
+DESCRIPTION:Girls Varsity Soccer vs Blue vs White Match
 END:VEVENT
 END:VCALENDAR
