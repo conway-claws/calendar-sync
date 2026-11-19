@@ -23,17 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-1b8ad50ddf3f@calendar-sync.conwaypto.org
-DTSTAMP:20261117T000000Z
-DTSTART;TZID=America/Chicago:20261117T180000
-DTEND;TZID=America/Chicago:20261117T190000
-SUMMARY:Wrestling Blue/White Dual
-CATEGORIES:ATHLETICS
-LOCATION:Old Gym\, Conway High School
-DESCRIPTION:Conway wrestling hosts its Blue/White Dual. Tickets available 
- only on GoFan.
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-a2ef24915c3c@calendar-sync.conwaypto.org
 DTSTAMP:20261118T000000Z
 DTSTART;TZID=America/Chicago:20261118T180000
@@ -158,6 +147,17 @@ DESCRIPTION:Day two of the Lady Cat Invitational basketball tournament pre
  sented by Dyermark. Tickets available via GoFan.
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-16caa92125b6@calendar-sync.conwaypto.org
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=America/Chicago:20261120T180000
+DTEND;TZID=America/Chicago:20261120T190000
+SUMMARY:Wrestling Blue/White Dual
+CATEGORIES:ATHLETICS
+LOCATION:Old Gym\, Conway High School
+DESCRIPTION:Conway High School wrestling hosts its Blue/White Dual. Ticket
+ s available only on GoFan.
+END:VEVENT
+BEGIN:VEVENT
 UID:feed-6bdcb58ebe21@calendar-sync.conwaypto.org
 DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
@@ -165,9 +165,9 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Football Playoffs: Wampus Cats vs. Bentonville West
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:The Wampus Cats host Bentonville West in the playoffs. Tickets
-  must be purchased online via GoFan\; no cash accepted at the gates. Child
- ren 5 and up require a ticket.
+DESCRIPTION:Playoff home game against Bentonville West. Tickets must be pu
+ rchased online via GoFan — no cash accepted at the gates\; only AAA-issu
+ ed passes accepted. Children 5 and up require a ticket.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-95363f756319@calendar-sync.conwaypto.org
@@ -177,9 +177,9 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Beta Club invites all students to compete in a trivia tourname
- nt during 7th and 8th periods\, including Name That Tune. Teams of up to s
- ix students\; snack bar and prizes. Register teams online.
+DESCRIPTION:Beta Club trivia tournament during 7th and 8th periods. Teams 
+ of up to six students\; includes Name That Tune\, snack bar\, and prizes. 
+ Register your team online.
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-6b9992eef017@calendar-sync.conwaypto.org
@@ -744,8 +744,8 @@ DTEND;VALUE=DATE:20261220
 SUMMARY:The John Stanton Classic presented by Bank OZK
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
-DESCRIPTION:Basketball tournament featuring the Wampus Cats and several ot
- her top teams from around the state.
+DESCRIPTION:Second day of the John Stanton Classic basketball tournament f
+ eaturing the Wampus Cats and other top state teams.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-1cd7e5f54d66@calendar-sync.conwaypto.org

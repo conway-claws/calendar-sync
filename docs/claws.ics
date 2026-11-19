@@ -23,63 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-1b8ad50ddf3f@calendar-sync.conwaypto.org
-DTSTAMP:20261117T000000Z
-DTSTART;TZID=America/Chicago:20261117T180000
-DTEND;TZID=America/Chicago:20261117T190000
-SUMMARY:Wrestling Blue/White Dual
-CATEGORIES:ATHLETICS
-LOCATION:Old Gym\, Conway High School
-DESCRIPTION:Conway wrestling hosts its Blue/White Dual. Tickets available 
- only on GoFan.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-06b5b98678cc@calendar-sync.conwaypto.org
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Deadline: Talent Show Ticket Sales End
-CATEGORIES:ACADEMICS
-LOCATION:Conway High School
-DESCRIPTION:Last day for Key Club's Talent Show ticket sales\, available d
- uring both lunches.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-07bc39be097c@calendar-sync.conwaypto.org
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Young Democrats Club Meeting
-CATEGORIES:ACTIVITIES
-LOCATION:Room 263\, Conway High School
-DESCRIPTION:The Young Democrats club meets during 1st and 2nd lunches with
-  a special guest speaker.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-c0444bd501f8@calendar-sync.conwaypto.org
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Deadline: CATS in Community Food Drive - Final Collection Day
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School and other community drop-off locations
-DESCRIPTION:Last day to donate non-perishable food items to support Conway
-  school families. Drop-off at Conway High School\, Kroger on Prince Street
- \, Walmart on Hwy 65\, and United Way.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-d660e0cb1096@calendar-sync.conwaypto.org
-DTSTAMP:20261117T000000Z
-DTSTART;VALUE=DATE:20261117
-DTEND;VALUE=DATE:20261118
-SUMMARY:Spring Musical Auditions - Sister Act
-CATEGORIES:ARTS
-LOCATION:Music Building\, Conway High School
-DESCRIPTION:Conway High School Theatre auditions for the spring musical Si
- ster Act. Use Schoology group code SF6Z-T7NS-8KDP9 for information\; conta
- ct Mr. S at spiridigliozzia@conwayschools.info.
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-a2ef24915c3c@calendar-sync.conwaypto.org
 DTSTAMP:20261118T000000Z
 DTSTART;TZID=America/Chicago:20261118T180000
@@ -174,6 +117,19 @@ DESCRIPTION:Day one of the Lady Cat Invitational basketball tournament pre
  le via GoFan.
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-b225be08eb8b@calendar-sync.conwaypto.org
+DTSTAMP:20261119T000000Z
+DTSTART;TZID=America/Chicago:20261119T170000
+DTEND;TZID=America/Chicago:20261119T180000
+SUMMARY:Community Pep Rally & Conference Champs T-Shirt Sales
+CATEGORIES:ACTIVITIES
+LOCATION:Fieldhouse
+DESCRIPTION:Community Pep Rally celebrating the 2026 Conference Champion W
+ ampus Cats. Championship T-shirts available for purchase (Small–XL $20\,
+  2XL–3XL $25)\; proceeds benefit the Conway Booster Club. Shirts also so
+ ld Friday night at the game.
+END:VEVENT
+BEGIN:VEVENT
 UID:feed-b4d3e0596bf0@calendar-sync.conwaypto.org
 DTSTAMP:20261119T000000Z
 DTSTART;TZID=America/Chicago:20261119T180000
@@ -192,9 +148,9 @@ DTEND;VALUE=DATE:20261120
 SUMMARY:Club America Meeting - Friendsgiving
 CATEGORIES:ACTIVITIES
 LOCATION:Mr. S's classroom A104
-DESCRIPTION:Club America meets during WIN time for Friendsgiving with food
-  and fellowship. Students needing a pass should see Mrs. Rice (257)\, Mrs.
-  Glover (364)\, Mrs. Imboden (109)\, or Mrs. Hammett (913).
+DESCRIPTION:Club America meets during WIN time for Friendsgiving food and 
+ fellowship. Get a pass from Mrs. Rice (257)\, Mrs. Glover (364)\, Mrs. Imb
+ oden (109)\, or Mrs. Hammett (913).
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-cd65b993c1bf@calendar-sync.conwaypto.org
@@ -216,6 +172,18 @@ DTEND;TZID=America/Chicago:20261119T210000
 SUMMARY:"La Fiesta Orquesta" Taco Supper and Concerts
 CATEGORIES:ARTS
 LOCATION:Conway HS Cafeteria and James H. Clark Auditorium
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-0db84defdc11@calendar-sync.conwaypto.org
+DTSTAMP:20261119T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Conference Champs T-Shirt Sale (Booster Club Fundraiser)
+CATEGORIES:ACTIVITIES
+LOCATION:Fieldhouse
+DESCRIPTION:2026 Conference Champs T-shirts available for purchase at the 
+ Community Pep Rally and at Friday night's game. Adult S–XL $20\, 2XL–3
+ XL $25. Limited quantities. Proceeds benefit the Conway Booster Club.
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-a9aef68e3a5e@calendar-sync.conwaypto.org
@@ -282,6 +250,17 @@ DESCRIPTION:Day two of the Lady Cat Invitational basketball tournament pre
  sented by Dyermark. Tickets available via GoFan.
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-16caa92125b6@calendar-sync.conwaypto.org
+DTSTAMP:20261120T000000Z
+DTSTART;TZID=America/Chicago:20261120T180000
+DTEND;TZID=America/Chicago:20261120T190000
+SUMMARY:Wrestling Blue/White Dual
+CATEGORIES:ATHLETICS
+LOCATION:Old Gym\, Conway High School
+DESCRIPTION:Conway High School wrestling hosts its Blue/White Dual. Ticket
+ s available only on GoFan.
+END:VEVENT
+BEGIN:VEVENT
 UID:feed-6bdcb58ebe21@calendar-sync.conwaypto.org
 DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
@@ -289,9 +268,9 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Football Playoffs: Wampus Cats vs. Bentonville West
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:The Wampus Cats host Bentonville West in the playoffs. Tickets
-  must be purchased online via GoFan\; no cash accepted at the gates. Child
- ren 5 and up require a ticket.
+DESCRIPTION:Playoff home game against Bentonville West. Tickets must be pu
+ rchased online via GoFan — no cash accepted at the gates\; only AAA-issu
+ ed passes accepted. Children 5 and up require a ticket.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-95363f756319@calendar-sync.conwaypto.org
@@ -301,9 +280,9 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Beta Club invites all students to compete in a trivia tourname
- nt during 7th and 8th periods\, including Name That Tune. Teams of up to s
- ix students\; snack bar and prizes. Register teams online.
+DESCRIPTION:Beta Club trivia tournament during 7th and 8th periods. Teams 
+ of up to six students\; includes Name That Tune\, snack bar\, and prizes. 
+ Register your team online.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-b3a8e71a4788@calendar-sync.conwaypto.org
@@ -423,8 +402,7 @@ DTEND;VALUE=DATE:20261201
 SUMMARY:Angel Paws Spirit Week: Christmas Morning Monday
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Wear comfy clothes and bring shampoo\, body wash\, or soap for
-  the Angel Paws drive.
+DESCRIPTION:Wear comfy clothes and bring shampoo\, body wash\, or soap.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-456efcf3acc8@calendar-sync.conwaypto.org
@@ -434,7 +412,7 @@ DTEND;TZID=America/Chicago:20261130T173000
 SUMMARY:ACT Prep Class - English and Reading
 CATEGORIES:ACADEMICS
 LOCATION:Room 114
-DESCRIPTION:ACT Prep class focusing on English and Reading with Mr. Johnso
+DESCRIPTION:ACT prep class focusing on English and Reading with Mr. Johnso
  n.
 END:VEVENT
 BEGIN:VEVENT
@@ -485,8 +463,7 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:Angel Paws Spirit Week: Sock It to Me\, Santa!
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Wear crazy Christmas socks and bring hats and gloves for the A
- ngel Paws drive.
+DESCRIPTION:Wear crazy Christmas socks and bring hats and gloves.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-d97f32cbc139@calendar-sync.conwaypto.org
@@ -496,8 +473,8 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: Jostens Paper Order Form Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Deadline to turn in Jostens paper order forms for cap\, gown\,
-  and graduation items.
+DESCRIPTION:Last day to place a Jostens order in person or turn in paper o
+ rder forms for cap\, gown\, and graduation items.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-46e4040120e4@calendar-sync.conwaypto.org
@@ -507,8 +484,7 @@ DTEND;VALUE=DATE:20261203
 SUMMARY:Angel Paws Spirit Week: Have a "Blue" Christmas
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Wear Conway Blue and bring deodorant or face wash for the Ange
- l Paws drive.
+DESCRIPTION:Wear Conway Blue and bring deodorant or face wash.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-19dae3c61c96@calendar-sync.conwaypto.org
@@ -586,7 +562,7 @@ SUMMARY:Angel Paws Spirit Week: Ugly Sweater Party
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Wear your ugliest Christmas sweater and bring toothbrushes and
-  toothpaste for the Angel Paws drive.
+  toothpaste.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0345fe46c4e5@calendar-sync.conwaypto.org
@@ -616,9 +592,10 @@ DTEND;TZID=America/Chicago:20261204T200000
 SUMMARY:CHS Choir: Home for the Holidays
 CATEGORIES:ARTS
 LOCATION:Conway High School Cafeteria
-DESCRIPTION:The 2nd annual Home for the Holidays holiday concert featuring
-  CHS Choir\, with festive decor and dessert hors d'oeuvres. Tickets availa
- ble online only through GoFan.
+DESCRIPTION:2nd annual Home for the Holidays holiday concert featuring CHS
+  Choir performing traditional carols and contemporary seasonal favorites\,
+  with dessert hors d'oeuvres in a festive setting. Tickets available onlin
+ e only through GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-55fdda4c7ba7@calendar-sync.conwaypto.org
@@ -630,6 +607,18 @@ CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Wear your Caring Cat shirt and Santa hat and bring gifts. Last
   day to pick up a paw.
+END:VEVENT
+BEGIN:VEVENT
+UID:newsletter-b749dd950952@calendar-sync.conwaypto.org
+DTSTAMP:20261204T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Deadline: Free ACT Prep Day Registration Deadline
+CATEGORIES:ACADEMICS
+LOCATION:Conway High School
+DESCRIPTION:Deadline to register for the free ACT Prep Day for students in
+  grades 10-12. Limited to 50 students\; scan the QR code on the flyer to r
+ egister.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-385dae6e649c@calendar-sync.conwaypto.org
@@ -669,9 +658,10 @@ DTEND;TZID=America/Chicago:20261205T200000
 SUMMARY:CHS Choir: Home for the Holidays
 CATEGORIES:ARTS
 LOCATION:Conway High School Cafeteria
-DESCRIPTION:The 2nd annual Home for the Holidays holiday concert featuring
-  CHS Choir\, with festive decor and dessert hors d'oeuvres. Tickets availa
- ble online only through GoFan.
+DESCRIPTION:2nd annual Home for the Holidays holiday concert featuring CHS
+  Choir performing traditional carols and contemporary seasonal favorites\,
+  with dessert hors d'oeuvres in a festive setting. Tickets available onlin
+ e only through GoFan.
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-dc95329c608c@calendar-sync.conwaypto.org
@@ -796,15 +786,27 @@ DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
  s. Notes will still be accepted for credit until 12/18.
 END:VEVENT
 BEGIN:VEVENT
+UID:newsletter-beabf405ab3c@calendar-sync.conwaypto.org
+DTSTAMP:20261209T000000Z
+DTSTART;TZID=America/Chicago:20261209T090000
+DTEND;TZID=America/Chicago:20261209T143000
+SUMMARY:Free ACT Prep Day
+CATEGORIES:ACADEMICS
+LOCATION:Arch Ford Education Service Cooperative\, Plumerville\, AR
+DESCRIPTION:Free ACT preparation for CHS students in grades 10-12\, provid
+ ed by Cantrell & Waller Preparatory Services. Transportation provided\; st
+ udents bring their own lunch. Limited to 50 students.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
 DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Deadline: Last Day to Turn In Doctor's Notes for Exam Exemption
+SUMMARY:Deadline: Doctor's Notes for Exam Exemption Status
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Final day to submit doctor's notes toward exam exemption statu
- s.
+DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
+ s. Notes for credit will be accepted until 12/18.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-6dc2ef650520@calendar-sync.conwaypto.org
@@ -1036,10 +1038,10 @@ UID:newsletter-de8a4d654c99@calendar-sync.conwaypto.org
 DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Semester Exam Day
+SUMMARY:Fall Semester Exams
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Fall semester exams with a modified bell schedule (TBD).
+DESCRIPTION:Semester exam day with a modified bell schedule (TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-fa88d750d2a3@calendar-sync.conwaypto.org
@@ -1065,10 +1067,10 @@ UID:newsletter-5a6f5007818b@calendar-sync.conwaypto.org
 DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:Semester Exam Day
+SUMMARY:Fall Semester Exams
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Fall semester exams with a modified bell schedule (TBD).
+DESCRIPTION:Semester exam day with a modified bell schedule (TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-a0bda2a38f14@calendar-sync.conwaypto.org
@@ -1179,11 +1181,12 @@ UID:newsletter-850c4e16f1b2@calendar-sync.conwaypto.org
 DTSTAMP:20261218T000000Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-SUMMARY:Deadline: Make-up Semester Exams / Final Doctor's Note Deadline
+SUMMARY:Deadline: Make-up Semester Exams / Final Day for Doctor's Notes fo
+ r Credit
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Make-up semester exams\; last day doctor's notes will be accep
- ted for credit.
+DESCRIPTION:Make-up day for fall semester exams. Last day doctor's notes w
+ ill be accepted for credit.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-a31dc9932cb9@calendar-sync.conwaypto.org
@@ -1223,8 +1226,8 @@ DTEND;VALUE=DATE:20261220
 SUMMARY:The John Stanton Classic presented by Bank OZK
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
-DESCRIPTION:Basketball tournament featuring the Wampus Cats and several ot
- her top teams from around the state.
+DESCRIPTION:Second day of the John Stanton Classic basketball tournament f
+ eaturing the Wampus Cats and other top state teams.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-91dcfda6b16a@calendar-sync.conwaypto.org
