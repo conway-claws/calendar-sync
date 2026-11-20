@@ -23,57 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-a2ef24915c3c@calendar-sync.conwaypto.org
-DTSTAMP:20261118T000000Z
-DTSTART;TZID=America/Chicago:20261118T180000
-DTEND;TZID=America/Chicago:20261118T190000
-SUMMARY:Wrestling Blue/White Dual
-CATEGORIES:ATHLETICS
-LOCATION:Old Gym\, Conway High School
-DESCRIPTION:Wrestling hosts their Blue/White Dual. Tickets available only 
- on GoFan.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-4a92a657b740@calendar-sync.conwaypto.org
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=America/Chicago:20261119T170000
-DTEND;TZID=America/Chicago:20261119T200000
-SUMMARY:Boys JV Basketball at Russellville
-CATEGORIES:ATHLETICS
-LOCATION:Russellville HS
-DESCRIPTION:Boys JV Basketball at Russellville
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-5b4d7fa9caba@calendar-sync.conwaypto.org
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=America/Chicago:20261119T180000
-DTEND;TZID=America/Chicago:20261119T210000
-SUMMARY:Boys Varsity Basketball at Russellville
-CATEGORIES:ATHLETICS
-LOCATION:Russellville HS
-DESCRIPTION:Boys Varsity Basketball at Russellville
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-6411af48e357@calendar-sync.conwaypto.org
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=America/Chicago:20261119T000000
-DTEND;TZID=America/Chicago:20261119T030000
-SUMMARY:Boys Varsity Swim and Dive vs Conway Meet
-CATEGORIES:ATHLETICS
-LOCATION:Hendrix Pool
-DESCRIPTION:Boys Varsity Swim and Dive vs Conway Meet
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-c34bbb15ae41@calendar-sync.conwaypto.org
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=America/Chicago:20261119T000000
-DTEND;TZID=America/Chicago:20261119T030000
-SUMMARY:Girls Varsity Swim and Dive vs Conway Meet
-CATEGORIES:ATHLETICS
-LOCATION:Hendrix Pool
-DESCRIPTION:Girls Varsity Swim and Dive vs Conway Meet
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-a3368bad2bd0@calendar-sync.conwaypto.org
 DTSTAMP:20261119T000000Z
 DTSTART;VALUE=DATE:20261119
@@ -162,12 +111,32 @@ UID:feed-6bdcb58ebe21@calendar-sync.conwaypto.org
 DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-SUMMARY:Football Playoffs: Wampus Cats vs. Bentonville West
+SUMMARY:Football Playoff Game (AAA Event)
 CATEGORIES:ATHLETICS
-LOCATION:Conway High School
-DESCRIPTION:Playoff home game against Bentonville West. Tickets must be pu
- rchased online via GoFan — no cash accepted at the gates\; only AAA-issu
- ed passes accepted. Children 5 and up require a ticket.
+DESCRIPTION:AAA playoff football game. Employee badges\, season passes\, a
+ nd all-sport passes are NOT accepted\; only AAA passes are valid. Tickets 
+ must be purchased through GoFan: https://gofan.co/event/7077162
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-c403dca98d2c@calendar-sync.conwaypto.org
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Boys Basketball at Russellville (JV/V)
+CATEGORIES:ATHLETICS
+LOCATION:Russellville High School
+DESCRIPTION:JV and Varsity boys basketball games at Russellville. Tickets:
+  https://gofan.co/event/7028516?schoolId=AR18678
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-ee5b265038fd@calendar-sync.conwaypto.org
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Swim & Dive Home Meet
+CATEGORIES:ATHLETICS
+LOCATION:Hendrix College
+DESCRIPTION:Big home meet for the Conway High School Swim and Dive teams.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-95363f756319@calendar-sync.conwaypto.org
@@ -177,9 +146,10 @@ DTEND;VALUE=DATE:20261121
 SUMMARY:Beta Club Brain Brawl Trivia Tournament
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School
-DESCRIPTION:Beta Club trivia tournament during 7th and 8th periods. Teams 
- of up to six students\; includes Name That Tune\, snack bar\, and prizes. 
- Register your team online.
+DESCRIPTION:Beta Club invites all students to the Brain Brawl Trivia Tourn
+ ament during 7th and 8th periods. Form a team of up to six students and co
+ mpete in trivia\, including Name That Tune. Participants excused from clas
+ s\, with snack bar and prizes. Register your team online.
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-6b9992eef017@calendar-sync.conwaypto.org
@@ -221,6 +191,17 @@ SUMMARY:Boys JV Wrestling at JV Wildcat
 CATEGORIES:ATHLETICS
 LOCATION:Springdale HS
 DESCRIPTION:Boys JV Wrestling at JV Wildcat
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-198a68a9dbf2@calendar-sync.conwaypto.org
+DTSTAMP:20261121T000000Z
+DTSTART;TZID=America/Chicago:20261121T160000
+DTEND;TZID=America/Chicago:20261121T170000
+SUMMARY:Girls Basketball All-Star Game (Braylin & Addy)
+CATEGORIES:ATHLETICS
+LOCATION:Greenbrier High School
+DESCRIPTION:Two Lady Cats play in the All-Star game at Greenbrier High Sch
+ ool. Tickets available via GoFan\; live stream on Greenbrier's Hudl Fan.
 END:VEVENT
 BEGIN:VEVENT
 UID:feed-48965f2d60ed@calendar-sync.conwaypto.org
@@ -602,7 +583,7 @@ SUMMARY:Boys Soccer Tryouts
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School field
 DESCRIPTION:Boys soccer tryouts. Student-athletes must have a physical upl
- oaded to DragonFly before attending. Questions: pagem@conwayschools.info.
+ oaded to DragonFly before attending. Questions: pagem@conwayschools.info
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0588200f022a@calendar-sync.conwaypto.org
@@ -633,7 +614,7 @@ SUMMARY:Boys Soccer Tryouts
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School field
 DESCRIPTION:Boys soccer tryouts. Student-athletes must have a physical upl
- oaded to DragonFly before attending. Questions: pagem@conwayschools.info.
+ oaded to DragonFly before attending. Questions: pagem@conwayschools.info
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-a0bda2a38f14@calendar-sync.conwaypto.org
@@ -700,7 +681,7 @@ UID:feed-51c3b2da9c5f@calendar-sync.conwaypto.org
 DTSTAMP:20261218T000000Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-SUMMARY:The John Stanton Classic presented by Bank OZK
+SUMMARY:John Stanton Classic presented by Bank OZK (Day 1)
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
 DESCRIPTION:Basketball tournament featuring the Wampus Cats and several ot
@@ -741,11 +722,11 @@ UID:feed-a80c68a28a50@calendar-sync.conwaypto.org
 DTSTAMP:20261219T000000Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-SUMMARY:The John Stanton Classic presented by Bank OZK
+SUMMARY:John Stanton Classic presented by Bank OZK (Day 2)
 CATEGORIES:ATHLETICS
 LOCATION:Buzz Bolding Arena
-DESCRIPTION:Second day of the John Stanton Classic basketball tournament f
- eaturing the Wampus Cats and other top state teams.
+DESCRIPTION:Second day of the John Stanton Classic basketball tournament\;
+  the Wampus Cats play twice over the two days.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-1cd7e5f54d66@calendar-sync.conwaypto.org
