@@ -37,7 +37,7 @@ DTSTART;TZID=America/Chicago:20261130T163000
 DTEND;TZID=America/Chicago:20261130T173000
 SUMMARY:ACT Prep Class - English and Reading
 CATEGORIES:ACADEMICS
-LOCATION:Room 114\, Conway High School
+LOCATION:Room 114
 DESCRIPTION:ACT Prep Class with Mr. Johnson focusing on English and Readin
  g.
 END:VEVENT
@@ -49,8 +49,9 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: Jostens Paper Order Form Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Last day to place a Jostens order in person or turn in paper o
- rder forms for caps\, gowns\, and class items.
+DESCRIPTION:Deadline to turn in Jostens paper order forms for caps\, gowns
+ \, and orders. Contact Jostens at (479) 968-3269 or harrelloffice@jostens.
+ com.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-b749dd950952@calendar-sync.conwaypto.org
@@ -59,9 +60,8 @@ DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Deadline: Free ACT Prep Day Registration Deadline
 CATEGORIES:ACADEMICS
-DESCRIPTION:Registration deadline for the FREE ACT Prep Day for CHS studen
- ts in grades 10-12. Scan the QR code on the flyer to register. Limited to 
- 50 students\; selection based on ACT preparation needs.
+DESCRIPTION:Registration deadline for the free ACT Prep Day for grades 10-
+ 12. Scan the QR code on the flyer to register\; limited to 50 students.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-4f0eb2fbbefc@calendar-sync.conwaypto.org
@@ -92,16 +92,16 @@ DTEND;TZID=America/Chicago:20261209T143000
 SUMMARY:Free ACT Prep Day
 CATEGORIES:ACADEMICS
 LOCATION:Arch Ford Education Service Cooperative\, Plumerville\, AR
-DESCRIPTION:Free ACT preparation for CHS students in grades 10-12 provided
-  by Cantrell & Waller Preparatory Services. Limited to 50 students. Transp
- ortation provided\; students must bring their own lunch.
+DESCRIPTION:Free ACT preparation provided by Cantrell & Waller Preparatory
+  Services for CHS students in grades 10-12. Transportation provided\; stud
+ ents must bring their own lunch. Limited to 50 students.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
 DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Deadline: Doctor's Notes for Exam Exemption Status
+SUMMARY:Deadline: Last Day to Turn in Doctor's Notes for Exam Exemption
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
@@ -112,11 +112,11 @@ UID:newsletter-128e6ef1ec3b@calendar-sync.conwaypto.org
 DTSTAMP:20261210T000000Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:Deadline: Key Club T-Shirt Collection Deadline
+SUMMARY:Deadline: Key Club T-Shirt Donation Deadline
 CATEGORIES:ACADEMICS
-LOCATION:Room 266 (Lancaster)\, Conway High School
-DESCRIPTION:Last day to drop off old t-shirts for Key Club's project with 
- the Faulkner County Animal Shelter.
+LOCATION:Room 266 (Lancaster)
+DESCRIPTION:Last day to drop off old t-shirts in room 266 for Key Club's p
+ roject with the Faulkner County Animal Shelter.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-64acd1399778@calendar-sync.conwaypto.org

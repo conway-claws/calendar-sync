@@ -23,69 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-a3368bad2bd0@calendar-sync.conwaypto.org
-DTSTAMP:20261119T000000Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Lady Cat Invitational - Day 1
-CATEGORIES:ATHLETICS
-DESCRIPTION:Day one of the Lady Cat Invitational basketball tournament pre
- sented by Dyermark\, featuring teams from across Arkansas. Tickets availab
- le via GoFan.
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-b4d3e0596bf0@calendar-sync.conwaypto.org
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=America/Chicago:20261119T180000
-DTEND;TZID=America/Chicago:20261119T190000
-SUMMARY:Wrestling Blue/White Dual
-CATEGORIES:ATHLETICS
-LOCATION:Old Gym\, Conway High School
-DESCRIPTION:Conway High School wrestling hosts its Blue/White Dual. Ticket
- s available only through GoFan.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-907bdb9a3527@calendar-sync.conwaypto.org
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=America/Chicago:20261120T160000
-DTEND;TZID=America/Chicago:20261120T190000
-SUMMARY:Boys Varsity Wrestling at Lady Wildcat
-CATEGORIES:ATHLETICS
-LOCATION:Harber High
-DESCRIPTION:Boys Varsity Wrestling at Lady Wildcat
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-90fbd853c4b4@calendar-sync.conwaypto.org
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=America/Chicago:20261120T170000
-DTEND;TZID=America/Chicago:20261120T200000
-SUMMARY:Girls Varsity Basketball at Joe T. Robinson DA Matchup Showcase
-CATEGORIES:ATHLETICS
-LOCATION:LR Christian High School
-DESCRIPTION:Girls Varsity Basketball at Joe T. Robinson DA Matchup Showcas
- e
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-9a7e5e1f6cf7@calendar-sync.conwaypto.org
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=America/Chicago:20261120T190000
-DTEND;TZID=America/Chicago:20261120T220000
-SUMMARY:Boys Varsity Football vs Bentonville West  7A State Playoffs
-CATEGORIES:ATHLETICS
-LOCATION:John McConnell Stadium
-DESCRIPTION:Boys Varsity Football vs Bentonville West  7A State Playoffs
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-e0dc673883e8@calendar-sync.conwaypto.org
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=America/Chicago:20261120T160000
-DTEND;TZID=America/Chicago:20261120T190000
-SUMMARY:Girls Varsity Wrestling at Lady Wildcat
-CATEGORIES:ATHLETICS
-LOCATION:Harber High
-DESCRIPTION:Girls Varsity Wrestling at Lady Wildcat
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-0be65123d5ed@calendar-sync.conwaypto.org
 DTSTAMP:20261120T000000Z
 DTSTART;VALUE=DATE:20261120
@@ -215,6 +152,17 @@ DESCRIPTION:Addy Swindle of Conway High School was selected to play in the
   2026 ARVCA All Star game.
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-85d37fe343cd@calendar-sync.conwaypto.org
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Football Playoff Game vs. Bentonville West
+CATEGORIES:ATHLETICS
+DESCRIPTION:Playoff matchup against Bentonville West. This is an AAA event
+  — employee badges\, season passes\, and all-sport passes are not accept
+ ed\; tickets must be purchased online. Live stream available via YouTube.
+END:VEVENT
+BEGIN:VEVENT
 UID:feed-908dbdf67485@calendar-sync.conwaypto.org
 DTSTAMP:20261121T000000Z
 DTSTART;VALUE=DATE:20261121
@@ -223,6 +171,39 @@ SUMMARY:Lady Cat Invitational - Day 3
 CATEGORIES:ATHLETICS
 DESCRIPTION:Final day of the Lady Cat Invitational basketball tournament p
  resented by Dyermark. Tickets available via GoFan.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-93b4906b8d11@calendar-sync.conwaypto.org
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Boys Basketball (JV/V) at Russellville
+CATEGORIES:ATHLETICS
+LOCATION:Russellville
+DESCRIPTION:JV and Varsity boys basketball games at Russellville\; tickets
+  available online through GoFan.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-dd8f12d08e92@calendar-sync.conwaypto.org
+DTSTAMP:20261121T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Swim and Dive Home Meet
+CATEGORIES:ATHLETICS
+LOCATION:Hendrix College
+DESCRIPTION:Big home meet for the Conway swim and dive teams — come out 
+ and support.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-49600ec601f8@calendar-sync.conwaypto.org
+DTSTAMP:20261122T000000Z
+DTSTART;TZID=America/Chicago:20261122T160000
+DTEND;TZID=America/Chicago:20261122T170000
+SUMMARY:Girls Basketball All Star Game
+CATEGORIES:ATHLETICS
+LOCATION:Greenbrier High School
+DESCRIPTION:Two Lady Cats\, Braylin and Addy\, play in the All Star game. 
+ Tickets via GoFan\; live stream on Greenbrier's Hudl Fan.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-96f23bda67a7@calendar-sync.conwaypto.org
@@ -583,7 +564,7 @@ SUMMARY:Boys Soccer Tryouts
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School field
 DESCRIPTION:Boys soccer tryouts. Student-athletes must have a physical upl
- oaded to DragonFly before attending. Questions: pagem@conwayschools.info
+ oaded to DragonFly before attending. Questions: pagem@conwayschools.info.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0588200f022a@calendar-sync.conwaypto.org
@@ -614,7 +595,7 @@ SUMMARY:Boys Soccer Tryouts
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School field
 DESCRIPTION:Boys soccer tryouts. Student-athletes must have a physical upl
- oaded to DragonFly before attending. Questions: pagem@conwayschools.info
+ oaded to DragonFly before attending. Questions: pagem@conwayschools.info.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-a0bda2a38f14@calendar-sync.conwaypto.org
@@ -1729,5 +1710,35 @@ SUMMARY:Girls Varsity Soccer vs Blue vs White Match
 CATEGORIES:ATHLETICS
 LOCATION:John McConnell Stadium
 DESCRIPTION:Girls Varsity Soccer vs Blue vs White Match
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-12a27673dd1c@calendar-sync.conwaypto.org
+DTSTAMP:20270219T000000Z
+DTSTART;TZID=America/Chicago:20270219T193000
+DTEND;TZID=America/Chicago:20270219T223000
+SUMMARY:Boys Varsity Basketball vs Little Rock Central
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Boys Varsity Basketball vs Little Rock Central
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-2003004d212e@calendar-sync.conwaypto.org
+DTSTAMP:20270219T000000Z
+DTSTART;TZID=America/Chicago:20270219T164500
+DTEND;TZID=America/Chicago:20270219T194500
+SUMMARY:Girls JV Basketball vs Central
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Girls JV Basketball vs Central
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-ac1819ab0dfd@calendar-sync.conwaypto.org
+DTSTAMP:20270219T000000Z
+DTSTART;TZID=America/Chicago:20270219T164500
+DTEND;TZID=America/Chicago:20270219T194500
+SUMMARY:Boys JV Basketball vs Little Rock Central
+CATEGORIES:ATHLETICS
+LOCATION:CHS PE Gym
+DESCRIPTION:Boys JV Basketball vs Little Rock Central
 END:VEVENT
 END:VCALENDAR

@@ -23,39 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-561a5e9c2c9f@calendar-sync.conwaypto.org
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=America/Chicago:20261119T170000
-DTEND;TZID=America/Chicago:20261119T200000
-SUMMARY:Orchestra Taco Supper Fundraiser
-CATEGORIES:ARTS
-LOCATION:Conway High School Cafeteria
-DESCRIPTION:Taco supper fundraiser catered by Make-a-Meal. $15 adult taco 
- salad plate\, $10 child soft taco plate. Tickets available at the door\; d
- onations accepted online at conwayorch.square.site.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-cd65b993c1bf@calendar-sync.conwaypto.org
-DTSTAMP:20261119T000000Z
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-SUMMARY:Winter Guard Practices Begin
-CATEGORIES:ARTS
-LOCATION:Conway High School Band Room
-DESCRIPTION:First Winter Guard practice. Information packets with guidelin
- es and schedules available in the CHS band room or from Mrs. Grinder in ro
- om 606.
-END:VEVENT
-BEGIN:VEVENT
-UID:orchestra-76e63c618431@calendar-sync.conwaypto.org
-DTSTAMP:20261119T000000Z
-DTSTART;TZID=America/Chicago:20261119T170000
-DTEND;TZID=America/Chicago:20261119T210000
-SUMMARY:"La Fiesta Orquesta" Taco Supper and Concerts
-CATEGORIES:ARTS
-LOCATION:Conway HS Cafeteria and James H. Clark Auditorium
-END:VEVENT
-BEGIN:VEVENT
 UID:rss-c43a1302df5a@calendar-sync.conwaypto.org
 DTSTAMP:20261120T000000Z
 DTSTART;TZID=America/Chicago:20261120T174500
