@@ -23,28 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-d37965e46acf@calendar-sync.conwaypto.org
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=America/Chicago:20261120T170000
-DTEND;TZID=America/Chicago:20261120T180000
-SUMMARY:Community Pep Rally & Conference Champs T-Shirt Sales
-CATEGORIES:ACTIVITIES
-LOCATION:Fieldhouse
-DESCRIPTION:Community Pep Rally with 2026 Conference Champs T-shirts for s
- ale (Adult S-XL $20\, 2XL-3XL $25) benefiting the Conway Booster Club. Shi
- rts also available Friday night at the game while supplies last.
-END:VEVENT
-BEGIN:VEVENT
-UID:newsletter-b3a8e71a4788@calendar-sync.conwaypto.org
-DTSTAMP:20261120T000000Z
-DTSTART;TZID=America/Chicago:20261120T100000
-DTEND;TZID=America/Chicago:20261120T120000
-SUMMARY:CATS in Community Food Drive Distribution Day
-CATEGORIES:ACTIVITIES
-LOCATION:Conway High School Roundabout
-DESCRIPTION:Distribution of donated food items to Conway school families.
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-d4d17d3a65da@calendar-sync.conwaypto.org
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=America/Chicago:20261121T170000
@@ -75,8 +53,7 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:Angel Paws Spirit Week: Sock It to Me\, Santa!
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Wear crazy Christmas socks and bring hats and gloves for Angel
-  Paws.
+DESCRIPTION:Wear crazy Christmas socks and bring hats and gloves.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-7e98bbe4605d@calendar-sync.conwaypto.org
@@ -97,8 +74,7 @@ DTEND;VALUE=DATE:20261203
 SUMMARY:Angel Paws Spirit Week: Have a "Blue" Christmas
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Wear Conway Blue and bring deodorant or face wash for Angel Pa
- ws.
+DESCRIPTION:Wear Conway Blue and bring deodorant or face wash.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-a4c29c685c8a@calendar-sync.conwaypto.org
@@ -109,7 +85,7 @@ SUMMARY:Angel Paws Spirit Week: Ugly Sweater Party
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Wear your ugliest Christmas sweater and bring toothbrushes and
-  toothpaste for Angel Paws.
+  toothpaste.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-55fdda4c7ba7@calendar-sync.conwaypto.org

@@ -35,11 +35,11 @@ UID:newsletter-456efcf3acc8@calendar-sync.conwaypto.org
 DTSTAMP:20261130T000000Z
 DTSTART;TZID=America/Chicago:20261130T163000
 DTEND;TZID=America/Chicago:20261130T173000
-SUMMARY:ACT Prep Class - English and Reading
+SUMMARY:ACT Prep Class – English and Reading
 CATEGORIES:ACADEMICS
-LOCATION:Room 114
-DESCRIPTION:ACT Prep Class with Mr. Johnson focusing on English and Readin
- g.
+LOCATION:Mr. Johnson\, Room 114
+DESCRIPTION:ACT Prep Class focusing on English and Reading with Mr. Johnso
+ n.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-d97f32cbc139@calendar-sync.conwaypto.org
@@ -49,9 +49,9 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: Jostens Paper Order Form Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Deadline to turn in Jostens paper order forms for caps\, gowns
- \, and orders. Contact Jostens at (479) 968-3269 or harrelloffice@jostens.
- com.
+DESCRIPTION:Deadline to turn in Jostens paper order forms for cap\, gown\,
+  and graduation orders. Contact: (479) 968-3269 or harrelloffice@jostens.c
+ om.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-b749dd950952@calendar-sync.conwaypto.org
@@ -60,8 +60,9 @@ DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Deadline: Free ACT Prep Day Registration Deadline
 CATEGORIES:ACADEMICS
-DESCRIPTION:Registration deadline for the free ACT Prep Day for grades 10-
- 12. Scan the QR code on the flyer to register\; limited to 50 students.
+LOCATION:Conway High School
+DESCRIPTION:Deadline to register for the free ACT Prep Day for grades 10-1
+ 2. Limited to 50 students\; scan the QR code on the flyer to register.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-4f0eb2fbbefc@calendar-sync.conwaypto.org
@@ -92,31 +93,31 @@ DTEND;TZID=America/Chicago:20261209T143000
 SUMMARY:Free ACT Prep Day
 CATEGORIES:ACADEMICS
 LOCATION:Arch Ford Education Service Cooperative\, Plumerville\, AR
-DESCRIPTION:Free ACT preparation provided by Cantrell & Waller Preparatory
-  Services for CHS students in grades 10-12. Transportation provided\; stud
- ents must bring their own lunch. Limited to 50 students.
+DESCRIPTION:Free ACT preparation for grades 10-12 provided by Cantrell & W
+ aller Preparatory Services. Transportation provided\; students must bring 
+ their own lunch.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
 DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Deadline: Last Day to Turn in Doctor's Notes for Exam Exemption
+SUMMARY:Deadline: Last Day to Turn In Doctor's Notes for Exam Exemption
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
- s. Notes will be accepted for credit until 12/18.
+DESCRIPTION:Last day to turn in doctor's notes toward semester exam exempt
+ ion status.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-128e6ef1ec3b@calendar-sync.conwaypto.org
 DTSTAMP:20261210T000000Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:Deadline: Key Club T-Shirt Donation Deadline
+SUMMARY:Deadline: Key Club T-Shirt Collection Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Room 266 (Lancaster)
-DESCRIPTION:Last day to drop off old t-shirts in room 266 for Key Club's p
- roject with the Faulkner County Animal Shelter.
+DESCRIPTION:Last day to drop off old t-shirts for Key Club's project with 
+ the Faulkner County Animal Shelter.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-64acd1399778@calendar-sync.conwaypto.org
@@ -161,7 +162,7 @@ UID:newsletter-de8a4d654c99@calendar-sync.conwaypto.org
 DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Fall Semester Exams - Day 1
+SUMMARY:Fall Semester Exams
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Semester exam day\; a modified bell schedule will be used (TBD
@@ -180,7 +181,7 @@ UID:newsletter-5a6f5007818b@calendar-sync.conwaypto.org
 DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:Fall Semester Exams - Day 2
+SUMMARY:Fall Semester Exams
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Semester exam day\; a modified bell schedule will be used (TBD
