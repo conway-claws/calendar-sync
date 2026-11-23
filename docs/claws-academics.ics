@@ -35,11 +35,11 @@ UID:newsletter-456efcf3acc8@calendar-sync.conwaypto.org
 DTSTAMP:20261130T000000Z
 DTSTART;TZID=America/Chicago:20261130T163000
 DTEND;TZID=America/Chicago:20261130T173000
-SUMMARY:ACT Prep Class – English and Reading
+SUMMARY:ACT Prep Class - English and Reading
 CATEGORIES:ACADEMICS
-LOCATION:Mr. Johnson\, Room 114
-DESCRIPTION:ACT Prep Class focusing on English and Reading with Mr. Johnso
- n.
+LOCATION:Room 114
+DESCRIPTION:ACT Prep Class with Mr. Johnson focusing on English and Readin
+ g.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-d97f32cbc139@calendar-sync.conwaypto.org
@@ -49,9 +49,8 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:Deadline: Jostens Paper Order Form Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Deadline to turn in Jostens paper order forms for cap\, gown\,
-  and graduation orders. Contact: (479) 968-3269 or harrelloffice@jostens.c
- om.
+DESCRIPTION:Deadline to turn in Jostens paper order forms\; last day to pl
+ ace an order in person.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-b749dd950952@calendar-sync.conwaypto.org
@@ -60,9 +59,8 @@ DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Deadline: Free ACT Prep Day Registration Deadline
 CATEGORIES:ACADEMICS
-LOCATION:Conway High School
-DESCRIPTION:Deadline to register for the free ACT Prep Day for grades 10-1
- 2. Limited to 50 students\; scan the QR code on the flyer to register.
+DESCRIPTION:Registration deadline for the free ACT Prep Day for grades 10-
+ 12. Limited to 50 students\; scan the QR code on the flyer to register.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-4f0eb2fbbefc@calendar-sync.conwaypto.org
@@ -93,20 +91,20 @@ DTEND;TZID=America/Chicago:20261209T143000
 SUMMARY:Free ACT Prep Day
 CATEGORIES:ACADEMICS
 LOCATION:Arch Ford Education Service Cooperative\, Plumerville\, AR
-DESCRIPTION:Free ACT preparation for grades 10-12 provided by Cantrell & W
- aller Preparatory Services. Transportation provided\; students must bring 
- their own lunch.
+DESCRIPTION:Free ACT preparation provided by Cantrell & Waller Preparatory
+  Services for CHS students in grades 10-12. Transportation provided\; stud
+ ents must bring their own lunch.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
 DTSTAMP:20261209T000000Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-SUMMARY:Deadline: Last Day to Turn In Doctor's Notes for Exam Exemption
+SUMMARY:Deadline: Last Day to Turn in Doctor's Notes for Exam Exemption
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Last day to turn in doctor's notes toward semester exam exempt
- ion status.
+DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
+ s. Notes accepted for credit until 12/18.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-128e6ef1ec3b@calendar-sync.conwaypto.org
@@ -165,8 +163,7 @@ DTEND;VALUE=DATE:20261216
 SUMMARY:Fall Semester Exams
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day\; a modified bell schedule will be used (TBD
- ).
+DESCRIPTION:Semester exam day\; modified bell schedule (TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-1698bb095b37@calendar-sync.conwaypto.org
@@ -184,8 +181,7 @@ DTEND;VALUE=DATE:20261217
 SUMMARY:Fall Semester Exams
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day\; a modified bell schedule will be used (TBD
- ).
+DESCRIPTION:Semester exam day\; modified bell schedule (TBD).
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-bc9027022add@calendar-sync.conwaypto.org

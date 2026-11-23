@@ -23,18 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-d4d17d3a65da@calendar-sync.conwaypto.org
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=America/Chicago:20261121T170000
-DTEND;TZID=America/Chicago:20261121T180000
-SUMMARY:Community Pep Rally & Conference Champs T-Shirt Sale
-CATEGORIES:ACTIVITIES
-LOCATION:Fieldhouse
-DESCRIPTION:Community Pep Rally where 2026 Conference Champs T-shirts are 
- available ($20 S–XL\, $25 2XL–3XL). Proceeds benefit the Conway Booste
- r Club.
-END:VEVENT
-BEGIN:VEVENT
 UID:newsletter-223e2645d9a8@calendar-sync.conwaypto.org
 DTSTAMP:20261130T000000Z
 DTSTART;VALUE=DATE:20261130
@@ -53,7 +41,8 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:Angel Paws Spirit Week: Sock It to Me\, Santa!
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Wear crazy Christmas socks and bring hats and gloves.
+DESCRIPTION:Wear crazy Christmas socks and bring hats and gloves for the A
+ ngel Paws donation drive.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-7e98bbe4605d@calendar-sync.conwaypto.org
@@ -63,8 +52,8 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:Young Democrats Meeting
 CATEGORIES:ACTIVITIES
 LOCATION:Room 263
-DESCRIPTION:The Young Democrats will meet during 1st and 2nd lunches with 
- a guest speaker.
+DESCRIPTION:The Young Democrats meet during 1st and 2nd lunches with a gue
+ st speaker.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-46e4040120e4@calendar-sync.conwaypto.org
@@ -74,7 +63,8 @@ DTEND;VALUE=DATE:20261203
 SUMMARY:Angel Paws Spirit Week: Have a "Blue" Christmas
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Wear Conway Blue and bring deodorant or face wash.
+DESCRIPTION:Wear Conway Blue and bring deodorant or face wash for the Ange
+ l Paws donation drive.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-a4c29c685c8a@calendar-sync.conwaypto.org
@@ -85,7 +75,7 @@ SUMMARY:Angel Paws Spirit Week: Ugly Sweater Party
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Wear your ugliest Christmas sweater and bring toothbrushes and
-  toothpaste.
+  toothpaste for the Angel Paws donation drive.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-55fdda4c7ba7@calendar-sync.conwaypto.org

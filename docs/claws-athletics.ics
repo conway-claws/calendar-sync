@@ -23,71 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-198a68a9dbf2@calendar-sync.conwaypto.org
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=America/Chicago:20261121T160000
-DTEND;TZID=America/Chicago:20261121T170000
-SUMMARY:Girls Basketball All-Star Game (Braylin & Addy)
-CATEGORIES:ATHLETICS
-LOCATION:Greenbrier High School
-DESCRIPTION:Two Lady Cats play in the All-Star game at Greenbrier High Sch
- ool. Tickets available via GoFan\; live stream on Greenbrier's Hudl Fan.
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-48965f2d60ed@calendar-sync.conwaypto.org
-DTSTAMP:20261121T000000Z
-DTSTART;TZID=America/Chicago:20261121T160000
-DTEND;TZID=America/Chicago:20261121T170000
-SUMMARY:2026 ARVCA All Star Game
-CATEGORIES:ATHLETICS
-LOCATION:Greenbrier High School
-DESCRIPTION:Addy Swindle of Conway High School was selected to play in the
-  2026 ARVCA All Star game.
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-85d37fe343cd@calendar-sync.conwaypto.org
-DTSTAMP:20261121T000000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Football Playoff Game vs. Bentonville West
-CATEGORIES:ATHLETICS
-DESCRIPTION:Playoff matchup against Bentonville West. This is an AAA event
-  — employee badges\, season passes\, and all-sport passes are not accept
- ed\; tickets must be purchased online. Live stream available via YouTube.
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-908dbdf67485@calendar-sync.conwaypto.org
-DTSTAMP:20261121T000000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Lady Cat Invitational - Day 3
-CATEGORIES:ATHLETICS
-DESCRIPTION:Final day of the Lady Cat Invitational basketball tournament p
- resented by Dyermark. Tickets available via GoFan.
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-93b4906b8d11@calendar-sync.conwaypto.org
-DTSTAMP:20261121T000000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Boys Basketball (JV/V) at Russellville
-CATEGORIES:ATHLETICS
-LOCATION:Russellville
-DESCRIPTION:JV and Varsity boys basketball games at Russellville\; tickets
-  available online through GoFan.
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-dd8f12d08e92@calendar-sync.conwaypto.org
-DTSTAMP:20261121T000000Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Swim and Dive Home Meet
-CATEGORIES:ATHLETICS
-LOCATION:Hendrix College
-DESCRIPTION:Big home meet for the Conway swim and dive teams — come out 
- and support.
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-49600ec601f8@calendar-sync.conwaypto.org
 DTSTAMP:20261122T000000Z
 DTSTART;TZID=America/Chicago:20261122T160000
@@ -97,6 +32,19 @@ CATEGORIES:ATHLETICS
 LOCATION:Greenbrier High School
 DESCRIPTION:Two Lady Cats\, Braylin and Addy\, play in the All Star game. 
  Tickets via GoFan\; live stream on Greenbrier's Hudl Fan.
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-587c8cda97ec@calendar-sync.conwaypto.org
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=America/Chicago:20261123T190000
+DTEND;TZID=America/Chicago:20261123T200000
+SUMMARY:Football Playoff Game vs. Bentonville West
+CATEGORIES:ATHLETICS
+LOCATION:Conway High School Stadium
+DESCRIPTION:Wampus Cats football playoff matchup against Bentonville West.
+  This is an AAA event — employee badges\, season passes\, and all-sport 
+ passes are not accepted\; tickets must be purchased online (gofan.co/event
+ /7077162). Only AAA passes are valid for entry.
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-6a4d95a46821@calendar-sync.conwaypto.org
@@ -109,6 +57,17 @@ LOCATION:Greenbrier High School
 DESCRIPTION:Two Lady Cats\, Braylin and Addy\, play in the All Star game a
  t Greenbrier High School. Tickets available via GoFan\; live stream on Gre
  enbrier's Hudl Fan.
+END:VEVENT
+BEGIN:VEVENT
+UID:rss-bcc2b2f763a8@calendar-sync.conwaypto.org
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=America/Chicago:20261123T123000
+DTEND;TZID=America/Chicago:20261123T133000
+SUMMARY:Boys Basketball vs. Pulaski Academy
+CATEGORIES:ATHLETICS
+LOCATION:Little Rock Christian HS
+DESCRIPTION:Conway basketball game day matchup against Pulaski Academy at 
+ Little Rock Christian High School.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-96f23bda67a7@calendar-sync.conwaypto.org
@@ -129,6 +88,18 @@ SUMMARY:Boys Varsity Basketball at Har-Ber
 CATEGORIES:ATHLETICS
 LOCATION:Har-Ber HS
 DESCRIPTION:Boys Varsity Basketball at Har-Ber
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-b3553bf83fbf@calendar-sync.conwaypto.org
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=America/Chicago:20261124T160000
+DTEND;TZID=America/Chicago:20261124T170000
+SUMMARY:Lady Cats All Star Game (Braylin & Addy)
+CATEGORIES:ATHLETICS
+LOCATION:Greenbrier High School
+DESCRIPTION:Two Conway Lady Cats\, Braylin and Addy\, play in the All Star
+  game at Greenbrier High School. Tickets available via GoFan\; live stream
+  on Greenbrier's Hudl Fan.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-f8745c812ccb@calendar-sync.conwaypto.org
@@ -469,7 +440,8 @@ SUMMARY:Boys Soccer Tryouts
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School field
 DESCRIPTION:Boys soccer tryouts. Student-athletes must have a physical upl
- oaded to DragonFly. Questions: pagem@conwayschools.info.
+ oaded to DragonFly before attending. Contact pagem@conwayschools.info with
+  questions.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0588200f022a@calendar-sync.conwaypto.org
@@ -500,7 +472,8 @@ SUMMARY:Boys Soccer Tryouts
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School field
 DESCRIPTION:Boys soccer tryouts. Student-athletes must have a physical upl
- oaded to DragonFly. Questions: pagem@conwayschools.info.
+ oaded to DragonFly before attending. Contact pagem@conwayschools.info with
+  questions.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-a0bda2a38f14@calendar-sync.conwaypto.org
@@ -1645,5 +1618,16 @@ SUMMARY:Boys JV Basketball vs Little Rock Central
 CATEGORIES:ATHLETICS
 LOCATION:CHS PE Gym
 DESCRIPTION:Boys JV Basketball vs Little Rock Central
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-a5e48d9d1c64@calendar-sync.conwaypto.org
+DTSTAMP:20270221T000000Z
+DTSTART;TZID=America/Chicago:20270221T140000
+DTEND;TZID=America/Chicago:20270221T170000
+SUMMARY:Girls Varsity Softball vs Blue Vs. White Game Intersquad Scrimmage
+CATEGORIES:ATHLETICS
+LOCATION:Lady Cat Field
+DESCRIPTION:Girls Varsity Softball vs Blue Vs. White Game Intersquad Scrim
+ mage
 END:VEVENT
 END:VCALENDAR

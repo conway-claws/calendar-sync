@@ -23,6 +23,18 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:rss-419ca87cb1bb@calendar-sync.conwaypto.org
+DTSTAMP:20261123T000000Z
+DTSTART;TZID=America/Chicago:20261123T174500
+DTEND;TZID=America/Chicago:20261123T184500
+SUMMARY:CHS Marching Band at Football Playoff Game
+CATEGORIES:ARTS
+LOCATION:Conway High School Courtyard
+DESCRIPTION:The Conway High School Marching Band warms up at 5:45 p.m. in 
+ the CHS Courtyard and marches into the stadium at 6:15 p.m. to support the
+  football team's playoff game against Bentonville West.
+END:VEVENT
+BEGIN:VEVENT
 UID:orchestra-19dae3c61c96@calendar-sync.conwaypto.org
 DTSTAMP:20261202T000000Z
 DTSTART;TZID=America/Chicago:20261202T154500
