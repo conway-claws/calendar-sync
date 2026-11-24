@@ -23,6 +23,19 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:feed-a3ac85d831bc@calendar-sync.conwaypto.org
+DTSTAMP:20261124T000000Z
+DTSTART;TZID=America/Chicago:20261124T170000
+DTEND;TZID=America/Chicago:20261124T180000
+SUMMARY:Community Pep Rally & Conference Champs T-Shirt Sales
+CATEGORIES:ACTIVITIES
+LOCATION:Fieldhouse
+DESCRIPTION:Community Pep Rally at the Fieldhouse. 2026 Conference Champs 
+ T-shirts available for purchase (Adult S–XL $20\, 2XL–3XL $25) while s
+ upplies last\, also sold Friday night at the game. Proceeds benefit the Co
+ nway Booster Club.
+END:VEVENT
+BEGIN:VEVENT
 UID:newsletter-223e2645d9a8@calendar-sync.conwaypto.org
 DTSTAMP:20261130T000000Z
 DTSTART;VALUE=DATE:20261130
@@ -41,8 +54,8 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:Angel Paws Spirit Week: Sock It to Me\, Santa!
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Wear crazy Christmas socks and bring hats and gloves for the A
- ngel Paws donation drive.
+DESCRIPTION:Wear crazy Christmas socks and bring hats and gloves to donate
+ .
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-7e98bbe4605d@calendar-sync.conwaypto.org
@@ -63,8 +76,7 @@ DTEND;VALUE=DATE:20261203
 SUMMARY:Angel Paws Spirit Week: Have a "Blue" Christmas
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Wear Conway Blue and bring deodorant or face wash for the Ange
- l Paws donation drive.
+DESCRIPTION:Wear Conway Blue and bring deodorant or face wash to donate.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-a4c29c685c8a@calendar-sync.conwaypto.org
@@ -75,7 +87,7 @@ SUMMARY:Angel Paws Spirit Week: Ugly Sweater Party
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Wear your ugliest Christmas sweater and bring toothbrushes and
-  toothpaste for the Angel Paws donation drive.
+  toothpaste to donate.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-55fdda4c7ba7@calendar-sync.conwaypto.org
