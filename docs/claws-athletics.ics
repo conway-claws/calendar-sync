@@ -23,62 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:rss-587c8cda97ec@calendar-sync.conwaypto.org
-DTSTAMP:20261123T000000Z
-DTSTART;TZID=America/Chicago:20261123T190000
-DTEND;TZID=America/Chicago:20261123T200000
-SUMMARY:Football Playoff Game vs. Bentonville West
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School Stadium
-DESCRIPTION:Wampus Cats football playoff matchup against Bentonville West.
-  This is an AAA event — employee badges\, season passes\, and all-sport 
- passes are not accepted\; tickets must be purchased online (gofan.co/event
- /7077162). Only AAA passes are valid for entry.
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-6a4d95a46821@calendar-sync.conwaypto.org
-DTSTAMP:20261123T000000Z
-DTSTART;TZID=America/Chicago:20261123T160000
-DTEND;TZID=America/Chicago:20261123T170000
-SUMMARY:Lady Cats All Star Game
-CATEGORIES:ATHLETICS
-LOCATION:Greenbrier High School
-DESCRIPTION:Two Lady Cats\, Braylin and Addy\, play in the All Star game a
- t Greenbrier High School. Tickets available via GoFan\; live stream on Gre
- enbrier's Hudl Fan.
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-bcc2b2f763a8@calendar-sync.conwaypto.org
-DTSTAMP:20261123T000000Z
-DTSTART;TZID=America/Chicago:20261123T123000
-DTEND;TZID=America/Chicago:20261123T133000
-SUMMARY:Boys Basketball vs. Pulaski Academy
-CATEGORIES:ATHLETICS
-LOCATION:Little Rock Christian HS
-DESCRIPTION:Conway basketball game day matchup against Pulaski Academy at 
- Little Rock Christian High School.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-96f23bda67a7@calendar-sync.conwaypto.org
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=America/Chicago:20261124T163000
-DTEND;TZID=America/Chicago:20261124T193000
-SUMMARY:Boys JV Basketball at Har-Ber
-CATEGORIES:ATHLETICS
-LOCATION:Har-Ber HS
-DESCRIPTION:Boys JV Basketball at Har-Ber
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-a5d9557e3062@calendar-sync.conwaypto.org
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=America/Chicago:20261124T173000
-DTEND;TZID=America/Chicago:20261124T203000
-SUMMARY:Boys Varsity Basketball at Har-Ber
-CATEGORIES:ATHLETICS
-LOCATION:Har-Ber HS
-DESCRIPTION:Boys Varsity Basketball at Har-Ber
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-1ff98deafe69@calendar-sync.conwaypto.org
 DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261124
@@ -134,6 +78,18 @@ LOCATION:Greenbrier High School
 DESCRIPTION:Two Lady Cats\, Braylin and Addy\, play in the All Star game. 
  Tickets: https://gofan.co/event/7062592?schoolId=AR101395. Live stream on 
  Greenbrier's Hudl Fan.
+END:VEVENT
+BEGIN:VEVENT
+UID:feed-9ccca715dbe6@calendar-sync.conwaypto.org
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=America/Chicago:20261126T160000
+DTEND;TZID=America/Chicago:20261126T170000
+SUMMARY:Lady Cats All Star Game (Braylin & Addy)
+CATEGORIES:ATHLETICS
+LOCATION:Greenbrier High School
+DESCRIPTION:Two Conway Lady Cats play in the All Star game at Greenbrier H
+ igh School. Tickets available via GoFan\; live stream on Greenbrier's Hudl
+  Fan.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-f8745c812ccb@calendar-sync.conwaypto.org
@@ -1663,5 +1619,75 @@ CATEGORIES:ATHLETICS
 LOCATION:Lady Cat Field
 DESCRIPTION:Girls Varsity Softball vs Blue Vs. White Game Intersquad Scrim
  mage
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-2717a05dc706@calendar-sync.conwaypto.org
+DTSTAMP:20270223T000000Z
+DTSTART;TZID=America/Chicago:20270223T164500
+DTEND;TZID=America/Chicago:20270223T194500
+SUMMARY:Girls Varsity Basketball at Jonesboro
+CATEGORIES:ATHLETICS
+LOCATION:Jonesboro High School
+DESCRIPTION:Girls Varsity Basketball at Jonesboro
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-2b9ef113d29c@calendar-sync.conwaypto.org
+DTSTAMP:20270223T000000Z
+DTSTART;TZID=America/Chicago:20270223T170000
+DTEND;TZID=America/Chicago:20270223T200000
+SUMMARY:Girls Varsity Soccer at Springdale Har-Ber ^AAA Benefit Game
+CATEGORIES:ATHLETICS
+LOCATION:Har-Ber High School
+DESCRIPTION:Girls Varsity Soccer at Springdale Har-Ber ^AAA Benefit Game
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-948fffcb9159@calendar-sync.conwaypto.org
+DTSTAMP:20270223T000000Z
+DTSTART;TZID=America/Chicago:20270223T193000
+DTEND;TZID=America/Chicago:20270223T223000
+SUMMARY:Boys Varsity Basketball at Jonesboro
+CATEGORIES:ATHLETICS
+LOCATION:Jonesboro HS
+DESCRIPTION:Boys Varsity Basketball at Jonesboro
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-9a6d63df234e@calendar-sync.conwaypto.org
+DTSTAMP:20270223T000000Z
+DTSTART;TZID=America/Chicago:20270223T164500
+DTEND;TZID=America/Chicago:20270223T194500
+SUMMARY:Boys JV Basketball at Jonesboro
+CATEGORIES:ATHLETICS
+LOCATION:Jonesboro HS
+DESCRIPTION:Boys JV Basketball at Jonesboro
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-a22a7d9970d5@calendar-sync.conwaypto.org
+DTSTAMP:20270223T000000Z
+DTSTART;TZID=America/Chicago:20270223T170000
+DTEND;TZID=America/Chicago:20270223T200000
+SUMMARY:Boys Varsity Baseball vs Sylvan Hills
+CATEGORIES:ATHLETICS
+LOCATION:Conway
+DESCRIPTION:Boys Varsity Baseball vs Sylvan Hills
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-a5969755e26e@calendar-sync.conwaypto.org
+DTSTAMP:20270223T000000Z
+DTSTART;TZID=America/Chicago:20270223T183000
+DTEND;TZID=America/Chicago:20270223T213000
+SUMMARY:Boys Varsity Soccer at Har-Ber VG/VB
+CATEGORIES:ATHLETICS
+LOCATION:Har-Ber High School
+DESCRIPTION:Boys Varsity Soccer at Har-Ber VG/VB
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-b27529efd182@calendar-sync.conwaypto.org
+DTSTAMP:20270223T000000Z
+DTSTART;TZID=America/Chicago:20270223T164500
+DTEND;TZID=America/Chicago:20270223T194500
+SUMMARY:Girls JV Basketball at Jonesboro
+CATEGORIES:ATHLETICS
+LOCATION:Jonesboro HS
+DESCRIPTION:Girls JV Basketball at Jonesboro
 END:VEVENT
 END:VCALENDAR

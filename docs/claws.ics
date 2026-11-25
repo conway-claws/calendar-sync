@@ -23,82 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ical-b5c0750885eb@calendar-sync.conwaypto.org
-DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261128
-SUMMARY:Thanksgiving Break (Students & Staff Dismissed)
-CATEGORIES:ACADEMICS
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-419ca87cb1bb@calendar-sync.conwaypto.org
-DTSTAMP:20261123T000000Z
-DTSTART;TZID=America/Chicago:20261123T174500
-DTEND;TZID=America/Chicago:20261123T184500
-SUMMARY:CHS Marching Band at Football Playoff Game
-CATEGORIES:ARTS
-LOCATION:Conway High School Courtyard
-DESCRIPTION:The Conway High School Marching Band warms up at 5:45 p.m. in 
- the CHS Courtyard and marches into the stadium at 6:15 p.m. to support the
-  football team's playoff game against Bentonville West.
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-587c8cda97ec@calendar-sync.conwaypto.org
-DTSTAMP:20261123T000000Z
-DTSTART;TZID=America/Chicago:20261123T190000
-DTEND;TZID=America/Chicago:20261123T200000
-SUMMARY:Football Playoff Game vs. Bentonville West
-CATEGORIES:ATHLETICS
-LOCATION:Conway High School Stadium
-DESCRIPTION:Wampus Cats football playoff matchup against Bentonville West.
-  This is an AAA event — employee badges\, season passes\, and all-sport 
- passes are not accepted\; tickets must be purchased online (gofan.co/event
- /7077162). Only AAA passes are valid for entry.
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-6a4d95a46821@calendar-sync.conwaypto.org
-DTSTAMP:20261123T000000Z
-DTSTART;TZID=America/Chicago:20261123T160000
-DTEND;TZID=America/Chicago:20261123T170000
-SUMMARY:Lady Cats All Star Game
-CATEGORIES:ATHLETICS
-LOCATION:Greenbrier High School
-DESCRIPTION:Two Lady Cats\, Braylin and Addy\, play in the All Star game a
- t Greenbrier High School. Tickets available via GoFan\; live stream on Gre
- enbrier's Hudl Fan.
-END:VEVENT
-BEGIN:VEVENT
-UID:rss-bcc2b2f763a8@calendar-sync.conwaypto.org
-DTSTAMP:20261123T000000Z
-DTSTART;TZID=America/Chicago:20261123T123000
-DTEND;TZID=America/Chicago:20261123T133000
-SUMMARY:Boys Basketball vs. Pulaski Academy
-CATEGORIES:ATHLETICS
-LOCATION:Little Rock Christian HS
-DESCRIPTION:Conway basketball game day matchup against Pulaski Academy at 
- Little Rock Christian High School.
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-96f23bda67a7@calendar-sync.conwaypto.org
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=America/Chicago:20261124T163000
-DTEND;TZID=America/Chicago:20261124T193000
-SUMMARY:Boys JV Basketball at Har-Ber
-CATEGORIES:ATHLETICS
-LOCATION:Har-Ber HS
-DESCRIPTION:Boys JV Basketball at Har-Ber
-END:VEVENT
-BEGIN:VEVENT
-UID:athletics-a5d9557e3062@calendar-sync.conwaypto.org
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=America/Chicago:20261124T173000
-DTEND;TZID=America/Chicago:20261124T203000
-SUMMARY:Boys Varsity Basketball at Har-Ber
-CATEGORIES:ATHLETICS
-LOCATION:Har-Ber HS
-DESCRIPTION:Boys Varsity Basketball at Har-Ber
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-1ff98deafe69@calendar-sync.conwaypto.org
 DTSTAMP:20261124T000000Z
 DTSTART;VALUE=DATE:20261124
@@ -169,6 +93,18 @@ DESCRIPTION:Two Lady Cats\, Braylin and Addy\, play in the All Star game.
  Greenbrier's Hudl Fan.
 END:VEVENT
 BEGIN:VEVENT
+UID:feed-9ccca715dbe6@calendar-sync.conwaypto.org
+DTSTAMP:20261126T000000Z
+DTSTART;TZID=America/Chicago:20261126T160000
+DTEND;TZID=America/Chicago:20261126T170000
+SUMMARY:Lady Cats All Star Game (Braylin & Addy)
+CATEGORIES:ATHLETICS
+LOCATION:Greenbrier High School
+DESCRIPTION:Two Conway Lady Cats play in the All Star game at Greenbrier H
+ igh School. Tickets available via GoFan\; live stream on Greenbrier's Hudl
+  Fan.
+END:VEVENT
+BEGIN:VEVENT
 UID:athletics-f8745c812ccb@calendar-sync.conwaypto.org
 DTSTAMP:20261130T000000Z
 DTSTART;TZID=America/Chicago:20261130T170000
@@ -194,11 +130,11 @@ UID:newsletter-456efcf3acc8@calendar-sync.conwaypto.org
 DTSTAMP:20261130T000000Z
 DTSTART;TZID=America/Chicago:20261130T163000
 DTEND;TZID=America/Chicago:20261130T173000
-SUMMARY:ACT Prep Class (English and Reading)
+SUMMARY:ACT Prep Class – English & Reading
 CATEGORIES:ACADEMICS
-LOCATION:Room 114
-DESCRIPTION:ACT Prep Class with Mr. Johnson focusing on English and Readin
- g.
+LOCATION:Room 114 (Mr. Johnson)
+DESCRIPTION:ACT Prep Class focusing on English and Reading with Mr. Johnso
+ n.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-2ae92d29c996@calendar-sync.conwaypto.org
@@ -248,8 +184,8 @@ DTEND;VALUE=DATE:20261202
 SUMMARY:Angel Paws Spirit Week: Sock It to Me\, Santa!
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Wear crazy Christmas socks and bring hats and gloves to donate
- .
+DESCRIPTION:Wear crazy Christmas socks and bring hats and gloves for the A
+ ngel Paws donation drive.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-7e98bbe4605d@calendar-sync.conwaypto.org
@@ -271,7 +207,7 @@ SUMMARY:Deadline: Jostens Paper Order Form Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Last day to place a Jostens order in person or turn in paper o
- rder forms for caps\, gowns\, and graduation items.
+ rder forms for caps\, gowns and graduation items.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-46e4040120e4@calendar-sync.conwaypto.org
@@ -281,7 +217,8 @@ DTEND;VALUE=DATE:20261203
 SUMMARY:Angel Paws Spirit Week: Have a "Blue" Christmas
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Wear Conway Blue and bring deodorant or face wash to donate.
+DESCRIPTION:Wear Conway Blue and bring deodorant or face wash for the Ange
+ l Paws donation drive.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-19dae3c61c96@calendar-sync.conwaypto.org
@@ -359,7 +296,7 @@ SUMMARY:Angel Paws Spirit Week: Ugly Sweater Party
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Wear your ugliest Christmas sweater and bring toothbrushes and
-  toothpaste to donate.
+  toothpaste for the Angel Paws donation drive.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0345fe46c4e5@calendar-sync.conwaypto.org
@@ -403,7 +340,7 @@ SUMMARY:Angel Paws Spirit Week: Christmas with the Cats
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Wear your Caring Cat shirt and Santa hat and bring gifts. Last
-  day to pick up a paw!
+  day to pick up a paw.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-b749dd950952@calendar-sync.conwaypto.org
@@ -412,8 +349,9 @@ DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Deadline: Free ACT Prep Day Registration Deadline
 CATEGORIES:ACADEMICS
-DESCRIPTION:Registration deadline for the free ACT Prep Day for grades 10-
- 12. Limited to 50 students\; register via the QR code on the flyer.
+LOCATION:Conway High School
+DESCRIPTION:Deadline to register for the free ACT Prep Day for grades 10-1
+ 2. Limited to 50 students\; registration does not guarantee a seat.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-385dae6e649c@calendar-sync.conwaypto.org
@@ -588,9 +526,9 @@ DTEND;TZID=America/Chicago:20261209T143000
 SUMMARY:Free ACT Prep Day
 CATEGORIES:ACADEMICS
 LOCATION:Arch Ford Education Service Cooperative\, Plumerville\, AR
-DESCRIPTION:Free ACT preparation provided by Cantrell & Waller Preparatory
-  Services for CHS students in grades 10-12. Transportation provided\; stud
- ents bring their own lunch.
+DESCRIPTION:Free ACT preparation for grades 10-12 provided by Cantrell & W
+ aller Preparatory Services. Transportation provided\; students bring their
+  own lunch.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-c4dc5bd3ee8b@calendar-sync.conwaypto.org
@@ -600,8 +538,8 @@ DTEND;VALUE=DATE:20261210
 SUMMARY:Deadline: Last Day to Turn in Doctor's Notes for Exam Exemption
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Final day to turn in doctor's notes toward semester exam exemp
- tion status.
+DESCRIPTION:Last day to turn in doctor's notes toward exam exemption statu
+ s.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-6dc2ef650520@calendar-sync.conwaypto.org
@@ -665,7 +603,7 @@ UID:newsletter-128e6ef1ec3b@calendar-sync.conwaypto.org
 DTSTAMP:20261210T000000Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
-SUMMARY:Deadline: Key Club T-Shirt Donation Deadline
+SUMMARY:Deadline: Key Club T-Shirt Collection Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Room 266 (Lancaster)
 DESCRIPTION:Last day to drop off old t-shirts for Key Club's project with 
@@ -845,7 +783,7 @@ UID:newsletter-de8a4d654c99@calendar-sync.conwaypto.org
 DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Fall Semester Exams - Day 1
+SUMMARY:Fall Semester Exams (Day 1)
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Semester exam day with a modified bell schedule (TBD).
@@ -875,7 +813,7 @@ UID:newsletter-5a6f5007818b@calendar-sync.conwaypto.org
 DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:Fall Semester Exams - Day 2
+SUMMARY:Fall Semester Exams (Day 2)
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Semester exam day with a modified bell schedule (TBD).
@@ -2307,5 +2245,88 @@ CATEGORIES:ATHLETICS
 LOCATION:Lady Cat Field
 DESCRIPTION:Girls Varsity Softball vs Blue Vs. White Game Intersquad Scrim
  mage
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-2717a05dc706@calendar-sync.conwaypto.org
+DTSTAMP:20270223T000000Z
+DTSTART;TZID=America/Chicago:20270223T164500
+DTEND;TZID=America/Chicago:20270223T194500
+SUMMARY:Girls Varsity Basketball at Jonesboro
+CATEGORIES:ATHLETICS
+LOCATION:Jonesboro High School
+DESCRIPTION:Girls Varsity Basketball at Jonesboro
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-2b9ef113d29c@calendar-sync.conwaypto.org
+DTSTAMP:20270223T000000Z
+DTSTART;TZID=America/Chicago:20270223T170000
+DTEND;TZID=America/Chicago:20270223T200000
+SUMMARY:Girls Varsity Soccer at Springdale Har-Ber ^AAA Benefit Game
+CATEGORIES:ATHLETICS
+LOCATION:Har-Ber High School
+DESCRIPTION:Girls Varsity Soccer at Springdale Har-Ber ^AAA Benefit Game
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-948fffcb9159@calendar-sync.conwaypto.org
+DTSTAMP:20270223T000000Z
+DTSTART;TZID=America/Chicago:20270223T193000
+DTEND;TZID=America/Chicago:20270223T223000
+SUMMARY:Boys Varsity Basketball at Jonesboro
+CATEGORIES:ATHLETICS
+LOCATION:Jonesboro HS
+DESCRIPTION:Boys Varsity Basketball at Jonesboro
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-9a6d63df234e@calendar-sync.conwaypto.org
+DTSTAMP:20270223T000000Z
+DTSTART;TZID=America/Chicago:20270223T164500
+DTEND;TZID=America/Chicago:20270223T194500
+SUMMARY:Boys JV Basketball at Jonesboro
+CATEGORIES:ATHLETICS
+LOCATION:Jonesboro HS
+DESCRIPTION:Boys JV Basketball at Jonesboro
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-a22a7d9970d5@calendar-sync.conwaypto.org
+DTSTAMP:20270223T000000Z
+DTSTART;TZID=America/Chicago:20270223T170000
+DTEND;TZID=America/Chicago:20270223T200000
+SUMMARY:Boys Varsity Baseball vs Sylvan Hills
+CATEGORIES:ATHLETICS
+LOCATION:Conway
+DESCRIPTION:Boys Varsity Baseball vs Sylvan Hills
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-a5969755e26e@calendar-sync.conwaypto.org
+DTSTAMP:20270223T000000Z
+DTSTART;TZID=America/Chicago:20270223T183000
+DTEND;TZID=America/Chicago:20270223T213000
+SUMMARY:Boys Varsity Soccer at Har-Ber VG/VB
+CATEGORIES:ATHLETICS
+LOCATION:Har-Ber High School
+DESCRIPTION:Boys Varsity Soccer at Har-Ber VG/VB
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-b27529efd182@calendar-sync.conwaypto.org
+DTSTAMP:20270223T000000Z
+DTSTART;TZID=America/Chicago:20270223T164500
+DTEND;TZID=America/Chicago:20270223T194500
+SUMMARY:Girls JV Basketball at Jonesboro
+CATEGORIES:ATHLETICS
+LOCATION:Jonesboro HS
+DESCRIPTION:Girls JV Basketball at Jonesboro
+END:VEVENT
+BEGIN:VEVENT
+UID:ical-b73b206b7015@calendar-sync.conwaypto.org
+DTSTAMP:20270223T000000Z
+DTSTART;TZID=America/Chicago:20270223T080000
+DTEND;TZID=America/Chicago:20270223T153500
+SUMMARY:ACT Testing
+CATEGORIES:ACADEMICS
+DESCRIPTION:<p>All 11th grade students test\; unless the parent declines t
+ esting</p><p>All non-testing Sophomores and Seniors have the opportunity t
+ o have a college visit day\, do community service (family choice)\, or att
+ end AP Test Review sessions on campus. (Excused absence for NON Testing st
+ udents)</p>
 END:VEVENT
 END:VCALENDAR
