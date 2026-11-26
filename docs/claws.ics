@@ -23,64 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-1ff98deafe69@calendar-sync.conwaypto.org
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Wampus Cats at Springdale Har-Ber
-CATEGORIES:ATHLETICS
-LOCATION:Springdale Har-Ber High School
-DESCRIPTION:Conway Wampus Cats travel to Springdale Har-Ber for a road gam
- e.
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-39a685fbe0f4@calendar-sync.conwaypto.org
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Football Playoff Game (AAA Ticketed Event)
-CATEGORIES:ATHLETICS
-DESCRIPTION:Football playoff game is an AAA event. Employee badges\, seaso
- n passes\, and all-sport passes are not accepted\; only AAA passes are val
- id. Tickets must be purchased online: https://gofan.co/event/7077162
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-63a4f11d0938@calendar-sync.conwaypto.org
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Playoff Match vs. Bentonville West
-CATEGORIES:ATHLETICS
-DESCRIPTION:Playoff matchup against Bentonville West. A live stream is ava
- ilable for those who cannot attend: https://youtube.com/live/3CWBhdW79NA?f
- eature=share
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-a3ac85d831bc@calendar-sync.conwaypto.org
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=America/Chicago:20261124T170000
-DTEND;TZID=America/Chicago:20261124T180000
-SUMMARY:Community Pep Rally & Conference Champs T-Shirt Sales
-CATEGORIES:ACTIVITIES
-LOCATION:Fieldhouse
-DESCRIPTION:Community Pep Rally at the Fieldhouse. 2026 Conference Champs 
- T-shirts available for purchase (Adult S–XL $20\, 2XL–3XL $25) while s
- upplies last\, also sold Friday night at the game. Proceeds benefit the Co
- nway Booster Club.
-END:VEVENT
-BEGIN:VEVENT
-UID:feed-b3553bf83fbf@calendar-sync.conwaypto.org
-DTSTAMP:20261124T000000Z
-DTSTART;TZID=America/Chicago:20261124T160000
-DTEND;TZID=America/Chicago:20261124T170000
-SUMMARY:Lady Cats All Star Game (Braylin & Addy)
-CATEGORIES:ATHLETICS
-LOCATION:Greenbrier High School
-DESCRIPTION:Two Conway Lady Cats\, Braylin and Addy\, play in the All Star
-  game at Greenbrier High School. Tickets available via GoFan\; live stream
-  on Greenbrier's Hudl Fan.
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-9542d9e5901a@calendar-sync.conwaypto.org
 DTSTAMP:20261125T000000Z
 DTSTART;TZID=America/Chicago:20261125T160000
@@ -130,9 +72,9 @@ UID:newsletter-456efcf3acc8@calendar-sync.conwaypto.org
 DTSTAMP:20261130T000000Z
 DTSTART;TZID=America/Chicago:20261130T163000
 DTEND;TZID=America/Chicago:20261130T173000
-SUMMARY:ACT Prep Class – English & Reading
+SUMMARY:ACT Prep Class - English and Reading
 CATEGORIES:ACADEMICS
-LOCATION:Room 114 (Mr. Johnson)
+LOCATION:Room 114\, Conway High School
 DESCRIPTION:ACT Prep Class focusing on English and Reading with Mr. Johnso
  n.
 END:VEVENT
@@ -194,9 +136,9 @@ DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Young Democrats Meeting
 CATEGORIES:ACTIVITIES
-LOCATION:Room 263
-DESCRIPTION:The Young Democrats meet during 1st and 2nd lunches with a gue
- st speaker.
+LOCATION:Room 263\, Conway High School
+DESCRIPTION:Young Democrats will meet during 1st and 2nd lunches with a gu
+ est speaker.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-d97f32cbc139@calendar-sync.conwaypto.org
@@ -207,7 +149,7 @@ SUMMARY:Deadline: Jostens Paper Order Form Deadline
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
 DESCRIPTION:Last day to place a Jostens order in person or turn in paper o
- rder forms for caps\, gowns and graduation items.
+ rder forms for caps\, gowns\, and graduation items.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-46e4040120e4@calendar-sync.conwaypto.org
@@ -296,7 +238,7 @@ SUMMARY:Angel Paws Spirit Week: Ugly Sweater Party
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Wear your ugliest Christmas sweater and bring toothbrushes and
-  toothpaste for the Angel Paws donation drive.
+  toothpaste.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0345fe46c4e5@calendar-sync.conwaypto.org
@@ -340,7 +282,7 @@ SUMMARY:Angel Paws Spirit Week: Christmas with the Cats
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Wear your Caring Cat shirt and Santa hat and bring gifts. Last
-  day to pick up a paw.
+  day to pick up a paw!
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-b749dd950952@calendar-sync.conwaypto.org
@@ -349,9 +291,9 @@ DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:Deadline: Free ACT Prep Day Registration Deadline
 CATEGORIES:ACADEMICS
-LOCATION:Conway High School
-DESCRIPTION:Deadline to register for the free ACT Prep Day for grades 10-1
- 2. Limited to 50 students\; registration does not guarantee a seat.
+DESCRIPTION:Deadline to register for the free ACT Prep Day for CHS student
+ s in grades 10-12. Scan the QR code on the flyer to register\; limited to 
+ 50 students.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-385dae6e649c@calendar-sync.conwaypto.org
@@ -526,8 +468,8 @@ DTEND;TZID=America/Chicago:20261209T143000
 SUMMARY:Free ACT Prep Day
 CATEGORIES:ACADEMICS
 LOCATION:Arch Ford Education Service Cooperative\, Plumerville\, AR
-DESCRIPTION:Free ACT preparation for grades 10-12 provided by Cantrell & W
- aller Preparatory Services. Transportation provided\; students bring their
+DESCRIPTION:Free ACT preparation provided by Cantrell & Waller Preparatory
+  Services for grades 10-12. Transportation provided\; students bring their
   own lunch.
 END:VEVENT
 BEGIN:VEVENT
@@ -605,9 +547,9 @@ DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Deadline: Key Club T-Shirt Collection Deadline
 CATEGORIES:ACADEMICS
-LOCATION:Room 266 (Lancaster)
-DESCRIPTION:Last day to drop off old t-shirts for Key Club's project with 
- the Faulkner County Animal Shelter.
+LOCATION:Room 266 (Lancaster)\, Conway High School
+DESCRIPTION:Drop off old t-shirts for Key Club's project with the Faulkner
+  County Animal Shelter.
 END:VEVENT
 BEGIN:VEVENT
 UID:orchestra-7fd7e8ff2518@calendar-sync.conwaypto.org
@@ -783,10 +725,10 @@ UID:newsletter-de8a4d654c99@calendar-sync.conwaypto.org
 DTSTAMP:20261215T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
-SUMMARY:Fall Semester Exams (Day 1)
+SUMMARY:Fall Semester Exams
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day with a modified bell schedule (TBD).
+DESCRIPTION:Semester exam day\; modified bell schedule TBD.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-fa88d750d2a3@calendar-sync.conwaypto.org
@@ -813,10 +755,10 @@ UID:newsletter-5a6f5007818b@calendar-sync.conwaypto.org
 DTSTAMP:20261216T000000Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
-SUMMARY:Fall Semester Exams (Day 2)
+SUMMARY:Fall Semester Exams
 CATEGORIES:ACADEMICS
 LOCATION:Conway High School
-DESCRIPTION:Semester exam day with a modified bell schedule (TBD).
+DESCRIPTION:Semester exam day\; modified bell schedule TBD.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-a0bda2a38f14@calendar-sync.conwaypto.org
@@ -2328,5 +2270,21 @@ DESCRIPTION:<p>All 11th grade students test\; unless the parent declines t
  o have a college visit day\, do community service (family choice)\, or att
  end AP Test Review sessions on campus. (Excused absence for NON Testing st
  udents)</p>
+END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-51fa1c0a282e@calendar-sync.conwaypto.org
+DTSTAMP:20270224T000000Z
+DTSTART;TZID=America/Chicago:20270224T075500
+DTEND;TZID=America/Chicago:20270224T084000
+SUMMARY:Simon Orchestra Combined rehearsal
+CATEGORIES:ARTS
+END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-b0e46890bf3b@calendar-sync.conwaypto.org
+DTSTAMP:20270224T000000Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:CHS Final Trip Payment Due ($95 or remaining balance)
+CATEGORIES:ARTS
 END:VEVENT
 END:VCALENDAR

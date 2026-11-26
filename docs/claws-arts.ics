@@ -180,4 +180,20 @@ SUMMARY:All-State Orchestra Auditions
 CATEGORIES:ARTS
 LOCATION:Henderson State University\, Arkadephia
 END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-51fa1c0a282e@calendar-sync.conwaypto.org
+DTSTAMP:20270224T000000Z
+DTSTART;TZID=America/Chicago:20270224T075500
+DTEND;TZID=America/Chicago:20270224T084000
+SUMMARY:Simon Orchestra Combined rehearsal
+CATEGORIES:ARTS
+END:VEVENT
+BEGIN:VEVENT
+UID:orchestra-b0e46890bf3b@calendar-sync.conwaypto.org
+DTSTAMP:20270224T000000Z
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:CHS Final Trip Payment Due ($95 or remaining balance)
+CATEGORIES:ARTS
+END:VEVENT
 END:VCALENDAR
