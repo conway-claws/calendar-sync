@@ -23,18 +23,6 @@ TZNAME:CST
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:feed-9542d9e5901a@calendar-sync.conwaypto.org
-DTSTAMP:20261125T000000Z
-DTSTART;TZID=America/Chicago:20261125T160000
-DTEND;TZID=America/Chicago:20261125T170000
-SUMMARY:Lady Cats All Star Game
-CATEGORIES:ATHLETICS
-LOCATION:Greenbrier High School
-DESCRIPTION:Two Lady Cats\, Braylin and Addy\, play in the All Star game. 
- Tickets: https://gofan.co/event/7062592?schoolId=AR101395. Live stream on 
- Greenbrier's Hudl Fan.
-END:VEVENT
-BEGIN:VEVENT
 UID:feed-9ccca715dbe6@calendar-sync.conwaypto.org
 DTSTAMP:20261126T000000Z
 DTSTART;TZID=America/Chicago:20261126T160000
@@ -385,8 +373,7 @@ SUMMARY:Boys Soccer Tryouts
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School field
 DESCRIPTION:Boys soccer tryouts. Student-athletes must have a physical upl
- oaded to DragonFly before attending. Contact pagem@conwayschools.info with
-  questions.
+ oaded to DragonFly. Contact pagem@conwayschools.info with questions.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-0588200f022a@calendar-sync.conwaypto.org
@@ -417,8 +404,7 @@ SUMMARY:Boys Soccer Tryouts
 CATEGORIES:ATHLETICS
 LOCATION:Conway High School field
 DESCRIPTION:Boys soccer tryouts. Student-athletes must have a physical upl
- oaded to DragonFly before attending. Contact pagem@conwayschools.info with
-  questions.
+ oaded to DragonFly. Contact pagem@conwayschools.info with questions.
 END:VEVENT
 BEGIN:VEVENT
 UID:athletics-a0bda2a38f14@calendar-sync.conwaypto.org
@@ -1644,5 +1630,45 @@ SUMMARY:Girls JV Basketball at Jonesboro
 CATEGORIES:ATHLETICS
 LOCATION:Jonesboro HS
 DESCRIPTION:Girls JV Basketball at Jonesboro
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-1d6b548e2aa3@calendar-sync.conwaypto.org
+DTSTAMP:20270225T000000Z
+DTSTART;TZID=America/Chicago:20270225T170000
+DTEND;TZID=America/Chicago:20270225T200000
+SUMMARY:Girls Varsity Basketball vs Bryant Senior Night
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Girls Varsity Basketball vs Bryant Senior Night
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-364142cbd420@calendar-sync.conwaypto.org
+DTSTAMP:20270225T000000Z
+DTSTART;TZID=America/Chicago:20270225T164500
+DTEND;TZID=America/Chicago:20270225T194500
+SUMMARY:Boys JV Basketball vs Bryant
+CATEGORIES:ATHLETICS
+LOCATION:CHS PE Gym
+DESCRIPTION:Boys JV Basketball vs Bryant
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-5e5157cb2639@calendar-sync.conwaypto.org
+DTSTAMP:20270225T000000Z
+DTSTART;TZID=America/Chicago:20270225T193000
+DTEND;TZID=America/Chicago:20270225T223000
+SUMMARY:Boys Varsity Basketball vs Bryant  Senior Night
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Boys Varsity Basketball vs Bryant  Senior Night
+END:VEVENT
+BEGIN:VEVENT
+UID:athletics-98d7b8196747@calendar-sync.conwaypto.org
+DTSTAMP:20270225T000000Z
+DTSTART;TZID=America/Chicago:20270225T164500
+DTEND;TZID=America/Chicago:20270225T194500
+SUMMARY:Girls JV Basketball vs Bryant
+CATEGORIES:ATHLETICS
+LOCATION:Buzz Bolding Arena
+DESCRIPTION:Girls JV Basketball vs Bryant
 END:VEVENT
 END:VCALENDAR

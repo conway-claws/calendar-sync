@@ -30,8 +30,8 @@ DTEND;VALUE=DATE:20261201
 SUMMARY:Angel Paws Spirit Week: Christmas Morning Monday
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
-DESCRIPTION:Wear your comfy clothes and bring shampoo\, body wash\, or soa
- p for the Angel Paws donation drive.
+DESCRIPTION:Wear comfy clothes and bring shampoo\, body wash\, or soap for
+  the Angel Paws donation drive.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-64592dc616a2@calendar-sync.conwaypto.org
@@ -51,9 +51,9 @@ DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Young Democrats Meeting
 CATEGORIES:ACTIVITIES
-LOCATION:Room 263\, Conway High School
-DESCRIPTION:Young Democrats will meet during 1st and 2nd lunches with a gu
- est speaker.
+LOCATION:Room 263
+DESCRIPTION:Young Democrats meet during 1st and 2nd lunches with a guest s
+ peaker.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-46e4040120e4@calendar-sync.conwaypto.org
@@ -75,7 +75,7 @@ SUMMARY:Angel Paws Spirit Week: Ugly Sweater Party
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Wear your ugliest Christmas sweater and bring toothbrushes and
-  toothpaste.
+  toothpaste for the Angel Paws donation drive.
 END:VEVENT
 BEGIN:VEVENT
 UID:newsletter-55fdda4c7ba7@calendar-sync.conwaypto.org
@@ -86,7 +86,7 @@ SUMMARY:Angel Paws Spirit Week: Christmas with the Cats
 CATEGORIES:ACTIVITIES
 LOCATION:Conway High School
 DESCRIPTION:Wear your Caring Cat shirt and Santa hat and bring gifts. Last
-  day to pick up a paw!
+  day to pick up a paw.
 END:VEVENT
 BEGIN:VEVENT
 UID:ical-7f3cb531ed6a@calendar-sync.conwaypto.org
